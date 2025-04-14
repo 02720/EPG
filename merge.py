@@ -1,7 +1,7 @@
 import xml.etree.ElementTree as ET
 from collections import defaultdict
 import aiohttp
-import asyncio
+from tqdm.asyncio import tqdm_asyncio  # 引入 tqdm 的异步支持
 from datetime import datetime
 import gzip
 import shutil
@@ -9,6 +9,8 @@ from xml.dom import minidom
 import re
 from opencc import OpenCC
 import os
+from tqdm import tqdm  # 引入 tqdm 的同步支持
+
 def transform2_zh_hans(string):
     cc = OpenCC("t2s")
     new_str = cc.convert(string)
@@ -93,21 +95,25 @@ def get_urls():
 async def main():
     urls = get_urls()
     tasks = [fetch_epg(url) for url in urls]
-    epg_contents = await asyncio.gather(*tasks)
+    print("Fetching EPG data...")
+    epg_contents = await tqdm_asyncio.gather(*tasks, desc="Fetching URLs")
     all_channels = set()
     all_channels_verify = set()
     all_programmes = defaultdict(list)
-
-    for epg_content in epg_contents:
-        channels, programmes = parse_epg(epg_content)
-        for channel_id, display_name in channels.items():
-            display_name = display_name.replace(' ', '')
-            if channel_id not in all_channels_verify and display_name not in all_channels_verify:
-                if not channel_id.isdigit():
-                    all_channels_verify.add(channel_id)
-                all_channels.add(display_name)
-                all_channels_verify.add(display_name)
-                all_programmes[display_name] = programmes[channel_id]
+    print("Parsing EPG data...")
+    with tqdm(total=len(epg_contents), desc="Parsing EPG", unit="file") as pbar:
+        for epg_content in epg_contents:
+            channels, programmes = parse_epg(epg_content)
+            for channel_id, display_name in channels.items():
+                display_name = display_name.replace(' ', '')
+                if channel_id not in all_channels_verify and display_name not in all_channels_verify:
+                    if not channel_id.isdigit():
+                        all_channels_verify.add(channel_id)
+                    all_channels.add(display_name)
+                    all_channels_verify.add(display_name)
+                    all_programmes[display_name] = programmes[channel_id]
+            pbar.update(1)  # 更新进度条
+    print("Writing to XML...")
     write_to_xml(all_channels, all_programmes, 'output/epg.xml')
     compress_to_gz('output/epg.xml', 'output/epg.gz')
 

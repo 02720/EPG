@@ -6,6 +6,9 @@ on:
   workflow_dispatch:
     branches:
       - master
+  push:
+    branches:
+      - master
 jobs:
   push:
     runs-on: ${{ matrix.operating-system }}
@@ -52,6 +55,7 @@ jobs:
           dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}  
           dst_token:  ${{ secrets.GITEE_TOKEN }}  
           force_update: true
-          static_list: "myEPG"   		
+          static_list: "myEPG"
+          account_type: org   		
           debug: true
 
