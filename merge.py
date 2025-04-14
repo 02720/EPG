@@ -1,6 +1,7 @@
 import xml.etree.ElementTree as ET
 from collections import defaultdict
 import aiohttp
+import asyncio
 from tqdm.asyncio import tqdm_asyncio  # 引入 tqdm 的异步支持
 from datetime import datetime
 import gzip
