@@ -19,8 +19,11 @@ def transform2_zh_hans(string):
 
 async def fetch_epg(url):
     connector = aiohttp.TCPConnector(limit=16, ssl=False)
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+    }
     try:
-        async with aiohttp.ClientSession(connector=connector, trust_env=True) as session:
+        async with aiohttp.ClientSession(connector=connector, trust_env=True, headers=headers) as session:
             async with session.get(url) as response:
                 return await response.text(encoding='utf-8')
     except aiohttp.ClientError as e:
