@@ -25,13 +25,12 @@ async def fetch_epg(url):
                 response.raise_for_status()  # 检查 HTTP 响应状态码
                 return await response.text(encoding='utf-8')
     except aiohttp.ClientError as e:
-        print(f"HTTP请求错误: {e}")
+        print(f"{url}HTTP请求错误: {e}")
     except asyncio.TimeoutError:
-        print("请求超时")
+        print("{url}请求超时")
     except Exception as e:
-        print(f"其他错误: {e}")
+        print(f"{url}其他错误: {e}")
     finally:
-        await connector.close()
         return None
         
 def parse_epg(epg_content):
