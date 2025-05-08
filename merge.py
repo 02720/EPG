@@ -22,7 +22,6 @@ async def fetch_epg(url):
     try:
         async with aiohttp.ClientSession(connector=connector, trust_env=True) as session:
             async with session.get(url) as response:
-                response.raise_for_status()  # 检查 HTTP 响应状态码
                 return await response.text(encoding='utf-8')
     except aiohttp.ClientError as e:
         print(f"{url}HTTP请求错误: {e}")
@@ -30,8 +29,7 @@ async def fetch_epg(url):
         print("{url}请求超时")
     except Exception as e:
         print(f"{url}其他错误: {e}")
-    finally:
-        return None
+    return None
         
 def parse_epg(epg_content):
     try:
