@@ -19,11 +19,21 @@ def transform2_zh_hans(string):
 
 async def fetch_epg(url):
     connector = aiohttp.TCPConnector(limit=16, ssl=False)
-    async with aiohttp.ClientSession(connector=connector, trust_env=True) as session:
-        async with session.get(url) as response:
-            return await response.text(encoding='utf-8')
-
-
+    try:
+        async with aiohttp.ClientSession(connector=connector, trust_env=True) as session:
+            async with session.get(url) as response:
+                response.raise_for_status()  # 检查 HTTP 响应状态码
+                return await response.text(encoding='utf-8')
+    except aiohttp.ClientError as e:
+        print(f"HTTP请求错误: {e}")
+    except asyncio.TimeoutError:
+        print("请求超时")
+    except Exception as e:
+        print(f"其他错误: {e}")
+    finally:
+        await connector.close()
+        return None
+        
 def parse_epg(epg_content):
     try:
         parser = ET.XMLParser(encoding='UTF-8')
@@ -104,6 +114,8 @@ async def main():
     print("Parsing EPG data...")
     with tqdm(total=len(epg_contents), desc="Parsing EPG", unit="file") as pbar:
         for epg_content in epg_contents:
+            if epg_content is None:
+                continue
             channels, programmes = parse_epg(epg_content)
             for channel_id, display_name in channels.items():
                 display_name = display_name.replace(' ', '')
