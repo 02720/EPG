@@ -298,8 +298,8 @@ async def main():
     print(f"共整理出 {total_progs} 个唯一节目。")
 
     print("正在将合并后的EPG写入XML...")
-    output_xml_file = 'output/epg_merged.xml'
-    output_gz_file = 'output/epg_merged.xml.gz'
+    output_xml_file = 'output/epg.xml'
+    output_gz_file = 'output/epg.xml.gz'
     
     write_to_xml(master_channel_display_names, master_programmes, output_xml_file)
     if os.path.exists(output_xml_file): # 只有在XML文件成功创建后才进行压缩
