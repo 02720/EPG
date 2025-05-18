@@ -50,12 +50,12 @@ jobs:
       - name: Mirror the Github organization repos to Gitee.
         uses: Yikun/hub-mirror-action@master
         with:
-          src: 'github/mytv-android'    			
-          dst: 'gitee/mytv-android'   
+          src: 'github/hyx2230'    			
+          dst: 'gitee/hux2230'   
           dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}  
           dst_token:  ${{ secrets.GITEE_TOKEN }}  
           force_update: true
-          static_list: "myEPG"
+          static_list: "EPG"
           account_type: org   		
           debug: true
 
