@@ -299,7 +299,7 @@ async def main():
 
     print("正在将合并后的EPG写入XML...")
     output_xml_file = 'output/epg.xml'
-    output_gz_file = 'output/epg.xml.gz'
+    output_gz_file = 'output/epg.gz'
     
     write_to_xml(master_channel_display_names, master_programmes, output_xml_file)
     if os.path.exists(output_xml_file): # 只有在XML文件成功创建后才进行压缩
