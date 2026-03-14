@@ -1,0 +1,43 @@
+name: Auto Update EPG
+
+on:
+  schedule:
+    # GitHub Actions uses UTC. Below times map to Beijing time (UTC+8): 01:00, 11:00, 16:00
+    - cron: '0 3,8,17 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-epg:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install aiohttp tqdm opencc-python-reimplemented
+
+      - name: Run EPG updater
+        run: python epg.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git add -A
+            git commit -m "chore: auto update EPG data"
+            git push
+          else
+            echo "No changes to commit."
+          fi
