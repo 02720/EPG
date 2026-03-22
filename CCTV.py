@@ -70,7 +70,7 @@ def fetch_and_build_xml(ch_list):
                                 'start': prog['st'],
                                 'end': prog['et']
                             })
-                print(f"成功抓取: {d} - 部分频道...")
+                print(f"成功抓取: {d} - 部分频道EPG数据...")
             except Exception as e:
                 print(f"抓取失败 [日期:{d}, 频道:{ch_str}]: {e}")
             
