@@ -2,24 +2,21 @@ name: Auto Update CCTV EPG
 
 on:
   schedule:
-    # 北京时间 00:30（UTC 前一天 16:30）
-    - cron: '30 16 * * *'
-    # 北京时间 10:30（UTC 02:30）
-    - cron: '30 2 * * *'
-    # 北京时间 15:30（UTC 07:30）
-    - cron: '30 7 * * *'
+    # 北京时间每天00:30、10:30、15:30运行
+    - cron: '30 2,7,16 * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  update-cctv-epg:
+  update-epg:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          ref: CCTV
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -31,17 +28,18 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Generate CCTV.xml
+      - name: Run EPG updater
         run: python CCTV.py
 
-      - name: Commit and push if changed
+      - name: Commit and push changes
         run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           if [[ -n "$(git status --porcelain)" ]]; then
-            git config user.name "github-actions[bot]"
-            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add CCTV.xml
-            git commit -m "chore: auto update CCTV.xml"
-            git push
+            git add -A
+            git commit -m "chore: auto update CCTV EPG data"
+            git push origin HEAD:CCTV  # 强制推送到 CCTV 分支
           else
             echo "No changes to commit."
           fi
