@@ -2,7 +2,7 @@ name: Auto Update EPG
 
 on:
   schedule:
-    # GitHub Actions uses UTC. Below times map to Beijing time (UTC+8): 01:00, 11:00, 16:00
+    # 北京时间每天01:00, 11:00, 16:00运行
     - cron: '0 3,8,17 * * *'
   workflow_dispatch:
 
@@ -19,7 +19,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: '3.x'
 
       - name: Install dependencies
         run: |
