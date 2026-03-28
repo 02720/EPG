@@ -14,310 +14,31 @@ from tqdm import tqdm
 
 TZ_UTC_PLUS_8 = timezone(timedelta(hours=8))
 
-try:
-    BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-except NameError:
-    BASE_DIR = os.getcwd()
-
-CONFIG_FILE = os.path.join(BASE_DIR, 'config.txt')
-ALIAS_FILE = os.path.join(BASE_DIR, 'alias.txt')
-LOG_FILE = os.path.join(BASE_DIR, 'epg_source.log')
-OUTPUT_DIR = os.path.join(BASE_DIR, 'output')
-
 # 1. 全局 OpenCC，避免重复创建
-CC_T2S = OpenCC("t2s")
+OPENCC_T2S = OpenCC("t2s")
 
-# 用于屏蔽节目单中的网址
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__)) if '__file__' in globals() else os.getcwd()
+LOG_FILE = os.path.join(SCRIPT_DIR, 'epg_source.log')
+
 URL_PATTERN = re.compile(
-    r'(?i)\b(?:https?://|www\.)[^\s<>"\']+|(?<!@)\b(?:[a-z0-9-]+\.)+[a-z]{2,}(?:/[^\s<>"\']*)?'
+    r'(?ix)'
+    r'(https?://[^\s<>"\']+)'
+    r'|'
+    r'(www\.[^\s<>"\']+)'
+    r'|'
+    r'(?<![@\w])(?:[a-z0-9-]+\.)+[a-z]{2,}(?:/[^\s<>"\']*)?'
 )
+
+GENERIC_SITE_WORDS = {
+    "官网", "官方网站", "网站", "主页", "首页",
+    "home", "homepage", "officialwebsite"
+}
 
 
 def transform2_zh_hans(string):
-    if string is None:
+    if not string:
         return ""
-    return CC_T2S.convert(string)
-
-
-def strip_urls_from_text(text):
-    if text is None:
-        return ""
-    text = URL_PATTERN.sub('', text)
-    text = re.sub(r'\s+', ' ', text)
-    text = text.strip(" \t\r\n-|｜_/，,;；")
-    return text.strip()
-
-
-def process_display_name(display_name):
-    display_name = (display_name or "").strip()
-    # 7. 去除“高清”，但不去除“超高清”
-    if display_name.endswith('高清') and not display_name.endswith('超高清'):
-        display_name = display_name[:-2]
-    return display_name.strip()
-
-
-def basic_clean_channel_name(name):
-    name = transform2_zh_hans(name or "")
-    name = process_display_name(name)
-    return name.strip()
-
-
-def normalize_channel_name(name):
-    name = basic_clean_channel_name(name)
-    name = name.replace('　', ' ')
-    name = re.sub(r'[\s\-_]+', '', name)
-    return name.upper()
-
-
-def is_safe_merge_name(name):
-    """
-    额外增加的防串台机制：
-    只对“相对安全”的频道名做跨源匹配，避免像“综合”“电影”这类过于泛化的名称误合并。
-    """
-    if not name:
-        return False
-
-    normalized = normalize_channel_name(name)
-    if not normalized:
-        return False
-
-    # 含字母/数字的频道名通常更安全，例如 CCTV1、CGTN、4K 等
-    if re.search(r'[A-Z0-9]', normalized):
-        return True
-
-    compact = re.sub(r'\s+', '', name)
-
-    # 长度较长的中文频道名，一般相对安全
-    if len(compact) >= 4:
-        return True
-
-    # 一些常见频道后缀，也视为相对安全
-    if re.search(r'(台|频道|卫视|影视|电视|卡通|新闻|纪实|少儿|影院|剧场|音乐|体育|中文|国际|电影|教育|财经|生活|综艺|农业|科教|戏曲|军事|法治|电竞)$', compact):
-        return True
-
-    return False
-
-
-def load_alias_rules():
-    exact_alias = {}
-    regex_alias = []
-
-    if not os.path.exists(ALIAS_FILE):
-        return {
-            'exact': exact_alias,
-            'regex': regex_alias
-        }
-
-    with open(ALIAS_FILE, 'r', encoding='utf-8') as file:
-        for raw_line in file:
-            line = raw_line.strip()
-            if not line or line.startswith('#'):
-                continue
-
-            parts = [part.strip() for part in line.split(',') if part.strip()]
-            if not parts:
-                continue
-
-            master = basic_clean_channel_name(parts[0])
-            if not master:
-                continue
-
-            exact_alias[normalize_channel_name(master)] = master
-
-            for alias in parts[1:]:
-                if alias.startswith('re:'):
-                    pattern = alias[3:]
-                    try:
-                        regex_alias.append((re.compile(pattern), master))
-                    except re.error as e:
-                        print(f"alias.txt 正则错误：{alias} -> {e}")
-                else:
-                    alias_name = basic_clean_channel_name(alias)
-                    if alias_name:
-                        exact_alias[normalize_channel_name(alias_name)] = master
-
-    return {
-        'exact': exact_alias,
-        'regex': regex_alias
-    }
-
-
-def match_alias(name, alias_rules):
-    if not name:
-        return None
-
-    norm_name = normalize_channel_name(name)
-
-    if norm_name in alias_rules['exact']:
-        return alias_rules['exact'][norm_name]
-
-    for pattern, master in alias_rules['regex']:
-        if pattern.search(name):
-            return master
-
-    return None
-
-
-def standardize_channel_name(name, alias_rules):
-    cleaned_name = basic_clean_channel_name(name)
-    if not cleaned_name:
-        return "", False
-
-    master = match_alias(cleaned_name, alias_rules)
-    if master:
-        return master, True
-
-    return cleaned_name, False
-
-
-def reorder_display_names(display_names, preferred_name):
-    ordered = []
-    seen = set()
-
-    if preferred_name:
-        ordered.append([preferred_name, 'zh'])
-        seen.add(preferred_name)
-
-    for name, lang in display_names:
-        if name and name not in seen:
-            ordered.append([name, lang or 'zh'])
-            seen.add(name)
-
-    return ordered
-
-
-def standardize_channel_names(channel_id, display_names, alias_rules):
-    standardized = []
-    seen = set()
-    alias_preferred = None
-
-    candidates = list(display_names)
-    if channel_id and not str(channel_id).isdigit():
-        candidates.append([channel_id, 'zh'])
-
-    for name, lang in candidates:
-        std_name, matched_alias = standardize_channel_name(name, alias_rules)
-        if not std_name:
-            continue
-
-        if matched_alias and alias_preferred is None:
-            alias_preferred = std_name
-
-        if std_name not in seen:
-            standardized.append([std_name, lang or 'zh'])
-            seen.add(std_name)
-
-    preferred_name = alias_preferred
-
-    if preferred_name is None:
-        for name, _ in standardized:
-            if name and not str(name).isdigit() and is_safe_merge_name(name):
-                preferred_name = name
-                break
-
-    if preferred_name is None:
-        for name, _ in standardized:
-            if name and not str(name).isdigit():
-                preferred_name = name
-                break
-
-    if preferred_name is None:
-        std_channel_id, _ = standardize_channel_name(channel_id, alias_rules)
-        preferred_name = std_channel_id or channel_id
-
-    standardized = reorder_display_names(standardized, preferred_name)
-    return standardized, preferred_name
-
-
-def iter_merge_candidate_names(preferred_name, display_names):
-    seen = set()
-
-    if preferred_name and not str(preferred_name).isdigit() and is_safe_merge_name(preferred_name):
-        yield preferred_name
-        seen.add(preferred_name)
-
-    for name, _ in display_names:
-        if not name or name in seen:
-            continue
-        if str(name).isdigit():
-            continue
-        if is_safe_merge_name(name):
-            yield name
-            seen.add(name)
-
-
-def find_existing_map_id(preferred_name, display_names, all_channels_map):
-    matched_ids = []
-
-    for name in iter_merge_candidate_names(preferred_name, display_names):
-        key = normalize_channel_name(name)
-        if key in all_channels_map:
-            matched_ids.append(all_channels_map[key])
-
-    matched_ids = list(dict.fromkeys(matched_ids))
-
-    if len(matched_ids) == 1:
-        return matched_ids[0]
-
-    # 多个不同结果时，为避免串台，不强行合并
-    return None
-
-
-def register_channel_map_keys(map_id, display_names, all_channels_map):
-    for name in iter_merge_candidate_names(map_id, display_names):
-        key = normalize_channel_name(name)
-        if key:
-            all_channels_map[key] = map_id
-
-
-def merge_display_name_list(existing_names, new_names):
-    seen = {name for name, _ in existing_names}
-    for name, lang in new_names:
-        if name and name not in seen:
-            existing_names.append([name, lang])
-            seen.add(name)
-
-
-def parse_programme_time(value):
-    """
-    修复：
-    1. 空字符串报错
-    2. 无时区字符串报错
-    """
-    if value is None:
-        return None
-
-    value = value.strip()
-    if not value:
-        return None
-
-    value = re.sub(r'\s+', ' ', value)
-
-    timezone_formats = [
-        "%Y%m%d%H%M%S %z",
-        "%Y%m%d%H%M%S%z",
-        "%Y%m%d%H%M %z",
-        "%Y%m%d%H%M%z",
-    ]
-    for fmt in timezone_formats:
-        try:
-            return datetime.strptime(value, fmt).astimezone(TZ_UTC_PLUS_8)
-        except ValueError:
-            pass
-
-    compact_value = value.replace(' ', '')
-    naive_formats = [
-        "%Y%m%d%H%M%S",
-        "%Y%m%d%H%M",
-    ]
-    for fmt in naive_formats:
-        try:
-            dt = datetime.strptime(compact_value, fmt)
-            return dt.replace(tzinfo=TZ_UTC_PLUS_8)
-        except ValueError:
-            pass
-
-    return None
+    return OPENCC_T2S.convert(string)
 
 
 async def fetch_epg(url):
@@ -334,12 +55,294 @@ async def fetch_epg(url):
                 else:
                     return await response.text(encoding='utf-8')
     except aiohttp.ClientError as e:
-        print(f"{url}HTTP请求错误: {e}")
+        print(f"{url} HTTP请求错误: {e}")
     except asyncio.TimeoutError:
-        print(f"{url}请求超时")
+        print(f"{url} 请求超时")
     except Exception as e:
-        print(f"{url}其他错误: {e}")
+        print(f"{url} 其他错误: {e}")
     return None
+
+
+def process_display_name(display_name):
+    # 7. 去除“高清”，但保留“超高清”
+    if display_name.endswith('高清') and not display_name.endswith('超高清'):
+        display_name = display_name[:-2]
+    return display_name
+
+
+def strip_urls_from_text(text):
+    if not text:
+        return ""
+
+    original = text
+    text = URL_PATTERN.sub('', text)
+    text = re.sub(r'\s+', ' ', text).strip()
+    text = re.sub(r'^[\s\-—|:：/\\,，。；;]+|[\s\-—|:：/\\,，。；;]+$', '', text).strip()
+
+    if original != text:
+        probe = re.sub(r'[\s\-—|:：/\\,，。；;]+', '', text).lower()
+        if probe in GENERIC_SITE_WORDS:
+            return ""
+
+    return text
+
+
+def parse_xmltv_datetime(time_str):
+    """
+    3. 兼容：
+    - 空字符串
+    - YYYYMMDDHHMMSS
+    - YYYYMMDDHHMMSS+0800
+    - YYYYMMDDHHMMSS +0800
+    - YYYYMMDDHHMM
+    - YYYYMMDD
+    """
+    if not time_str:
+        return None
+
+    cleaned = re.sub(r'\s+', '', time_str)
+    if not cleaned:
+        return None
+
+    match = re.match(r'^(\d{8}|\d{12}|\d{14})([+-]\d{4}|Z)?$', cleaned)
+    if not match:
+        return None
+
+    dt_part, tz_part = match.groups()
+
+    if len(dt_part) == 8:
+        fmt = "%Y%m%d"
+    elif len(dt_part) == 12:
+        fmt = "%Y%m%d%H%M"
+    else:
+        fmt = "%Y%m%d%H%M%S"
+
+    try:
+        dt = datetime.strptime(dt_part, fmt)
+    except ValueError:
+        return None
+
+    if tz_part:
+        if tz_part == 'Z':
+            tzinfo = timezone.utc
+        else:
+            sign = 1 if tz_part[0] == '+' else -1
+            hours = int(tz_part[1:3])
+            minutes = int(tz_part[3:5])
+            tzinfo = timezone(sign * timedelta(hours=hours, minutes=minutes))
+        dt = dt.replace(tzinfo=tzinfo)
+    else:
+        # 没有时区时，按东八区处理
+        dt = dt.replace(tzinfo=TZ_UTC_PLUS_8)
+
+    return dt.astimezone(TZ_UTC_PLUS_8)
+
+
+def deduplicate_display_names(display_names):
+    result = []
+    seen = set()
+
+    for item in display_names:
+        if not item or len(item) < 2:
+            continue
+        name, lang = item[0], item[1]
+        name = (name or "").strip()
+        lang = lang or "zh"
+        if not name:
+            continue
+        key = (name, lang)
+        if key not in seen:
+            seen.add(key)
+            result.append([name, lang])
+
+    return result
+
+
+def normalize_name_for_match(name):
+    if not name:
+        return ""
+    name = transform2_zh_hans(name).strip()
+    name = process_display_name(name)
+    name = strip_urls_from_text(name).strip()
+    name = name.replace('＋', '+').replace('﹢', '+')
+    name = name.replace('－', '-').replace('—', '-')
+    name = re.sub(r'[\s\-_]+', '', name)
+    return name.upper()
+
+
+def choose_primary_name(channel_id, display_names):
+    for name, _ in display_names:
+        if name and not name.isdigit():
+            return name
+
+    if channel_id and not channel_id.isdigit():
+        return channel_id
+
+    for name, _ in display_names:
+        if name:
+            return name
+
+    return channel_id or ""
+
+
+def load_alias_rules(filename='alias.txt'):
+    exact_alias_map = {}
+    regex_rules = []
+
+    if not os.path.exists(filename):
+        return exact_alias_map, regex_rules
+
+    with open(filename, 'r', encoding='utf-8') as file:
+        for raw_line in file:
+            line = raw_line.strip()
+            if not line or line.startswith('#'):
+                continue
+
+            parts = [p.strip() for p in line.split(',') if p.strip()]
+            if not parts:
+                continue
+
+            main_name = transform2_zh_hans(parts[0]).strip()
+            main_name = process_display_name(main_name)
+            if not main_name:
+                continue
+
+            main_norm = normalize_name_for_match(main_name)
+            if main_norm and main_norm not in exact_alias_map:
+                exact_alias_map[main_norm] = main_name
+
+            for alias in parts[1:]:
+                if alias.lower().startswith('re:'):
+                    pattern = alias[3:]
+                    try:
+                        regex_rules.append((re.compile(pattern), main_name))
+                    except re.error as e:
+                        print(f"alias.txt 正则编译失败: {pattern} | 错误: {e}")
+                else:
+                    alias_name = transform2_zh_hans(alias).strip()
+                    alias_name = process_display_name(alias_name)
+                    alias_norm = normalize_name_for_match(alias_name)
+                    if alias_norm and alias_norm not in exact_alias_map:
+                        exact_alias_map[alias_norm] = main_name
+
+    return exact_alias_map, regex_rules
+
+
+def match_alias_main_name(candidates, exact_alias_map, regex_rules):
+    for candidate in candidates:
+        norm = normalize_name_for_match(candidate)
+        if norm in exact_alias_map:
+            return exact_alias_map[norm]
+
+    for candidate in candidates:
+        candidate_text = transform2_zh_hans(candidate).strip()
+        candidate_text = process_display_name(candidate_text)
+        for regex, main_name in regex_rules:
+            if regex.search(candidate_text):
+                return main_name
+
+    return None
+
+
+def resolve_channel_identity(channel_id, display_names, exact_alias_map, regex_rules):
+    candidates = []
+    if channel_id:
+        candidates.append(channel_id)
+    for name, _ in display_names:
+        if name:
+            candidates.append(name)
+
+    alias_main = match_alias_main_name(candidates, exact_alias_map, regex_rules)
+    if alias_main:
+        canonical_name = alias_main
+        merge_key = f"alias:{normalize_name_for_match(alias_main)}"
+    else:
+        canonical_name = choose_primary_name(channel_id, display_names)
+        merge_key = f"norm:{normalize_name_for_match(canonical_name)}"
+
+    resolved_display_names = [[canonical_name, 'zh']]
+    resolved_display_names.extend(display_names)
+    if channel_id and not channel_id.isdigit():
+        resolved_display_names.append([channel_id, 'zh'])
+
+    resolved_display_names = deduplicate_display_names(resolved_display_names)
+
+    return merge_key, canonical_name, resolved_display_names
+
+
+def build_programme_signature(prog):
+    titles = []
+    for title in prog.findall('title'):
+        titles.append((title.get('lang', ''), (title.text or '').strip()))
+    return (
+        prog.get('start', ''),
+        prog.get('stop', ''),
+        tuple(titles)
+    )
+
+
+def sort_programmes(programmes):
+    return sorted(
+        programmes,
+        key=lambda p: (
+            p.get('start', ''),
+            p.get('stop', ''),
+            ''.join((t.text or '') for t in p.findall('title'))
+        )
+    )
+
+
+def deduplicate_programmes(programmes):
+    result = []
+    seen = set()
+    for prog in sort_programmes(programmes):
+        sig = build_programme_signature(prog)
+        if sig not in seen:
+            seen.add(sig)
+            result.append(prog)
+    return result
+
+
+def group_programmes_by_day(programmes):
+    grouped = defaultdict(list)
+    for prog in programmes:
+        start = prog.get('start', '')
+        if len(start) >= 8:
+            day_key = start[:8]
+            grouped[day_key].append(prog)
+
+    for day_key in grouped:
+        grouped[day_key] = sort_programmes(grouped[day_key])
+
+    return grouped
+
+
+def get_day_title_total_length(programmes):
+    total = 0
+    for prog in programmes:
+        for title in prog.findall('title'):
+            if title.text:
+                total += len(title.text.strip())
+    return total
+
+
+def merge_display_names(existing, incoming):
+    return deduplicate_display_names((existing or []) + (incoming or []))
+
+
+def format_day_key(day_key):
+    if len(day_key) == 8:
+        return f"{day_key[:4]}-{day_key[4:6]}-{day_key[6:]}"
+    return day_key
+
+
+def write_source_log(source_log):
+    with open(LOG_FILE, 'w', encoding='utf-8') as f:
+        for channel_name in sorted(source_log.keys()):
+            for day_key in sorted(source_log[channel_name].keys()):
+                sources = sorted(source_log[channel_name][day_key])
+                source_text = ', '.join(sources)
+                f.write(f"频道: [{channel_name}] | 日期: {format_day_key(day_key)}| 来源: {source_text}\n")
 
 
 def parse_epg(epg_content):
@@ -349,81 +352,59 @@ def parse_epg(epg_content):
     except ET.ParseError as e:
         print(f"Error parsing XML: {e}")
         print(f"Problematic content: {epg_content[:500]}")
-        return {}, defaultdict(list)
+        return {}, {}
 
     channels = {}
     programmes = defaultdict(list)
 
     for channel in root.findall('channel'):
-        channel_id = basic_clean_channel_name(channel.get('id'))
-        if not channel_id:
-            continue
+        raw_channel_id = (channel.get('id') or '').strip()
+        channel_id = transform2_zh_hans(raw_channel_id).strip()
+        channel_id = process_display_name(channel_id)
 
         channel_display_names = []
-        seen_names = set()
-
         for name in channel.findall('display-name'):
-            if name.text is None:
+            raw_name = (name.text or '').strip()
+            if not raw_name:
                 continue
 
-            t_name = basic_clean_channel_name(name.text)
+            t_name = transform2_zh_hans(raw_name).strip()
+            t_name = process_display_name(t_name)
+            t_name = strip_urls_from_text(t_name).strip()
             if not t_name:
                 continue
 
-            if t_name not in seen_names:
-                channel_display_names.append([t_name, name.get('lang', 'zh')])
-                seen_names.add(t_name)
+            channel_display_names.append([t_name, name.get('lang', 'zh') or 'zh'])
 
-        if not channel_id.isdigit() and channel_id not in seen_names:
+        if not channel_id and channel_display_names:
+            channel_id = channel_display_names[0][0]
+
+        if channel_id and not channel_id.isdigit() and all(node[0] != channel_id for node in channel_display_names):
             channel_display_names.append([channel_id, 'zh'])
 
-        channels[channel_id] = channel_display_names
+        channel_display_names = deduplicate_display_names(channel_display_names)
+
+        if channel_id:
+            channels[channel_id] = channel_display_names
 
     today = datetime.now(TZ_UTC_PLUS_8).date()
     valid_channels = set()
 
     for programme in root.findall('programme'):
-        channel_id = basic_clean_channel_name(programme.get('channel'))
+        raw_prog_channel = (programme.get('channel') or '').strip()
+        channel_id = transform2_zh_hans(raw_prog_channel).strip()
+        channel_id = process_display_name(channel_id)
         if not channel_id:
             continue
 
-        channel_start = parse_programme_time(programme.get('start'))
-        channel_stop = parse_programme_time(programme.get('stop'))
+        channel_start = parse_xmltv_datetime(programme.get('start'))
+        channel_stop = parse_xmltv_datetime(programme.get('stop'))
 
         if channel_start is None or channel_stop is None:
             continue
 
         if channel_stop.date() == today:
             valid_channels.add(channel_id)
-
-        prepared_titles = []
-        had_url_only_title = False
-
-        for title in programme.findall('title'):
-            langattr = title.get('lang')
-            raw_title = (title.text or '').strip()
-
-            if not raw_title:
-                continue
-
-            channel_title = raw_title
-            if langattr == 'zh' or langattr is None:
-                channel_title = transform2_zh_hans(channel_title)
-
-            # 2. 屏蔽节目单中的网址
-            channel_title = strip_urls_from_text(channel_title)
-
-            if not channel_title:
-                had_url_only_title = True
-                continue
-
-            prepared_titles.append((channel_title, langattr))
-
-        # 若标题全是网址，则直接跳过该节目，避免生成“精彩节目”假数据
-        if not prepared_titles:
-            if had_url_only_title:
-                continue
-            prepared_titles.append(("精彩节目", None))
 
         channel_elem = ET.Element(
             'programme',
@@ -433,13 +414,40 @@ def parse_epg(epg_content):
             }
         )
 
-        for channel_title, langattr in prepared_titles:
-            channel_elem_t = ET.SubElement(channel_elem, 'title')
-            channel_elem_t.text = channel_title
-            if langattr is not None:
-                channel_elem_t.set('lang', langattr)
+        title_nodes = programme.findall('title')
+        added_titles = 0
+        has_nonempty_raw_title = False
+
+        for title in title_nodes:
+            raw_title = (title.text or '').strip()
+            langattr = title.get('lang')
+
+            if raw_title:
+                has_nonempty_raw_title = True
+                channel_title = raw_title
+                if langattr == 'zh' or langattr is None:
+                    channel_title = transform2_zh_hans(channel_title)
+
+                # 2. 屏蔽节目单中的网址
+                channel_title = strip_urls_from_text(channel_title).strip()
+                if not channel_title:
+                    continue
+
+                channel_elem_t = ET.SubElement(channel_elem, 'title')
+                channel_elem_t.text = channel_title
+                if langattr is not None:
+                    channel_elem_t.set('lang', langattr)
+                added_titles += 1
 
         # 4. 仅保留 title，忽略 desc
+        if added_titles == 0:
+            if not title_nodes or not has_nonempty_raw_title:
+                channel_elem_t = ET.SubElement(channel_elem, 'title')
+                channel_elem_t.text = "精彩节目"
+            else:
+                # 标题本身只有网址等无效内容，直接跳过该节目
+                continue
+
         programmes[channel_id].append(channel_elem)
 
     channels = {k: v for k, v in channels.items() if k in valid_channels}
@@ -448,59 +456,18 @@ def parse_epg(epg_content):
     return channels, programmes
 
 
-def group_programmes_by_day(programme_list):
-    grouped = defaultdict(list)
-    for prog in programme_list:
-        start_dt = parse_programme_time(prog.get('start'))
-        if start_dt is None:
-            continue
-        grouped[start_dt.date()].append(prog)
-    return grouped
-
-
-def calculate_day_title_length(programme_list):
-    total_length = 0
-    for prog in programme_list:
-        for title in prog.findall('title'):
-            if title.text:
-                total_length += len(title.text.strip())
-    return total_length
-
-
-def get_channel_log_name(display_names, fallback):
-    for name, _ in display_names:
-        if name and not str(name).isdigit():
-            return name
-    if display_names:
-        return display_names[0][0]
-    return fallback
-
-
-def write_epg_source_log(channel_names, programme_sources, final_channel_ids):
-    with open(LOG_FILE, 'w', encoding='utf-8') as f:
-        for channel_id in sorted(final_channel_ids):
-            display_names = channel_names.get(channel_id, [])
-            channel_name = get_channel_log_name(display_names, channel_id)
-
-            day_source_map = programme_sources.get(channel_id, {})
-            for day in sorted(day_source_map.keys()):
-                source = day_source_map[day]
-                f.write(
-                    f"频道: [{channel_name}] | 日期: {day.strftime('%Y-%m-%d')} | 来源: {source}\n"
-                )
-
-
 def write_to_xml(channels_id, channels_names, programmes, filename):
-    output_dir = os.path.dirname(filename)
-    if output_dir and not os.path.exists(output_dir):
-        os.makedirs(output_dir)
+    if not os.path.exists('output'):
+        os.makedirs('output')
 
     current_time = datetime.now(TZ_UTC_PLUS_8).strftime("%Y%m%d%H%M%S %z")
     root = ET.Element('tv', attrib={'date': current_time})
 
     for channel_id in sorted(channels_id):
         channel_elem = ET.SubElement(root, 'channel', attrib={"id": channel_id})
-        for display_name_node in channels_names[channel_id]:
+        display_names = channels_names.get(channel_id, [[channel_id, 'zh']])
+
+        for display_name_node in display_names:
             display_name = display_name_node[0]
             langattr = display_name_node[1]
             display_name_elem = ET.SubElement(channel_elem, 'display-name', attrib={"lang": langattr})
@@ -523,34 +490,56 @@ def compress_to_gz(input_filename, output_filename):
 
 
 def get_urls():
+    """
+    8. config.txt:
+    - [WHITELIST] 以上：非白名单
+    - [WHITELIST] 以下：白名单
+    - 忽略 # 开头行
+    """
     urls = []
-    with open(CONFIG_FILE, 'r', encoding='utf-8') as file:
+    in_whitelist = False
+
+    with open('config.txt', 'r', encoding='utf-8') as file:
         for line in file:
             line = line.strip()
-            if line and not line.startswith('#'):
-                urls.append(line)
+            if not line or line.startswith('#'):
+                continue
+
+            if line.upper() == '[WHITELIST]':
+                in_whitelist = True
+                continue
+
+            urls.append({
+                'url': line,
+                'is_whitelist': in_whitelist
+            })
+
     return urls
 
 
 async def main():
-    alias_rules = load_alias_rules()
-    urls = get_urls()
-    tasks = [fetch_epg(url) for url in urls]
+    sources = get_urls()
+    exact_alias_map, regex_rules = load_alias_rules()
 
+    tasks = [fetch_epg(item['url']) for item in sources]
     print("Fetching EPG data...")
     epg_contents = await tqdm_asyncio.gather(*tasks, desc="Fetching URLs")
     print("Finished.")
 
-    all_channels_map = {}
-    all_channel_names = defaultdict(list)
+    # 非白名单：按天比较 title 总长度后保留
+    normal_merged = {}
+    # 白名单：全部保留（做去重，不做优劣比较）
+    whitelist_merged = {}
 
-    # 按频道 + 日期存储
-    all_programmes_by_day = defaultdict(dict)
-    all_programme_scores = defaultdict(dict)
-    all_programme_sources = defaultdict(dict)
+    i = 0
+    for source_info, epg_content in zip(sources, epg_contents):
+        i += 1
+        url = source_info['url']
+        is_whitelist = source_info['is_whitelist']
 
-    for i, (url, epg_content) in enumerate(zip(urls, epg_contents), start=1):
-        print(f"Processing EPG source...{i}/{len(epg_contents)}")
+        source_type = "WHITELIST" if is_whitelist else "NORMAL"
+        print(f"Processing EPG source...{i}/{len(epg_contents)} [{source_type}]")
+
         if epg_content is None:
             continue
 
@@ -558,64 +547,112 @@ async def main():
         channels, programmes = parse_epg(epg_content)
         print("Finished.")
 
-        with tqdm(total=len(channels), desc="Merging EPG", unit="file") as pbar:
+        with tqdm(total=len(channels), desc="Merging EPG", unit="channel") as pbar:
             for channel_id, display_names in channels.items():
                 channel_programmes = programmes.get(channel_id, [])
                 if len(channel_programmes) == 0:
                     pbar.update(1)
                     continue
 
-                # 6. 别名先转换为主名，再统一合成
-                standardized_names, preferred_name = standardize_channel_names(
-                    channel_id, display_names, alias_rules
+                merge_key, canonical_name, resolved_display_names = resolve_channel_identity(
+                    channel_id, display_names, exact_alias_map, regex_rules
                 )
 
-                map_id = find_existing_map_id(preferred_name, standardized_names, all_channels_map)
-                if map_id is None:
-                    map_id = preferred_name or channel_id
+                if not canonical_name or not merge_key:
+                    pbar.update(1)
+                    continue
 
-                ordered_names = reorder_display_names(standardized_names, map_id)
+                day_programmes_map = group_programmes_by_day(channel_programmes)
+                target = whitelist_merged if is_whitelist else normal_merged
 
-                if not all_channel_names[map_id]:
-                    all_channel_names[map_id] = ordered_names
+                if merge_key not in target:
+                    target[merge_key] = {
+                        'channel_id': canonical_name,
+                        'display_names': resolved_display_names,
+                        'days': {}
+                    }
                 else:
-                    merge_display_name_list(all_channel_names[map_id], ordered_names)
+                    target[merge_key]['display_names'] = merge_display_names(
+                        target[merge_key]['display_names'],
+                        resolved_display_names
+                    )
 
-                register_channel_map_keys(map_id, all_channel_names[map_id], all_channels_map)
+                for day_key, day_programmes in day_programmes_map.items():
+                    if is_whitelist:
+                        day_entry = target[merge_key]['days'].setdefault(
+                            day_key,
+                            {
+                                'programmes': [],
+                                'sources': set()
+                            }
+                        )
+                        day_entry['programmes'] = deduplicate_programmes(
+                            day_entry['programmes'] + day_programmes
+                        )
+                        day_entry['sources'].add(url)
+                    else:
+                        score = get_day_title_total_length(day_programmes)
+                        existing = target[merge_key]['days'].get(day_key)
 
-                # 4. 以“同一频道 + 同一天”的 title 总长度来决定保留哪个来源
-                grouped_programmes = group_programmes_by_day(channel_programmes)
-                for day, day_programmes in grouped_programmes.items():
-                    score = calculate_day_title_length(day_programmes)
-
-                    if day not in all_programme_scores[map_id] or score > all_programme_scores[map_id][day]:
-                        all_programme_scores[map_id][day] = score
-                        all_programmes_by_day[map_id][day] = day_programmes
-                        all_programme_sources[map_id][day] = url
+                        if existing is None or score > existing['score']:
+                            target[merge_key]['days'][day_key] = {
+                                'programmes': day_programmes,
+                                'score': score,
+                                'sources': {url}
+                            }
 
                 pbar.update(1)
 
-    all_programmes = {}
-    for channel_id, day_map in all_programmes_by_day.items():
-        merged_programmes = []
-        for day in sorted(day_map.keys()):
-            day_programmes = sorted(day_map[day], key=lambda x: x.get('start', ''))
-            merged_programmes.extend(day_programmes)
+    # 汇总最终结果
+    final_channel_names = defaultdict(list)
+    final_programmes = defaultdict(list)
+    source_log = defaultdict(lambda: defaultdict(set))
 
-        if merged_programmes:
-            all_programmes[channel_id] = merged_programmes
+    whitelist_merge_keys = set(whitelist_merged.keys())
+    whitelist_channel_ids = {v['channel_id'] for v in whitelist_merged.values()}
 
-    final_channel_ids = [channel_id for channel_id in all_channel_names.keys() if channel_id in all_programmes]
+    # 先写入白名单
+    for merge_key, entry in whitelist_merged.items():
+        final_channel_names[entry['channel_id']] = merge_display_names(
+            final_channel_names[entry['channel_id']],
+            [[entry['channel_id'], 'zh']] + entry['display_names']
+        )
 
-    print("Writing source log...")
-    write_epg_source_log(all_channel_names, all_programme_sources, final_channel_ids)
+        for day_key, day_entry in entry['days'].items():
+            final_programmes[entry['channel_id']].extend(day_entry['programmes'])
+            source_log[entry['channel_id']][day_key].update(day_entry['sources'])
+
+    # 再写入非白名单；若白名单存在相同频道，则忽略非白名单
+    for merge_key, entry in normal_merged.items():
+        if merge_key in whitelist_merge_keys or entry['channel_id'] in whitelist_channel_ids:
+            continue
+
+        final_channel_names[entry['channel_id']] = merge_display_names(
+            final_channel_names[entry['channel_id']],
+            [[entry['channel_id'], 'zh']] + entry['display_names']
+        )
+
+        for day_key, day_entry in entry['days'].items():
+            final_programmes[entry['channel_id']].extend(day_entry['programmes'])
+            source_log[entry['channel_id']][day_key].update(day_entry['sources'])
+
+    # 最终去重排序
+    for channel_id in list(final_programmes.keys()):
+        final_programmes[channel_id] = deduplicate_programmes(final_programmes[channel_id])
+        final_programmes[channel_id] = sort_programmes(final_programmes[channel_id])
+
+    # 写日志
+    write_source_log(source_log)
 
     print("Writing to XML...")
-    epg_xml_path = os.path.join(OUTPUT_DIR, 'epg.xml')
-    epg_gz_path = os.path.join(OUTPUT_DIR, 'epg.gz')
-
-    write_to_xml(final_channel_ids, all_channel_names, all_programmes, epg_xml_path)
-    compress_to_gz(epg_xml_path, epg_gz_path)
+    write_to_xml(
+        list(final_programmes.keys()),
+        final_channel_names,
+        final_programmes,
+        'output/epg.xml'
+    )
+    compress_to_gz('output/epg.xml', 'output/epg.gz')
+    print(f"EPG source log written to: {LOG_FILE}")
 
 
 if __name__ == '__main__':
