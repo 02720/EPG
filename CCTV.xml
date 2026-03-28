@@ -2715,29 +2715,29 @@
 	<programme start="20260329070620 +0800" stop="20260329075050 +0800" channel="cctv2">
 		<title lang="zh">2025精品财经纪录-海河-4</title>
 	</programme>
-	<programme start="20260329075050 +0800" stop="20260329080450 +0800" channel="cctv2">
+	<programme start="20260329075050 +0800" stop="20260329082050 +0800" channel="cctv2">
+		<title lang="zh">2021精品财经纪录-万物滋养第一季-1</title>
+	</programme>
+	<programme start="20260329082050 +0800" stop="20260329083450 +0800" channel="cctv2">
 		<title lang="zh">周末特供2026-101</title>
 	</programme>
-	<programme start="20260329080450 +0800" stop="20260329082320 +0800" channel="cctv2">
+	<programme start="20260329083450 +0800" stop="20260329085320 +0800" channel="cctv2">
 		<title lang="zh">周末特供2026-113</title>
 	</programme>
-	<programme start="20260329082320 +0800" stop="20260329084920 +0800" channel="cctv2">
+	<programme start="20260329085320 +0800" stop="20260329091920 +0800" channel="cctv2">
 		<title lang="zh">2025精品财经纪录-小酸村-5</title>
 	</programme>
-	<programme start="20260329084920 +0800" stop="20260329091750 +0800" channel="cctv2">
+	<programme start="20260329091920 +0800" stop="20260329094750 +0800" channel="cctv2">
 		<title lang="zh">2025精品财经纪录-小酸村-6</title>
 	</programme>
-	<programme start="20260329091750 +0800" stop="20260329100000 +0800" channel="cctv2">
+	<programme start="20260329094750 +0800" stop="20260329103000 +0800" channel="cctv2">
 		<title lang="zh">2022精品财经纪录-老广的味道第七季-4</title>
 	</programme>
-	<programme start="20260329100000 +0800" stop="20260329110000 +0800" channel="cctv2">
+	<programme start="20260329103000 +0800" stop="20260329113000 +0800" channel="cctv2">
 		<title lang="zh">一槌定音-2026-11</title>
 	</programme>
-	<programme start="20260329110000 +0800" stop="20260329120000 +0800" channel="cctv2">
+	<programme start="20260329113000 +0800" stop="20260329123000 +0800" channel="cctv2">
 		<title lang="zh">职场健康课-2026-13</title>
-	</programme>
-	<programme start="20260329120000 +0800" stop="20260329123000 +0800" channel="cctv2">
-		<title lang="zh">财经调查-2026-3-29</title>
 	</programme>
 	<programme start="20260329123000 +0800" stop="20260329133000 +0800" channel="cctv2">
 		<title lang="zh">经济信息联播</title>
@@ -2809,7 +2809,7 @@
 		<title lang="zh">天下财经</title>
 	</programme>
 	<programme start="20260330050000 +0800" stop="20260330053100 +0800" channel="cctv2">
-		<title lang="zh">财经调查-2026-3-29</title>
+		<title lang="zh">2022精品财经纪录-万物之生-4</title>
 	</programme>
 	<programme start="20260330053100 +0800" stop="20260330060000 +0800" channel="cctv2">
 		<title lang="zh">回家吃饭-2026-66</title>
@@ -2922,8 +2922,11 @@
 	<programme start="20260331040000 +0800" stop="20260331050000 +0800" channel="cctv2">
 		<title lang="zh">天下财经</title>
 	</programme>
-	<programme start="20260331050000 +0800" stop="20260331053100 +0800" channel="cctv2">
-		<title lang="zh">2022精品财经纪录-万物之生-4</title>
+	<programme start="20260331050000 +0800" stop="20260331052800 +0800" channel="cctv2">
+		<title lang="zh">2022精品财经纪录-万物之生-5</title>
+	</programme>
+	<programme start="20260331052800 +0800" stop="20260331053100 +0800" channel="cctv2">
+		<title lang="zh">周末特供2023-青海我们的国家公园1-2分版</title>
 	</programme>
 	<programme start="20260331053100 +0800" stop="20260331060000 +0800" channel="cctv2">
 		<title lang="zh">回家吃饭-2026-67</title>
@@ -3033,11 +3036,8 @@
 	<programme start="20260401040000 +0800" stop="20260401050000 +0800" channel="cctv2">
 		<title lang="zh">天下财经</title>
 	</programme>
-	<programme start="20260401050000 +0800" stop="20260401052800 +0800" channel="cctv2">
-		<title lang="zh">2022精品财经纪录-万物之生-5</title>
-	</programme>
-	<programme start="20260401052800 +0800" stop="20260401053100 +0800" channel="cctv2">
-		<title lang="zh">周末特供2023-青海我们的国家公园1-2分版</title>
+	<programme start="20260401050000 +0800" stop="20260401053100 +0800" channel="cctv2">
+		<title lang="zh">周末特供2025-白洋淀1-30分版</title>
 	</programme>
 	<programme start="20260401053100 +0800" stop="20260401060000 +0800" channel="cctv2">
 		<title lang="zh">回家吃饭-2026-68</title>
