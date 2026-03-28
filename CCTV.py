@@ -29,7 +29,7 @@ def saveXML(root, filename, indent="\t", newl="\n", encoding="utf-8"):
 new_channel_list = [
     'cctv1', 'cctv2', 'cctv3', 'cctv4', 'cctveurope', 'cctvamerica', 'cctv5',
     'cctv5plus', 'cctv6', 'cctv7', 'cctv8', 'cctvjilu', 'cctv10', 'cctv11',
-    'cctv12', 'cctv13', 'cctvchild', 'cctv15', 'cctv16', 'cctv17','cctv4k','cctv8k'
+    'cctv12', 'cctv13', 'cctvchild', 'cctv15', 'cctv16', 'cctv17','cctv4k','cctv8k',
     'shijiedili', 'dianshigouwu', 'guofang', 'taiqiu', 'jingpin', 'shishang',
     'cctvyule', 'hjjc', 'cctvxiqu', 'xinkedongman', 'cctvqixiang', 'zhinan',
     'diyijuchang', 'cctvlaogushi', 'fyjc', 'cctvfyzq', 'fyyy', 'cctvgaowang'
