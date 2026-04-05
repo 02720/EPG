@@ -1089,13 +1089,13 @@
   <programme start="20260406190000 +0800" stop="20260406193825 +0800" channel="cctv1">
     <title>新闻联播</title>
   </programme>
-  <programme start="20260406193825 +0800" stop="20260406200300 +0800" channel="cctv1">
+  <programme start="20260406193825 +0800" stop="20260406200100 +0800" channel="cctv1">
     <title>焦点访谈</title>
   </programme>
-  <programme start="20260406200300 +0800" stop="20260406215145 +0800" channel="cctv1">
+  <programme start="20260406200100 +0800" stop="20260406214930 +0800" channel="cctv1">
     <title>城市风华录（第二季）-兰州篇</title>
   </programme>
-  <programme start="20260406215145 +0800" stop="20260406220000 +0800" channel="cctv1">
+  <programme start="20260406214930 +0800" stop="20260406220000 +0800" channel="cctv1">
     <title>非遗里的中国-MV</title>
   </programme>
   <programme start="20260406220000 +0800" stop="20260406223630 +0800" channel="cctv1">
@@ -18336,13 +18336,13 @@
   <programme start="20260405093000 +0800" stop="20260405110000 +0800" channel="cctv5">
     <title>实况录像-2026年世界男子冰壶锦标赛 金牌赛（录播）</title>
   </programme>
-  <programme start="20260405110000 +0800" stop="20260405120000 +0800" channel="cctv5">
+  <programme start="20260405110000 +0800" stop="20260405130300 +0800" channel="cctv5">
     <title>2026年国际乒联单打世界杯-半决赛</title>
   </programme>
-  <programme start="20260405120000 +0800" stop="20260405121500 +0800" channel="cctv5">
+  <programme start="20260405130300 +0800" stop="20260405131800 +0800" channel="cctv5">
     <title>体坛快讯</title>
   </programme>
-  <programme start="20260405121500 +0800" stop="20260405150000 +0800" channel="cctv5">
+  <programme start="20260405131800 +0800" stop="20260405150000 +0800" channel="cctv5">
     <title>2026年国际乒联单打世界杯-半决赛</title>
   </programme>
   <programme start="20260405150000 +0800" stop="20260405163000 +0800" channel="cctv5">
@@ -21271,7 +21271,7 @@
     <title>国防微视频-军歌嘹亮-我们永远记得（2026）</title>
   </programme>
   <programme start="20260405200930 +0800" stop="20260405203930 +0800" channel="cctv7">
-    <title>防务新观察-2026-95</title>
+    <title>防务新观察-2026-备播3</title>
   </programme>
   <programme start="20260405203930 +0800" stop="20260405205500 +0800" channel="cctv7">
     <title>为有牺牲多壮志-5</title>
@@ -21316,7 +21316,7 @@
     <title>军事纪录-2026-62</title>
   </programme>
   <programme start="20260406090530 +0800" stop="20260406093530 +0800" channel="cctv7">
-    <title>防务新观察-2026-95</title>
+    <title>防务新观察-2026-备播3</title>
   </programme>
   <programme start="20260406093530 +0800" stop="20260406094000 +0800" channel="cctv7">
     <title>国防微视频-军歌嘹亮-当那一天来临（2026新兵）</title>
@@ -21331,7 +21331,7 @@
     <title>正午国防军事</title>
   </programme>
   <programme start="20260406123630 +0800" stop="20260406131230 +0800" channel="cctv7">
-    <title>防务新观察-2026-95</title>
+    <title>防务新观察-2026-备播3</title>
   </programme>
   <programme start="20260406131230 +0800" stop="20260406134630 +0800" channel="cctv7">
     <title>砺剑-2026-14</title>
