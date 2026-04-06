@@ -13722,29 +13722,23 @@
   <programme start="20260407113000 +0800" stop="20260407120000 +0800" channel="cctv4">
     <title>海峡两岸-2026-96</title>
   </programme>
-  <programme start="20260407120000 +0800" stop="20260407130305 +0800" channel="cctv4">
+  <programme start="20260407120000 +0800" stop="20260407140305 +0800" channel="cctv4">
     <title>中国新闻</title>
   </programme>
-  <programme start="20260407130305 +0800" stop="20260407134920 +0800" channel="cctv4">
+  <programme start="20260407140305 +0800" stop="20260407144920 +0800" channel="cctv4">
     <title>誓盟第1集</title>
   </programme>
-  <programme start="20260407134920 +0800" stop="20260407143805 +0800" channel="cctv4">
+  <programme start="20260407144920 +0800" stop="20260407153805 +0800" channel="cctv4">
     <title>誓盟第2集</title>
   </programme>
-  <programme start="20260407143805 +0800" stop="20260407152405 +0800" channel="cctv4">
+  <programme start="20260407153805 +0800" stop="20260407162405 +0800" channel="cctv4">
     <title>誓盟第3集</title>
   </programme>
-  <programme start="20260407152405 +0800" stop="20260407161050 +0800" channel="cctv4">
+  <programme start="20260407162405 +0800" stop="20260407171050 +0800" channel="cctv4">
     <title>誓盟第4集</title>
   </programme>
-  <programme start="20260407161050 +0800" stop="20260407165850 +0800" channel="cctv4">
+  <programme start="20260407171050 +0800" stop="20260407180000 +0800" channel="cctv4">
     <title>誓盟第5集</title>
-  </programme>
-  <programme start="20260407165850 +0800" stop="20260407171500 +0800" channel="cctv4">
-    <title>平凡匠心-2025-85</title>
-  </programme>
-  <programme start="20260407171500 +0800" stop="20260407180000 +0800" channel="cctv4">
-    <title>远方的家2026-74</title>
   </programme>
   <programme start="20260407180000 +0800" stop="20260407190000 +0800" channel="cctv4">
     <title>中国新闻</title>
@@ -21997,13 +21991,13 @@
     <title>本集提要-八千里路云和月-第1集</title>
   </programme>
   <programme start="20260407193000 +0800" stop="20260407202540 +0800" channel="cctv8">
-    <title>八千里路云和月1/40</title>
+    <title>八千里路云和月第1集</title>
   </programme>
   <programme start="20260407202540 +0800" stop="20260407203040 +0800" channel="cctv8">
     <title>本集提要-八千里路云和月-第2集</title>
   </programme>
   <programme start="20260407203040 +0800" stop="20260407212440 +0800" channel="cctv8">
-    <title>八千里路云和月2/40</title>
+    <title>八千里路云和月第2集</title>
   </programme>
   <programme start="20260407212440 +0800" stop="20260407212940 +0800" channel="cctv8">
     <title>本集提要-灼灼韶华-第15集</title>
@@ -35058,29 +35052,20 @@
   <programme start="20260407114700 +0800" stop="20260407120000 +0800" channel="cctvamerica">
     <title>记住乡愁-片段展播-2025-13</title>
   </programme>
-  <programme start="20260407120000 +0800" stop="20260407130000 +0800" channel="cctvamerica">
+  <programme start="20260407120000 +0800" stop="20260407140000 +0800" channel="cctvamerica">
     <title>中国新闻</title>
   </programme>
-  <programme start="20260407130000 +0800" stop="20260407133000 +0800" channel="cctvamerica">
+  <programme start="20260407140000 +0800" stop="20260407143000 +0800" channel="cctvamerica">
     <title>海峡两岸-2026-96</title>
   </programme>
-  <programme start="20260407133000 +0800" stop="20260407135800 +0800" channel="cctvamerica">
-    <title>走遍中国-2026-54</title>
-  </programme>
-  <programme start="20260407135800 +0800" stop="20260407144400 +0800" channel="cctvamerica">
+  <programme start="20260407143000 +0800" stop="20260407151600 +0800" channel="cctvamerica">
     <title>武当一剑第30集</title>
   </programme>
-  <programme start="20260407144400 +0800" stop="20260407153000 +0800" channel="cctvamerica">
+  <programme start="20260407151600 +0800" stop="20260407160200 +0800" channel="cctvamerica">
     <title>武当一剑第31集</title>
   </programme>
-  <programme start="20260407153000 +0800" stop="20260407162000 +0800" channel="cctvamerica">
-    <title>远方的家2026-73</title>
-  </programme>
-  <programme start="20260407162000 +0800" stop="20260407162400 +0800" channel="cctvamerica">
-    <title>记住乡愁-片段展播-2024-17</title>
-  </programme>
-  <programme start="20260407162400 +0800" stop="20260407162800 +0800" channel="cctvamerica">
-    <title>记住乡愁-片段展播-2024-18</title>
+  <programme start="20260407160200 +0800" stop="20260407162800 +0800" channel="cctvamerica">
+    <title>走遍中国-2026-54</title>
   </programme>
   <programme start="20260407162800 +0800" stop="20260407171400 +0800" channel="cctvamerica">
     <title>乌蒙深处第15集</title>
@@ -37407,23 +37392,17 @@
   <programme start="20260407111400 +0800" stop="20260407120000 +0800" channel="cctveurope">
     <title>武当一剑第2集</title>
   </programme>
-  <programme start="20260407120000 +0800" stop="20260407130000 +0800" channel="cctveurope">
+  <programme start="20260407120000 +0800" stop="20260407140000 +0800" channel="cctveurope">
     <title>中国新闻</title>
   </programme>
-  <programme start="20260407130000 +0800" stop="20260407132800 +0800" channel="cctveurope">
-    <title>走遍中国-2026-54</title>
-  </programme>
-  <programme start="20260407132800 +0800" stop="20260407141400 +0800" channel="cctveurope">
+  <programme start="20260407140000 +0800" stop="20260407144600 +0800" channel="cctveurope">
     <title>依依向北风第27集</title>
   </programme>
-  <programme start="20260407141400 +0800" stop="20260407150000 +0800" channel="cctveurope">
+  <programme start="20260407144600 +0800" stop="20260407153200 +0800" channel="cctveurope">
     <title>依依向北风第28集</title>
   </programme>
-  <programme start="20260407150000 +0800" stop="20260407160000 +0800" channel="cctveurope">
+  <programme start="20260407153200 +0800" stop="20260407162800 +0800" channel="cctveurope">
     <title>健康中国-2026-14</title>
-  </programme>
-  <programme start="20260407160000 +0800" stop="20260407162800 +0800" channel="cctveurope">
-    <title>海峡两岸-2026-96</title>
   </programme>
   <programme start="20260407162800 +0800" stop="20260407171400 +0800" channel="cctveurope">
     <title>武当一剑第3集</title>
