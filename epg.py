@@ -14,76 +14,124 @@ from tqdm import tqdm
 
 TZ_UTC_PLUS_8 = timezone(timedelta(hours=8))
 
-# 1. 全局OpenCC，避免重复创建
-cc = OpenCC("t2s")
+# 1. 全局 OpenCC 实例，避免重复创建
+_cc = OpenCC("t2s")
+
 
 def transform2_zh_hans(string):
-    if not string:
-        return string
-    return cc.convert(string)
+    return _cc.convert(string)
 
-# 6. 加载别名配置
-def load_aliases():
+
+def is_foreign_text(text):
+    """检查文本是否为纯外文（不含中文字符）"""
+    if not text:
+        return False
+    return not bool(re.search(r'[\u4e00-\u9fff]', text))
+
+
+def process_display_name(display_name):
+    """7. 去除'高清'但不去除'超高清'"""
+    if display_name.endswith('高清') and not display_name.endswith('超高清'):
+        display_name = display_name[:-2]
+    return display_name
+
+
+def parse_time_str(time_str):
+    """3. 解析时间字符串，兼容多种格式"""
+    if not time_str or not time_str.strip():
+        return None
+    time_str = re.sub(r'\s+', '', time_str)
+    for fmt in ("%Y%m%d%H%M%S%z", "%Y%m%d%H%M%S"):
+        try:
+            return datetime.strptime(time_str, fmt)
+        except ValueError:
+            continue
+    return None
+
+
+def is_advertisement_title(title):
+    """2. 检查节目标题是否为广告/网站推广"""
+    if title is None:
+        return False
+    title_stripped = title.strip()
+    if re.search(r'由\s*https?://\S+', title_stripped):
+        return True
+    if re.match(r'^https?://\S+$', title_stripped):
+        return True
+    return False
+
+
+def load_aliases(alias_file='alias.txt'):
+    """6. 加载频道别名映射"""
     aliases = {}
     regex_aliases = []
-    alias_to_add = defaultdict(list)
-    if os.path.exists('alias.txt'):
-        with open('alias.txt', 'r', encoding='utf-8') as f:
-            for line in f:
-                line = line.strip()
-                if not line or line.startswith('#'):
-                    continue
-                parts = line.split(',')
-                main_name = parts[0]
-                for alias in parts[1:]:
-                    if alias.startswith('re:'):
-                        try:
-                            regex_aliases.append((re.compile(alias[3:]), main_name))
-                        except re.error:
-                            print(f"正则表达式错误: {alias}")
-                    else:
-                        aliases[alias] = main_name
-                        alias_to_add[main_name].append(alias)
-    return aliases, regex_aliases, alias_to_add
+    if not os.path.exists(alias_file):
+        return aliases, regex_aliases
+    with open(alias_file, 'r', encoding='utf-8') as f:
+        for line in f:
+            line = line.strip()
+            if not line or line.startswith('#'):
+                continue
+            parts = [p.strip() for p in line.split(',')]
+            if len(parts) < 2:
+                continue
+            main_name = parts[0]
+            for alias in parts[1:]:
+                if alias.startswith('re:'):
+                    try:
+                        regex_aliases.append((re.compile(alias[3:]), main_name))
+                    except re.error:
+                        pass
+                else:
+                    aliases[alias] = main_name
+    return aliases, regex_aliases
 
-def get_main_name(name, aliases, regex_aliases):
-    if not name:
-        return name
+
+def resolve_alias(name, aliases, regex_aliases):
+    """6. 将别名解析为主名"""
     if name in aliases:
         return aliases[name]
     for pattern, main_name in regex_aliases:
-        if pattern.match(name):
+        if pattern.search(name):
             return main_name
     return name
 
-# 9. 判断是否为纯外文或外文占比过高
-def is_pure_foreign(text):
-    if not text: return False
-    return not bool(re.search(r'[\u4e00-\u9fa5]', text))
 
-def is_mostly_foreign_titles(titles):
-    if not titles: return False
-    total_len = 0
-    zh_len = 0
-    for t in titles:
-        clean_t = re.sub(r'\s+', '', t)
-        total_len += len(clean_t)
-        zh_len += len(re.findall(r'[\u4e00-\u9fa5]', clean_t))
-    if total_len == 0: return False
-    # 中文字符占比低于40%，即外文超过60%
-    return (zh_len / total_len) < 0.4
+def load_alias_groups(alias_file='alias.txt'):
+    """6. 加载别名组用于输出重新映射（仅非正则别名）"""
+    groups = []
+    if not os.path.exists(alias_file):
+        return groups
+    with open(alias_file, 'r', encoding='utf-8') as f:
+        for line in f:
+            line = line.strip()
+            if not line or line.startswith('#'):
+                continue
+            parts = [p.strip() for p in line.split(',')]
+            if len(parts) < 2:
+                continue
+            main_name = parts[0]
+            plain_aliases = [a for a in parts[1:] if not a.startswith('re:')]
+            if plain_aliases:
+                groups.append((main_name, plain_aliases))
+    return groups
 
-# 3. 解决时间格式报错
-def parse_time(time_str):
-    if not time_str:
-        return None
-    time_str = re.sub(r'\s+', '', time_str)
-    if len(time_str) == 14:  # 缺失时区，默认补全 +0800
-        time_str += '+0800'
-    try:
-        return datetime.strptime(time_str, "%Y%m%d%H%M%S%z")
-    except ValueError:
-        return None
+
+def get_urls_with_whitelist(config_file='config.txt'):
+    """8. 解析 config.txt，返回 [(url, is_whitelist), ...]"""
+    result = []
+    in_whitelist = False
+    with open(config_file, 'r', encoding='utf-8') as file:
+        for line in file:
+            line = line.strip()
+            if not line or line.startswith('#'):
+                continue
+            if line == '[WHITELIST]':
+                in_whitelist = True
+                continue
+            result.append((line, in_whitelist))
+    return result
+
 
 async def fetch_epg(url):
     connector = aiohttp.TCPConnector(limit=16, ssl=False)
@@ -95,265 +143,315 @@ async def fetch_epg(url):
             async with session.get(url) as response:
                 if url.endswith('.gz'):
                     compressed_data = await response.read()
-                    return url, gzip.decompress(compressed_data).decode('utf-8', errors='ignore')
+                    return gzip.decompress(compressed_data).decode('utf-8', errors='ignore')
                 else:
-                    return url, await response.text(encoding='utf-8')
+                    return await response.text(encoding='utf-8')
     except aiohttp.ClientError as e:
         print(f"{url} HTTP请求错误: {e}")
     except asyncio.TimeoutError:
         print(f"{url} 请求超时")
     except Exception as e:
         print(f"{url} 其他错误: {e}")
-    return url, None
+    return None
 
-# 7. 去除“高清”，保留“超高清”
-def process_display_name(display_name):
-    if display_name.endswith('高清') and not display_name.endswith('超高清'):
-        display_name = display_name[:-2]
-    return display_name
 
-def parse_epg(epg_content, aliases, regex_aliases):
+def parse_epg(epg_content):
+    """解析EPG XML内容，返回 (channels, programmes)"""
     try:
         parser = ET.XMLParser(encoding='UTF-8')
         root = ET.fromstring(epg_content, parser=parser)
     except ET.ParseError as e:
         print(f"Error parsing XML: {e}")
-        return {}, {}, {}
+        return {}, defaultdict(list)
 
     channels = {}
-    channel_id_to_main = {}
-    
-    # 解析频道并映射为主名
+    programmes = defaultdict(list)
+    valid_channels = set()
+    today = datetime.now(TZ_UTC_PLUS_8).date()
+
     for channel in root.findall('channel'):
         channel_id = transform2_zh_hans(channel.get('id'))
-        display_names = []
-        best_name = channel_id
-        
+        channel_display_names = []
         for name in channel.findall('display-name'):
             t_name = transform2_zh_hans(name.text)
             t_name = process_display_name(t_name)
-            display_names.append([t_name, name.get('lang', 'zh')])
-            if t_name:
-                best_name = t_name
-                
-        main_name = get_main_name(best_name, aliases, regex_aliases)
-        channel_id_to_main[channel.get('id')] = main_name
-        
-        # 9. 剔除纯外文频道
-        if is_pure_foreign(main_name):
-            continue
-
-        if main_name not in channels:
-            channels[main_name] = []
-        channels[main_name].extend(display_names)
-
-    today = datetime.now(TZ_UTC_PLUS_8).date()
-    
-    # programmes 结构: dict[main_name][date_str] = list of elements
-    programmes = defaultdict(lambda: defaultdict(list))
-    # title_lengths 结构: dict[main_name][date_str] = int (title总长度)
-    title_lengths = defaultdict(lambda: defaultdict(int))
-    channel_titles_for_lang_check = defaultdict(list)
+            channel_display_names.append([t_name, name.get('lang', 'zh')])
+        if not channel_id.isdigit() and channel_id not in [d[0] for d in channel_display_names]:
+            channel_display_names.append([channel_id, 'zh'])
+        channels[channel_id] = channel_display_names
 
     for programme in root.findall('programme'):
-        orig_channel_id = programme.get('channel')
-        if orig_channel_id not in channel_id_to_main:
-            continue
-            
-        main_name = channel_id_to_main[orig_channel_id]
-        
-        channel_start = parse_time(programme.get('start'))
-        channel_stop = parse_time(programme.get('stop'))
-        if not channel_start or not channel_stop:
-            continue
+        channel_id = transform2_zh_hans(programme.get('channel'))
+        raw_start = programme.get('start', '')
+        raw_stop = programme.get('stop', '')
 
-        channel_start = channel_start.astimezone(TZ_UTC_PLUS_8)
-        channel_stop = channel_stop.astimezone(TZ_UTC_PLUS_8)
-        date_str = channel_start.strftime("%Y-%m-%d")
+        # 3. 修复时间解析
+        start_dt = parse_time_str(raw_start)
+        stop_dt = parse_time_str(raw_stop)
 
-        # 提取并处理 title
-        titles = programme.findall('title')
-        channel_title = "精彩节目"
-        if titles and titles[0].text:
-            channel_title = titles[0].text.strip()
-
-        # 2. 屏蔽广告节目单
-        if "提供服务" in channel_title or re.search(r'http[s]?://', channel_title, re.I) or ".xyz" in channel_title.lower():
+        if start_dt is None or stop_dt is None:
             continue
 
-        langattr = titles[0].get('lang') if titles else None
-        if langattr == 'zh' or langattr is None:
-            channel_title = transform2_zh_hans(channel_title)
-            
-        channel_titles_for_lang_check[main_name].append(channel_title)
+        if start_dt.tzinfo:
+            start_dt_local = start_dt.astimezone(TZ_UTC_PLUS_8)
+        else:
+            start_dt_local = start_dt.replace(tzinfo=TZ_UTC_PLUS_8)
+        if stop_dt.tzinfo:
+            stop_dt_local = stop_dt.astimezone(TZ_UTC_PLUS_8)
+        else:
+            stop_dt_local = stop_dt.replace(tzinfo=TZ_UTC_PLUS_8)
 
-        channel_elem = ET.Element('programme', attrib={"start": channel_start.strftime("%Y%m%d%H%M%S %z"), "stop": channel_stop.strftime("%Y%m%d%H%M%S %z")})
-        
-        channel_elem_t = ET.SubElement(channel_elem, 'title')
-        channel_elem_t.text = channel_title
-        if langattr is not None:
-            channel_elem_t.set('lang', langattr)
-            
+        if stop_dt_local.date() == today:
+            valid_channels.add(channel_id)
+
+        channel_elem = ET.Element('programme', attrib={
+            "start": start_dt_local.strftime("%Y%m%d%H%M%S %z"),
+            "stop": stop_dt_local.strftime("%Y%m%d%H%M%S %z")
+        })
+
+        # 2. 过滤广告标题
+        has_valid_title = False
+        for title in programme.findall('title'):
+            if title.text is None:
+                channel_title = "精彩节目"
+            else:
+                channel_title = title.text.strip()
+
+            if is_advertisement_title(channel_title):
+                continue
+
+            has_valid_title = True
+            langattr = title.get('lang')
+            if langattr == 'zh' or langattr is None:
+                channel_title = transform2_zh_hans(channel_title)
+            channel_elem_t = ET.SubElement(channel_elem, 'title')
+            channel_elem_t.text = channel_title
+            if langattr is not None:
+                channel_elem_t.set('lang', langattr)
+
+        if not has_valid_title:
+            continue
+
         for desc in programme.findall('desc'):
             if desc.text is None:
                 continue
-            langattr_d = desc.get('lang')
+            langattr = desc.get('lang')
             channel_desc = desc.text.strip()
-            if langattr_d == 'zh' or langattr_d is None:
+            if langattr == 'zh' or langattr is None:
                 channel_desc = transform2_zh_hans(channel_desc)
             channel_elem_d = ET.SubElement(channel_elem, 'desc')
             channel_elem_d.text = channel_desc.strip()
-            if langattr_d is not None:
-                channel_elem_d.set('lang', langattr_d)
-                
-        programmes[main_name][date_str].append(channel_elem)
-        title_lengths[main_name][date_str] += len(channel_title)
+            if langattr is not None:
+                channel_elem_d.set('lang', langattr)
 
-    # 9. 剔除节目信息超过60%为外文的频道
-    final_channels = {}
-    final_programmes = {}
-    final_lengths = {}
-    
-    for main_name in list(channels.keys()):
-        if is_mostly_foreign_titles(channel_titles_for_lang_check[main_name]):
-            continue
-        final_channels[main_name] = channels[main_name]
-        final_programmes[main_name] = programmes[main_name]
-        final_lengths[main_name] = title_lengths[main_name]
+        programmes[channel_id].append((start_dt_local.date(), channel_elem))
 
-    return final_channels, final_programmes, final_lengths
+    channels = {k: v for k, v in channels.items() if k in valid_channels}
+    programmes = {k: v for k, v in programmes.items() if k in valid_channels}
 
-def write_to_xml_and_log(merged_programmes, all_channels_names, alias_to_add, filename):
+    return channels, programmes
+
+
+def write_to_xml(channels_id, channels_names, programmes, filename):
     if not os.path.exists('output'):
         os.makedirs('output')
-        
     current_time = datetime.now(TZ_UTC_PLUS_8).strftime("%Y%m%d%H%M%S %z")
     root = ET.Element('tv', attrib={'date': current_time})
-    log_lines = []
+    for channel_id in channels_id:
+        channel_elem = ET.SubElement(root, 'channel', attrib={"id": channel_id})
+        for display_name_node in channels_names[channel_id]:
+            display_name = display_name_node[0]
+            langattr = display_name_node[1]
+            display_name_elem = ET.SubElement(
+                channel_elem, 'display-name', attrib={"lang": langattr})
+            display_name_elem.text = display_name
+        for prog in programmes.get(channel_id, []):
+            prog.set('channel', channel_id)
+            root.append(prog)
 
-    for main_name, date_dict in merged_programmes.items():
-        if not date_dict:
-            continue
-            
-        channel_elem = ET.SubElement(root, 'channel', attrib={"id": main_name})
-        seen_names = set()
-        
-        # 写入主名
-        ET.SubElement(channel_elem, 'display-name', attrib={"lang": "zh"}).text = main_name
-        seen_names.add(main_name)
-        
-        # 6. 重新映射 alias.txt 中的别名（除正则外）
-        for alias in alias_to_add.get(main_name, []):
-            if alias not in seen_names:
-                ET.SubElement(channel_elem, 'display-name', attrib={"lang": "zh"}).text = alias
-                seen_names.add(alias)
-                
-        # 写入解析到的其他 display-name
-        for d_name, lang in all_channels_names[main_name]:
-            if d_name not in seen_names:
-                ET.SubElement(channel_elem, 'display-name', attrib={"lang": lang}).text = d_name
-                seen_names.add(d_name)
-
-        # 写入节目并记录日志
-        for date_str in sorted(date_dict.keys()):
-            info = date_dict[date_str]
-            # 5. 记录日志
-            log_lines.append(f"频道: [{main_name}] | 日期: {date_str} | 来源: {info['url']}")
-            for prog in info['elems']:
-                prog.set('channel', main_name)
-                root.append(prog)
-
-    # 写入 XML
     rough_string = ET.tostring(root, 'utf-8')
     reparsed = minidom.parseString(rough_string)
     with open(filename, 'w', encoding='utf-8') as f:
         f.write(reparsed.toprettyxml(indent='\t', newl='\n'))
-        
-    # 5. 写入日志文件
-    with open('epg_source.log', 'w', encoding='utf-8') as f:
-        f.write('\n'.join(log_lines))
+
 
 def compress_to_gz(input_filename, output_filename):
     with open(input_filename, 'rb') as f_in:
         with gzip.open(output_filename, 'wb') as f_out:
             shutil.copyfileobj(f_in, f_out)
 
-# 8. 增加白名单机制
-def get_urls():
-    normal_urls = []
-    whitelist_urls = []
-    is_whitelist = False
-    if os.path.exists('config.txt'):
-        with open('config.txt', 'r', encoding='utf-8') as file:
-            for line in file:
-                line = line.strip()
-                if not line or line.startswith('#'):
-                    continue
-                if line == '[WHITELIST]':
-                    is_whitelist = True
-                    continue
-                if is_whitelist:
-                    whitelist_urls.append(line)
-                else:
-                    normal_urls.append(line)
-    return normal_urls, whitelist_urls
 
 async def main():
-    normal_urls, whitelist_urls = get_urls()
-    all_urls = normal_urls + whitelist_urls
-    aliases, regex_aliases, alias_to_add = load_aliases()
-    
-    tasks = [fetch_epg(url) for url in all_urls]
+    urls_info = get_urls_with_whitelist()
+    urls = [url for url, _ in urls_info]
+    whitelist_urls = set(url for url, is_wl in urls_info if is_wl)
+
+    aliases, regex_aliases = load_aliases()
+    alias_groups = load_alias_groups()
+
+    tasks = [fetch_epg(url) for url in urls]
     print("Fetching EPG data...")
-    epg_results = await tqdm_asyncio.gather(*tasks, desc="Fetching URLs")
-    
-    all_channels_names = defaultdict(list)
-    # merged_programmes 结构: dict[main_name][date_str] = {'url': url, 'elems': [...], 'length': int, 'is_whitelist': bool}
-    merged_programmes = defaultdict(lambda: defaultdict(dict))
-    
-    print("Finished fetching. Start parsing and merging...")
-    
-    for i, (url, epg_content) in enumerate(epg_results, 1):
+    epg_contents = await tqdm_asyncio.gather(*tasks, desc="Fetching URLs")
+    print("Finished.")
+
+    # 数据收集: channel_data[resolved_name][source_url][date] = [prog_elements]
+    channel_data = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))
+    channel_display = {}
+    name_to_resolved = {}
+
+    i = 0
+    for idx, epg_content in enumerate(epg_contents):
+        url = urls[idx]
+        i += 1
+        print(f"Processing EPG source...{i}/{len(epg_contents)}")
         if epg_content is None:
             continue
-            
-        is_whitelist = url in whitelist_urls
-        channels, programmes, lengths = parse_epg(epg_content, aliases, regex_aliases)
-        
-        for main_name, date_dict in programmes.items():
-            all_channels_names[main_name].extend(channels.get(main_name, []))
-            
-            for date_str, elems in date_dict.items():
-                if not elems: continue
-                
-                length = lengths[main_name][date_str]
-                current = merged_programmes[main_name].get(date_str)
-                
-                should_replace = False
-                # 4 & 8. 合并逻辑：白名单优先；同级别比较 title 总长度
-                if not current:
-                    should_replace = True
-                else:
-                    if is_whitelist and not current['is_whitelist']:
-                        should_replace = True
-                    elif not is_whitelist and current['is_whitelist']:
-                        should_replace = False
-                    else:
-                        if length > current['length']:
-                            should_replace = True
-                            
-                if should_replace:
-                    merged_programmes[main_name][date_str] = {
-                        'url': url,
-                        'elems': elems,
-                        'length': length,
-                        'is_whitelist': is_whitelist
-                    }
+        print("Parsing EPG data...")
+        channels, programmes = parse_epg(epg_content)
+        print("Finished.")
 
-    print("Writing to XML and generating logs...")
-    write_to_xml_and_log(merged_programmes, all_channels_names, alias_to_add, 'output/epg.xml')
+        with tqdm(total=len(channels), desc="Merging EPG", unit="file") as pbar:
+            for channel_id, display_names in channels.items():
+                if channel_id not in programmes or len(programmes[channel_id]) == 0:
+                    pbar.update(1)
+                    continue
+
+                # 6. 别名解析：先将别名转换为主名
+                resolved_name = None
+                all_names = [channel_id] + [dn[0] for dn in display_names]
+                for name in all_names:
+                    r = resolve_alias(name, aliases, regex_aliases)
+                    if r != name:
+                        resolved_name = r
+                        break
+
+                # 检查是否已有名称映射
+                if resolved_name is None:
+                    for name in all_names:
+                        if name in name_to_resolved:
+                            resolved_name = name_to_resolved[name]
+                            break
+
+                if resolved_name is None:
+                    resolved_name = display_names[0][0] if display_names else channel_id
+
+                # 存储显示名称（首次遇到时）
+                if resolved_name not in channel_display:
+                    channel_display[resolved_name] = list(display_names)
+
+                # 建立名称映射
+                for name in all_names:
+                    if name not in name_to_resolved:
+                        name_to_resolved[name] = resolved_name
+
+                # 按来源和日期存储节目
+                for date, prog_elem in programmes[channel_id]:
+                    channel_data[resolved_name][url][date].append(prog_elem)
+
+                pbar.update(1)
+
+    # 4 & 8. 按天比较节目标题总长度并合并，白名单优先
+    final_programmes = defaultdict(list)
+    log_data = []
+
+    for channel_name, sources in channel_data.items():
+        all_dates = set()
+        for src_url, date_data in sources.items():
+            all_dates.update(date_data.keys())
+
+        for date in sorted(all_dates):
+            source_options = []
+            for src_url, date_data in sources.items():
+                if date not in date_data:
+                    continue
+                progs = date_data[date]
+                # 4. 比较标题总长度（忽略desc）
+                total_title_len = sum(
+                    len(t.text.strip()) if t.text else 0
+                    for p in progs for t in p.findall('title')
+                )
+                is_wl = src_url in whitelist_urls
+                source_options.append((src_url, is_wl, total_title_len, progs))
+
+            if not source_options:
+                continue
+
+            # 8. 白名单数据源优先，不经过比较直接保留
+            wl_options = [o for o in source_options if o[1]]
+            if wl_options:
+                best = max(wl_options, key=lambda x: x[2])
+            else:
+                best = max(source_options, key=lambda x: x[2])
+
+            final_programmes[channel_name].extend(best[3])
+            log_data.append((channel_name, date.strftime('%Y-%m-%d'), best[0]))
+
+    # 构建输出频道名称
+    output_names = defaultdict(list)
+    for ch_name, display_names in channel_display.items():
+        output_names[ch_name] = list(display_names)
+        # 确保主名在显示名称中
+        if ch_name not in [d[0] for d in output_names[ch_name]]:
+            output_names[ch_name].append([ch_name, 'zh'])
+
+    # 6. 重新映射别名（非正则表达式别名作为额外的 display-name）
+    for main_name, plain_aliases in alias_groups:
+        if main_name in output_names:
+            existing = {dn[0] for dn in output_names[main_name]}
+            for alias in plain_aliases:
+                if alias not in existing:
+                    output_names[main_name].append([alias, 'zh'])
+                    existing.add(alias)
+
+    # 9. 去除国外EPG
+    channel_ids = list(output_names.keys())
+    filtered = set()
+    for ch_name in channel_ids:
+        # 频道名为纯外文
+        if is_foreign_text(ch_name):
+            print(f"Removing foreign channel: {ch_name}")
+            filtered.add(ch_name)
+            continue
+        # 节目标题超过60%为外文
+        progs = final_programmes.get(ch_name, [])
+        if progs:
+            total = 0
+            foreign = 0
+            for p in progs:
+                for t in p.findall('title'):
+                    if t.text:
+                        total += 1
+                        if is_foreign_text(t.text):
+                            foreign += 1
+            if total > 0 and foreign / total > 0.6:
+                print(f"Removing channel >60% foreign titles: {ch_name}")
+                filtered.add(ch_name)
+
+    for ch in filtered:
+        del output_names[ch]
+        if ch in final_programmes:
+            del final_programmes[ch]
+
+    channel_ids = [ch for ch in channel_ids if ch not in filtered]
+
+    # 5. 过滤日志（仅保留最终输出中的频道）
+    remaining = set(channel_ids)
+    log_data_filtered = [(ch, d, s) for ch, d, s in log_data if ch in remaining]
+    log_data_filtered.sort(key=lambda x: (x[0], x[1]))
+
+    print("Writing to XML...")
+    write_to_xml(channel_ids, output_names, final_programmes, 'output/epg.xml')
     compress_to_gz('output/epg.xml', 'output/epg.gz')
-    print("All tasks completed successfully.")
+
+    # 5. 写入日志
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    log_path = os.path.join(script_dir, 'epg_source.log')
+    with open(log_path, 'w', encoding='utf-8') as f:
+        for ch, d, s in log_data_filtered:
+            f.write(f"频道: {ch} | 日期: {d} | 来源: {s}\n")
+
+    print("Done.")
+
 
 if __name__ == '__main__':
     asyncio.run(main())
