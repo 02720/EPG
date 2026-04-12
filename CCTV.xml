@@ -1056,22 +1056,22 @@
   <programme start="20260413190000 +0800" stop="20260413193755 +0800" channel="cctv1">
     <title>新闻联播</title>
   </programme>
-  <programme start="20260413193755 +0800" stop="20260413195940 +0800" channel="cctv1">
+  <programme start="20260413193755 +0800" stop="20260413195935 +0800" channel="cctv1">
     <title>焦点访谈</title>
   </programme>
-  <programme start="20260413195940 +0800" stop="20260413200300 +0800" channel="cctv1">
+  <programme start="20260413195935 +0800" stop="20260413200300 +0800" channel="cctv1">
     <title>前情提要-家事法庭-第25集</title>
   </programme>
-  <programme start="20260413200300 +0800" stop="20260413205345 +0800" channel="cctv1">
+  <programme start="20260413200300 +0800" stop="20260413205305 +0800" channel="cctv1">
     <title>家事法庭25/26</title>
   </programme>
-  <programme start="20260413205345 +0800" stop="20260413205615 +0800" channel="cctv1">
+  <programme start="20260413205305 +0800" stop="20260413205555 +0800" channel="cctv1">
     <title>前情提要-家事法庭-第26集</title>
   </programme>
-  <programme start="20260413205615 +0800" stop="20260413214950 +0800" channel="cctv1">
+  <programme start="20260413205555 +0800" stop="20260413215105 +0800" channel="cctv1">
     <title>家事法庭26/26</title>
   </programme>
-  <programme start="20260413214950 +0800" stop="20260413220000 +0800" channel="cctv1">
+  <programme start="20260413215105 +0800" stop="20260413220000 +0800" channel="cctv1">
     <title>非遗里的中国-MV</title>
   </programme>
   <programme start="20260413220000 +0800" stop="20260413223530 +0800" channel="cctv1">
@@ -6324,10 +6324,10 @@
   <programme start="20260413041500 +0800" stop="20260413050000 +0800" channel="cctv13">
     <title>世界周刊</title>
   </programme>
-  <programme start="20260413050000 +0800" stop="20260413051600 +0800" channel="cctv13">
+  <programme start="20260413050000 +0800" stop="20260413051200 +0800" channel="cctv13">
     <title>新闻直播间</title>
   </programme>
-  <programme start="20260413051600 +0800" stop="20260413060000 +0800" channel="cctv13">
+  <programme start="20260413051200 +0800" stop="20260413060000 +0800" channel="cctv13">
     <title>面对面</title>
   </programme>
   <programme start="20260413060000 +0800" stop="20260413090000 +0800" channel="cctv13">
@@ -6345,19 +6345,19 @@
   <programme start="20260413110000 +0800" stop="20260413120000 +0800" channel="cctv13">
     <title>新闻直播间</title>
   </programme>
-  <programme start="20260413120000 +0800" stop="20260413123300 +0800" channel="cctv13">
+  <programme start="20260413120000 +0800" stop="20260413123400 +0800" channel="cctv13">
     <title>新闻30分</title>
   </programme>
-  <programme start="20260413123300 +0800" stop="20260413130000 +0800" channel="cctv13">
+  <programme start="20260413123400 +0800" stop="20260413130000 +0800" channel="cctv13">
     <title>法治在线</title>
   </programme>
   <programme start="20260413130000 +0800" stop="20260413140000 +0800" channel="cctv13">
     <title>新闻直播间</title>
   </programme>
-  <programme start="20260413140000 +0800" stop="20260413141600 +0800" channel="cctv13">
+  <programme start="20260413140000 +0800" stop="20260413141200 +0800" channel="cctv13">
     <title>新闻直播间</title>
   </programme>
-  <programme start="20260413141600 +0800" stop="20260413150000 +0800" channel="cctv13">
+  <programme start="20260413141200 +0800" stop="20260413150000 +0800" channel="cctv13">
     <title>面对面</title>
   </programme>
   <programme start="20260413150000 +0800" stop="20260413160000 +0800" channel="cctv13">
@@ -6372,10 +6372,13 @@
   <programme start="20260413180000 +0800" stop="20260413190000 +0800" channel="cctv13">
     <title>共同关注</title>
   </programme>
-  <programme start="20260413190000 +0800" stop="20260413194030 +0800" channel="cctv13">
+  <programme start="20260413190000 +0800" stop="20260413193135 +0800" channel="cctv13">
     <title>新闻联播</title>
   </programme>
-  <programme start="20260413194030 +0800" stop="20260413200000 +0800" channel="cctv13">
+  <programme start="20260413193135 +0800" stop="20260413193755 +0800" channel="cctv13">
+    <title>天气预报</title>
+  </programme>
+  <programme start="20260413193755 +0800" stop="20260413200000 +0800" channel="cctv13">
     <title>焦点访谈</title>
   </programme>
   <programme start="20260413200000 +0800" stop="20260413210000 +0800" channel="cctv13">
@@ -6399,13 +6402,13 @@
   <programme start="20260414000000 +0800" stop="20260414010000 +0800" channel="cctv13">
     <title>午夜新闻</title>
   </programme>
-  <programme start="20260414010000 +0800" stop="20260414012000 +0800" channel="cctv13">
+  <programme start="20260414010000 +0800" stop="20260414012100 +0800" channel="cctv13">
     <title>新闻直播间</title>
   </programme>
-  <programme start="20260414012000 +0800" stop="20260414013600 +0800" channel="cctv13">
+  <programme start="20260414012100 +0800" stop="20260414013700 +0800" channel="cctv13">
     <title>焦点访谈</title>
   </programme>
-  <programme start="20260414013600 +0800" stop="20260414020000 +0800" channel="cctv13">
+  <programme start="20260414013700 +0800" stop="20260414020000 +0800" channel="cctv13">
     <title>法治在线</title>
   </programme>
   <programme start="20260414020000 +0800" stop="20260414023300 +0800" channel="cctv13">
@@ -6426,13 +6429,13 @@
   <programme start="20260414043300 +0800" stop="20260414050000 +0800" channel="cctv13">
     <title>新闻1+1</title>
   </programme>
-  <programme start="20260414050000 +0800" stop="20260414051700 +0800" channel="cctv13">
+  <programme start="20260414050000 +0800" stop="20260414051800 +0800" channel="cctv13">
     <title>新闻直播间</title>
   </programme>
-  <programme start="20260414051700 +0800" stop="20260414053300 +0800" channel="cctv13">
+  <programme start="20260414051800 +0800" stop="20260414053400 +0800" channel="cctv13">
     <title>焦点访谈</title>
   </programme>
-  <programme start="20260414053300 +0800" stop="20260414060000 +0800" channel="cctv13">
+  <programme start="20260414053400 +0800" stop="20260414060000 +0800" channel="cctv13">
     <title>法治在线</title>
   </programme>
   <programme start="20260414060000 +0800" stop="20260414090000 +0800" channel="cctv13">
@@ -6447,10 +6450,10 @@
   <programme start="20260414110000 +0800" stop="20260414120000 +0800" channel="cctv13">
     <title>新闻直播间</title>
   </programme>
-  <programme start="20260414120000 +0800" stop="20260414123300 +0800" channel="cctv13">
+  <programme start="20260414120000 +0800" stop="20260414123400 +0800" channel="cctv13">
     <title>新闻30分</title>
   </programme>
-  <programme start="20260414123300 +0800" stop="20260414130000 +0800" channel="cctv13">
+  <programme start="20260414123400 +0800" stop="20260414130000 +0800" channel="cctv13">
     <title>法治在线</title>
   </programme>
   <programme start="20260414130000 +0800" stop="20260414140000 +0800" channel="cctv13">
@@ -6471,10 +6474,13 @@
   <programme start="20260414180000 +0800" stop="20260414190000 +0800" channel="cctv13">
     <title>共同关注</title>
   </programme>
-  <programme start="20260414190000 +0800" stop="20260414194025 +0800" channel="cctv13">
+  <programme start="20260414190000 +0800" stop="20260414193135 +0800" channel="cctv13">
     <title>新闻联播</title>
   </programme>
-  <programme start="20260414194025 +0800" stop="20260414200000 +0800" channel="cctv13">
+  <programme start="20260414193135 +0800" stop="20260414193810 +0800" channel="cctv13">
+    <title>天气预报</title>
+  </programme>
+  <programme start="20260414193810 +0800" stop="20260414200000 +0800" channel="cctv13">
     <title>焦点访谈</title>
   </programme>
   <programme start="20260414200000 +0800" stop="20260414210000 +0800" channel="cctv13">
@@ -6498,13 +6504,13 @@
   <programme start="20260415000000 +0800" stop="20260415010000 +0800" channel="cctv13">
     <title>午夜新闻</title>
   </programme>
-  <programme start="20260415010000 +0800" stop="20260415012000 +0800" channel="cctv13">
+  <programme start="20260415010000 +0800" stop="20260415012100 +0800" channel="cctv13">
     <title>新闻直播间</title>
   </programme>
-  <programme start="20260415012000 +0800" stop="20260415013600 +0800" channel="cctv13">
+  <programme start="20260415012100 +0800" stop="20260415013700 +0800" channel="cctv13">
     <title>焦点访谈</title>
   </programme>
-  <programme start="20260415013600 +0800" stop="20260415020000 +0800" channel="cctv13">
+  <programme start="20260415013700 +0800" stop="20260415020000 +0800" channel="cctv13">
     <title>法治在线</title>
   </programme>
   <programme start="20260415020000 +0800" stop="20260415023300 +0800" channel="cctv13">
@@ -6525,13 +6531,13 @@
   <programme start="20260415043300 +0800" stop="20260415050000 +0800" channel="cctv13">
     <title>新闻1+1</title>
   </programme>
-  <programme start="20260415050000 +0800" stop="20260415051700 +0800" channel="cctv13">
+  <programme start="20260415050000 +0800" stop="20260415051800 +0800" channel="cctv13">
     <title>新闻直播间</title>
   </programme>
-  <programme start="20260415051700 +0800" stop="20260415053300 +0800" channel="cctv13">
+  <programme start="20260415051800 +0800" stop="20260415053400 +0800" channel="cctv13">
     <title>焦点访谈</title>
   </programme>
-  <programme start="20260415053300 +0800" stop="20260415060000 +0800" channel="cctv13">
+  <programme start="20260415053400 +0800" stop="20260415060000 +0800" channel="cctv13">
     <title>法治在线</title>
   </programme>
   <programme start="20260415060000 +0800" stop="20260415090000 +0800" channel="cctv13">
@@ -6546,10 +6552,10 @@
   <programme start="20260415110000 +0800" stop="20260415120000 +0800" channel="cctv13">
     <title>新闻直播间</title>
   </programme>
-  <programme start="20260415120000 +0800" stop="20260415123300 +0800" channel="cctv13">
+  <programme start="20260415120000 +0800" stop="20260415123400 +0800" channel="cctv13">
     <title>新闻30分</title>
   </programme>
-  <programme start="20260415123300 +0800" stop="20260415130000 +0800" channel="cctv13">
+  <programme start="20260415123400 +0800" stop="20260415130000 +0800" channel="cctv13">
     <title>法治在线</title>
   </programme>
   <programme start="20260415130000 +0800" stop="20260415140000 +0800" channel="cctv13">
@@ -6570,22 +6576,25 @@
   <programme start="20260415180000 +0800" stop="20260415190000 +0800" channel="cctv13">
     <title>共同关注</title>
   </programme>
-  <programme start="20260415190000 +0800" stop="20260415194030 +0800" channel="cctv13">
+  <programme start="20260415190000 +0800" stop="20260415193135 +0800" channel="cctv13">
     <title>新闻联播</title>
   </programme>
-  <programme start="20260415194030 +0800" stop="20260415200000 +0800" channel="cctv13">
+  <programme start="20260415193135 +0800" stop="20260415193755 +0800" channel="cctv13">
+    <title>天气预报</title>
+  </programme>
+  <programme start="20260415193755 +0800" stop="20260415200000 +0800" channel="cctv13">
     <title>焦点访谈</title>
   </programme>
   <programme start="20260415200000 +0800" stop="20260415210000 +0800" channel="cctv13">
     <title>东方时空</title>
   </programme>
-  <programme start="20260415210000 +0800" stop="20260415213700 +0800" channel="cctv13">
+  <programme start="20260415210000 +0800" stop="20260415213000 +0800" channel="cctv13">
     <title>新闻联播</title>
   </programme>
-  <programme start="20260415213700 +0800" stop="20260415220700 +0800" channel="cctv13">
+  <programme start="20260415213000 +0800" stop="20260415220000 +0800" channel="cctv13">
     <title>新闻1+1</title>
   </programme>
-  <programme start="20260415220700 +0800" stop="20260415223000 +0800" channel="cctv13">
+  <programme start="20260415220000 +0800" stop="20260415223000 +0800" channel="cctv13">
     <title>国际时讯</title>
   </programme>
   <programme start="20260415223000 +0800" stop="20260415230000 +0800" channel="cctv13">
@@ -6597,13 +6606,13 @@
   <programme start="20260416000000 +0800" stop="20260416010000 +0800" channel="cctv13">
     <title>午夜新闻</title>
   </programme>
-  <programme start="20260416010000 +0800" stop="20260416012000 +0800" channel="cctv13">
+  <programme start="20260416010000 +0800" stop="20260416012100 +0800" channel="cctv13">
     <title>新闻直播间</title>
   </programme>
-  <programme start="20260416012000 +0800" stop="20260416013600 +0800" channel="cctv13">
+  <programme start="20260416012100 +0800" stop="20260416013700 +0800" channel="cctv13">
     <title>焦点访谈</title>
   </programme>
-  <programme start="20260416013600 +0800" stop="20260416020000 +0800" channel="cctv13">
+  <programme start="20260416013700 +0800" stop="20260416020000 +0800" channel="cctv13">
     <title>法治在线</title>
   </programme>
   <programme start="20260416020000 +0800" stop="20260416023300 +0800" channel="cctv13">
@@ -6624,13 +6633,13 @@
   <programme start="20260416043300 +0800" stop="20260416050000 +0800" channel="cctv13">
     <title>新闻1+1</title>
   </programme>
-  <programme start="20260416050000 +0800" stop="20260416051700 +0800" channel="cctv13">
+  <programme start="20260416050000 +0800" stop="20260416051800 +0800" channel="cctv13">
     <title>新闻直播间</title>
   </programme>
-  <programme start="20260416051700 +0800" stop="20260416053300 +0800" channel="cctv13">
+  <programme start="20260416051800 +0800" stop="20260416053400 +0800" channel="cctv13">
     <title>焦点访谈</title>
   </programme>
-  <programme start="20260416053300 +0800" stop="20260416060000 +0800" channel="cctv13">
+  <programme start="20260416053400 +0800" stop="20260416060000 +0800" channel="cctv13">
     <title>法治在线</title>
   </programme>
   <programme start="20260416060000 +0800" stop="20260416090000 +0800" channel="cctv13">
@@ -6645,10 +6654,10 @@
   <programme start="20260416110000 +0800" stop="20260416120000 +0800" channel="cctv13">
     <title>新闻直播间</title>
   </programme>
-  <programme start="20260416120000 +0800" stop="20260416123300 +0800" channel="cctv13">
+  <programme start="20260416120000 +0800" stop="20260416123400 +0800" channel="cctv13">
     <title>新闻30分</title>
   </programme>
-  <programme start="20260416123300 +0800" stop="20260416130000 +0800" channel="cctv13">
+  <programme start="20260416123400 +0800" stop="20260416130000 +0800" channel="cctv13">
     <title>法治在线</title>
   </programme>
   <programme start="20260416130000 +0800" stop="20260416140000 +0800" channel="cctv13">
@@ -6669,19 +6678,22 @@
   <programme start="20260416180000 +0800" stop="20260416190000 +0800" channel="cctv13">
     <title>共同关注</title>
   </programme>
-  <programme start="20260416190000 +0800" stop="20260416194700 +0800" channel="cctv13">
+  <programme start="20260416190000 +0800" stop="20260416193135 +0800" channel="cctv13">
     <title>新闻联播</title>
   </programme>
-  <programme start="20260416194700 +0800" stop="20260416200500 +0800" channel="cctv13">
+  <programme start="20260416193135 +0800" stop="20260416193825 +0800" channel="cctv13">
+    <title>天气预报</title>
+  </programme>
+  <programme start="20260416193825 +0800" stop="20260416200000 +0800" channel="cctv13">
     <title>焦点访谈</title>
   </programme>
-  <programme start="20260416200500 +0800" stop="20260416210000 +0800" channel="cctv13">
+  <programme start="20260416200000 +0800" stop="20260416210000 +0800" channel="cctv13">
     <title>东方时空</title>
   </programme>
-  <programme start="20260416210000 +0800" stop="20260416214000 +0800" channel="cctv13">
+  <programme start="20260416210000 +0800" stop="20260416213000 +0800" channel="cctv13">
     <title>新闻联播</title>
   </programme>
-  <programme start="20260416214000 +0800" stop="20260416220000 +0800" channel="cctv13">
+  <programme start="20260416213000 +0800" stop="20260416220000 +0800" channel="cctv13">
     <title>新闻1+1</title>
   </programme>
   <programme start="20260416220000 +0800" stop="20260416223000 +0800" channel="cctv13">
@@ -6696,13 +6708,13 @@
   <programme start="20260417000000 +0800" stop="20260417010000 +0800" channel="cctv13">
     <title>午夜新闻</title>
   </programme>
-  <programme start="20260417010000 +0800" stop="20260417012000 +0800" channel="cctv13">
+  <programme start="20260417010000 +0800" stop="20260417012100 +0800" channel="cctv13">
     <title>新闻直播间</title>
   </programme>
-  <programme start="20260417012000 +0800" stop="20260417013600 +0800" channel="cctv13">
+  <programme start="20260417012100 +0800" stop="20260417013700 +0800" channel="cctv13">
     <title>焦点访谈</title>
   </programme>
-  <programme start="20260417013600 +0800" stop="20260417020000 +0800" channel="cctv13">
+  <programme start="20260417013700 +0800" stop="20260417020000 +0800" channel="cctv13">
     <title>法治在线</title>
   </programme>
   <programme start="20260417020000 +0800" stop="20260417023300 +0800" channel="cctv13">
@@ -6723,13 +6735,13 @@
   <programme start="20260417043300 +0800" stop="20260417050000 +0800" channel="cctv13">
     <title>新闻1+1</title>
   </programme>
-  <programme start="20260417050000 +0800" stop="20260417051700 +0800" channel="cctv13">
+  <programme start="20260417050000 +0800" stop="20260417051800 +0800" channel="cctv13">
     <title>新闻直播间</title>
   </programme>
-  <programme start="20260417051700 +0800" stop="20260417053300 +0800" channel="cctv13">
+  <programme start="20260417051800 +0800" stop="20260417053400 +0800" channel="cctv13">
     <title>焦点访谈</title>
   </programme>
-  <programme start="20260417053300 +0800" stop="20260417060000 +0800" channel="cctv13">
+  <programme start="20260417053400 +0800" stop="20260417060000 +0800" channel="cctv13">
     <title>法治在线</title>
   </programme>
   <programme start="20260417060000 +0800" stop="20260417090000 +0800" channel="cctv13">
@@ -6744,10 +6756,10 @@
   <programme start="20260417110000 +0800" stop="20260417120000 +0800" channel="cctv13">
     <title>新闻直播间</title>
   </programme>
-  <programme start="20260417120000 +0800" stop="20260417123300 +0800" channel="cctv13">
+  <programme start="20260417120000 +0800" stop="20260417123400 +0800" channel="cctv13">
     <title>新闻30分</title>
   </programme>
-  <programme start="20260417123300 +0800" stop="20260417130000 +0800" channel="cctv13">
+  <programme start="20260417123400 +0800" stop="20260417130000 +0800" channel="cctv13">
     <title>法治在线</title>
   </programme>
   <programme start="20260417130000 +0800" stop="20260417140000 +0800" channel="cctv13">
@@ -6768,10 +6780,13 @@
   <programme start="20260417180000 +0800" stop="20260417190000 +0800" channel="cctv13">
     <title>共同关注</title>
   </programme>
-  <programme start="20260417190000 +0800" stop="20260417194030 +0800" channel="cctv13">
+  <programme start="20260417190000 +0800" stop="20260417193135 +0800" channel="cctv13">
     <title>新闻联播</title>
   </programme>
-  <programme start="20260417194030 +0800" stop="20260417200000 +0800" channel="cctv13">
+  <programme start="20260417193135 +0800" stop="20260417193740 +0800" channel="cctv13">
+    <title>天气预报</title>
+  </programme>
+  <programme start="20260417193740 +0800" stop="20260417200000 +0800" channel="cctv13">
     <title>焦点访谈</title>
   </programme>
   <programme start="20260417200000 +0800" stop="20260417210000 +0800" channel="cctv13">
@@ -6784,37 +6799,40 @@
     <title>高端访谈</title>
   </programme>
   <programme start="20260417220000 +0800" stop="20260417223000 +0800" channel="cctv13">
-    <title>国际时讯</title>
+    <title>新闻1+1</title>
   </programme>
   <programme start="20260417223000 +0800" stop="20260417230000 +0800" channel="cctv13">
-    <title>环球视线</title>
+    <title>国际时讯</title>
   </programme>
   <programme start="20260417230000 +0800" stop="20260417235900 +0800" channel="cctv13">
     <title>24小时</title>
   </programme>
-  <programme start="20260418000000 +0800" stop="20260418010000 +0800" channel="cctv13">
+  <programme start="20260418000000 +0800" stop="20260418003000 +0800" channel="cctv13">
     <title>午夜新闻</title>
   </programme>
-  <programme start="20260418010000 +0800" stop="20260418012000 +0800" channel="cctv13">
+  <programme start="20260418003000 +0800" stop="20260418010000 +0800" channel="cctv13">
+    <title>高端访谈</title>
+  </programme>
+  <programme start="20260418010000 +0800" stop="20260418012100 +0800" channel="cctv13">
     <title>新闻直播间</title>
   </programme>
-  <programme start="20260418012000 +0800" stop="20260418013600 +0800" channel="cctv13">
+  <programme start="20260418012100 +0800" stop="20260418013700 +0800" channel="cctv13">
     <title>焦点访谈</title>
   </programme>
-  <programme start="20260418013600 +0800" stop="20260418020000 +0800" channel="cctv13">
+  <programme start="20260418013700 +0800" stop="20260418020000 +0800" channel="cctv13">
     <title>法治在线</title>
   </programme>
-  <programme start="20260418020000 +0800" stop="20260418023715 +0800" channel="cctv13">
+  <programme start="20260418020000 +0800" stop="20260418023300 +0800" channel="cctv13">
     <title>新闻直播间</title>
   </programme>
-  <programme start="20260418023715 +0800" stop="20260418030000 +0800" channel="cctv13">
-    <title>法治在线</title>
+  <programme start="20260418023300 +0800" stop="20260418030000 +0800" channel="cctv13">
+    <title>新闻1+1</title>
   </programme>
-  <programme start="20260418030000 +0800" stop="20260418034400 +0800" channel="cctv13">
+  <programme start="20260418030000 +0800" stop="20260418033000 +0800" channel="cctv13">
     <title>新闻直播间</title>
   </programme>
-  <programme start="20260418034400 +0800" stop="20260418040000 +0800" channel="cctv13">
-    <title>焦点访谈</title>
+  <programme start="20260418033000 +0800" stop="20260418040000 +0800" channel="cctv13">
+    <title>高端访谈</title>
   </programme>
   <programme start="20260418040000 +0800" stop="20260418043300 +0800" channel="cctv13">
     <title>新闻直播间</title>
@@ -6822,13 +6840,13 @@
   <programme start="20260418043300 +0800" stop="20260418050000 +0800" channel="cctv13">
     <title>新闻1+1</title>
   </programme>
-  <programme start="20260418050000 +0800" stop="20260418051700 +0800" channel="cctv13">
+  <programme start="20260418050000 +0800" stop="20260418051800 +0800" channel="cctv13">
     <title>新闻直播间</title>
   </programme>
-  <programme start="20260418051700 +0800" stop="20260418053300 +0800" channel="cctv13">
+  <programme start="20260418051800 +0800" stop="20260418053400 +0800" channel="cctv13">
     <title>焦点访谈</title>
   </programme>
-  <programme start="20260418053300 +0800" stop="20260418060000 +0800" channel="cctv13">
+  <programme start="20260418053400 +0800" stop="20260418060000 +0800" channel="cctv13">
     <title>法治在线</title>
   </programme>
   <programme start="20260418060000 +0800" stop="20260418090000 +0800" channel="cctv13">
@@ -6837,13 +6855,16 @@
   <programme start="20260418090000 +0800" stop="20260418100000 +0800" channel="cctv13">
     <title>新闻直播间</title>
   </programme>
-  <programme start="20260418100000 +0800" stop="20260418120000 +0800" channel="cctv13">
+  <programme start="20260418100000 +0800" stop="20260418110000 +0800" channel="cctv13">
     <title>新闻直播间</title>
   </programme>
-  <programme start="20260418120000 +0800" stop="20260418123300 +0800" channel="cctv13">
+  <programme start="20260418110000 +0800" stop="20260418120000 +0800" channel="cctv13">
+    <title>新闻直播间</title>
+  </programme>
+  <programme start="20260418120000 +0800" stop="20260418123400 +0800" channel="cctv13">
     <title>新闻30分</title>
   </programme>
-  <programme start="20260418123300 +0800" stop="20260418130000 +0800" channel="cctv13">
+  <programme start="20260418123400 +0800" stop="20260418130000 +0800" channel="cctv13">
     <title>军情时间到</title>
   </programme>
   <programme start="20260418130000 +0800" stop="20260418140000 +0800" channel="cctv13">
@@ -6864,10 +6885,13 @@
   <programme start="20260418180000 +0800" stop="20260418190000 +0800" channel="cctv13">
     <title>共同关注</title>
   </programme>
-  <programme start="20260418190000 +0800" stop="20260418194025 +0800" channel="cctv13">
+  <programme start="20260418190000 +0800" stop="20260418193135 +0800" channel="cctv13">
     <title>新闻联播</title>
   </programme>
-  <programme start="20260418194025 +0800" stop="20260418200000 +0800" channel="cctv13">
+  <programme start="20260418193135 +0800" stop="20260418193825 +0800" channel="cctv13">
+    <title>天气预报</title>
+  </programme>
+  <programme start="20260418193825 +0800" stop="20260418200000 +0800" channel="cctv13">
     <title>焦点访谈</title>
   </programme>
   <programme start="20260418200000 +0800" stop="20260418210000 +0800" channel="cctv13">
@@ -6903,13 +6927,13 @@
   <programme start="20260419021500 +0800" stop="20260419030000 +0800" channel="cctv13">
     <title>新闻调查</title>
   </programme>
-  <programme start="20260419030000 +0800" stop="20260419032000 +0800" channel="cctv13">
+  <programme start="20260419030000 +0800" stop="20260419032100 +0800" channel="cctv13">
     <title>新闻直播间</title>
   </programme>
-  <programme start="20260419032000 +0800" stop="20260419033600 +0800" channel="cctv13">
+  <programme start="20260419032100 +0800" stop="20260419033700 +0800" channel="cctv13">
     <title>焦点访谈</title>
   </programme>
-  <programme start="20260419033600 +0800" stop="20260419040000 +0800" channel="cctv13">
+  <programme start="20260419033700 +0800" stop="20260419040000 +0800" channel="cctv13">
     <title>军情时间到</title>
   </programme>
   <programme start="20260419040000 +0800" stop="20260419041500 +0800" channel="cctv13">
@@ -6933,7 +6957,10 @@
   <programme start="20260419091200 +0800" stop="20260419100000 +0800" channel="cctv13">
     <title>新闻周刊</title>
   </programme>
-  <programme start="20260419100000 +0800" stop="20260419120000 +0800" channel="cctv13">
+  <programme start="20260419100000 +0800" stop="20260419110000 +0800" channel="cctv13">
+    <title>新闻直播间</title>
+  </programme>
+  <programme start="20260419110000 +0800" stop="20260419120000 +0800" channel="cctv13">
     <title>新闻直播间</title>
   </programme>
   <programme start="20260419120000 +0800" stop="20260419123500 +0800" channel="cctv13">
@@ -6963,10 +6990,13 @@
   <programme start="20260419180000 +0800" stop="20260419190000 +0800" channel="cctv13">
     <title>共同关注</title>
   </programme>
-  <programme start="20260419190000 +0800" stop="20260419194040 +0800" channel="cctv13">
+  <programme start="20260419190000 +0800" stop="20260419193120 +0800" channel="cctv13">
     <title>新闻联播</title>
   </programme>
-  <programme start="20260419194040 +0800" stop="20260419200000 +0800" channel="cctv13">
+  <programme start="20260419193120 +0800" stop="20260419193725 +0800" channel="cctv13">
+    <title>天气预报</title>
+  </programme>
+  <programme start="20260419193725 +0800" stop="20260419200000 +0800" channel="cctv13">
     <title>焦点访谈</title>
   </programme>
   <programme start="20260419200000 +0800" stop="20260419210000 +0800" channel="cctv13">
