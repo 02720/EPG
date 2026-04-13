@@ -955,13 +955,13 @@
     <title>前情提要-家事法庭-第25集</title>
   </programme>
   <programme start="20260413200300 +0800" stop="20260413205305 +0800" channel="cctv1">
-    <title>家事法庭25/26</title>
+    <title>家事法庭第25集</title>
   </programme>
   <programme start="20260413205305 +0800" stop="20260413205555 +0800" channel="cctv1">
     <title>前情提要-家事法庭-第26集</title>
   </programme>
   <programme start="20260413205555 +0800" stop="20260413215105 +0800" channel="cctv1">
-    <title>家事法庭26/26</title>
+    <title>家事法庭第26集</title>
   </programme>
   <programme start="20260413215105 +0800" stop="20260413220000 +0800" channel="cctv1">
     <title>非遗里的中国-MV</title>
@@ -1024,7 +1024,7 @@
     <title>四喜第9集</title>
   </programme>
   <programme start="20260414114615 +0800" stop="20260414120000 +0800" channel="cctv1">
-    <title>中华古树-项王手植槐（4K）</title>
+    <title>中华古树-荆州古蜡梅（4K）</title>
   </programme>
   <programme start="20260414120000 +0800" stop="20260414123430 +0800" channel="cctv1">
     <title>新闻30分</title>
@@ -1054,7 +1054,7 @@
     <title>第一动画乐园-2026-101</title>
   </programme>
   <programme start="20260414182045 +0800" stop="20260414185115 +0800" channel="cctv1">
-    <title>自然中国-熊猫家园-奇花异木</title>
+    <title>自然中国-熊猫家园-生命回响</title>
   </programme>
   <programme start="20260414185115 +0800" stop="20260414190000 +0800" channel="cctv1">
     <title>秘境之眼-2026-97</title>
@@ -1102,7 +1102,7 @@
     <title>晚间新闻</title>
   </programme>
   <programme start="20260415021935 +0800" stop="20260415025100 +0800" channel="cctv1">
-    <title>自然中国-熊猫家园-奇花异木</title>
+    <title>自然中国-熊猫家园-生命回响</title>
   </programme>
   <programme start="20260415025100 +0800" stop="20260415042000 +0800" channel="cctv1">
     <title>中华考工记-8</title>
@@ -1165,7 +1165,7 @@
     <title>第一动画乐园-2026-103</title>
   </programme>
   <programme start="20260415182045 +0800" stop="20260415185115 +0800" channel="cctv1">
-    <title>自然中国-熊猫家园-山中有灵</title>
+    <title>自然中国-熊猫家园-奇花异木</title>
   </programme>
   <programme start="20260415185115 +0800" stop="20260415190000 +0800" channel="cctv1">
     <title>秘境之眼-2026-98</title>
@@ -1279,7 +1279,7 @@
     <title>第一动画乐园-2026-105</title>
   </programme>
   <programme start="20260416182045 +0800" stop="20260416185115 +0800" channel="cctv1">
-    <title>自然中国-熊猫家园-生命回响</title>
+    <title>自然中国-熊猫家园-山中有灵</title>
   </programme>
   <programme start="20260416185115 +0800" stop="20260416190000 +0800" channel="cctv1">
     <title>秘境之眼-2026-99</title>
@@ -1315,7 +1315,7 @@
     <title>山水间的家（第四季）-2</title>
   </programme>
   <programme start="20260417010100 +0800" stop="20260417013300 +0800" channel="cctv1">
-    <title>自然中国-熊猫家园-生命回响</title>
+    <title>自然中国-熊猫家园-山中有灵</title>
   </programme>
   <programme start="20260417013300 +0800" stop="20260417020320 +0800" channel="cctv1">
     <title>晚间新闻</title>
@@ -1513,25 +1513,22 @@
     <title>开讲啦-2026-8</title>
   </programme>
   <programme start="20260418232530 +0800" stop="20260418235900 +0800" channel="cctv1">
-    <title>星光大道-2026-22</title>
+    <title>中华考工记-10</title>
   </programme>
-  <programme start="20260419004600 +0800" stop="20260419013000 +0800" channel="cctv1">
+  <programme start="20260419005800 +0800" stop="20260419014200 +0800" channel="cctv1">
     <title>生活早参考-特别节目（生活圈）2026-103</title>
   </programme>
-  <programme start="20260419013000 +0800" stop="20260419020015 +0800" channel="cctv1">
+  <programme start="20260419014200 +0800" stop="20260419021215 +0800" channel="cctv1">
     <title>晚间新闻</title>
   </programme>
-  <programme start="20260419020015 +0800" stop="20260419024535 +0800" channel="cctv1">
-    <title>开讲啦-2026-8</title>
+  <programme start="20260419021215 +0800" stop="20260419024235 +0800" channel="cctv1">
+    <title>自然中国-熊猫家园-生命港湾</title>
   </programme>
-  <programme start="20260419024535 +0800" stop="20260419025535 +0800" channel="cctv1">
-    <title>中华古树-稷山板枣古树群（4K）</title>
-  </programme>
-  <programme start="20260419025535 +0800" stop="20260419030300 +0800" channel="cctv1">
+  <programme start="20260419024235 +0800" stop="20260419025100 +0800" channel="cctv1">
     <title>三餐四季（第二季）-宣传片</title>
   </programme>
-  <programme start="20260419030300 +0800" stop="20260419042000 +0800" channel="cctv1">
-    <title>星光大道-2026-22</title>
+  <programme start="20260419025100 +0800" stop="20260419042000 +0800" channel="cctv1">
+    <title>中华考工记-10</title>
   </programme>
   <programme start="20260419042000 +0800" stop="20260419045300 +0800" channel="cctv1">
     <title>本草流芳-枸杞</title>
@@ -1567,19 +1564,19 @@
     <title>三餐四季（第三季）-7</title>
   </programme>
   <programme start="20260419141030 +0800" stop="20260419145815 +0800" channel="cctv1">
-    <title>沉默的荣耀17/39</title>
-  </programme>
-  <programme start="20260419145815 +0800" stop="20260419154845 +0800" channel="cctv1">
     <title>沉默的荣耀18/39</title>
   </programme>
-  <programme start="20260419154845 +0800" stop="20260419163715 +0800" channel="cctv1">
+  <programme start="20260419145815 +0800" stop="20260419154845 +0800" channel="cctv1">
     <title>沉默的荣耀19/39</title>
   </programme>
-  <programme start="20260419163715 +0800" stop="20260419172545 +0800" channel="cctv1">
+  <programme start="20260419154845 +0800" stop="20260419163715 +0800" channel="cctv1">
     <title>沉默的荣耀20/39</title>
   </programme>
-  <programme start="20260419172545 +0800" stop="20260419181530 +0800" channel="cctv1">
+  <programme start="20260419163715 +0800" stop="20260419172545 +0800" channel="cctv1">
     <title>沉默的荣耀21/39</title>
+  </programme>
+  <programme start="20260419172545 +0800" stop="20260419181530 +0800" channel="cctv1">
+    <title>沉默的荣耀22/39</title>
   </programme>
   <programme start="20260419181530 +0800" stop="20260419182045 +0800" channel="cctv1">
     <title>三餐四季（第二季）-宣传片</title>
@@ -1609,22 +1606,25 @@
     <title>开讲啦-2026-9</title>
   </programme>
   <programme start="20260419232530 +0800" stop="20260419235900 +0800" channel="cctv1">
-    <title>中华考工记-10</title>
+    <title>星光大道-2026-22</title>
   </programme>
-  <programme start="20260420005800 +0800" stop="20260420014200 +0800" channel="cctv1">
+  <programme start="20260420004600 +0800" stop="20260420013000 +0800" channel="cctv1">
     <title>生活早参考-特别节目（生活圈）2026-104</title>
   </programme>
-  <programme start="20260420014200 +0800" stop="20260420021415 +0800" channel="cctv1">
+  <programme start="20260420013000 +0800" stop="20260420020015 +0800" channel="cctv1">
     <title>晚间新闻</title>
   </programme>
-  <programme start="20260420021415 +0800" stop="20260420021835 +0800" channel="cctv1">
+  <programme start="20260420020015 +0800" stop="20260420021215 +0800" channel="cctv1">
+    <title>中华古树-明清石榴园古树群（4K）</title>
+  </programme>
+  <programme start="20260420021215 +0800" stop="20260420021635 +0800" channel="cctv1">
     <title>三餐四季（第二季）-宣传片</title>
   </programme>
-  <programme start="20260420021835 +0800" stop="20260420025100 +0800" channel="cctv1">
-    <title>国家荣光-2025-34</title>
+  <programme start="20260420021635 +0800" stop="20260420030300 +0800" channel="cctv1">
+    <title>开讲啦-2026-8</title>
   </programme>
-  <programme start="20260420025100 +0800" stop="20260420235900 +0800" channel="cctv1">
-    <title>中华考工记-10</title>
+  <programme start="20260420030300 +0800" stop="20260420235900 +0800" channel="cctv1">
+    <title>星光大道-2026-22</title>
   </programme>
   <programme start="20260406000530 +0800" stop="20260406002530 +0800" channel="cctv10">
     <title>人物故事-2026-67</title>
@@ -4782,17 +4782,17 @@
   <programme start="20260415193200 +0800" stop="20260415202500 +0800" channel="cctv12">
     <title>普法剧场2026-105</title>
   </programme>
-  <programme start="20260415202500 +0800" stop="20260415210000 +0800" channel="cctv12">
+  <programme start="20260415202500 +0800" stop="20260415212000 +0800" channel="cctv12">
+    <title>筑牢更加坚固的国家安全屏障-1</title>
+  </programme>
+  <programme start="20260415212000 +0800" stop="20260415215000 +0800" channel="cctv12">
     <title>一线-2026-75</title>
   </programme>
-  <programme start="20260415210000 +0800" stop="20260415213000 +0800" channel="cctv12">
+  <programme start="20260415215000 +0800" stop="20260415222300 +0800" channel="cctv12">
     <title>天网-2026-75</title>
   </programme>
-  <programme start="20260415213000 +0800" stop="20260415222300 +0800" channel="cctv12">
-    <title>剧懂法2025-92</title>
-  </programme>
   <programme start="20260415222300 +0800" stop="20260415231300 +0800" channel="cctv12">
-    <title>普法剧场2026-105</title>
+    <title>剧懂法2025-92</title>
   </programme>
   <programme start="20260415231300 +0800" stop="20260415235600 +0800" channel="cctv12">
     <title>一线-2025-219</title>
@@ -7377,19 +7377,19 @@
   <programme start="20260419181430 +0800" stop="20260419193000 +0800" channel="cctv15">
     <title>精彩音乐汇-我的爱对你说-2026-209</title>
   </programme>
-  <programme start="20260419193000 +0800" stop="20260419204530 +0800" channel="cctv15">
+  <programme start="20260419193000 +0800" stop="20260419215930 +0800" channel="cctv15">
     <title>影视留声机-2026-68-经典电影欣赏《霓虹灯下的哨兵》</title>
   </programme>
-  <programme start="20260419204530 +0800" stop="20260419224500 +0800" channel="cctv15">
+  <programme start="20260419215930 +0800" stop="20260419235900 +0800" channel="cctv15">
     <title>音乐周刊-和美之夜（重播1）</title>
   </programme>
-  <programme start="20260419224500 +0800" stop="20260419235900 +0800" channel="cctv15">
+  <programme start="20260419235900 +0800" stop="20260419235900 +0800" channel="cctv15">
     <title>影视留声机-2025-171</title>
   </programme>
-  <programme start="20260420000030 +0800" stop="20260420003815 +0800" channel="cctv15">
+  <programme start="20260420011430 +0800" stop="20260420015215 +0800" channel="cctv15">
     <title>风华国乐-2026-111</title>
   </programme>
-  <programme start="20260420003815 +0800" stop="20260420235900 +0800" channel="cctv15">
+  <programme start="20260420015215 +0800" stop="20260420235900 +0800" channel="cctv15">
     <title>CCTV音乐厅-2026-40-名家名曲（40）</title>
   </programme>
   <programme start="20260406002000 +0800" stop="20260406014500 +0800" channel="cctv16">
@@ -13347,11 +13347,8 @@
   <programme start="20260413190000 +0800" stop="20260413193000 +0800" channel="cctv4">
     <title>中国新闻</title>
   </programme>
-  <programme start="20260413193000 +0800" stop="20260413200000 +0800" channel="cctv4">
+  <programme start="20260413193000 +0800" stop="20260413203000 +0800" channel="cctv4">
     <title>今日亚洲</title>
-  </programme>
-  <programme start="20260413200000 +0800" stop="20260413203000 +0800" channel="cctv4">
-    <title>记住乡愁2026-46</title>
   </programme>
   <programme start="20260413203000 +0800" stop="20260413210000 +0800" channel="cctv4">
     <title>海峡两岸-2026-103</title>
@@ -13359,11 +13356,8 @@
   <programme start="20260413210000 +0800" stop="20260413213000 +0800" channel="cctv4">
     <title>中国新闻</title>
   </programme>
-  <programme start="20260413213000 +0800" stop="20260413220000 +0800" channel="cctv4">
+  <programme start="20260413213000 +0800" stop="20260413223000 +0800" channel="cctv4">
     <title>今日关注</title>
-  </programme>
-  <programme start="20260413220000 +0800" stop="20260413223000 +0800" channel="cctv4">
-    <title>走遍中国-2026-58</title>
   </programme>
   <programme start="20260413223000 +0800" stop="20260413230230 +0800" channel="cctv4">
     <title>新闻联播</title>
@@ -13401,26 +13395,23 @@
   <programme start="20260414040000 +0800" stop="20260414043000 +0800" channel="cctv4">
     <title>中国新闻</title>
   </programme>
-  <programme start="20260414043000 +0800" stop="20260414050040 +0800" channel="cctv4">
-    <title>今日关注</title>
+  <programme start="20260414043000 +0800" stop="20260414045740 +0800" channel="cctv4">
+    <title>国宝发现-2026-15</title>
   </programme>
-  <programme start="20260414050040 +0800" stop="20260414053200 +0800" channel="cctv4">
+  <programme start="20260414045740 +0800" stop="20260414053200 +0800" channel="cctv4">
     <title>中国文艺-2026-73</title>
   </programme>
-  <programme start="20260414053200 +0800" stop="20260414060040 +0800" channel="cctv4">
+  <programme start="20260414053200 +0800" stop="20260414060240 +0800" channel="cctv4">
+    <title>国家记忆-2026-5</title>
+  </programme>
+  <programme start="20260414060240 +0800" stop="20260414063040 +0800" channel="cctv4">
     <title>走遍中国-2026-58</title>
   </programme>
-  <programme start="20260414060040 +0800" stop="20260414063000 +0800" channel="cctv4">
+  <programme start="20260414063040 +0800" stop="20260414070000 +0800" channel="cctv4">
     <title>海峡两岸-2026-103</title>
   </programme>
-  <programme start="20260414063000 +0800" stop="20260414070000 +0800" channel="cctv4">
-    <title>今日亚洲</title>
-  </programme>
-  <programme start="20260414070000 +0800" stop="20260414073000 +0800" channel="cctv4">
+  <programme start="20260414070000 +0800" stop="20260414080000 +0800" channel="cctv4">
     <title>中国新闻</title>
-  </programme>
-  <programme start="20260414073000 +0800" stop="20260414080000 +0800" channel="cctv4">
-    <title>今日关注</title>
   </programme>
   <programme start="20260414080000 +0800" stop="20260414090000 +0800" channel="cctv4">
     <title>今日环球</title>
@@ -13446,29 +13437,23 @@
   <programme start="20260414113000 +0800" stop="20260414120000 +0800" channel="cctv4">
     <title>海峡两岸-2026-103</title>
   </programme>
-  <programme start="20260414120000 +0800" stop="20260414130305 +0800" channel="cctv4">
+  <programme start="20260414120000 +0800" stop="20260414140305 +0800" channel="cctv4">
     <title>中国新闻</title>
   </programme>
-  <programme start="20260414130305 +0800" stop="20260414134935 +0800" channel="cctv4">
+  <programme start="20260414140305 +0800" stop="20260414144935 +0800" channel="cctv4">
     <title>誓盟第36集</title>
   </programme>
-  <programme start="20260414134935 +0800" stop="20260414143550 +0800" channel="cctv4">
+  <programme start="20260414144935 +0800" stop="20260414153550 +0800" channel="cctv4">
     <title>誓盟第37集</title>
   </programme>
-  <programme start="20260414143550 +0800" stop="20260414152435 +0800" channel="cctv4">
+  <programme start="20260414153550 +0800" stop="20260414162435 +0800" channel="cctv4">
     <title>誓盟第38集</title>
   </programme>
-  <programme start="20260414152435 +0800" stop="20260414161105 +0800" channel="cctv4">
+  <programme start="20260414162435 +0800" stop="20260414171105 +0800" channel="cctv4">
     <title>誓盟第39集</title>
   </programme>
-  <programme start="20260414161105 +0800" stop="20260414165915 +0800" channel="cctv4">
+  <programme start="20260414171105 +0800" stop="20260414180000 +0800" channel="cctv4">
     <title>老虎队第1集</title>
-  </programme>
-  <programme start="20260414165915 +0800" stop="20260414171500 +0800" channel="cctv4">
-    <title>平凡匠心-2025-96</title>
-  </programme>
-  <programme start="20260414171500 +0800" stop="20260414180000 +0800" channel="cctv4">
-    <title>远方的家2026-79</title>
   </programme>
   <programme start="20260414180000 +0800" stop="20260414190000 +0800" channel="cctv4">
     <title>中国新闻</title>
@@ -13476,11 +13461,8 @@
   <programme start="20260414190000 +0800" stop="20260414193000 +0800" channel="cctv4">
     <title>中国新闻</title>
   </programme>
-  <programme start="20260414193000 +0800" stop="20260414200000 +0800" channel="cctv4">
+  <programme start="20260414193000 +0800" stop="20260414203000 +0800" channel="cctv4">
     <title>今日亚洲</title>
-  </programme>
-  <programme start="20260414200000 +0800" stop="20260414203000 +0800" channel="cctv4">
-    <title>记住乡愁2026-41</title>
   </programme>
   <programme start="20260414203000 +0800" stop="20260414210000 +0800" channel="cctv4">
     <title>海峡两岸-2026-104</title>
@@ -13488,29 +13470,29 @@
   <programme start="20260414210000 +0800" stop="20260414213000 +0800" channel="cctv4">
     <title>中国新闻</title>
   </programme>
-  <programme start="20260414213000 +0800" stop="20260414220000 +0800" channel="cctv4">
+  <programme start="20260414213000 +0800" stop="20260414223000 +0800" channel="cctv4">
     <title>今日关注</title>
-  </programme>
-  <programme start="20260414220000 +0800" stop="20260414223000 +0800" channel="cctv4">
-    <title>走遍中国-2026-59</title>
   </programme>
   <programme start="20260414223000 +0800" stop="20260414230230 +0800" channel="cctv4">
     <title>新闻联播</title>
   </programme>
-  <programme start="20260414230230 +0800" stop="20260414232830 +0800" channel="cctv4">
-    <title>今日亚洲</title>
-  </programme>
-  <programme start="20260414232830 +0800" stop="20260414235500 +0800" channel="cctv4">
+  <programme start="20260414230230 +0800" stop="20260414232900 +0800" channel="cctv4">
     <title>海峡两岸-2026-104</title>
   </programme>
-  <programme start="20260414235500 +0800" stop="20260414235900 +0800" channel="cctv4">
+  <programme start="20260414232900 +0800" stop="20260414235900 +0800" channel="cctv4">
     <title>护宝寻踪第22集</title>
   </programme>
-  <programme start="20260415004100 +0800" stop="20260415012740 +0800" channel="cctv4">
+  <programme start="20260415001500 +0800" stop="20260415010100 +0800" channel="cctv4">
     <title>护宝寻踪第23集</title>
   </programme>
-  <programme start="20260415012740 +0800" stop="20260415020000 +0800" channel="cctv4">
-    <title>中国文艺-2026-74</title>
+  <programme start="20260415010100 +0800" stop="20260415014700 +0800" channel="cctv4">
+    <title>护宝寻踪第24集</title>
+  </programme>
+  <programme start="20260415014700 +0800" stop="20260415015100 +0800" channel="cctv4">
+    <title>记住乡愁-片段展播-2024-1</title>
+  </programme>
+  <programme start="20260415015100 +0800" stop="20260415020000 +0800" channel="cctv4">
+    <title>记住乡愁-片段展播-2024-2</title>
   </programme>
   <programme start="20260415020000 +0800" stop="20260415023000 +0800" channel="cctv4">
     <title>新闻联播</title>
@@ -20287,7 +20269,7 @@
     <title>国防微视频-军歌嘹亮-七十五厘米（2026）</title>
   </programme>
   <programme start="20260413200930 +0800" stop="20260413204330 +0800" channel="cctv7">
-    <title>防务新观察-2026-103</title>
+    <title>防务新观察-2026-备播4</title>
   </programme>
   <programme start="20260413204330 +0800" stop="20260413211715 +0800" channel="cctv7">
     <title>军事纪实-2026-73</title>
@@ -20332,7 +20314,7 @@
     <title>兵器面面观-环球兵器大事件-2026-15</title>
   </programme>
   <programme start="20260414090300 +0800" stop="20260414093530 +0800" channel="cctv7">
-    <title>防务新观察-2026-103</title>
+    <title>防务新观察-2026-备播4</title>
   </programme>
   <programme start="20260414093530 +0800" stop="20260414100530 +0800" channel="cctv7">
     <title>军事纪实-2026-73</title>
@@ -20356,7 +20338,7 @@
     <title>正午国防军事</title>
   </programme>
   <programme start="20260414123630 +0800" stop="20260414131030 +0800" channel="cctv7">
-    <title>防务新观察-2026-103</title>
+    <title>防务新观察-2026-备播4</title>
   </programme>
   <programme start="20260414131030 +0800" stop="20260414133930 +0800" channel="cctv7">
     <title>军营的味道-2026-15</title>
@@ -29191,853 +29173,850 @@
     <title>8K标识演绎-总宣（音乐改版）（8K）</title>
   </programme>
   <programme start="20260414070035 +0800" stop="20260414070105 +0800" channel="cctv8k">
-    <title>城市风华录-宣传片（8K）</title>
+    <title>金石探文明-宣传片（8K）</title>
   </programme>
   <programme start="20260414070105 +0800" stop="20260414070135 +0800" channel="cctv8k">
-    <title>花开中国-宣传片（8K）</title>
-  </programme>
-  <programme start="20260414070135 +0800" stop="20260414070205 +0800" channel="cctv8k">
-    <title>金石探文明-宣传片（8K）</title>
-  </programme>
-  <programme start="20260414070205 +0800" stop="20260414070705 +0800" channel="cctv8k">
-    <title>上海总站超高清节目集锦-如果国宝会说话第一季（8K）-5</title>
-  </programme>
-  <programme start="20260414070705 +0800" stop="20260414071059 +0800" channel="cctv8k">
-    <title>2025年中秋晚会-亲爱的你啊（8K）</title>
-  </programme>
-  <programme start="20260414071059 +0800" stop="20260414071403 +0800" channel="cctv8k">
-    <title>2025年中秋晚会-直下看山河（8K）</title>
-  </programme>
-  <programme start="20260414071403 +0800" stop="20260414071727 +0800" channel="cctv8k">
-    <title>2025年中秋晚会-月半小夜曲（8K）</title>
-  </programme>
-  <programme start="20260414071727 +0800" stop="20260414072010 +0800" channel="cctv8k">
-    <title>2025年中秋晚会-沧海一声笑（8K）</title>
-  </programme>
-  <programme start="20260414072010 +0800" stop="20260414072225 +0800" channel="cctv8k">
-    <title>2025年中秋晚会-守望（8K）</title>
-  </programme>
-  <programme start="20260414072225 +0800" stop="20260414072300 +0800" channel="cctv8k">
-    <title>8K超高清万象-清明2026</title>
-  </programme>
-  <programme start="20260414072300 +0800" stop="20260414072730 +0800" channel="cctv8k">
-    <title>8K超高清万象-美丽中国 四季</title>
-  </programme>
-  <programme start="20260414072730 +0800" stop="20260414072900 +0800" channel="cctv8k">
-    <title>品牌强国工程-2026形象宣传片4（8K）</title>
-  </programme>
-  <programme start="20260414072900 +0800" stop="20260414073427 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-马上有奇迹（8K）</title>
-  </programme>
-  <programme start="20260414073427 +0800" stop="20260414073900 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-武BOT（8K）</title>
-  </programme>
-  <programme start="20260414073900 +0800" stop="20260414075035 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-奶奶的最爱（8K）</title>
-  </programme>
-  <programme start="20260414075035 +0800" stop="20260414075310 +0800" channel="cctv8k">
-    <title>奋楫家国 沈水欢歌颂端阳-五彩纳吉令（8K）</title>
-  </programme>
-  <programme start="20260414075310 +0800" stop="20260414075710 +0800" channel="cctv8k">
-    <title>奋楫家国 沈水欢歌颂端阳-我想你了（8K）</title>
-  </programme>
-  <programme start="20260414075710 +0800" stop="20260414075945 +0800" channel="cctv8k">
-    <title>奋楫家国 沈水欢歌颂端阳-浮生一白（8K）</title>
-  </programme>
-  <programme start="20260414075945 +0800" stop="20260414080015 +0800" channel="cctv8k">
     <title>城市风华录-宣传片（8K）</title>
   </programme>
-  <programme start="20260414080015 +0800" stop="20260414080045 +0800" channel="cctv8k">
-    <title>花开中国-宣传片（8K）</title>
-  </programme>
-  <programme start="20260414080045 +0800" stop="20260414080115 +0800" channel="cctv8k">
+  <programme start="20260414070135 +0800" stop="20260414070205 +0800" channel="cctv8k">
     <title>三餐四季第三季-宣传片（8K）</title>
   </programme>
-  <programme start="20260414080115 +0800" stop="20260414081215 +0800" channel="cctv8k">
-    <title>千秋诗颂-池上（8K）新</title>
+  <programme start="20260414070205 +0800" stop="20260414070235 +0800" channel="cctv8k">
+    <title>花开中国-宣传片（8K）</title>
   </programme>
-  <programme start="20260414081215 +0800" stop="20260414082215 +0800" channel="cctv8k">
-    <title>中华古树-阳山唐桂（8K）</title>
+  <programme start="20260414070235 +0800" stop="20260414070405 +0800" channel="cctv8k">
+    <title>品牌强国工程-2026形象宣传片4（8K）</title>
   </programme>
-  <programme start="20260414082215 +0800" stop="20260414082705 +0800" channel="cctv8k">
-    <title>大国小鲜——石榴说-1（8K）</title>
+  <programme start="20260414070405 +0800" stop="20260414070440 +0800" channel="cctv8k">
+    <title>8K超高清万象-清明2026</title>
   </programme>
-  <programme start="20260414082705 +0800" stop="20260414082945 +0800" channel="cctv8k">
-    <title>国博文物展示-错金银云纹铜犀尊（8K）</title>
+  <programme start="20260414070440 +0800" stop="20260414071007 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-马上有奇迹（8K）</title>
   </programme>
-  <programme start="20260414082945 +0800" stop="20260414083140 +0800" channel="cctv8k">
-    <title>国博文物展示-大盂鼎</title>
+  <programme start="20260414071007 +0800" stop="20260414071304 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-立春（8K）</title>
   </programme>
-  <programme start="20260414083140 +0800" stop="20260414084129 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-我最难忘的今宵（8K）</title>
+  <programme start="20260414071304 +0800" stop="20260414072439 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-奶奶的最爱（8K）</title>
   </programme>
-  <programme start="20260414084129 +0800" stop="20260414084535 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-吉量（8K）</title>
+  <programme start="20260414072439 +0800" stop="20260414072912 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-武BOT（8K）</title>
   </programme>
-  <programme start="20260414084535 +0800" stop="20260414084905 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-恭喜恭喜（8K）</title>
+  <programme start="20260414072912 +0800" stop="20260414073154 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-智造未来（8K）</title>
   </programme>
-  <programme start="20260414084905 +0800" stop="20260414085310 +0800" channel="cctv8k">
-    <title>二十四节气总宣-宣传片（8K）</title>
+  <programme start="20260414073154 +0800" stop="20260414073456 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-许我再少年（8K）</title>
   </programme>
-  <programme start="20260414085310 +0800" stop="20260414085600 +0800" channel="cctv8k">
+  <programme start="20260414073456 +0800" stop="20260414073746 +0800" channel="cctv8k">
     <title>大国之翼同风起-宣传片（8K）</title>
   </programme>
-  <programme start="20260414085600 +0800" stop="20260414085930 +0800" channel="cctv8k">
-    <title>鹿鸣课堂-宣传片(8K)</title>
+  <programme start="20260414073746 +0800" stop="20260414074025 +0800" channel="cctv8k">
+    <title>2025年中秋晚会-不要慌 太阳转身有月光（8K）</title>
   </programme>
-  <programme start="20260414085930 +0800" stop="20260414090030 +0800" channel="cctv8k">
-    <title>品牌强国工程-2026形象宣传片3（8K）</title>
+  <programme start="20260414074025 +0800" stop="20260414074252 +0800" channel="cctv8k">
+    <title>2025年中秋晚会-半个月亮爬上来（8K）</title>
+  </programme>
+  <programme start="20260414074252 +0800" stop="20260414074540 +0800" channel="cctv8k">
+    <title>2025年中秋晚会-新生（8K）</title>
+  </programme>
+  <programme start="20260414074540 +0800" stop="20260414074821 +0800" channel="cctv8k">
+    <title>2025年中秋晚会-川江号子（8K）</title>
+  </programme>
+  <programme start="20260414074821 +0800" stop="20260414075150 +0800" channel="cctv8k">
+    <title>2025年中秋晚会-只字不提（8K）</title>
+  </programme>
+  <programme start="20260414075150 +0800" stop="20260414075720 +0800" channel="cctv8k">
+    <title>美丽中国-新疆1（8K）</title>
+  </programme>
+  <programme start="20260414075720 +0800" stop="20260414080000 +0800" channel="cctv8k">
+    <title>国博文物展示-错金银云纹铜犀尊（8K）</title>
+  </programme>
+  <programme start="20260414080000 +0800" stop="20260414080030 +0800" channel="cctv8k">
+    <title>金石探文明-宣传片（8K）</title>
+  </programme>
+  <programme start="20260414080030 +0800" stop="20260414080100 +0800" channel="cctv8k">
+    <title>城市风华录-宣传片（8K）</title>
+  </programme>
+  <programme start="20260414080100 +0800" stop="20260414080130 +0800" channel="cctv8k">
+    <title>三餐四季第三季-宣传片（8K）</title>
+  </programme>
+  <programme start="20260414080130 +0800" stop="20260414080200 +0800" channel="cctv8k">
+    <title>花开中国-宣传片（8K）</title>
+  </programme>
+  <programme start="20260414080200 +0800" stop="20260414080330 +0800" channel="cctv8k">
+    <title>品牌强国工程-2026形象宣传片4（8K）</title>
+  </programme>
+  <programme start="20260414080330 +0800" stop="20260414080405 +0800" channel="cctv8k">
+    <title>8K超高清万象-清明2026</title>
+  </programme>
+  <programme start="20260414080405 +0800" stop="20260414081505 +0800" channel="cctv8k">
+    <title>千秋诗颂-出塞（8K）新</title>
+  </programme>
+  <programme start="20260414081505 +0800" stop="20260414081955 +0800" channel="cctv8k">
+    <title>大国小鲜——石榴说-1（8K）</title>
+  </programme>
+  <programme start="20260414081955 +0800" stop="20260414082137 +0800" channel="cctv8k">
+    <title>奋楫家国 沈水欢歌颂端阳-沈水欢歌（8K）</title>
+  </programme>
+  <programme start="20260414082137 +0800" stop="20260414082428 +0800" channel="cctv8k">
+    <title>奋楫家国 沈水欢歌颂端阳-画中来（8K）</title>
+  </programme>
+  <programme start="20260414082428 +0800" stop="20260414082859 +0800" channel="cctv8k">
+    <title>奋楫家国 沈水欢歌颂端阳-逐梦（8K）</title>
+  </programme>
+  <programme start="20260414082859 +0800" stop="20260414083304 +0800" channel="cctv8k">
+    <title>二十四节气总宣-宣传片（8K）</title>
+  </programme>
+  <programme start="20260414083304 +0800" stop="20260414083657 +0800" channel="cctv8k">
+    <title>2025年中秋晚会-月亮代表我的心＋与我同行（8K）</title>
+  </programme>
+  <programme start="20260414083657 +0800" stop="20260414084027 +0800" channel="cctv8k">
+    <title>2025年中秋晚会-将进酒（8K）</title>
+  </programme>
+  <programme start="20260414084027 +0800" stop="20260414084402 +0800" channel="cctv8k">
+    <title>2025年中秋晚会-无名的人（8K）</title>
+  </programme>
+  <programme start="20260414084402 +0800" stop="20260414084706 +0800" channel="cctv8k">
+    <title>2025年中秋晚会-直下看山河（8K）</title>
+  </programme>
+  <programme start="20260414084706 +0800" stop="20260414085000 +0800" channel="cctv8k">
+    <title>8K超高清万象-美丽中国 北上广</title>
+  </programme>
+  <programme start="20260414085000 +0800" stop="20260414090000 +0800" channel="cctv8k">
+    <title>中华古树-阳山唐桂（8K）</title>
+  </programme>
+  <programme start="20260414090000 +0800" stop="20260414090030 +0800" channel="cctv8k">
+    <title>金石探文明-宣传片（8K）</title>
   </programme>
   <programme start="20260414090030 +0800" stop="20260414090100 +0800" channel="cctv8k">
-    <title>金石探文明-宣传片（8K）</title>
+    <title>城市风华录-宣传片（8K）</title>
   </programme>
   <programme start="20260414090100 +0800" stop="20260414090130 +0800" channel="cctv8k">
     <title>三餐四季第三季-宣传片（8K）</title>
   </programme>
-  <programme start="20260414090130 +0800" stop="20260414090200 +0800" channel="cctv8k">
-    <title>花开中国-宣传片（8K）</title>
-  </programme>
-  <programme start="20260414090200 +0800" stop="20260414090451 +0800" channel="cctv8k">
-    <title>奋楫家国 沈水欢歌颂端阳-常来（8K）</title>
-  </programme>
-  <programme start="20260414090451 +0800" stop="20260414090646 +0800" channel="cctv8k">
-    <title>奋楫家国 沈水欢歌颂端阳-归乡（8K）</title>
-  </programme>
-  <programme start="20260414090646 +0800" stop="20260414091105 +0800" channel="cctv8k">
-    <title>奋楫家国 沈水欢歌颂端阳-你是人间四月天（8K）</title>
-  </programme>
-  <programme start="20260414091105 +0800" stop="20260414091458 +0800" channel="cctv8k">
-    <title>2025年中秋晚会-月亮照山川（8K）</title>
-  </programme>
-  <programme start="20260414091458 +0800" stop="20260414091825 +0800" channel="cctv8k">
-    <title>2025年中秋晚会-海阔天空（8K）</title>
-  </programme>
-  <programme start="20260414091825 +0800" stop="20260414092130 +0800" channel="cctv8k">
-    <title>2025年中秋晚会-海角天涯（8K）</title>
-  </programme>
-  <programme start="20260414092130 +0800" stop="20260414092255 +0800" channel="cctv8k">
-    <title>8K超高清万象-等春来（8K）</title>
-  </programme>
-  <programme start="20260414092255 +0800" stop="20260414092450 +0800" channel="cctv8k">
-    <title>国博文物展示-大盂鼎</title>
-  </programme>
-  <programme start="20260414092450 +0800" stop="20260414092510 +0800" channel="cctv8k">
-    <title>8K标识演绎-极光（8K）</title>
-  </programme>
-  <programme start="20260414092510 +0800" stop="20260414092810 +0800" channel="cctv8k">
-    <title>美丽中国-海南岛（8K）</title>
-  </programme>
-  <programme start="20260414092810 +0800" stop="20260414093052 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-智造未来（8K）</title>
-  </programme>
-  <programme start="20260414093052 +0800" stop="20260414093349 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-立春（8K）</title>
-  </programme>
-  <programme start="20260414093349 +0800" stop="20260414093712 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-喜雨（8K）</title>
-  </programme>
-  <programme start="20260414093712 +0800" stop="20260414094501 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-宜宾分会场（8K）</title>
-  </programme>
-  <programme start="20260414094501 +0800" stop="20260414094920 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-奔腾的海骝马（8K）</title>
-  </programme>
-  <programme start="20260414094920 +0800" stop="20260414095740 +0800" channel="cctv8k">
-    <title>精彩集锦-喀纳斯+三沙（8K）</title>
-  </programme>
-  <programme start="20260414095740 +0800" stop="20260414095815 +0800" channel="cctv8k">
+  <programme start="20260414090130 +0800" stop="20260414090205 +0800" channel="cctv8k">
     <title>8K超高清万象-清明2026</title>
   </programme>
-  <programme start="20260414095815 +0800" stop="20260414095945 +0800" channel="cctv8k">
-    <title>品牌强国工程-2026形象宣传片4（8K）</title>
+  <programme start="20260414090205 +0800" stop="20260414090753 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-贺花神（8K）</title>
   </programme>
-  <programme start="20260414095945 +0800" stop="20260414100005 +0800" channel="cctv8k">
-    <title>8K标识演绎-彩带（8K）</title>
+  <programme start="20260414090753 +0800" stop="20260414091147 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-闪耀动起来（8K）</title>
   </programme>
-  <programme start="20260414100005 +0800" stop="20260414100035 +0800" channel="cctv8k">
-    <title>花开中国-宣传片（8K）</title>
-  </programme>
-  <programme start="20260414100035 +0800" stop="20260414100105 +0800" channel="cctv8k">
-    <title>城市风华录-宣传片（8K）</title>
-  </programme>
-  <programme start="20260414100105 +0800" stop="20260414100135 +0800" channel="cctv8k">
-    <title>三餐四季第三季-宣传片（8K）</title>
-  </programme>
-  <programme start="20260414100135 +0800" stop="20260414100504 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-每道光（8K）</title>
-  </programme>
-  <programme start="20260414100504 +0800" stop="20260414101616 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-又来了（8K）</title>
-  </programme>
-  <programme start="20260414101616 +0800" stop="20260414101951 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-追影（8K）</title>
-  </programme>
-  <programme start="20260414101951 +0800" stop="20260414102245 +0800" channel="cctv8k">
-    <title>8K超高清万象-美丽中国 北上广</title>
-  </programme>
-  <programme start="20260414102245 +0800" stop="20260414102320 +0800" channel="cctv8k">
-    <title>8K标识演绎-总宣（音乐改版）（8K）</title>
-  </programme>
-  <programme start="20260414102320 +0800" stop="20260414103320 +0800" channel="cctv8k">
-    <title>中华古树-稷山板枣古树群（8K）</title>
-  </programme>
-  <programme start="20260414103320 +0800" stop="20260414103619 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-手到福来（8K）</title>
-  </programme>
-  <programme start="20260414103619 +0800" stop="20260414103850 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-串门指南（8K）</title>
-  </programme>
-  <programme start="20260414103850 +0800" stop="20260414104211 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-别来无恙（8K）</title>
-  </programme>
-  <programme start="20260414104211 +0800" stop="20260414105130 +0800" channel="cctv8k">
+  <programme start="20260414091147 +0800" stop="20260414092106 +0800" channel="cctv8k">
     <title>2026年春节联欢晚会-谁的菜（8K）</title>
   </programme>
-  <programme start="20260414105130 +0800" stop="20260414105430 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-梦底（8K）</title>
+  <programme start="20260414092106 +0800" stop="20260414092855 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-宜宾分会场（8K）</title>
   </programme>
-  <programme start="20260414105430 +0800" stop="20260414110000 +0800" channel="cctv8k">
-    <title>美丽中国-新疆1（8K）</title>
+  <programme start="20260414092855 +0800" stop="20260414093224 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-每道光（8K）</title>
   </programme>
-  <programme start="20260414110000 +0800" stop="20260414110030 +0800" channel="cctv8k">
+  <programme start="20260414093224 +0800" stop="20260414093428 +0800" channel="cctv8k">
+    <title>哈尔滨2025年亚冬会-夺冠时刻速度滑冰男子5000米（8K）</title>
+  </programme>
+  <programme start="20260414093428 +0800" stop="20260414093728 +0800" channel="cctv8k">
+    <title>美丽中国-海南岛（8K）</title>
+  </programme>
+  <programme start="20260414093728 +0800" stop="20260414094126 +0800" channel="cctv8k">
+    <title>奋楫家国 沈水欢歌颂端阳-相亲相爱（8K）</title>
+  </programme>
+  <programme start="20260414094126 +0800" stop="20260414094358 +0800" channel="cctv8k">
+    <title>奋楫家国 沈水欢歌颂端阳-任我（8K）</title>
+  </programme>
+  <programme start="20260414094358 +0800" stop="20260414094640 +0800" channel="cctv8k">
+    <title>奋楫家国 沈水欢歌颂端阳-龙族（8K）</title>
+  </programme>
+  <programme start="20260414094640 +0800" stop="20260414095140 +0800" channel="cctv8k">
+    <title>上海总站超高清节目集锦-如果国宝会说话第一季（8K）-5</title>
+  </programme>
+  <programme start="20260414095140 +0800" stop="20260414100000 +0800" channel="cctv8k">
+    <title>精彩集锦-喀纳斯+三沙（8K）</title>
+  </programme>
+  <programme start="20260414100000 +0800" stop="20260414100030 +0800" channel="cctv8k">
     <title>城市风华录-宣传片（8K）</title>
   </programme>
-  <programme start="20260414110030 +0800" stop="20260414110100 +0800" channel="cctv8k">
-    <title>花开中国-宣传片（8K）</title>
-  </programme>
-  <programme start="20260414110100 +0800" stop="20260414110130 +0800" channel="cctv8k">
-    <title>金石探文明-宣传片（8K）</title>
-  </programme>
-  <programme start="20260414110130 +0800" stop="20260414110630 +0800" channel="cctv8k">
-    <title>上海总站超高清节目集锦-如果国宝会说话第一季（8K）-7</title>
-  </programme>
-  <programme start="20260414110630 +0800" stop="20260414111024 +0800" channel="cctv8k">
-    <title>2025年中秋晚会-亲爱的你啊（8K）</title>
-  </programme>
-  <programme start="20260414111024 +0800" stop="20260414111328 +0800" channel="cctv8k">
-    <title>2025年中秋晚会-直下看山河（8K）</title>
-  </programme>
-  <programme start="20260414111328 +0800" stop="20260414111652 +0800" channel="cctv8k">
-    <title>2025年中秋晚会-月半小夜曲（8K）</title>
-  </programme>
-  <programme start="20260414111652 +0800" stop="20260414111935 +0800" channel="cctv8k">
-    <title>2025年中秋晚会-沧海一声笑（8K）</title>
-  </programme>
-  <programme start="20260414111935 +0800" stop="20260414112150 +0800" channel="cctv8k">
-    <title>2025年中秋晚会-守望（8K）</title>
-  </programme>
-  <programme start="20260414112150 +0800" stop="20260414112225 +0800" channel="cctv8k">
-    <title>8K超高清万象-清明2026</title>
-  </programme>
-  <programme start="20260414112225 +0800" stop="20260414112655 +0800" channel="cctv8k">
-    <title>8K超高清万象-美丽中国 四季</title>
-  </programme>
-  <programme start="20260414112655 +0800" stop="20260414112825 +0800" channel="cctv8k">
-    <title>品牌强国工程-2026形象宣传片4（8K）</title>
-  </programme>
-  <programme start="20260414112825 +0800" stop="20260414113352 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-马上有奇迹（8K）</title>
-  </programme>
-  <programme start="20260414113352 +0800" stop="20260414113825 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-武BOT（8K）</title>
-  </programme>
-  <programme start="20260414113825 +0800" stop="20260414115000 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-奶奶的最爱（8K）</title>
-  </programme>
-  <programme start="20260414115000 +0800" stop="20260414115235 +0800" channel="cctv8k">
-    <title>奋楫家国 沈水欢歌颂端阳-五彩纳吉令（8K）</title>
-  </programme>
-  <programme start="20260414115235 +0800" stop="20260414115635 +0800" channel="cctv8k">
-    <title>奋楫家国 沈水欢歌颂端阳-我想你了（8K）</title>
-  </programme>
-  <programme start="20260414115635 +0800" stop="20260414115910 +0800" channel="cctv8k">
-    <title>奋楫家国 沈水欢歌颂端阳-浮生一白（8K）</title>
-  </programme>
-  <programme start="20260414115910 +0800" stop="20260414115940 +0800" channel="cctv8k">
-    <title>城市风华录-宣传片（8K）</title>
-  </programme>
-  <programme start="20260414115940 +0800" stop="20260414120010 +0800" channel="cctv8k">
-    <title>花开中国-宣传片（8K）</title>
-  </programme>
-  <programme start="20260414120010 +0800" stop="20260414120040 +0800" channel="cctv8k">
+  <programme start="20260414100030 +0800" stop="20260414100100 +0800" channel="cctv8k">
     <title>三餐四季第三季-宣传片（8K）</title>
   </programme>
-  <programme start="20260414120040 +0800" stop="20260414121140 +0800" channel="cctv8k">
-    <title>千秋诗颂-池上（8K）新</title>
+  <programme start="20260414100100 +0800" stop="20260414100130 +0800" channel="cctv8k">
+    <title>花开中国-宣传片（8K）</title>
   </programme>
-  <programme start="20260414121140 +0800" stop="20260414122140 +0800" channel="cctv8k">
-    <title>中华古树-桑植闽楠王（8K）</title>
-  </programme>
-  <programme start="20260414122140 +0800" stop="20260414122630 +0800" channel="cctv8k">
-    <title>大国小鲜——石榴说-1（8K）</title>
-  </programme>
-  <programme start="20260414122630 +0800" stop="20260414122910 +0800" channel="cctv8k">
-    <title>国博文物展示-错金银云纹铜犀尊（8K）</title>
-  </programme>
-  <programme start="20260414122910 +0800" stop="20260414123105 +0800" channel="cctv8k">
-    <title>国博文物展示-大盂鼎</title>
-  </programme>
-  <programme start="20260414123105 +0800" stop="20260414124054 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-我最难忘的今宵（8K）</title>
-  </programme>
-  <programme start="20260414124054 +0800" stop="20260414124500 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-吉量（8K）</title>
-  </programme>
-  <programme start="20260414124500 +0800" stop="20260414124830 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-恭喜恭喜（8K）</title>
-  </programme>
-  <programme start="20260414124830 +0800" stop="20260414125235 +0800" channel="cctv8k">
-    <title>二十四节气总宣-宣传片（8K）</title>
-  </programme>
-  <programme start="20260414125235 +0800" stop="20260414125525 +0800" channel="cctv8k">
-    <title>大国之翼同风起-宣传片（8K）</title>
-  </programme>
-  <programme start="20260414125525 +0800" stop="20260414125855 +0800" channel="cctv8k">
-    <title>鹿鸣课堂-宣传片(8K)</title>
-  </programme>
-  <programme start="20260414125855 +0800" stop="20260414125955 +0800" channel="cctv8k">
+  <programme start="20260414100130 +0800" stop="20260414100230 +0800" channel="cctv8k">
     <title>品牌强国工程-2026形象宣传片3（8K）</title>
   </programme>
-  <programme start="20260414125955 +0800" stop="20260414130025 +0800" channel="cctv8k">
-    <title>金石探文明-宣传片（8K）</title>
-  </programme>
-  <programme start="20260414130025 +0800" stop="20260414130055 +0800" channel="cctv8k">
-    <title>三餐四季第三季-宣传片（8K）</title>
-  </programme>
-  <programme start="20260414130055 +0800" stop="20260414130125 +0800" channel="cctv8k">
-    <title>花开中国-宣传片（8K）</title>
-  </programme>
-  <programme start="20260414130125 +0800" stop="20260414130416 +0800" channel="cctv8k">
-    <title>奋楫家国 沈水欢歌颂端阳-常来（8K）</title>
-  </programme>
-  <programme start="20260414130416 +0800" stop="20260414130611 +0800" channel="cctv8k">
-    <title>奋楫家国 沈水欢歌颂端阳-归乡（8K）</title>
-  </programme>
-  <programme start="20260414130611 +0800" stop="20260414131030 +0800" channel="cctv8k">
-    <title>奋楫家国 沈水欢歌颂端阳-你是人间四月天（8K）</title>
-  </programme>
-  <programme start="20260414131030 +0800" stop="20260414131423 +0800" channel="cctv8k">
-    <title>2025年中秋晚会-月亮照山川（8K）</title>
-  </programme>
-  <programme start="20260414131423 +0800" stop="20260414131750 +0800" channel="cctv8k">
-    <title>2025年中秋晚会-海阔天空（8K）</title>
-  </programme>
-  <programme start="20260414131750 +0800" stop="20260414132055 +0800" channel="cctv8k">
-    <title>2025年中秋晚会-海角天涯（8K）</title>
-  </programme>
-  <programme start="20260414132055 +0800" stop="20260414132220 +0800" channel="cctv8k">
-    <title>8K超高清万象-等春来（8K）</title>
-  </programme>
-  <programme start="20260414132220 +0800" stop="20260414132415 +0800" channel="cctv8k">
-    <title>国博文物展示-大盂鼎</title>
-  </programme>
-  <programme start="20260414132415 +0800" stop="20260414132435 +0800" channel="cctv8k">
-    <title>8K标识演绎-极光（8K）</title>
-  </programme>
-  <programme start="20260414132435 +0800" stop="20260414132735 +0800" channel="cctv8k">
-    <title>美丽中国-海南岛（8K）</title>
-  </programme>
-  <programme start="20260414132735 +0800" stop="20260414133017 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-智造未来（8K）</title>
-  </programme>
-  <programme start="20260414133017 +0800" stop="20260414133314 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-立春（8K）</title>
-  </programme>
-  <programme start="20260414133314 +0800" stop="20260414133637 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-喜雨（8K）</title>
-  </programme>
-  <programme start="20260414133637 +0800" stop="20260414134426 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-宜宾分会场（8K）</title>
-  </programme>
-  <programme start="20260414134426 +0800" stop="20260414134845 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-奔腾的海骝马（8K）</title>
-  </programme>
-  <programme start="20260414134845 +0800" stop="20260414135705 +0800" channel="cctv8k">
-    <title>精彩集锦-喀纳斯+三沙（8K）</title>
-  </programme>
-  <programme start="20260414135705 +0800" stop="20260414135740 +0800" channel="cctv8k">
+  <programme start="20260414100230 +0800" stop="20260414100305 +0800" channel="cctv8k">
     <title>8K超高清万象-清明2026</title>
   </programme>
-  <programme start="20260414135740 +0800" stop="20260414135910 +0800" channel="cctv8k">
-    <title>品牌强国工程-2026形象宣传片4（8K）</title>
+  <programme start="20260414100305 +0800" stop="20260414100711 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-吉量（8K）</title>
   </programme>
-  <programme start="20260414135910 +0800" stop="20260414135930 +0800" channel="cctv8k">
-    <title>8K标识演绎-彩带（8K）</title>
+  <programme start="20260414100711 +0800" stop="20260414101025 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-来晒秋（8K）</title>
   </programme>
-  <programme start="20260414135930 +0800" stop="20260414140000 +0800" channel="cctv8k">
-    <title>花开中国-宣传片（8K）</title>
+  <programme start="20260414101025 +0800" stop="20260414101959 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-你准喜欢（8K）</title>
   </programme>
-  <programme start="20260414140000 +0800" stop="20260414140030 +0800" channel="cctv8k">
-    <title>城市风华录-宣传片（8K）</title>
+  <programme start="20260414101959 +0800" stop="20260414102403 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-人间共鸣（8K）</title>
   </programme>
-  <programme start="20260414140030 +0800" stop="20260414140100 +0800" channel="cctv8k">
+  <programme start="20260414102403 +0800" stop="20260414103321 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-血压计（8K）</title>
+  </programme>
+  <programme start="20260414103321 +0800" stop="20260414104321 +0800" channel="cctv8k">
+    <title>中华古树-稷山板枣古树群（8K）</title>
+  </programme>
+  <programme start="20260414104321 +0800" stop="20260414104811 +0800" channel="cctv8k">
+    <title>大国小鲜——石榴说-1（8K）</title>
+  </programme>
+  <programme start="20260414104811 +0800" stop="20260414105311 +0800" channel="cctv8k">
+    <title>上海总站超高清节目集锦-如果国宝会说话第一季（8K）-7</title>
+  </programme>
+  <programme start="20260414105311 +0800" stop="20260414105416 +0800" channel="cctv8k">
+    <title>哈尔滨2025年亚冬会-夺冠时刻速度滑冰女子团体追逐（8K）</title>
+  </programme>
+  <programme start="20260414105416 +0800" stop="20260414105525 +0800" channel="cctv8k">
+    <title>哈尔滨2025年亚冬会-夺冠时刻短道速滑女子3000米（8K）</title>
+  </programme>
+  <programme start="20260414105525 +0800" stop="20260414105710 +0800" channel="cctv8k">
+    <title>哈尔滨2025年亚冬会-夺冠时刻速度滑冰女子1500米（8K）</title>
+  </programme>
+  <programme start="20260414105710 +0800" stop="20260414110000 +0800" channel="cctv8k">
+    <title>大国之翼同风起-宣传片（8K）</title>
+  </programme>
+  <programme start="20260414110000 +0800" stop="20260414110030 +0800" channel="cctv8k">
+    <title>金石探文明-宣传片（8K）</title>
+  </programme>
+  <programme start="20260414110030 +0800" stop="20260414110100 +0800" channel="cctv8k">
     <title>三餐四季第三季-宣传片（8K）</title>
   </programme>
-  <programme start="20260414140100 +0800" stop="20260414140429 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-每道光（8K）</title>
+  <programme start="20260414110100 +0800" stop="20260414110130 +0800" channel="cctv8k">
+    <title>花开中国-宣传片（8K）</title>
   </programme>
-  <programme start="20260414140429 +0800" stop="20260414141541 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-又来了（8K）</title>
+  <programme start="20260414110130 +0800" stop="20260414110230 +0800" channel="cctv8k">
+    <title>品牌强国工程-2026形象宣传片3（8K）</title>
   </programme>
-  <programme start="20260414141541 +0800" stop="20260414141916 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-追影（8K）</title>
+  <programme start="20260414110230 +0800" stop="20260414110305 +0800" channel="cctv8k">
+    <title>8K超高清万象-清明2026</title>
   </programme>
-  <programme start="20260414141916 +0800" stop="20260414142210 +0800" channel="cctv8k">
+  <programme start="20260414110305 +0800" stop="20260414110710 +0800" channel="cctv8k">
+    <title>二十四节气总宣-宣传片（8K）</title>
+  </programme>
+  <programme start="20260414110710 +0800" stop="20260414111237 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-马上有奇迹（8K）</title>
+  </programme>
+  <programme start="20260414111237 +0800" stop="20260414111534 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-立春（8K）</title>
+  </programme>
+  <programme start="20260414111534 +0800" stop="20260414112709 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-奶奶的最爱（8K）</title>
+  </programme>
+  <programme start="20260414112709 +0800" stop="20260414113142 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-武BOT（8K）</title>
+  </programme>
+  <programme start="20260414113142 +0800" stop="20260414113424 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-智造未来（8K）</title>
+  </programme>
+  <programme start="20260414113424 +0800" stop="20260414113726 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-许我再少年（8K）</title>
+  </programme>
+  <programme start="20260414113726 +0800" stop="20260414114026 +0800" channel="cctv8k">
+    <title>美丽中国-海南岛（8K）</title>
+  </programme>
+  <programme start="20260414114026 +0800" stop="20260414114305 +0800" channel="cctv8k">
+    <title>2025年中秋晚会-不要慌 太阳转身有月光（8K）</title>
+  </programme>
+  <programme start="20260414114305 +0800" stop="20260414114532 +0800" channel="cctv8k">
+    <title>2025年中秋晚会-半个月亮爬上来（8K）</title>
+  </programme>
+  <programme start="20260414114532 +0800" stop="20260414114820 +0800" channel="cctv8k">
+    <title>2025年中秋晚会-新生（8K）</title>
+  </programme>
+  <programme start="20260414114820 +0800" stop="20260414115101 +0800" channel="cctv8k">
+    <title>2025年中秋晚会-川江号子（8K）</title>
+  </programme>
+  <programme start="20260414115101 +0800" stop="20260414115430 +0800" channel="cctv8k">
+    <title>2025年中秋晚会-只字不提（8K）</title>
+  </programme>
+  <programme start="20260414115430 +0800" stop="20260414115710 +0800" channel="cctv8k">
+    <title>国博文物展示-错金银云纹铜犀尊（8K）</title>
+  </programme>
+  <programme start="20260414115710 +0800" stop="20260414120000 +0800" channel="cctv8k">
+    <title>大国之翼同风起-宣传片（8K）</title>
+  </programme>
+  <programme start="20260414120000 +0800" stop="20260414120030 +0800" channel="cctv8k">
+    <title>金石探文明-宣传片（8K）</title>
+  </programme>
+  <programme start="20260414120030 +0800" stop="20260414120100 +0800" channel="cctv8k">
+    <title>城市风华录-宣传片（8K）</title>
+  </programme>
+  <programme start="20260414120100 +0800" stop="20260414120130 +0800" channel="cctv8k">
+    <title>三餐四季第三季-宣传片（8K）</title>
+  </programme>
+  <programme start="20260414120130 +0800" stop="20260414120200 +0800" channel="cctv8k">
+    <title>花开中国-宣传片（8K）</title>
+  </programme>
+  <programme start="20260414120200 +0800" stop="20260414120330 +0800" channel="cctv8k">
+    <title>品牌强国工程-2026形象宣传片4（8K）</title>
+  </programme>
+  <programme start="20260414120330 +0800" stop="20260414120405 +0800" channel="cctv8k">
+    <title>8K超高清万象-清明2026</title>
+  </programme>
+  <programme start="20260414120405 +0800" stop="20260414121505 +0800" channel="cctv8k">
+    <title>千秋诗颂-出塞（8K）新</title>
+  </programme>
+  <programme start="20260414121505 +0800" stop="20260414121955 +0800" channel="cctv8k">
+    <title>大国小鲜——石榴说-1（8K）</title>
+  </programme>
+  <programme start="20260414121955 +0800" stop="20260414122137 +0800" channel="cctv8k">
+    <title>奋楫家国 沈水欢歌颂端阳-沈水欢歌（8K）</title>
+  </programme>
+  <programme start="20260414122137 +0800" stop="20260414122428 +0800" channel="cctv8k">
+    <title>奋楫家国 沈水欢歌颂端阳-画中来（8K）</title>
+  </programme>
+  <programme start="20260414122428 +0800" stop="20260414122859 +0800" channel="cctv8k">
+    <title>奋楫家国 沈水欢歌颂端阳-逐梦（8K）</title>
+  </programme>
+  <programme start="20260414122859 +0800" stop="20260414123304 +0800" channel="cctv8k">
+    <title>二十四节气总宣-宣传片（8K）</title>
+  </programme>
+  <programme start="20260414123304 +0800" stop="20260414123657 +0800" channel="cctv8k">
+    <title>2025年中秋晚会-月亮代表我的心＋与我同行（8K）</title>
+  </programme>
+  <programme start="20260414123657 +0800" stop="20260414124027 +0800" channel="cctv8k">
+    <title>2025年中秋晚会-将进酒（8K）</title>
+  </programme>
+  <programme start="20260414124027 +0800" stop="20260414124402 +0800" channel="cctv8k">
+    <title>2025年中秋晚会-无名的人（8K）</title>
+  </programme>
+  <programme start="20260414124402 +0800" stop="20260414124706 +0800" channel="cctv8k">
+    <title>2025年中秋晚会-直下看山河（8K）</title>
+  </programme>
+  <programme start="20260414124706 +0800" stop="20260414125000 +0800" channel="cctv8k">
     <title>8K超高清万象-美丽中国 北上广</title>
   </programme>
-  <programme start="20260414142210 +0800" stop="20260414142245 +0800" channel="cctv8k">
-    <title>8K标识演绎-总宣（音乐改版）（8K）</title>
+  <programme start="20260414125000 +0800" stop="20260414130000 +0800" channel="cctv8k">
+    <title>中华古树-桑植闽楠王（8K）</title>
   </programme>
-  <programme start="20260414142245 +0800" stop="20260414143245 +0800" channel="cctv8k">
-    <title>中华古树-建阳闽楠古树群（8K）</title>
+  <programme start="20260414130000 +0800" stop="20260414130030 +0800" channel="cctv8k">
+    <title>金石探文明-宣传片（8K）</title>
   </programme>
-  <programme start="20260414143245 +0800" stop="20260414143544 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-手到福来（8K）</title>
+  <programme start="20260414130030 +0800" stop="20260414130100 +0800" channel="cctv8k">
+    <title>城市风华录-宣传片（8K）</title>
   </programme>
-  <programme start="20260414143544 +0800" stop="20260414143815 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-串门指南（8K）</title>
+  <programme start="20260414130100 +0800" stop="20260414130130 +0800" channel="cctv8k">
+    <title>花开中国-宣传片（8K）</title>
   </programme>
-  <programme start="20260414143815 +0800" stop="20260414144136 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-别来无恙（8K）</title>
+  <programme start="20260414130130 +0800" stop="20260414130205 +0800" channel="cctv8k">
+    <title>8K超高清万象-清明2026</title>
   </programme>
-  <programme start="20260414144136 +0800" stop="20260414145055 +0800" channel="cctv8k">
+  <programme start="20260414130205 +0800" stop="20260414130753 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-贺花神（8K）</title>
+  </programme>
+  <programme start="20260414130753 +0800" stop="20260414131147 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-闪耀动起来（8K）</title>
+  </programme>
+  <programme start="20260414131147 +0800" stop="20260414132106 +0800" channel="cctv8k">
     <title>2026年春节联欢晚会-谁的菜（8K）</title>
   </programme>
-  <programme start="20260414145055 +0800" stop="20260414145355 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-梦底（8K）</title>
+  <programme start="20260414132106 +0800" stop="20260414132855 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-宜宾分会场（8K）</title>
   </programme>
-  <programme start="20260414145355 +0800" stop="20260414145925 +0800" channel="cctv8k">
-    <title>美丽中国-新疆1（8K）</title>
+  <programme start="20260414132855 +0800" stop="20260414133224 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-每道光（8K）</title>
   </programme>
-  <programme start="20260414145925 +0800" stop="20260414150000 +0800" channel="cctv8k">
-    <title>8K标识演绎-总宣（音乐改版）（8K）</title>
+  <programme start="20260414133224 +0800" stop="20260414133428 +0800" channel="cctv8k">
+    <title>哈尔滨2025年亚冬会-夺冠时刻速度滑冰男子5000米（8K）</title>
+  </programme>
+  <programme start="20260414133428 +0800" stop="20260414133728 +0800" channel="cctv8k">
+    <title>美丽中国-海南岛（8K）</title>
+  </programme>
+  <programme start="20260414133728 +0800" stop="20260414134126 +0800" channel="cctv8k">
+    <title>奋楫家国 沈水欢歌颂端阳-相亲相爱（8K）</title>
+  </programme>
+  <programme start="20260414134126 +0800" stop="20260414134358 +0800" channel="cctv8k">
+    <title>奋楫家国 沈水欢歌颂端阳-任我（8K）</title>
+  </programme>
+  <programme start="20260414134358 +0800" stop="20260414134640 +0800" channel="cctv8k">
+    <title>奋楫家国 沈水欢歌颂端阳-龙族（8K）</title>
+  </programme>
+  <programme start="20260414134640 +0800" stop="20260414135140 +0800" channel="cctv8k">
+    <title>上海总站超高清节目集锦-如果国宝会说话第一季（8K）-8</title>
+  </programme>
+  <programme start="20260414135140 +0800" stop="20260414140000 +0800" channel="cctv8k">
+    <title>精彩集锦-喀纳斯+三沙（8K）</title>
+  </programme>
+  <programme start="20260414140000 +0800" stop="20260414140030 +0800" channel="cctv8k">
+    <title>金石探文明-宣传片（8K）</title>
+  </programme>
+  <programme start="20260414140030 +0800" stop="20260414140100 +0800" channel="cctv8k">
+    <title>城市风华录-宣传片（8K）</title>
+  </programme>
+  <programme start="20260414140100 +0800" stop="20260414140130 +0800" channel="cctv8k">
+    <title>三餐四季第三季-宣传片（8K）</title>
+  </programme>
+  <programme start="20260414140130 +0800" stop="20260414140230 +0800" channel="cctv8k">
+    <title>品牌强国工程-2026形象宣传片3（8K）</title>
+  </programme>
+  <programme start="20260414140230 +0800" stop="20260414140305 +0800" channel="cctv8k">
+    <title>8K超高清万象-清明2026</title>
+  </programme>
+  <programme start="20260414140305 +0800" stop="20260414140711 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-吉量（8K）</title>
+  </programme>
+  <programme start="20260414140711 +0800" stop="20260414141025 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-来晒秋（8K）</title>
+  </programme>
+  <programme start="20260414141025 +0800" stop="20260414141959 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-你准喜欢（8K）</title>
+  </programme>
+  <programme start="20260414141959 +0800" stop="20260414142403 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-人间共鸣（8K）</title>
+  </programme>
+  <programme start="20260414142403 +0800" stop="20260414143321 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-血压计（8K）</title>
+  </programme>
+  <programme start="20260414143321 +0800" stop="20260414144321 +0800" channel="cctv8k">
+    <title>中华古树-建阳闽楠古树群（8K）</title>
+  </programme>
+  <programme start="20260414144321 +0800" stop="20260414144811 +0800" channel="cctv8k">
+    <title>大国小鲜——石榴说-1（8K）</title>
+  </programme>
+  <programme start="20260414144811 +0800" stop="20260414145311 +0800" channel="cctv8k">
+    <title>上海总站超高清节目集锦-如果国宝会说话第一季（8K）-9</title>
+  </programme>
+  <programme start="20260414145311 +0800" stop="20260414145416 +0800" channel="cctv8k">
+    <title>哈尔滨2025年亚冬会-夺冠时刻速度滑冰男子团体追逐（8K）</title>
+  </programme>
+  <programme start="20260414145416 +0800" stop="20260414145525 +0800" channel="cctv8k">
+    <title>哈尔滨2025年亚冬会-夺冠时刻短道速滑女子3000米（8K）</title>
+  </programme>
+  <programme start="20260414145525 +0800" stop="20260414145710 +0800" channel="cctv8k">
+    <title>哈尔滨2025年亚冬会-夺冠时刻速度滑冰女子1500米（8K）</title>
+  </programme>
+  <programme start="20260414145710 +0800" stop="20260414150000 +0800" channel="cctv8k">
+    <title>大国之翼同风起-宣传片（8K）</title>
   </programme>
   <programme start="20260414150000 +0800" stop="20260414150030 +0800" channel="cctv8k">
     <title>城市风华录-宣传片（8K）</title>
   </programme>
   <programme start="20260414150030 +0800" stop="20260414150100 +0800" channel="cctv8k">
-    <title>花开中国-宣传片（8K）</title>
+    <title>三餐四季第三季-宣传片（8K）</title>
   </programme>
   <programme start="20260414150100 +0800" stop="20260414150130 +0800" channel="cctv8k">
-    <title>金石探文明-宣传片（8K）</title>
-  </programme>
-  <programme start="20260414150130 +0800" stop="20260414150630 +0800" channel="cctv8k">
-    <title>上海总站超高清节目集锦-如果国宝会说话第一季（8K）-8</title>
-  </programme>
-  <programme start="20260414150630 +0800" stop="20260414151024 +0800" channel="cctv8k">
-    <title>2025年中秋晚会-亲爱的你啊（8K）</title>
-  </programme>
-  <programme start="20260414151024 +0800" stop="20260414151328 +0800" channel="cctv8k">
-    <title>2025年中秋晚会-直下看山河（8K）</title>
-  </programme>
-  <programme start="20260414151328 +0800" stop="20260414151652 +0800" channel="cctv8k">
-    <title>2025年中秋晚会-月半小夜曲（8K）</title>
-  </programme>
-  <programme start="20260414151652 +0800" stop="20260414151935 +0800" channel="cctv8k">
-    <title>2025年中秋晚会-沧海一声笑（8K）</title>
-  </programme>
-  <programme start="20260414151935 +0800" stop="20260414152150 +0800" channel="cctv8k">
-    <title>2025年中秋晚会-守望（8K）</title>
-  </programme>
-  <programme start="20260414152150 +0800" stop="20260414152225 +0800" channel="cctv8k">
-    <title>8K超高清万象-清明2026</title>
-  </programme>
-  <programme start="20260414152225 +0800" stop="20260414152655 +0800" channel="cctv8k">
-    <title>8K超高清万象-美丽中国 四季</title>
-  </programme>
-  <programme start="20260414152655 +0800" stop="20260414152825 +0800" channel="cctv8k">
-    <title>品牌强国工程-2026形象宣传片4（8K）</title>
-  </programme>
-  <programme start="20260414152825 +0800" stop="20260414153352 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-马上有奇迹（8K）</title>
-  </programme>
-  <programme start="20260414153352 +0800" stop="20260414153825 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-武BOT（8K）</title>
-  </programme>
-  <programme start="20260414153825 +0800" stop="20260414155000 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-奶奶的最爱（8K）</title>
-  </programme>
-  <programme start="20260414155000 +0800" stop="20260414155235 +0800" channel="cctv8k">
-    <title>奋楫家国 沈水欢歌颂端阳-五彩纳吉令（8K）</title>
-  </programme>
-  <programme start="20260414155235 +0800" stop="20260414155635 +0800" channel="cctv8k">
-    <title>奋楫家国 沈水欢歌颂端阳-我想你了（8K）</title>
-  </programme>
-  <programme start="20260414155635 +0800" stop="20260414155910 +0800" channel="cctv8k">
-    <title>奋楫家国 沈水欢歌颂端阳-浮生一白（8K）</title>
-  </programme>
-  <programme start="20260414155910 +0800" stop="20260414155940 +0800" channel="cctv8k">
-    <title>城市风华录-宣传片（8K）</title>
-  </programme>
-  <programme start="20260414155940 +0800" stop="20260414160010 +0800" channel="cctv8k">
     <title>花开中国-宣传片（8K）</title>
   </programme>
-  <programme start="20260414160010 +0800" stop="20260414160040 +0800" channel="cctv8k">
-    <title>三餐四季第三季-宣传片（8K）</title>
+  <programme start="20260414150130 +0800" stop="20260414150230 +0800" channel="cctv8k">
+    <title>品牌强国工程-2026形象宣传片3（8K）</title>
   </programme>
-  <programme start="20260414160040 +0800" stop="20260414161140 +0800" channel="cctv8k">
-    <title>千秋诗颂-池上（8K）新</title>
+  <programme start="20260414150230 +0800" stop="20260414150305 +0800" channel="cctv8k">
+    <title>8K超高清万象-清明2026</title>
   </programme>
-  <programme start="20260414161140 +0800" stop="20260414162140 +0800" channel="cctv8k">
-    <title>中华古树-绿色国宝（8K）</title>
-  </programme>
-  <programme start="20260414162140 +0800" stop="20260414162630 +0800" channel="cctv8k">
-    <title>大国小鲜——石榴说-1（8K）</title>
-  </programme>
-  <programme start="20260414162630 +0800" stop="20260414162910 +0800" channel="cctv8k">
-    <title>国博文物展示-错金银云纹铜犀尊（8K）</title>
-  </programme>
-  <programme start="20260414162910 +0800" stop="20260414163105 +0800" channel="cctv8k">
-    <title>国博文物展示-大盂鼎</title>
-  </programme>
-  <programme start="20260414163105 +0800" stop="20260414164054 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-我最难忘的今宵（8K）</title>
-  </programme>
-  <programme start="20260414164054 +0800" stop="20260414164500 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-吉量（8K）</title>
-  </programme>
-  <programme start="20260414164500 +0800" stop="20260414164830 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-恭喜恭喜（8K）</title>
-  </programme>
-  <programme start="20260414164830 +0800" stop="20260414165235 +0800" channel="cctv8k">
+  <programme start="20260414150305 +0800" stop="20260414150710 +0800" channel="cctv8k">
     <title>二十四节气总宣-宣传片（8K）</title>
   </programme>
-  <programme start="20260414165235 +0800" stop="20260414165525 +0800" channel="cctv8k">
-    <title>大国之翼同风起-宣传片（8K）</title>
+  <programme start="20260414150710 +0800" stop="20260414151237 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-马上有奇迹（8K）</title>
   </programme>
-  <programme start="20260414165525 +0800" stop="20260414165855 +0800" channel="cctv8k">
-    <title>鹿鸣课堂-宣传片(8K)</title>
-  </programme>
-  <programme start="20260414165855 +0800" stop="20260414165955 +0800" channel="cctv8k">
-    <title>品牌强国工程-2026形象宣传片3（8K）</title>
-  </programme>
-  <programme start="20260414165955 +0800" stop="20260414170025 +0800" channel="cctv8k">
-    <title>金石探文明-宣传片（8K）</title>
-  </programme>
-  <programme start="20260414170025 +0800" stop="20260414170055 +0800" channel="cctv8k">
-    <title>三餐四季第三季-宣传片（8K）</title>
-  </programme>
-  <programme start="20260414170055 +0800" stop="20260414170125 +0800" channel="cctv8k">
-    <title>花开中国-宣传片（8K）</title>
-  </programme>
-  <programme start="20260414170125 +0800" stop="20260414170416 +0800" channel="cctv8k">
-    <title>奋楫家国 沈水欢歌颂端阳-常来（8K）</title>
-  </programme>
-  <programme start="20260414170416 +0800" stop="20260414170611 +0800" channel="cctv8k">
-    <title>奋楫家国 沈水欢歌颂端阳-归乡（8K）</title>
-  </programme>
-  <programme start="20260414170611 +0800" stop="20260414171030 +0800" channel="cctv8k">
-    <title>奋楫家国 沈水欢歌颂端阳-你是人间四月天（8K）</title>
-  </programme>
-  <programme start="20260414171030 +0800" stop="20260414171423 +0800" channel="cctv8k">
-    <title>2025年中秋晚会-月亮照山川（8K）</title>
-  </programme>
-  <programme start="20260414171423 +0800" stop="20260414171750 +0800" channel="cctv8k">
-    <title>2025年中秋晚会-海阔天空（8K）</title>
-  </programme>
-  <programme start="20260414171750 +0800" stop="20260414172055 +0800" channel="cctv8k">
-    <title>2025年中秋晚会-海角天涯（8K）</title>
-  </programme>
-  <programme start="20260414172055 +0800" stop="20260414172220 +0800" channel="cctv8k">
-    <title>8K超高清万象-等春来（8K）</title>
-  </programme>
-  <programme start="20260414172220 +0800" stop="20260414172415 +0800" channel="cctv8k">
-    <title>国博文物展示-大盂鼎</title>
-  </programme>
-  <programme start="20260414172415 +0800" stop="20260414172435 +0800" channel="cctv8k">
-    <title>8K标识演绎-极光（8K）</title>
-  </programme>
-  <programme start="20260414172435 +0800" stop="20260414172735 +0800" channel="cctv8k">
-    <title>美丽中国-海南岛（8K）</title>
-  </programme>
-  <programme start="20260414172735 +0800" stop="20260414173017 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-智造未来（8K）</title>
-  </programme>
-  <programme start="20260414173017 +0800" stop="20260414173314 +0800" channel="cctv8k">
+  <programme start="20260414151237 +0800" stop="20260414151534 +0800" channel="cctv8k">
     <title>2026年春节联欢晚会-立春（8K）</title>
   </programme>
-  <programme start="20260414173314 +0800" stop="20260414173637 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-喜雨（8K）</title>
+  <programme start="20260414151534 +0800" stop="20260414152709 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-奶奶的最爱（8K）</title>
   </programme>
-  <programme start="20260414173637 +0800" stop="20260414174426 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-宜宾分会场（8K）</title>
+  <programme start="20260414152709 +0800" stop="20260414153142 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-武BOT（8K）</title>
   </programme>
-  <programme start="20260414174426 +0800" stop="20260414174845 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-奔腾的海骝马（8K）</title>
+  <programme start="20260414153142 +0800" stop="20260414153424 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-智造未来（8K）</title>
   </programme>
-  <programme start="20260414174845 +0800" stop="20260414175705 +0800" channel="cctv8k">
-    <title>精彩集锦-喀纳斯+三沙（8K）</title>
-  </programme>
-  <programme start="20260414175705 +0800" stop="20260414175740 +0800" channel="cctv8k">
-    <title>8K超高清万象-清明2026</title>
-  </programme>
-  <programme start="20260414175740 +0800" stop="20260414175910 +0800" channel="cctv8k">
-    <title>品牌强国工程-2026形象宣传片4（8K）</title>
-  </programme>
-  <programme start="20260414175910 +0800" stop="20260414175930 +0800" channel="cctv8k">
-    <title>8K标识演绎-彩带（8K）</title>
-  </programme>
-  <programme start="20260414175930 +0800" stop="20260414180000 +0800" channel="cctv8k">
-    <title>花开中国-宣传片（8K）</title>
-  </programme>
-  <programme start="20260414180000 +0800" stop="20260414180030 +0800" channel="cctv8k">
-    <title>城市风华录-宣传片（8K）</title>
-  </programme>
-  <programme start="20260414180030 +0800" stop="20260414180100 +0800" channel="cctv8k">
-    <title>三餐四季第三季-宣传片（8K）</title>
-  </programme>
-  <programme start="20260414180100 +0800" stop="20260414180429 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-每道光（8K）</title>
-  </programme>
-  <programme start="20260414180429 +0800" stop="20260414181541 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-又来了（8K）</title>
-  </programme>
-  <programme start="20260414181541 +0800" stop="20260414181916 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-追影（8K）</title>
-  </programme>
-  <programme start="20260414181916 +0800" stop="20260414182210 +0800" channel="cctv8k">
-    <title>8K超高清万象-美丽中国 北上广</title>
-  </programme>
-  <programme start="20260414182210 +0800" stop="20260414182245 +0800" channel="cctv8k">
-    <title>8K标识演绎-总宣（音乐改版）（8K）</title>
-  </programme>
-  <programme start="20260414182245 +0800" stop="20260414183245 +0800" channel="cctv8k">
-    <title>中华古树-黄帝手植柏（8K）</title>
-  </programme>
-  <programme start="20260414183245 +0800" stop="20260414183544 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-手到福来（8K）</title>
-  </programme>
-  <programme start="20260414183544 +0800" stop="20260414183815 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-串门指南（8K）</title>
-  </programme>
-  <programme start="20260414183815 +0800" stop="20260414184136 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-别来无恙（8K）</title>
-  </programme>
-  <programme start="20260414184136 +0800" stop="20260414185055 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-谁的菜（8K）</title>
-  </programme>
-  <programme start="20260414185055 +0800" stop="20260414185355 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-梦底（8K）</title>
-  </programme>
-  <programme start="20260414185355 +0800" stop="20260414185925 +0800" channel="cctv8k">
-    <title>美丽中国-新疆1（8K）</title>
-  </programme>
-  <programme start="20260414185925 +0800" stop="20260414190000 +0800" channel="cctv8k">
-    <title>8K标识演绎-总宣（音乐改版）（8K）</title>
-  </programme>
-  <programme start="20260414190000 +0800" stop="20260414190030 +0800" channel="cctv8k">
-    <title>城市风华录-宣传片（8K）</title>
-  </programme>
-  <programme start="20260414190030 +0800" stop="20260414190100 +0800" channel="cctv8k">
-    <title>花开中国-宣传片（8K）</title>
-  </programme>
-  <programme start="20260414190100 +0800" stop="20260414190130 +0800" channel="cctv8k">
-    <title>金石探文明-宣传片（8K）</title>
-  </programme>
-  <programme start="20260414190130 +0800" stop="20260414191119 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-我最难忘的今宵（8K）</title>
-  </programme>
-  <programme start="20260414191119 +0800" stop="20260414191525 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-吉量（8K）</title>
-  </programme>
-  <programme start="20260414191525 +0800" stop="20260414191855 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-恭喜恭喜（8K）</title>
-  </programme>
-  <programme start="20260414191855 +0800" stop="20260414192345 +0800" channel="cctv8k">
-    <title>大国小鲜——石榴说-2（8K）</title>
-  </programme>
-  <programme start="20260414192345 +0800" stop="20260414192420 +0800" channel="cctv8k">
-    <title>8K超高清万象-清明2026</title>
-  </programme>
-  <programme start="20260414192420 +0800" stop="20260414192700 +0800" channel="cctv8k">
-    <title>国博文物展示-错金银云纹铜犀尊（8K）</title>
-  </programme>
-  <programme start="20260414192700 +0800" stop="20260414193016 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-驭风歌（8K）</title>
-  </programme>
-  <programme start="20260414193016 +0800" stop="20260414193330 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-来晒秋（8K）</title>
-  </programme>
-  <programme start="20260414193330 +0800" stop="20260414193735 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-战位有我在（8K）</title>
-  </programme>
-  <programme start="20260414193735 +0800" stop="20260414194037 +0800" channel="cctv8k">
+  <programme start="20260414153424 +0800" stop="20260414153726 +0800" channel="cctv8k">
     <title>2026年春节联欢晚会-许我再少年（8K）</title>
   </programme>
-  <programme start="20260414194037 +0800" stop="20260414194830 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-哈尔滨分会场（8K）</title>
+  <programme start="20260414153726 +0800" stop="20260414154026 +0800" channel="cctv8k">
+    <title>美丽中国-海南岛（8K）</title>
   </programme>
-  <programme start="20260414194830 +0800" stop="20260414195830 +0800" channel="cctv8k">
-    <title>千秋诗颂-早发白帝城（8K）新</title>
+  <programme start="20260414154026 +0800" stop="20260414154305 +0800" channel="cctv8k">
+    <title>2025年中秋晚会-不要慌 太阳转身有月光（8K）</title>
   </programme>
-  <programme start="20260414195830 +0800" stop="20260414195930 +0800" channel="cctv8k">
+  <programme start="20260414154305 +0800" stop="20260414154532 +0800" channel="cctv8k">
+    <title>2025年中秋晚会-半个月亮爬上来（8K）</title>
+  </programme>
+  <programme start="20260414154532 +0800" stop="20260414154820 +0800" channel="cctv8k">
+    <title>2025年中秋晚会-新生（8K）</title>
+  </programme>
+  <programme start="20260414154820 +0800" stop="20260414155101 +0800" channel="cctv8k">
+    <title>2025年中秋晚会-川江号子（8K）</title>
+  </programme>
+  <programme start="20260414155101 +0800" stop="20260414155430 +0800" channel="cctv8k">
+    <title>2025年中秋晚会-只字不提（8K）</title>
+  </programme>
+  <programme start="20260414155430 +0800" stop="20260414155710 +0800" channel="cctv8k">
+    <title>国博文物展示-错金银云纹铜犀尊（8K）</title>
+  </programme>
+  <programme start="20260414155710 +0800" stop="20260414160000 +0800" channel="cctv8k">
+    <title>大国之翼同风起-宣传片（8K）</title>
+  </programme>
+  <programme start="20260414160000 +0800" stop="20260414160030 +0800" channel="cctv8k">
+    <title>金石探文明-宣传片（8K）</title>
+  </programme>
+  <programme start="20260414160030 +0800" stop="20260414160100 +0800" channel="cctv8k">
+    <title>城市风华录-宣传片（8K）</title>
+  </programme>
+  <programme start="20260414160100 +0800" stop="20260414160130 +0800" channel="cctv8k">
+    <title>三餐四季第三季-宣传片（8K）</title>
+  </programme>
+  <programme start="20260414160130 +0800" stop="20260414160200 +0800" channel="cctv8k">
+    <title>花开中国-宣传片（8K）</title>
+  </programme>
+  <programme start="20260414160200 +0800" stop="20260414160330 +0800" channel="cctv8k">
+    <title>品牌强国工程-2026形象宣传片4（8K）</title>
+  </programme>
+  <programme start="20260414160330 +0800" stop="20260414160405 +0800" channel="cctv8k">
+    <title>8K超高清万象-清明2026</title>
+  </programme>
+  <programme start="20260414160405 +0800" stop="20260414161505 +0800" channel="cctv8k">
+    <title>千秋诗颂-出塞（8K）新</title>
+  </programme>
+  <programme start="20260414161505 +0800" stop="20260414161955 +0800" channel="cctv8k">
+    <title>大国小鲜——石榴说-1（8K）</title>
+  </programme>
+  <programme start="20260414161955 +0800" stop="20260414162137 +0800" channel="cctv8k">
+    <title>奋楫家国 沈水欢歌颂端阳-沈水欢歌（8K）</title>
+  </programme>
+  <programme start="20260414162137 +0800" stop="20260414162428 +0800" channel="cctv8k">
+    <title>奋楫家国 沈水欢歌颂端阳-画中来（8K）</title>
+  </programme>
+  <programme start="20260414162428 +0800" stop="20260414162859 +0800" channel="cctv8k">
+    <title>奋楫家国 沈水欢歌颂端阳-逐梦（8K）</title>
+  </programme>
+  <programme start="20260414162859 +0800" stop="20260414163304 +0800" channel="cctv8k">
+    <title>二十四节气总宣-宣传片（8K）</title>
+  </programme>
+  <programme start="20260414163304 +0800" stop="20260414163657 +0800" channel="cctv8k">
+    <title>2025年中秋晚会-月亮代表我的心＋与我同行（8K）</title>
+  </programme>
+  <programme start="20260414163657 +0800" stop="20260414164027 +0800" channel="cctv8k">
+    <title>2025年中秋晚会-将进酒（8K）</title>
+  </programme>
+  <programme start="20260414164027 +0800" stop="20260414164402 +0800" channel="cctv8k">
+    <title>2025年中秋晚会-无名的人（8K）</title>
+  </programme>
+  <programme start="20260414164402 +0800" stop="20260414164706 +0800" channel="cctv8k">
+    <title>2025年中秋晚会-直下看山河（8K）</title>
+  </programme>
+  <programme start="20260414164706 +0800" stop="20260414165000 +0800" channel="cctv8k">
+    <title>8K超高清万象-美丽中国 北上广</title>
+  </programme>
+  <programme start="20260414165000 +0800" stop="20260414170000 +0800" channel="cctv8k">
+    <title>中华古树-绿色国宝（8K）</title>
+  </programme>
+  <programme start="20260414170000 +0800" stop="20260414170030 +0800" channel="cctv8k">
+    <title>金石探文明-宣传片（8K）</title>
+  </programme>
+  <programme start="20260414170030 +0800" stop="20260414170100 +0800" channel="cctv8k">
+    <title>三餐四季第三季-宣传片（8K）</title>
+  </programme>
+  <programme start="20260414170100 +0800" stop="20260414170130 +0800" channel="cctv8k">
+    <title>花开中国-宣传片（8K）</title>
+  </programme>
+  <programme start="20260414170130 +0800" stop="20260414170205 +0800" channel="cctv8k">
+    <title>8K超高清万象-清明2026</title>
+  </programme>
+  <programme start="20260414170205 +0800" stop="20260414170753 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-贺花神（8K）</title>
+  </programme>
+  <programme start="20260414170753 +0800" stop="20260414171147 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-闪耀动起来（8K）</title>
+  </programme>
+  <programme start="20260414171147 +0800" stop="20260414172106 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-谁的菜（8K）</title>
+  </programme>
+  <programme start="20260414172106 +0800" stop="20260414172855 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-宜宾分会场（8K）</title>
+  </programme>
+  <programme start="20260414172855 +0800" stop="20260414173224 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-每道光（8K）</title>
+  </programme>
+  <programme start="20260414173224 +0800" stop="20260414173428 +0800" channel="cctv8k">
+    <title>哈尔滨2025年亚冬会-夺冠时刻速度滑冰男子5000米（8K）</title>
+  </programme>
+  <programme start="20260414173428 +0800" stop="20260414173728 +0800" channel="cctv8k">
+    <title>美丽中国-海南岛（8K）</title>
+  </programme>
+  <programme start="20260414173728 +0800" stop="20260414174126 +0800" channel="cctv8k">
+    <title>奋楫家国 沈水欢歌颂端阳-相亲相爱（8K）</title>
+  </programme>
+  <programme start="20260414174126 +0800" stop="20260414174358 +0800" channel="cctv8k">
+    <title>奋楫家国 沈水欢歌颂端阳-任我（8K）</title>
+  </programme>
+  <programme start="20260414174358 +0800" stop="20260414174640 +0800" channel="cctv8k">
+    <title>奋楫家国 沈水欢歌颂端阳-龙族（8K）</title>
+  </programme>
+  <programme start="20260414174640 +0800" stop="20260414175140 +0800" channel="cctv8k">
+    <title>上海总站超高清节目集锦-如果国宝会说话第一季（8K）-10</title>
+  </programme>
+  <programme start="20260414175140 +0800" stop="20260414180000 +0800" channel="cctv8k">
+    <title>精彩集锦-喀纳斯+三沙（8K）</title>
+  </programme>
+  <programme start="20260414180000 +0800" stop="20260414180030 +0800" channel="cctv8k">
+    <title>金石探文明-宣传片（8K）</title>
+  </programme>
+  <programme start="20260414180030 +0800" stop="20260414180100 +0800" channel="cctv8k">
+    <title>城市风华录-宣传片（8K）</title>
+  </programme>
+  <programme start="20260414180100 +0800" stop="20260414180130 +0800" channel="cctv8k">
+    <title>花开中国-宣传片（8K）</title>
+  </programme>
+  <programme start="20260414180130 +0800" stop="20260414180230 +0800" channel="cctv8k">
     <title>品牌强国工程-2026形象宣传片3（8K）</title>
   </programme>
-  <programme start="20260414195930 +0800" stop="20260414200000 +0800" channel="cctv8k">
-    <title>花开中国-宣传片（8K）</title>
+  <programme start="20260414180230 +0800" stop="20260414180305 +0800" channel="cctv8k">
+    <title>8K超高清万象-清明2026</title>
+  </programme>
+  <programme start="20260414180305 +0800" stop="20260414180711 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-吉量（8K）</title>
+  </programme>
+  <programme start="20260414180711 +0800" stop="20260414181025 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-来晒秋（8K）</title>
+  </programme>
+  <programme start="20260414181025 +0800" stop="20260414181959 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-你准喜欢（8K）</title>
+  </programme>
+  <programme start="20260414181959 +0800" stop="20260414182403 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-人间共鸣（8K）</title>
+  </programme>
+  <programme start="20260414182403 +0800" stop="20260414183321 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-血压计（8K）</title>
+  </programme>
+  <programme start="20260414183321 +0800" stop="20260414184321 +0800" channel="cctv8k">
+    <title>中华古树-黄帝手植柏（8K）</title>
+  </programme>
+  <programme start="20260414184321 +0800" stop="20260414184811 +0800" channel="cctv8k">
+    <title>大国小鲜——石榴说-1（8K）</title>
+  </programme>
+  <programme start="20260414184811 +0800" stop="20260414185311 +0800" channel="cctv8k">
+    <title>上海总站超高清节目集锦-如果国宝会说话第一季（8K）-11</title>
+  </programme>
+  <programme start="20260414185311 +0800" stop="20260414185416 +0800" channel="cctv8k">
+    <title>哈尔滨2025年亚冬会-夺冠时刻速度滑冰男子团体短距离追逐（8K）</title>
+  </programme>
+  <programme start="20260414185416 +0800" stop="20260414185525 +0800" channel="cctv8k">
+    <title>哈尔滨2025年亚冬会-夺冠时刻短道速滑女子3000米（8K）</title>
+  </programme>
+  <programme start="20260414185525 +0800" stop="20260414185710 +0800" channel="cctv8k">
+    <title>哈尔滨2025年亚冬会-夺冠时刻速度滑冰女子1500米（8K）</title>
+  </programme>
+  <programme start="20260414185710 +0800" stop="20260414190000 +0800" channel="cctv8k">
+    <title>大国之翼同风起-宣传片（8K）</title>
+  </programme>
+  <programme start="20260414190000 +0800" stop="20260414190030 +0800" channel="cctv8k">
+    <title>金石探文明-宣传片（8K）</title>
+  </programme>
+  <programme start="20260414190030 +0800" stop="20260414190100 +0800" channel="cctv8k">
+    <title>城市风华录-宣传片（8K）</title>
+  </programme>
+  <programme start="20260414190100 +0800" stop="20260414190130 +0800" channel="cctv8k">
+    <title>三餐四季第三季-宣传片（8K）</title>
+  </programme>
+  <programme start="20260414190130 +0800" stop="20260414190230 +0800" channel="cctv8k">
+    <title>品牌强国工程-2026形象宣传片3（8K）</title>
+  </programme>
+  <programme start="20260414190230 +0800" stop="20260414190305 +0800" channel="cctv8k">
+    <title>8K超高清万象-清明2026</title>
+  </programme>
+  <programme start="20260414190305 +0800" stop="20260414190540 +0800" channel="cctv8k">
+    <title>奋楫家国 沈水欢歌颂端阳-五彩纳吉令（8K）</title>
+  </programme>
+  <programme start="20260414190540 +0800" stop="20260414190940 +0800" channel="cctv8k">
+    <title>奋楫家国 沈水欢歌颂端阳-我想你了（8K）</title>
+  </programme>
+  <programme start="20260414190940 +0800" stop="20260414191215 +0800" channel="cctv8k">
+    <title>奋楫家国 沈水欢歌颂端阳-浮生一白（8K）</title>
+  </programme>
+  <programme start="20260414191215 +0800" stop="20260414191333 +0800" channel="cctv8k">
+    <title>8K超高清万象-莲·荷</title>
+  </programme>
+  <programme start="20260414191333 +0800" stop="20260414191730 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-丝路古韵（8K）</title>
+  </programme>
+  <programme start="20260414191730 +0800" stop="20260414192522 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-义乌分会场（8K）</title>
+  </programme>
+  <programme start="20260414192522 +0800" stop="20260414192941 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-奔腾的海骝马（8K）</title>
+  </programme>
+  <programme start="20260414192941 +0800" stop="20260414193319 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-妈妈有座电影院（8K）</title>
+  </programme>
+  <programme start="20260414193319 +0800" stop="20260414194011 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-宝岛恋歌（8K）</title>
+  </programme>
+  <programme start="20260414194011 +0800" stop="20260414194350 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-踏地为节（8K）</title>
+  </programme>
+  <programme start="20260414194350 +0800" stop="20260414194500 +0800" channel="cctv8k">
+    <title>哈尔滨2025年亚冬会-夺冠时刻短道速滑男子500米（8K）</title>
+  </programme>
+  <programme start="20260414194500 +0800" stop="20260414195500 +0800" channel="cctv8k">
+    <title>中华古树-黄山迎客松（8K）</title>
+  </programme>
+  <programme start="20260414195500 +0800" stop="20260414200000 +0800" channel="cctv8k">
+    <title>上海总站超高清节目集锦-如果国宝会说话第一季（8K）-12</title>
   </programme>
   <programme start="20260414200000 +0800" stop="20260414200030 +0800" channel="cctv8k">
     <title>城市风华录-宣传片（8K）</title>
   </programme>
   <programme start="20260414200030 +0800" stop="20260414200100 +0800" channel="cctv8k">
-    <title>金石探文明-宣传片（8K）</title>
+    <title>三餐四季第三季-宣传片（8K）</title>
   </programme>
   <programme start="20260414200100 +0800" stop="20260414200130 +0800" channel="cctv8k">
-    <title>三餐四季第三季-宣传片（8K）</title>
-  </programme>
-  <programme start="20260414200130 +0800" stop="20260414200430 +0800" channel="cctv8k">
-    <title>2025年中秋晚会-不如一个你（8K）</title>
-  </programme>
-  <programme start="20260414200430 +0800" stop="20260414200800 +0800" channel="cctv8k">
-    <title>2025年中秋晚会-将进酒（8K）</title>
-  </programme>
-  <programme start="20260414200800 +0800" stop="20260414201135 +0800" channel="cctv8k">
-    <title>2025年中秋晚会-无名的人（8K）</title>
-  </programme>
-  <programme start="20260414201135 +0800" stop="20260414201550 +0800" channel="cctv8k">
-    <title>2025年中秋晚会-回家（8K）</title>
-  </programme>
-  <programme start="20260414201550 +0800" stop="20260414201931 +0800" channel="cctv8k">
-    <title>奋楫家国 沈水欢歌颂端阳-回家的路（8K）</title>
-  </programme>
-  <programme start="20260414201931 +0800" stop="20260414202153 +0800" channel="cctv8k">
-    <title>奋楫家国 沈水欢歌颂端阳-篇章（8K）</title>
-  </programme>
-  <programme start="20260414202153 +0800" stop="20260414202459 +0800" channel="cctv8k">
-    <title>奋楫家国 沈水欢歌颂端阳-就是哪吒（8K）</title>
-  </programme>
-  <programme start="20260414202459 +0800" stop="20260414202904 +0800" channel="cctv8k">
-    <title>二十四节气总宣-宣传片（8K）</title>
-  </programme>
-  <programme start="20260414202904 +0800" stop="20260414203154 +0800" channel="cctv8k">
-    <title>大国之翼同风起-宣传片（8K）</title>
-  </programme>
-  <programme start="20260414203154 +0800" stop="20260414204154 +0800" channel="cctv8k">
-    <title>中华古树-黄山迎客松（8K）</title>
-  </programme>
-  <programme start="20260414204154 +0800" stop="20260414204523 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-每道光（8K）</title>
-  </programme>
-  <programme start="20260414204523 +0800" stop="20260414205635 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-又来了（8K）</title>
-  </programme>
-  <programme start="20260414205635 +0800" stop="20260414210010 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-追影（8K）</title>
-  </programme>
-  <programme start="20260414210010 +0800" stop="20260414210040 +0800" channel="cctv8k">
-    <title>金石探文明-宣传片（8K）</title>
-  </programme>
-  <programme start="20260414210040 +0800" stop="20260414210110 +0800" channel="cctv8k">
-    <title>三餐四季第三季-宣传片（8K）</title>
-  </programme>
-  <programme start="20260414210110 +0800" stop="20260414210140 +0800" channel="cctv8k">
     <title>花开中国-宣传片（8K）</title>
   </programme>
-  <programme start="20260414210140 +0800" stop="20260414211010 +0800" channel="cctv8k">
-    <title>千秋诗颂-小儿垂钓（8K）新</title>
-  </programme>
-  <programme start="20260414211010 +0800" stop="20260414211713 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-惊喜定格（8K）</title>
-  </programme>
-  <programme start="20260414211713 +0800" stop="20260414212051 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-妈妈有座电影院（8K）</title>
-  </programme>
-  <programme start="20260414212051 +0800" stop="20260414212435 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-你我经历的一刻（8K）</title>
-  </programme>
-  <programme start="20260414212435 +0800" stop="20260414212746 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-新春之声改（8K）</title>
-  </programme>
-  <programme start="20260414212746 +0800" stop="20260414213125 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-踏地为节（8K）</title>
-  </programme>
-  <programme start="20260414213125 +0800" stop="20260414213413 +0800" channel="cctv8k">
-    <title>2025年中秋晚会-新生（8K）</title>
-  </programme>
-  <programme start="20260414213413 +0800" stop="20260414213703 +0800" channel="cctv8k">
-    <title>2025年中秋晚会-月亮翻过小山坡（8K）</title>
-  </programme>
-  <programme start="20260414213703 +0800" stop="20260414214032 +0800" channel="cctv8k">
-    <title>2025年中秋晚会-只字不提（8K）</title>
-  </programme>
-  <programme start="20260414214032 +0800" stop="20260414214232 +0800" channel="cctv8k">
-    <title>2025年中秋晚会-银幕里的月光（8K）</title>
-  </programme>
-  <programme start="20260414214232 +0800" stop="20260414214611 +0800" channel="cctv8k">
-    <title>2025年中秋晚会-归来（8K）</title>
-  </programme>
-  <programme start="20260414214611 +0800" stop="20260414215711 +0800" channel="cctv8k">
-    <title>千秋诗颂-出塞（8K）新</title>
-  </programme>
-  <programme start="20260414215711 +0800" stop="20260414215915 +0800" channel="cctv8k">
-    <title>哈尔滨2025年亚冬会-夺冠时刻速度滑冰男子5000米（8K）</title>
-  </programme>
-  <programme start="20260414215915 +0800" stop="20260414215945 +0800" channel="cctv8k">
-    <title>金石探文明-宣传片（8K）</title>
-  </programme>
-  <programme start="20260414215945 +0800" stop="20260414220015 +0800" channel="cctv8k">
-    <title>花开中国-宣传片（8K）</title>
-  </programme>
-  <programme start="20260414220015 +0800" stop="20260414220045 +0800" channel="cctv8k">
-    <title>城市风华录-宣传片（8K）</title>
-  </programme>
-  <programme start="20260414220045 +0800" stop="20260414220115 +0800" channel="cctv8k">
-    <title>三餐四季第三季-宣传片（8K）</title>
-  </programme>
-  <programme start="20260414220115 +0800" stop="20260414220150 +0800" channel="cctv8k">
-    <title>8K超高清万象-清明2026</title>
-  </programme>
-  <programme start="20260414220150 +0800" stop="20260414220650 +0800" channel="cctv8k">
-    <title>上海总站超高清节目集锦-如果国宝会说话第一季（8K）-9</title>
-  </programme>
-  <programme start="20260414220650 +0800" stop="20260414221044 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-闪耀动起来（8K）</title>
-  </programme>
-  <programme start="20260414221044 +0800" stop="20260414221401 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-绘新春（8K）</title>
-  </programme>
-  <programme start="20260414221401 +0800" stop="20260414222149 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-合肥分会场（8K）</title>
-  </programme>
-  <programme start="20260414222149 +0800" stop="20260414222546 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-丝路古韵（8K）</title>
-  </programme>
-  <programme start="20260414222546 +0800" stop="20260414222830 +0800" channel="cctv8k">
-    <title>2026年春节联欢晚会-快乐小马（8K）</title>
-  </programme>
-  <programme start="20260414222830 +0800" stop="20260414223130 +0800" channel="cctv8k">
-    <title>美丽中国-海南岛（8K）</title>
-  </programme>
-  <programme start="20260414223130 +0800" stop="20260414223410 +0800" channel="cctv8k">
-    <title>国博文物展示-错金银云纹铜犀尊（8K）</title>
-  </programme>
-  <programme start="20260414223410 +0800" stop="20260414223605 +0800" channel="cctv8k">
-    <title>国博文物展示-大盂鼎</title>
-  </programme>
-  <programme start="20260414223605 +0800" stop="20260414223855 +0800" channel="cctv8k">
-    <title>大国之翼同风起-宣传片（8K）</title>
-  </programme>
-  <programme start="20260414223855 +0800" stop="20260414224119 +0800" channel="cctv8k">
-    <title>奋楫家国 沈水欢歌颂端阳-赠你（8K）</title>
-  </programme>
-  <programme start="20260414224119 +0800" stop="20260414224534 +0800" channel="cctv8k">
-    <title>奋楫家国 沈水欢歌颂端阳-心月同辉（8K）</title>
-  </programme>
-  <programme start="20260414224534 +0800" stop="20260414224800 +0800" channel="cctv8k">
-    <title>奋楫家国 沈水欢歌颂端阳-华夏（8K）</title>
-  </programme>
-  <programme start="20260414224800 +0800" stop="20260414224900 +0800" channel="cctv8k">
+  <programme start="20260414200130 +0800" stop="20260414200230 +0800" channel="cctv8k">
     <title>品牌强国工程-2026形象宣传片3（8K）</title>
   </programme>
-  <programme start="20260414224900 +0800" stop="20260414225230 +0800" channel="cctv8k">
-    <title>鹿鸣课堂-宣传片(8K)</title>
+  <programme start="20260414200230 +0800" stop="20260414200305 +0800" channel="cctv8k">
+    <title>8K超高清万象-清明2026</title>
   </programme>
-  <programme start="20260414225230 +0800" stop="20260414225355 +0800" channel="cctv8k">
+  <programme start="20260414200305 +0800" stop="20260414200755 +0800" channel="cctv8k">
+    <title>大国小鲜——石榴说-2（8K）</title>
+  </programme>
+  <programme start="20260414200755 +0800" stop="20260414201100 +0800" channel="cctv8k">
+    <title>2025年中秋晚会-海角天涯（8K）</title>
+  </programme>
+  <programme start="20260414201100 +0800" stop="20260414201424 +0800" channel="cctv8k">
+    <title>2025年中秋晚会-月半小夜曲（8K）</title>
+  </programme>
+  <programme start="20260414201424 +0800" stop="20260414201751 +0800" channel="cctv8k">
+    <title>2025年中秋晚会-海阔天空（8K）</title>
+  </programme>
+  <programme start="20260414201751 +0800" stop="20260414202120 +0800" channel="cctv8k">
+    <title>2025年中秋晚会-峨眉山月歌（8K）</title>
+  </programme>
+  <programme start="20260414202120 +0800" stop="20260414202420 +0800" channel="cctv8k">
+    <title>美丽中国-海南岛（8K）</title>
+  </programme>
+  <programme start="20260414202420 +0800" stop="20260414202743 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-喜雨（8K）</title>
+  </programme>
+  <programme start="20260414202743 +0800" stop="20260414203127 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-你我经历的一刻（8K）</title>
+  </programme>
+  <programme start="20260414203127 +0800" stop="20260414203920 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-哈尔滨分会场（8K）</title>
+  </programme>
+  <programme start="20260414203920 +0800" stop="20260414204903 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-春晖满梨园（8K）</title>
+  </programme>
+  <programme start="20260414204903 +0800" stop="20260414205122 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-小家年年（8K）</title>
+  </programme>
+  <programme start="20260414205122 +0800" stop="20260414205438 +0800" channel="cctv8k">
+    <title>2026年春节联欢晚会-驭风歌（8K）</title>
+  </programme>
+  <programme start="20260414205438 +0800" stop="20260414205732 +0800" channel="cctv8k">
+    <title>8K超高清万象-美丽中国 北上广</title>
+  </programme>
+  <programme start="20260414205732 +0800" stop="20260414205835 +0800" channel="cctv8k">
+    <title>哈尔滨2025年亚冬会-夺冠时刻速度滑冰女子1000米（8K）</title>
+  </programme>
+  <programme start="20260414205835 +0800" stop="20260414210000 +0800" channel="cctv8k">
     <title>8K超高清万象-等春来（8K）</title>
   </programme>
-  <programme start="20260414225355 +0800" stop="20260414225925 +0800" channel="cctv8k">
-    <title>美丽中国-新疆1（8K）</title>
+  <programme start="20260414210000 +0800" stop="20260414210030 +0800" channel="cctv8k">
+    <title>金石探文明-宣传片（8K）</title>
+  </programme>
+  <programme start="20260414210030 +0800" stop="20260414210100 +0800" channel="cctv8k">
+    <title>三餐四季第三季-宣传片（8K）</title>
+  </programme>
+  <programme start="20260414210100 +0800" stop="20260414210130 +0800" channel="cctv8k">
+    <title>花开中国-宣传片（8K）</title>
+  </programme>
+  <programme start="20260414210130 +0800" stop="20260414210230 +0800" channel="cctv8k">
+    <title>品牌强国工程-2026形象宣传片3（8K）</title>
+  </programme>
+  <programme start="20260414210230 +0800" stop="20260414210305 +0800" channel="cctv8k">
+    <title>8K超高清万象-清明2026</title>
+  </programme>
+  <programme start="20260414210305 +0800" stop="20260414210548 +0800" channel="cctv8k">
+    <title>2025年中秋晚会-沧海一声笑（8K）</title>
+  </programme>
+  <programme start="20260414210548 +0800" stop="20260414210838 +0800" channel="cctv8k">
+    <title>2025年中秋晚会-月亮翻过小山坡（8K）</title>
+  </programme>
+  <programme start="20260414210838 +0800" stop="20260414211138 +0800" channel="cctv8k">
+    <title>2025年中秋晚会-不如一个你（8K）</title>
+  </programme>
+  <programme start="20260414211138 +0800" stop="20260414211439 +0800" channel="cctv8k">
+    <title>2025年中秋晚会-月光（8K）</title>
+  </programme>
+  <programme start="20260414211439 +0800" stop="20260414211744 +0800" channel="cctv8k">
+    <title>2025年中秋晚会-青铜（8K）</title>
+  </programme>
+  <programme start="20260414211744 +0800" stop="20260414212744 +0800" channel="cctv8k">
+    <title>中华古树-阳朔古榕树（8K）</title>
+  </programme>
+  <programme start="20260414212744 +0800" stop="20260414213844 +0800" channel="cctv8k">
+    <title>千秋诗颂-池上（8K）新</title>
+  </programme>
+  <programme start="20260414213844 +0800" stop="20260414214344 +0800" channel="cctv8k">
+    <title>上海总站超高清节目集锦-如果国宝会说话第一季（8K）-13</title>
+  </programme>
+  <programme start="20260414214344 +0800" stop="20260414214535 +0800" channel="cctv8k">
+    <title>哈尔滨2025年亚冬会-夺冠时刻速度滑冰男子1500米（8K）</title>
+  </programme>
+  <programme start="20260414214535 +0800" stop="20260414214940 +0800" channel="cctv8k">
+    <title>二十四节气总宣-宣传片（8K）</title>
+  </programme>
+  <programme start="20260414214940 +0800" stop="20260414215220 +0800" channel="cctv8k">
+    <title>国博文物展示-错金银云纹铜犀尊（8K）</title>
+  </programme>
+  <programme start="20260414215220 +0800" stop="20260414215710 +0800" channel="cctv8k">
+    <title>大国小鲜——石榴说-2（8K）</title>
+  </programme>
+  <programme start="20260414215710 +0800" stop="20260414220000 +0800" channel="cctv8k">
+    <title>大国之翼同风起-宣传片（8K）</title>
+  </programme>
+  <programme start="20260414220000 +0800" stop="20260414220030 +0800" channel="cctv8k">
+    <title>金石探文明-宣传片（8K）</title>
+  </programme>
+  <programme start="20260414220030 +0800" stop="20260414220100 +0800" channel="cctv8k">
+    <title>城市风华录-宣传片（8K）</title>
+  </programme>
+  <programme start="20260414220100 +0800" stop="20260414220130 +0800" channel="cctv8k">
+    <title>三餐四季第三季-宣传片（8K）</title>
+  </programme>
+  <programme start="20260414220130 +0800" stop="20260414220200 +0800" channel="cctv8k">
+    <title>花开中国-宣传片（8K）</title>
+  </programme>
+  <programme start="20260414220200 +0800" stop="20260414220235 +0800" channel="cctv8k">
+    <title>8K超高清万象-清明2026</title>
+  </programme>
+  <programme start="20260414220235 +0800" stop="20260414223235 +0800" channel="cctv8k">
+    <title>我们的村节-（8K）</title>
+  </programme>
+  <programme start="20260414223235 +0800" stop="20260414223705 +0800" channel="cctv8k">
+    <title>8K超高清万象-美丽中国 四季</title>
+  </programme>
+  <programme start="20260414223705 +0800" stop="20260414223956 +0800" channel="cctv8k">
+    <title>奋楫家国 沈水欢歌颂端阳-常来（8K）</title>
+  </programme>
+  <programme start="20260414223956 +0800" stop="20260414224151 +0800" channel="cctv8k">
+    <title>奋楫家国 沈水欢歌颂端阳-归乡（8K）</title>
+  </programme>
+  <programme start="20260414224151 +0800" stop="20260414224610 +0800" channel="cctv8k">
+    <title>奋楫家国 沈水欢歌颂端阳-你是人间四月天（8K）</title>
+  </programme>
+  <programme start="20260414224610 +0800" stop="20260414225430 +0800" channel="cctv8k">
+    <title>精彩集锦-喀纳斯+三沙（8K）</title>
+  </programme>
+  <programme start="20260414225430 +0800" stop="20260414225800 +0800" channel="cctv8k">
+    <title>鹿鸣课堂-宣传片(8K)</title>
+  </programme>
+  <programme start="20260414225800 +0800" stop="20260414225925 +0800" channel="cctv8k">
+    <title>8K超高清万象-等春来（8K）</title>
   </programme>
   <programme start="20260414225925 +0800" stop="20260414230000 +0800" channel="cctv8k">
     <title>8K标识演绎-总宣（音乐改版）（8K）</title>
@@ -35037,37 +35016,37 @@
   <programme start="20260413190000 +0800" stop="20260413193000 +0800" channel="cctvamerica">
     <title>中国新闻</title>
   </programme>
-  <programme start="20260413193000 +0800" stop="20260413200000 +0800" channel="cctvamerica">
+  <programme start="20260413193000 +0800" stop="20260413203000 +0800" channel="cctvamerica">
     <title>今日亚洲</title>
   </programme>
-  <programme start="20260413200000 +0800" stop="20260413210000 +0800" channel="cctvamerica">
-    <title>环球综艺秀-2026-15</title>
+  <programme start="20260413203000 +0800" stop="20260413205600 +0800" channel="cctvamerica">
+    <title>中国缘-2026-15</title>
+  </programme>
+  <programme start="20260413205600 +0800" stop="20260413210000 +0800" channel="cctvamerica">
+    <title>记住乡愁-片段展播-2024-1</title>
   </programme>
   <programme start="20260413210000 +0800" stop="20260413213000 +0800" channel="cctvamerica">
     <title>中国新闻</title>
   </programme>
-  <programme start="20260413213000 +0800" stop="20260413220000 +0800" channel="cctvamerica">
+  <programme start="20260413213000 +0800" stop="20260413223000 +0800" channel="cctvamerica">
     <title>今日关注</title>
   </programme>
-  <programme start="20260413220000 +0800" stop="20260413224500 +0800" channel="cctvamerica">
+  <programme start="20260413223000 +0800" stop="20260413231500 +0800" channel="cctvamerica">
     <title>精彩音乐汇（海外版）-2026-97</title>
   </programme>
-  <programme start="20260413224500 +0800" stop="20260413233000 +0800" channel="cctvamerica">
+  <programme start="20260413231500 +0800" stop="20260413235900 +0800" channel="cctvamerica">
     <title>动画城(四套)-2026-94</title>
   </programme>
-  <programme start="20260413233000 +0800" stop="20260413235600 +0800" channel="cctvamerica">
+  <programme start="20260414000000 +0800" stop="20260414002600 +0800" channel="cctvamerica">
     <title>中国缘-2026-15</title>
   </programme>
-  <programme start="20260413235600 +0800" stop="20260413235900 +0800" channel="cctvamerica">
-    <title>海峡两岸-2026-102</title>
-  </programme>
-  <programme start="20260414002230 +0800" stop="20260414010840 +0800" channel="cctvamerica">
+  <programme start="20260414002600 +0800" stop="20260414011130 +0800" channel="cctvamerica">
     <title>开讲啦（海外版）-2026-7</title>
   </programme>
-  <programme start="20260414010840 +0800" stop="20260414013800 +0800" channel="cctvamerica">
+  <programme start="20260414011130 +0800" stop="20260414013900 +0800" channel="cctvamerica">
     <title>中国文艺-2026-73</title>
   </programme>
-  <programme start="20260414013800 +0800" stop="20260414015300 +0800" channel="cctvamerica">
+  <programme start="20260414013900 +0800" stop="20260414015300 +0800" channel="cctvamerica">
     <title>平凡匠心-2026-32</title>
   </programme>
   <programme start="20260414015300 +0800" stop="20260414022800 +0800" channel="cctvamerica">
@@ -35083,7 +35062,7 @@
     <title>中国新闻</title>
   </programme>
   <programme start="20260414043000 +0800" stop="20260414050000 +0800" channel="cctvamerica">
-    <title>今日关注</title>
+    <title>国家记忆-2025-182</title>
   </programme>
   <programme start="20260414050000 +0800" stop="20260414053000 +0800" channel="cctvamerica">
     <title>中国文艺-2026-73</title>
@@ -35097,11 +35076,8 @@
   <programme start="20260414063000 +0800" stop="20260414070000 +0800" channel="cctvamerica">
     <title>走遍中国-2026-58</title>
   </programme>
-  <programme start="20260414070000 +0800" stop="20260414073000 +0800" channel="cctvamerica">
+  <programme start="20260414070000 +0800" stop="20260414080000 +0800" channel="cctvamerica">
     <title>中国新闻</title>
-  </programme>
-  <programme start="20260414073000 +0800" stop="20260414080000 +0800" channel="cctvamerica">
-    <title>今日关注</title>
   </programme>
   <programme start="20260414080000 +0800" stop="20260414090000 +0800" channel="cctvamerica">
     <title>今日环球</title>
@@ -35124,26 +35100,20 @@
   <programme start="20260414115500 +0800" stop="20260414120000 +0800" channel="cctvamerica">
     <title>记住乡愁-片段展播-2025-11</title>
   </programme>
-  <programme start="20260414120000 +0800" stop="20260414130000 +0800" channel="cctvamerica">
+  <programme start="20260414120000 +0800" stop="20260414140000 +0800" channel="cctvamerica">
     <title>中国新闻</title>
   </programme>
-  <programme start="20260414130000 +0800" stop="20260414133000 +0800" channel="cctvamerica">
+  <programme start="20260414140000 +0800" stop="20260414143000 +0800" channel="cctvamerica">
     <title>海峡两岸-2026-103</title>
   </programme>
-  <programme start="20260414133000 +0800" stop="20260414135800 +0800" channel="cctvamerica">
-    <title>走遍中国-2026-58</title>
-  </programme>
-  <programme start="20260414135800 +0800" stop="20260414144400 +0800" channel="cctvamerica">
+  <programme start="20260414143000 +0800" stop="20260414151600 +0800" channel="cctvamerica">
     <title>塞上风云记－第5集</title>
   </programme>
-  <programme start="20260414144400 +0800" stop="20260414153000 +0800" channel="cctvamerica">
+  <programme start="20260414151600 +0800" stop="20260414160200 +0800" channel="cctvamerica">
     <title>塞上风云记－第6集</title>
   </programme>
-  <programme start="20260414153000 +0800" stop="20260414162000 +0800" channel="cctvamerica">
-    <title>远方的家2026-78</title>
-  </programme>
-  <programme start="20260414162000 +0800" stop="20260414162800 +0800" channel="cctvamerica">
-    <title>记住乡愁-片段展播-2025-13</title>
+  <programme start="20260414160200 +0800" stop="20260414162800 +0800" channel="cctvamerica">
+    <title>走遍中国-2026-58</title>
   </programme>
   <programme start="20260414162800 +0800" stop="20260414171400 +0800" channel="cctvamerica">
     <title>乌蒙深处第27集</title>
@@ -35157,11 +35127,8 @@
   <programme start="20260414190000 +0800" stop="20260414193000 +0800" channel="cctvamerica">
     <title>中国新闻</title>
   </programme>
-  <programme start="20260414193000 +0800" stop="20260414200000 +0800" channel="cctvamerica">
+  <programme start="20260414193000 +0800" stop="20260414203000 +0800" channel="cctvamerica">
     <title>今日亚洲</title>
-  </programme>
-  <programme start="20260414200000 +0800" stop="20260414203000 +0800" channel="cctvamerica">
-    <title>中国文艺-2026-73</title>
   </programme>
   <programme start="20260414203000 +0800" stop="20260414210000 +0800" channel="cctvamerica">
     <title>走遍中国-2026-58</title>
@@ -35169,22 +35136,19 @@
   <programme start="20260414210000 +0800" stop="20260414213000 +0800" channel="cctvamerica">
     <title>中国新闻</title>
   </programme>
-  <programme start="20260414213000 +0800" stop="20260414220000 +0800" channel="cctvamerica">
+  <programme start="20260414213000 +0800" stop="20260414223000 +0800" channel="cctvamerica">
     <title>今日关注</title>
   </programme>
-  <programme start="20260414220000 +0800" stop="20260414225800 +0800" channel="cctvamerica">
+  <programme start="20260414223000 +0800" stop="20260414232800 +0800" channel="cctvamerica">
     <title>健康中国-2026-15</title>
   </programme>
-  <programme start="20260414225800 +0800" stop="20260414234300 +0800" channel="cctvamerica">
+  <programme start="20260414232800 +0800" stop="20260414235900 +0800" channel="cctvamerica">
     <title>动画城(四套)-2026-95</title>
   </programme>
-  <programme start="20260414234300 +0800" stop="20260414235900 +0800" channel="cctvamerica">
+  <programme start="20260415001300 +0800" stop="20260415004000 +0800" channel="cctvamerica">
     <title>国家记忆-2025-182</title>
   </programme>
-  <programme start="20260415001000 +0800" stop="20260415003920 +0800" channel="cctvamerica">
-    <title>海峡两岸-2026-103</title>
-  </programme>
-  <programme start="20260415003920 +0800" stop="20260415012530 +0800" channel="cctvamerica">
+  <programme start="20260415004000 +0800" stop="20260415012530 +0800" channel="cctvamerica">
     <title>远方的家2026-78</title>
   </programme>
   <programme start="20260415012530 +0800" stop="20260415015300 +0800" channel="cctvamerica">
@@ -37326,40 +37290,31 @@
   <programme start="20260413190000 +0800" stop="20260413193000 +0800" channel="cctveurope">
     <title>中国新闻</title>
   </programme>
-  <programme start="20260413193000 +0800" stop="20260413200000 +0800" channel="cctveurope">
+  <programme start="20260413193000 +0800" stop="20260413203000 +0800" channel="cctveurope">
     <title>今日亚洲</title>
   </programme>
-  <programme start="20260413200000 +0800" stop="20260413204500 +0800" channel="cctveurope">
-    <title>开讲啦（海外版）-2026-7</title>
-  </programme>
-  <programme start="20260413204500 +0800" stop="20260413205000 +0800" channel="cctveurope">
-    <title>记住乡愁-片段展播-2025-28</title>
-  </programme>
-  <programme start="20260413205000 +0800" stop="20260413210000 +0800" channel="cctveurope">
-    <title>记住乡愁-片段展播-2025-11</title>
+  <programme start="20260413203000 +0800" stop="20260413210000 +0800" channel="cctveurope">
+    <title>中国缘-2026-15</title>
   </programme>
   <programme start="20260413210000 +0800" stop="20260413213000 +0800" channel="cctveurope">
     <title>中国新闻</title>
   </programme>
-  <programme start="20260413213000 +0800" stop="20260413220000 +0800" channel="cctveurope">
+  <programme start="20260413213000 +0800" stop="20260413223000 +0800" channel="cctveurope">
     <title>今日关注</title>
   </programme>
-  <programme start="20260413220000 +0800" stop="20260413224600 +0800" channel="cctveurope">
-    <title>枫桥警事第3集</title>
-  </programme>
-  <programme start="20260413224600 +0800" stop="20260413233200 +0800" channel="cctveurope">
-    <title>枫桥警事第4集</title>
-  </programme>
-  <programme start="20260413233200 +0800" stop="20260413235900 +0800" channel="cctveurope">
-    <title>中国缘-2026-15</title>
-  </programme>
-  <programme start="20260414000000 +0800" stop="20260414004500 +0800" channel="cctveurope">
-    <title>精彩音乐汇（海外版）-2026-97</title>
-  </programme>
-  <programme start="20260414004500 +0800" stop="20260414013000 +0800" channel="cctveurope">
+  <programme start="20260413223000 +0800" stop="20260413231500 +0800" channel="cctveurope">
     <title>动画城(四套)-2026-94</title>
   </programme>
-  <programme start="20260414013000 +0800" stop="20260414020000 +0800" channel="cctveurope">
+  <programme start="20260413231500 +0800" stop="20260413235900 +0800" channel="cctveurope">
+    <title>枫桥警事第3集</title>
+  </programme>
+  <programme start="20260414000100 +0800" stop="20260414004700 +0800" channel="cctveurope">
+    <title>枫桥警事第4集</title>
+  </programme>
+  <programme start="20260414004700 +0800" stop="20260414013200 +0800" channel="cctveurope">
+    <title>精彩音乐汇（海外版）-2026-97</title>
+  </programme>
+  <programme start="20260414013200 +0800" stop="20260414020000 +0800" channel="cctveurope">
     <title>走遍中国-2026-58</title>
   </programme>
   <programme start="20260414020000 +0800" stop="20260414023000 +0800" channel="cctveurope">
@@ -37377,26 +37332,23 @@
   <programme start="20260414040000 +0800" stop="20260414043000 +0800" channel="cctveurope">
     <title>中国新闻</title>
   </programme>
-  <programme start="20260414043000 +0800" stop="20260414050000 +0800" channel="cctveurope">
-    <title>今日关注</title>
-  </programme>
-  <programme start="20260414050000 +0800" stop="20260414055000 +0800" channel="cctveurope">
+  <programme start="20260414043000 +0800" stop="20260414052000 +0800" channel="cctveurope">
     <title>远方的家2026-78</title>
   </programme>
-  <programme start="20260414055000 +0800" stop="20260414062500 +0800" channel="cctveurope">
+  <programme start="20260414052000 +0800" stop="20260414055500 +0800" channel="cctveurope">
     <title>探索发现(海外版)-2026-68</title>
   </programme>
-  <programme start="20260414062500 +0800" stop="20260414063000 +0800" channel="cctveurope">
+  <programme start="20260414055500 +0800" stop="20260414060000 +0800" channel="cctveurope">
     <title>记住乡愁-片段展播-2025-11</title>
   </programme>
-  <programme start="20260414063000 +0800" stop="20260414070000 +0800" channel="cctveurope">
-    <title>国家记忆-2025-182</title>
-  </programme>
-  <programme start="20260414070000 +0800" stop="20260414073000 +0800" channel="cctveurope">
+  <programme start="20260414060000 +0800" stop="20260414063000 +0800" channel="cctveurope">
     <title>走遍中国-2026-58</title>
   </programme>
-  <programme start="20260414073000 +0800" stop="20260414080000 +0800" channel="cctveurope">
+  <programme start="20260414063000 +0800" stop="20260414070000 +0800" channel="cctveurope">
     <title>海峡两岸-2026-103</title>
+  </programme>
+  <programme start="20260414070000 +0800" stop="20260414080000 +0800" channel="cctveurope">
+    <title>中国新闻</title>
   </programme>
   <programme start="20260414080000 +0800" stop="20260414090000 +0800" channel="cctveurope">
     <title>今日环球</title>
@@ -37416,28 +37368,22 @@
   <programme start="20260414111300 +0800" stop="20260414120000 +0800" channel="cctveurope">
     <title>武当一剑第16集</title>
   </programme>
-  <programme start="20260414120000 +0800" stop="20260414130000 +0800" channel="cctveurope">
+  <programme start="20260414120000 +0800" stop="20260414140000 +0800" channel="cctveurope">
     <title>中国新闻</title>
   </programme>
-  <programme start="20260414130000 +0800" stop="20260414132800 +0800" channel="cctveurope">
-    <title>走遍中国-2026-58</title>
-  </programme>
-  <programme start="20260414132800 +0800" stop="20260414141400 +0800" channel="cctveurope">
+  <programme start="20260414140000 +0800" stop="20260414144600 +0800" channel="cctveurope">
     <title>枫桥警事第3集</title>
   </programme>
-  <programme start="20260414141400 +0800" stop="20260414150000 +0800" channel="cctveurope">
+  <programme start="20260414144600 +0800" stop="20260414153200 +0800" channel="cctveurope">
     <title>枫桥警事第4集</title>
   </programme>
-  <programme start="20260414150000 +0800" stop="20260414160000 +0800" channel="cctveurope">
+  <programme start="20260414153200 +0800" stop="20260414162800 +0800" channel="cctveurope">
     <title>健康中国-2026-15</title>
   </programme>
-  <programme start="20260414160000 +0800" stop="20260414162630 +0800" channel="cctveurope">
-    <title>海峡两岸-2026-103</title>
-  </programme>
-  <programme start="20260414162630 +0800" stop="20260414171230 +0800" channel="cctveurope">
+  <programme start="20260414162800 +0800" stop="20260414171400 +0800" channel="cctveurope">
     <title>武当一剑第17集</title>
   </programme>
-  <programme start="20260414171230 +0800" stop="20260414180000 +0800" channel="cctveurope">
+  <programme start="20260414171400 +0800" stop="20260414180000 +0800" channel="cctveurope">
     <title>武当一剑第18集</title>
   </programme>
   <programme start="20260414180000 +0800" stop="20260414190000 +0800" channel="cctveurope">
@@ -37446,47 +37392,35 @@
   <programme start="20260414190000 +0800" stop="20260414193000 +0800" channel="cctveurope">
     <title>中国新闻</title>
   </programme>
-  <programme start="20260414193000 +0800" stop="20260414200000 +0800" channel="cctveurope">
+  <programme start="20260414193000 +0800" stop="20260414203030 +0800" channel="cctveurope">
     <title>今日亚洲</title>
   </programme>
-  <programme start="20260414200000 +0800" stop="20260414204500 +0800" channel="cctveurope">
-    <title>远方的家2026-78</title>
-  </programme>
-  <programme start="20260414204500 +0800" stop="20260414204800 +0800" channel="cctveurope">
-    <title>记住乡愁-片段展播-2024-41</title>
-  </programme>
-  <programme start="20260414204800 +0800" stop="20260414205100 +0800" channel="cctveurope">
-    <title>记住乡愁-片段展播-2024-8</title>
-  </programme>
-  <programme start="20260414205100 +0800" stop="20260414210000 +0800" channel="cctveurope">
-    <title>记住乡愁-片段展播-2024-2</title>
+  <programme start="20260414203030 +0800" stop="20260414210000 +0800" channel="cctveurope">
+    <title>中国文艺-2026-73</title>
   </programme>
   <programme start="20260414210000 +0800" stop="20260414213000 +0800" channel="cctveurope">
     <title>中国新闻</title>
   </programme>
-  <programme start="20260414213000 +0800" stop="20260414220000 +0800" channel="cctveurope">
+  <programme start="20260414213000 +0800" stop="20260414223000 +0800" channel="cctveurope">
     <title>今日关注</title>
   </programme>
-  <programme start="20260414220000 +0800" stop="20260414224600 +0800" channel="cctveurope">
-    <title>枫桥警事第5集</title>
-  </programme>
-  <programme start="20260414224600 +0800" stop="20260414233200 +0800" channel="cctveurope">
-    <title>枫桥警事第6集</title>
-  </programme>
-  <programme start="20260414233200 +0800" stop="20260414235900 +0800" channel="cctveurope">
-    <title>中国文艺-2026-73</title>
-  </programme>
-  <programme start="20260415000000 +0800" stop="20260415004500 +0800" channel="cctveurope">
-    <title>精彩音乐汇（海外版）-2026-98</title>
-  </programme>
-  <programme start="20260415004500 +0800" stop="20260415013000 +0800" channel="cctveurope">
+  <programme start="20260414223000 +0800" stop="20260414231500 +0800" channel="cctveurope">
     <title>动画城(四套)-2026-95</title>
   </programme>
-  <programme start="20260415013000 +0800" stop="20260415020000 +0800" channel="cctveurope">
+  <programme start="20260414231500 +0800" stop="20260414235900 +0800" channel="cctveurope">
+    <title>枫桥警事第5集</title>
+  </programme>
+  <programme start="20260415000100 +0800" stop="20260415004700 +0800" channel="cctveurope">
+    <title>枫桥警事第6集</title>
+  </programme>
+  <programme start="20260415004700 +0800" stop="20260415013200 +0800" channel="cctveurope">
+    <title>精彩音乐汇（海外版）-2026-98</title>
+  </programme>
+  <programme start="20260415013200 +0800" stop="20260415020000 +0800" channel="cctveurope">
     <title>走遍中国-2026-59</title>
   </programme>
   <programme start="20260415020000 +0800" stop="20260415023000 +0800" channel="cctveurope">
-    <title>记住乡愁2026-41</title>
+    <title>记住乡愁2026-39</title>
   </programme>
   <programme start="20260415023000 +0800" stop="20260415030000 +0800" channel="cctveurope">
     <title>海峡两岸-2026-104</title>
@@ -37537,7 +37471,7 @@
     <title>武当一剑18/39</title>
   </programme>
   <programme start="20260415112100 +0800" stop="20260415115100 +0800" channel="cctveurope">
-    <title>记住乡愁2026-41</title>
+    <title>记住乡愁2026-39</title>
   </programme>
   <programme start="20260415115100 +0800" stop="20260415115600 +0800" channel="cctveurope">
     <title>记住乡愁-片段展播-2025-7</title>
@@ -37558,7 +37492,7 @@
     <title>枫桥警事6/30</title>
   </programme>
   <programme start="20260415150000 +0800" stop="20260415153000 +0800" channel="cctveurope">
-    <title>记住乡愁2026-41</title>
+    <title>记住乡愁2026-39</title>
   </programme>
   <programme start="20260415153000 +0800" stop="20260415160000 +0800" channel="cctveurope">
     <title>中国文艺-2026-74</title>
