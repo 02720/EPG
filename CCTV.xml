@@ -967,13 +967,13 @@
     <title>前情提要-金关-第5集</title>
   </programme>
   <programme start="20260416200000 +0800" stop="20260416205120 +0800" channel="cctv1">
-    <title>金关5/22</title>
+    <title>金关第5集</title>
   </programme>
   <programme start="20260416205120 +0800" stop="20260416205415 +0800" channel="cctv1">
-    <title>前情提要-金关-6/22</title>
+    <title>前情提要-金关-第6集</title>
   </programme>
   <programme start="20260416205415 +0800" stop="20260416215110 +0800" channel="cctv1">
-    <title>金关6/22</title>
+    <title>金关第6集</title>
   </programme>
   <programme start="20260416215110 +0800" stop="20260416220000 +0800" channel="cctv1">
     <title>三餐四季（第二季）-宣传片</title>
@@ -1177,7 +1177,7 @@
     <title>焦点访谈</title>
   </programme>
   <programme start="20260418200200 +0800" stop="20260418214720 +0800" channel="cctv1">
-    <title>三餐四季（第三季）-7</title>
+    <title>中华考工记-11</title>
   </programme>
   <programme start="20260418214720 +0800" stop="20260418220000 +0800" channel="cctv1">
     <title>中华古树-天目山古柳杉群（4K）</title>
@@ -1239,26 +1239,23 @@
   <programme start="20260419120000 +0800" stop="20260419123345 +0800" channel="cctv1">
     <title>新闻30分</title>
   </programme>
-  <programme start="20260419123345 +0800" stop="20260419141030 +0800" channel="cctv1">
-    <title>三餐四季（第三季）-7</title>
+  <programme start="20260419123345 +0800" stop="20260419141630 +0800" channel="cctv1">
+    <title>中华考工记-11</title>
   </programme>
-  <programme start="20260419141030 +0800" stop="20260419145815 +0800" channel="cctv1">
+  <programme start="20260419141630 +0800" stop="20260419150415 +0800" channel="cctv1">
     <title>沉默的荣耀18/39</title>
   </programme>
-  <programme start="20260419145815 +0800" stop="20260419154845 +0800" channel="cctv1">
+  <programme start="20260419150415 +0800" stop="20260419155445 +0800" channel="cctv1">
     <title>沉默的荣耀19/39</title>
   </programme>
-  <programme start="20260419154845 +0800" stop="20260419163715 +0800" channel="cctv1">
+  <programme start="20260419155445 +0800" stop="20260419164315 +0800" channel="cctv1">
     <title>沉默的荣耀20/39</title>
   </programme>
-  <programme start="20260419163715 +0800" stop="20260419172545 +0800" channel="cctv1">
+  <programme start="20260419164315 +0800" stop="20260419172945 +0800" channel="cctv1">
     <title>沉默的荣耀21/39</title>
   </programme>
-  <programme start="20260419172545 +0800" stop="20260419181530 +0800" channel="cctv1">
+  <programme start="20260419172945 +0800" stop="20260419182045 +0800" channel="cctv1">
     <title>沉默的荣耀22/39</title>
-  </programme>
-  <programme start="20260419181530 +0800" stop="20260419182045 +0800" channel="cctv1">
-    <title>三餐四季（第二季）-宣传片</title>
   </programme>
   <programme start="20260419182045 +0800" stop="20260419185115 +0800" channel="cctv1">
     <title>文脉春秋-2025-18</title>
@@ -1273,7 +1270,7 @@
     <title>焦点访谈</title>
   </programme>
   <programme start="20260419200100 +0800" stop="20260419214720 +0800" channel="cctv1">
-    <title>专题节目-1</title>
+    <title>金石探文明-利簋</title>
   </programme>
   <programme start="20260419214720 +0800" stop="20260419220000 +0800" channel="cctv1">
     <title>中华古树-荣昌黄葛树古树群（4K）</title>
@@ -6120,22 +6117,25 @@
   <programme start="20260417181430 +0800" stop="20260417193000 +0800" channel="cctv15">
     <title>精彩音乐汇-我的爱对你说-2026-207</title>
   </programme>
-  <programme start="20260417193000 +0800" stop="20260417211530 +0800" channel="cctv15">
-    <title>综艺喜乐汇-2026-445</title>
+  <programme start="20260417193000 +0800" stop="20260417204530 +0800" channel="cctv15">
+    <title>音乐周刊-原声天籁中国民歌盛典3</title>
   </programme>
-  <programme start="20260417211530 +0800" stop="20260417223100 +0800" channel="cctv15">
+  <programme start="20260417204530 +0800" stop="20260417220100 +0800" channel="cctv15">
     <title>精彩音乐汇-我的爱对你说-2026-10</title>
   </programme>
-  <programme start="20260417223100 +0800" stop="20260417234630 +0800" channel="cctv15">
+  <programme start="20260417220100 +0800" stop="20260417231430 +0800" channel="cctv15">
     <title>影视留声机-2025-145</title>
   </programme>
-  <programme start="20260417234630 +0800" stop="20260417235900 +0800" channel="cctv15">
+  <programme start="20260417231430 +0800" stop="20260417235900 +0800" channel="cctv15">
+    <title>CCTV音乐厅-2026-95-“春花烂漫”春日交响音乐会（1）-杭州</title>
+  </programme>
+  <programme start="20260418002530 +0800" stop="20260418010315 +0800" channel="cctv15">
     <title>风华国乐-2026-109</title>
   </programme>
-  <programme start="20260418002415 +0800" stop="20260418011915 +0800" channel="cctv15">
+  <programme start="20260418010315 +0800" stop="20260418015815 +0800" channel="cctv15">
     <title>CCTV音乐厅-2026-38-名家名曲（38）</title>
   </programme>
-  <programme start="20260418011915 +0800" stop="20260418060000 +0800" channel="cctv15">
+  <programme start="20260418015815 +0800" stop="20260418060000 +0800" channel="cctv15">
     <title>再见</title>
   </programme>
   <programme start="20260418060000 +0800" stop="20260418071030 +0800" channel="cctv15">
@@ -7029,8 +7029,296 @@
   <programme start="20260420021500 +0800" stop="20260420034500 +0800" channel="cctv16">
     <title>2026年ATP1000男子网球大师赛-迈阿密站 半决赛</title>
   </programme>
-  <programme start="20260420034500 +0800" stop="20260420235900 +0800" channel="cctv16">
+  <programme start="20260420034500 +0800" stop="20260420040000 +0800" channel="cctv16">
     <title>赛事集锦（奥林匹克）-2026年米兰科尔蒂纳冬奥会 冬奥典藏4</title>
+  </programme>
+  <programme start="20260420040000 +0800" stop="20260420053000 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2025/2026赛季中国男子篮球职业联赛第38轮 浙江浙商证券—广东东阳光</title>
+  </programme>
+  <programme start="20260420053000 +0800" stop="20260420060000 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 女子钢架雪车</title>
+  </programme>
+  <programme start="20260420060000 +0800" stop="20260420062000 +0800" channel="cctv16">
+    <title>艺术里的奥林匹克2026-19</title>
+  </programme>
+  <programme start="20260420062000 +0800" stop="20260420063500 +0800" channel="cctv16">
+    <title>奥秘无穷-2026-13</title>
+  </programme>
+  <programme start="20260420063500 +0800" stop="20260420070500 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2026年世界短道速滑锦标赛 25分钟版</title>
+  </programme>
+  <programme start="20260420070500 +0800" stop="20260420080500 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 北欧两项个人大跳台/10公里越野滑雪</title>
+  </programme>
+  <programme start="20260420080500 +0800" stop="20260420093000 +0800" channel="cctv16">
+    <title>2026年ATP1000男子网球大师赛-蒙特卡洛站 1/4决赛</title>
+  </programme>
+  <programme start="20260420093000 +0800" stop="20260420103000 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2026年艺术体操世界杯 塔什干站 1</title>
+  </programme>
+  <programme start="20260420103000 +0800" stop="20260420120000 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2026年世界男子冰壶锦标赛 1</title>
+  </programme>
+  <programme start="20260420120000 +0800" stop="20260420122000 +0800" channel="cctv16">
+    <title>艺术里的奥林匹克2026-20</title>
+  </programme>
+  <programme start="20260420122000 +0800" stop="20260420123500 +0800" channel="cctv16">
+    <title>奥秘无穷-2026-13</title>
+  </programme>
+  <programme start="20260420123500 +0800" stop="20260420133500 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 自由式滑雪男子空中技巧决赛</title>
+  </programme>
+  <programme start="20260420133500 +0800" stop="20260420150500 +0800" channel="cctv16">
+    <title>国际足球赛场-25-26赛季英超联赛第33轮 纽卡斯尔联—伯恩茅斯</title>
+  </programme>
+  <programme start="20260420150500 +0800" stop="20260420160500 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2026年世界室内田径锦标赛1</title>
+  </programme>
+  <programme start="20260420160500 +0800" stop="20260420162500 +0800" channel="cctv16">
+    <title>艺术里的奥林匹克2026-21</title>
+  </programme>
+  <programme start="20260420162500 +0800" stop="20260420175500 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2025/2026法国足球甲级联赛第30轮 巴黎圣日耳曼—里昂 录播</title>
+  </programme>
+  <programme start="20260420175500 +0800" stop="20260420185500 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2026年国际乒联单打世界杯 1</title>
+  </programme>
+  <programme start="20260420185500 +0800" stop="20260420195500 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2026年亚洲羽毛球锦标赛 1</title>
+  </programme>
+  <programme start="20260420195500 +0800" stop="20260420201500 +0800" channel="cctv16">
+    <title>艺术里的奥林匹克2026-22</title>
+  </programme>
+  <programme start="20260420201500 +0800" stop="20260420204500 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-精品赛事记录-2026年世界泳联花样游泳世界杯法国站 中国队2金1银</title>
+  </programme>
+  <programme start="20260420204500 +0800" stop="20260420214500 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2026年体操世界杯 奥西耶克站 1</title>
+  </programme>
+  <programme start="20260420214500 +0800" stop="20260420231000 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2025/2026赛季中国男子篮球职业联赛第40轮 深圳马可波罗—宁波町渥</title>
+  </programme>
+  <programme start="20260420231000 +0800" stop="20260420235900 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 自由式滑雪女子坡面障碍技巧决赛</title>
+  </programme>
+  <programme start="20260421001000 +0800" stop="20260421013500 +0800" channel="cctv16">
+    <title>2025/2026德国足球甲级联赛-第29轮（多特蒙德—勒沃库森）</title>
+  </programme>
+  <programme start="20260421013500 +0800" stop="20260421023500 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 高山滑雪男子团体全能</title>
+  </programme>
+  <programme start="20260421023500 +0800" stop="20260421040000 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 冰壶女子决赛</title>
+  </programme>
+  <programme start="20260421040000 +0800" stop="20260421053000 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2025/2026赛季中国男子篮球职业联赛第38轮 山东高速—辽宁本钢</title>
+  </programme>
+  <programme start="20260421053000 +0800" stop="20260421060000 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 男子钢架雪车</title>
+  </programme>
+  <programme start="20260421060000 +0800" stop="20260421070000 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 单板滑雪女子大跳台决赛</title>
+  </programme>
+  <programme start="20260421070000 +0800" stop="20260421080000 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2026年世界速度滑冰全能和短距离锦标赛2</title>
+  </programme>
+  <programme start="20260421080000 +0800" stop="20260421093000 +0800" channel="cctv16">
+    <title>2026年ATP1000男子网球大师赛-蒙特卡洛站 半决赛</title>
+  </programme>
+  <programme start="20260421093000 +0800" stop="20260421103000 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2026年艺术体操世界杯 塔什干站 2</title>
+  </programme>
+  <programme start="20260421103000 +0800" stop="20260421120000 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2026年世界男子冰壶锦标赛 2</title>
+  </programme>
+  <programme start="20260421120000 +0800" stop="20260421122000 +0800" channel="cctv16">
+    <title>艺术里的奥林匹克2026-23</title>
+  </programme>
+  <programme start="20260421122000 +0800" stop="20260421132000 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 自由式滑雪女子大跳台决赛</title>
+  </programme>
+  <programme start="20260421132000 +0800" stop="20260421145000 +0800" channel="cctv16">
+    <title>2025/2026德国足球甲级联赛-第30轮（勒沃库森-奥格斯堡）</title>
+  </programme>
+  <programme start="20260421145000 +0800" stop="20260421155000 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2026年世界室内田径锦标赛2</title>
+  </programme>
+  <programme start="20260421155000 +0800" stop="20260421160500 +0800" channel="cctv16">
+    <title>奥秘无穷-2026-13</title>
+  </programme>
+  <programme start="20260421160500 +0800" stop="20260421162500 +0800" channel="cctv16">
+    <title>艺术里的奥林匹克2026-24</title>
+  </programme>
+  <programme start="20260421162500 +0800" stop="20260421175500 +0800" channel="cctv16">
+    <title>国际足球赛场-25-26赛季法甲联赛第30轮 洛里昂—马赛</title>
+  </programme>
+  <programme start="20260421175500 +0800" stop="20260421185500 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2026年亚洲羽毛球锦标赛 2</title>
+  </programme>
+  <programme start="20260421185500 +0800" stop="20260421191000 +0800" channel="cctv16">
+    <title>场•面-2026-14</title>
+  </programme>
+  <programme start="20260421191000 +0800" stop="20260421193000 +0800" channel="cctv16">
+    <title>艺术里的奥林匹克2026-25</title>
+  </programme>
+  <programme start="20260421193000 +0800" stop="20260421214500 +0800" channel="cctv16">
+    <title>2026中国足球超级联赛-第7轮 成都蓉城-云南玉昆</title>
+  </programme>
+  <programme start="20260421214500 +0800" stop="20260421231500 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2026年世界花样滑冰锦标赛 女子单人滑</title>
+  </programme>
+  <programme start="20260421231500 +0800" stop="20260421235900 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2025/2026赛季中国男子篮球职业联赛第40轮 辽宁本钢—浙江稠州金租</title>
+  </programme>
+  <programme start="20260422004000 +0800" stop="20260422021000 +0800" channel="cctv16">
+    <title>国际足球赛场-25-26赛季英超联赛第32轮 阿森纳—伯恩茅斯</title>
+  </programme>
+  <programme start="20260422021000 +0800" stop="20260422031000 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 短道速滑比赛1</title>
+  </programme>
+  <programme start="20260422031000 +0800" stop="20260422040000 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 自由式滑雪男子障碍追逐决赛</title>
+  </programme>
+  <programme start="20260422040000 +0800" stop="20260422052500 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2025/2026赛季中国男子篮球职业联赛第40轮 深圳马可波罗—宁波町渥</title>
+  </programme>
+  <programme start="20260422052500 +0800" stop="20260422055500 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 雪橇男子单人</title>
+  </programme>
+  <programme start="20260422055500 +0800" stop="20260422061000 +0800" channel="cctv16">
+    <title>场•面-2026-14</title>
+  </programme>
+  <programme start="20260422061000 +0800" stop="20260422071000 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 高山滑雪女子团体全能</title>
+  </programme>
+  <programme start="20260422071000 +0800" stop="20260422081000 +0800" channel="cctv16">
+    <title>2026年蹦床世界杯-阿尔克马尔站1</title>
+  </programme>
+  <programme start="20260422081000 +0800" stop="20260422093500 +0800" channel="cctv16">
+    <title>2026年ATP1000男子网球大师赛-蒙特卡洛站 决赛</title>
+  </programme>
+  <programme start="20260422093500 +0800" stop="20260422103500 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2026年世界短道速滑锦标赛1</title>
+  </programme>
+  <programme start="20260422103500 +0800" stop="20260422120000 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2026年世界男子冰壶锦标赛 3</title>
+  </programme>
+  <programme start="20260422120000 +0800" stop="20260422122000 +0800" channel="cctv16">
+    <title>艺术里的奥林匹克2026-17</title>
+  </programme>
+  <programme start="20260422122000 +0800" stop="20260422123500 +0800" channel="cctv16">
+    <title>场•面-2026-14</title>
+  </programme>
+  <programme start="20260422123500 +0800" stop="20260422133500 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 单板滑雪男子坡面障碍技巧决赛</title>
+  </programme>
+  <programme start="20260422133500 +0800" stop="20260422150500 +0800" channel="cctv16">
+    <title>2025/2026德国足球甲级联赛-第30轮（拜仁慕尼黑-斯图加特）</title>
+  </programme>
+  <programme start="20260422150500 +0800" stop="20260422160500 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2026年世界室内田径锦标赛3</title>
+  </programme>
+  <programme start="20260422160500 +0800" stop="20260422162500 +0800" channel="cctv16">
+    <title>艺术里的奥林匹克2026-18</title>
+  </programme>
+  <programme start="20260422162500 +0800" stop="20260422175500 +0800" channel="cctv16">
+    <title>国际足球赛场-25-26赛季英超联赛第33轮 埃弗顿—利物浦</title>
+  </programme>
+  <programme start="20260422175500 +0800" stop="20260422185500 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2026年国际乒联单打世界杯 2</title>
+  </programme>
+  <programme start="20260422185500 +0800" stop="20260422195500 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2026年亚洲羽毛球锦标赛 3</title>
+  </programme>
+  <programme start="20260422195500 +0800" stop="20260422202500 +0800" channel="cctv16">
+    <title>体坛零距离-2026-11</title>
+  </programme>
+  <programme start="20260422202500 +0800" stop="20260422204500 +0800" channel="cctv16">
+    <title>艺术里的奥林匹克2026-26</title>
+  </programme>
+  <programme start="20260422204500 +0800" stop="20260422214500 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2026年体操世界杯 奥西耶克站 2</title>
+  </programme>
+  <programme start="20260422214500 +0800" stop="20260422231000 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2026年世界花样滑冰锦标赛 男子单人滑</title>
+  </programme>
+  <programme start="20260422231000 +0800" stop="20260422235900 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2025/2026赛季中国男子篮球职业联赛第41轮 深圳马可波罗—山东高速</title>
+  </programme>
+  <programme start="20260423003500 +0800" stop="20260423020000 +0800" channel="cctv16">
+    <title>2025/2026西班牙足球甲级联赛-第31轮（巴塞罗那—西班牙人）</title>
+  </programme>
+  <programme start="20260423020000 +0800" stop="20260423030000 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 短道速滑比赛2</title>
+  </programme>
+  <programme start="20260423030000 +0800" stop="20260423040000 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 自由式滑雪男子U型场地技巧决赛</title>
+  </programme>
+  <programme start="20260423040000 +0800" stop="20260423053000 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2025/2026赛季中国男子篮球职业联赛第40轮 辽宁本钢—浙江稠州金租</title>
+  </programme>
+  <programme start="20260423053000 +0800" stop="20260423060000 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 钢架雪车混合团体</title>
+  </programme>
+  <programme start="20260423060000 +0800" stop="20260423063000 +0800" channel="cctv16">
+    <title>体坛零距离-2026-11</title>
+  </programme>
+  <programme start="20260423063000 +0800" stop="20260423070000 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 高山滑雪男子回转</title>
+  </programme>
+  <programme start="20260423070000 +0800" stop="20260423080000 +0800" channel="cctv16">
+    <title>2026年蹦床世界杯-阿尔克马尔站2</title>
+  </programme>
+  <programme start="20260423080000 +0800" stop="20260423093000 +0800" channel="cctv16">
+    <title>2026年ATP1000男子网球大师赛-迈阿密站 半决赛</title>
+  </programme>
+  <programme start="20260423093000 +0800" stop="20260423103000 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2026年世界短道速滑锦标赛2</title>
+  </programme>
+  <programme start="20260423103000 +0800" stop="20260423120000 +0800" channel="cctv16">
+    <title>2026年世界女子冰壶锦标赛-1</title>
+  </programme>
+  <programme start="20260423120000 +0800" stop="20260423122000 +0800" channel="cctv16">
+    <title>艺术里的奥林匹克2026-19</title>
+  </programme>
+  <programme start="20260423122000 +0800" stop="20260423125000 +0800" channel="cctv16">
+    <title>2025/2026法国足球甲级联赛-第30轮集锦</title>
+  </programme>
+  <programme start="20260423125000 +0800" stop="20260423135000 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2026年世界室内田径锦标赛1</title>
+  </programme>
+  <programme start="20260423135000 +0800" stop="20260423152000 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 冰球男子决赛</title>
+  </programme>
+  <programme start="20260423152000 +0800" stop="20260423153500 +0800" channel="cctv16">
+    <title>场•面-2026-14</title>
+  </programme>
+  <programme start="20260423153500 +0800" stop="20260423155500 +0800" channel="cctv16">
+    <title>艺术里的奥林匹克2026-20</title>
+  </programme>
+  <programme start="20260423155500 +0800" stop="20260423165500 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 速度滑冰比赛1</title>
+  </programme>
+  <programme start="20260423165500 +0800" stop="20260423172500 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-精品赛事记录-2026年射箭世界杯墨西哥站 中国队金牌1</title>
+  </programme>
+  <programme start="20260423172500 +0800" stop="20260423185500 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2025/2026赛季德国杯足球赛半决赛 勒沃库森—拜仁慕尼黑 录播</title>
+  </programme>
+  <programme start="20260423185500 +0800" stop="20260423195500 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2026年国际乒联单打世界杯 3</title>
+  </programme>
+  <programme start="20260423195500 +0800" stop="20260423201500 +0800" channel="cctv16">
+    <title>艺术里的奥林匹克2026-21</title>
+  </programme>
+  <programme start="20260423201500 +0800" stop="20260423214000 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2025/2026赛季中国男子篮球职业联赛第41轮 上海久事—辽宁本钢</title>
+  </programme>
+  <programme start="20260423214000 +0800" stop="20260423230500 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2026年世界花样滑冰锦标赛 双人滑</title>
+  </programme>
+  <programme start="20260423230500 +0800" stop="20260423235900 +0800" channel="cctv16">
+    <title>实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 自由式滑雪女子空中技巧决赛</title>
   </programme>
   <programme start="20260409001300 +0800" stop="20260409004400 +0800" channel="cctv17">
     <title>超级农人秀-2026-70</title>
@@ -10015,28 +10303,28 @@
     <title>综艺喜乐汇-2026-404</title>
   </programme>
   <programme start="20260417180725 +0800" stop="20260417193000 +0800" channel="cctv3">
-    <title>越战越勇-2026-15</title>
-  </programme>
-  <programme start="20260417193000 +0800" stop="20260417205415 +0800" channel="cctv3">
     <title>开门大吉-2026-4</title>
   </programme>
-  <programme start="20260417205415 +0800" stop="20260417214930 +0800" channel="cctv3">
-    <title>综艺喜乐汇-2026-31</title>
+  <programme start="20260417193000 +0800" stop="20260417205415 +0800" channel="cctv3">
+    <title>越战越勇-2026-11</title>
   </programme>
-  <programme start="20260417214930 +0800" stop="20260417230845 +0800" channel="cctv3">
-    <title>国风超有戏·寻风季-6综艺频道</title>
+  <programme start="20260417205415 +0800" stop="20260417212930 +0800" channel="cctv3">
+    <title>动物园里有什么-9</title>
   </programme>
-  <programme start="20260417230845 +0800" stop="20260417235445 +0800" channel="cctv3">
+  <programme start="20260417212930 +0800" stop="20260417225245 +0800" channel="cctv3">
+    <title>星光大道-2026-12</title>
+  </programme>
+  <programme start="20260417225245 +0800" stop="20260417233845 +0800" channel="cctv3">
     <title>综艺喜乐汇-2026-276 棋士16/22</title>
   </programme>
-  <programme start="20260417235445 +0800" stop="20260417235900 +0800" channel="cctv3">
+  <programme start="20260417233845 +0800" stop="20260417235900 +0800" channel="cctv3">
     <title>综艺喜乐汇-2026-277 棋士17/22</title>
   </programme>
-  <programme start="20260418004045 +0800" stop="20260418012645 +0800" channel="cctv3">
+  <programme start="20260418002445 +0800" stop="20260418011045 +0800" channel="cctv3">
     <title>综艺喜乐汇-2026-278 棋士18/22</title>
   </programme>
-  <programme start="20260418012645 +0800" stop="20260418025045 +0800" channel="cctv3">
-    <title>影视留声机-2025-86-经典电影欣赏《狼牙山五壮士》</title>
+  <programme start="20260418011045 +0800" stop="20260418025045 +0800" channel="cctv3">
+    <title>影视留声机-2025-128-经典电影欣赏《椰林曲》</title>
   </programme>
   <programme start="20260418025045 +0800" stop="20260418034045 +0800" channel="cctv3">
     <title>综艺喜乐汇-2026-491</title>
@@ -10081,7 +10369,7 @@
     <title>综艺喜乐汇-2026-405</title>
   </programme>
   <programme start="20260418180440 +0800" stop="20260418193000 +0800" channel="cctv3">
-    <title>越战越勇-2026-4</title>
+    <title>越战越勇-2026-15</title>
   </programme>
   <programme start="20260418193000 +0800" stop="20260418210030 +0800" channel="cctv3">
     <title>综艺喜乐汇-2026-440</title>
@@ -11034,23 +11322,11 @@
   <programme start="20260416092700 +0800" stop="20260416100000 +0800" channel="cctv4">
     <title>国家记忆-2025-180</title>
   </programme>
-  <programme start="20260416100000 +0800" stop="20260416110100 +0800" channel="cctv4">
+  <programme start="20260416100000 +0800" stop="20260416112100 +0800" channel="cctv4">
     <title>2026年国新办发布会-3</title>
   </programme>
-  <programme start="20260416110100 +0800" stop="20260416110500 +0800" channel="cctv4">
+  <programme start="20260416112100 +0800" stop="20260416113000 +0800" channel="cctv4">
     <title>记住乡愁-片段展播-2024-5</title>
-  </programme>
-  <programme start="20260416110500 +0800" stop="20260416110900 +0800" channel="cctv4">
-    <title>记住乡愁-片段展播-2024-6</title>
-  </programme>
-  <programme start="20260416110900 +0800" stop="20260416111200 +0800" channel="cctv4">
-    <title>记住乡愁-片段展播-2025-4</title>
-  </programme>
-  <programme start="20260416111200 +0800" stop="20260416111700 +0800" channel="cctv4">
-    <title>记住乡愁-片段展播-2025-11</title>
-  </programme>
-  <programme start="20260416111700 +0800" stop="20260416113000 +0800" channel="cctv4">
-    <title>记住乡愁-片段展播-2025-11</title>
   </programme>
   <programme start="20260416113000 +0800" stop="20260416120000 +0800" channel="cctv4">
     <title>海峡两岸-2026-105</title>
@@ -11130,74 +11406,65 @@
   <programme start="20260417040000 +0800" stop="20260417043000 +0800" channel="cctv4">
     <title>中国新闻</title>
   </programme>
-  <programme start="20260417043000 +0800" stop="20260417050000 +0800" channel="cctv4">
-    <title>今日关注</title>
+  <programme start="20260417043000 +0800" stop="20260417050040 +0800" channel="cctv4">
+    <title>记住乡愁2026-33</title>
   </programme>
-  <programme start="20260417050000 +0800" stop="20260417053000 +0800" channel="cctv4">
-    <title>记住乡愁2026-44</title>
+  <programme start="20260417050040 +0800" stop="20260417053200 +0800" channel="cctv4">
+    <title>中国文艺-2026-76</title>
   </programme>
-  <programme start="20260417053000 +0800" stop="20260417060000 +0800" channel="cctv4">
+  <programme start="20260417053200 +0800" stop="20260417060240 +0800" channel="cctv4">
+    <title>国家记忆-2025-195</title>
+  </programme>
+  <programme start="20260417060240 +0800" stop="20260417063040 +0800" channel="cctv4">
     <title>走遍中国-2026-61</title>
   </programme>
-  <programme start="20260417060000 +0800" stop="20260417063000 +0800" channel="cctv4">
+  <programme start="20260417063040 +0800" stop="20260417070000 +0800" channel="cctv4">
     <title>海峡两岸-2026-106</title>
   </programme>
-  <programme start="20260417063000 +0800" stop="20260417070000 +0800" channel="cctv4">
-    <title>今日亚洲</title>
-  </programme>
-  <programme start="20260417070000 +0800" stop="20260417073000 +0800" channel="cctv4">
+  <programme start="20260417070000 +0800" stop="20260417080000 +0800" channel="cctv4">
     <title>中国新闻</title>
-  </programme>
-  <programme start="20260417073000 +0800" stop="20260417080000 +0800" channel="cctv4">
-    <title>今日关注</title>
   </programme>
   <programme start="20260417080000 +0800" stop="20260417090000 +0800" channel="cctv4">
     <title>今日环球</title>
   </programme>
-  <programme start="20260417090000 +0800" stop="20260417092600 +0800" channel="cctv4">
-    <title>今日亚洲</title>
+  <programme start="20260417090000 +0800" stop="20260417092700 +0800" channel="cctv4">
+    <title>国家记忆-2025-20</title>
   </programme>
-  <programme start="20260417092600 +0800" stop="20260417095630 +0800" channel="cctv4">
+  <programme start="20260417092700 +0800" stop="20260417095730 +0800" channel="cctv4">
+    <title>国家记忆-2025-21</title>
+  </programme>
+  <programme start="20260417095730 +0800" stop="20260417102430 +0800" channel="cctv4">
+    <title>国家记忆-2025-22</title>
+  </programme>
+  <programme start="20260417102430 +0800" stop="20260417105130 +0800" channel="cctv4">
+    <title>国家记忆-2025-23</title>
+  </programme>
+  <programme start="20260417105130 +0800" stop="20260417112130 +0800" channel="cctv4">
     <title>国家记忆-2025-24</title>
   </programme>
-  <programme start="20260417095630 +0800" stop="20260417102330 +0800" channel="cctv4">
-    <title>国家记忆-2025-158</title>
-  </programme>
-  <programme start="20260417102330 +0800" stop="20260417105030 +0800" channel="cctv4">
-    <title>国家记忆-2025-159</title>
-  </programme>
-  <programme start="20260417105030 +0800" stop="20260417112030 +0800" channel="cctv4">
-    <title>国家记忆-2025-182</title>
-  </programme>
-  <programme start="20260417112030 +0800" stop="20260417113000 +0800" channel="cctv4">
+  <programme start="20260417112130 +0800" stop="20260417113000 +0800" channel="cctv4">
     <title>记住乡愁-片段展播-2024-5</title>
   </programme>
   <programme start="20260417113000 +0800" stop="20260417120000 +0800" channel="cctv4">
     <title>海峡两岸-2026-106</title>
   </programme>
-  <programme start="20260417120000 +0800" stop="20260417130310 +0800" channel="cctv4">
+  <programme start="20260417120000 +0800" stop="20260417140310 +0800" channel="cctv4">
     <title>中国新闻</title>
   </programme>
-  <programme start="20260417130310 +0800" stop="20260417134940 +0800" channel="cctv4">
+  <programme start="20260417140310 +0800" stop="20260417144940 +0800" channel="cctv4">
     <title>老虎队第12集</title>
   </programme>
-  <programme start="20260417134940 +0800" stop="20260417143555 +0800" channel="cctv4">
+  <programme start="20260417144940 +0800" stop="20260417153555 +0800" channel="cctv4">
     <title>老虎队第13集</title>
   </programme>
-  <programme start="20260417143555 +0800" stop="20260417152440 +0800" channel="cctv4">
+  <programme start="20260417153555 +0800" stop="20260417162440 +0800" channel="cctv4">
     <title>老虎队第14集</title>
   </programme>
-  <programme start="20260417152440 +0800" stop="20260417161110 +0800" channel="cctv4">
+  <programme start="20260417162440 +0800" stop="20260417171110 +0800" channel="cctv4">
     <title>老虎队第15集</title>
   </programme>
-  <programme start="20260417161110 +0800" stop="20260417165920 +0800" channel="cctv4">
+  <programme start="20260417171110 +0800" stop="20260417180000 +0800" channel="cctv4">
     <title>老虎队第16集</title>
-  </programme>
-  <programme start="20260417165920 +0800" stop="20260417171500 +0800" channel="cctv4">
-    <title>平凡匠心-2025-92</title>
-  </programme>
-  <programme start="20260417171500 +0800" stop="20260417180000 +0800" channel="cctv4">
-    <title>远方的家2026-82</title>
   </programme>
   <programme start="20260417180000 +0800" stop="20260417190000 +0800" channel="cctv4">
     <title>中国新闻</title>
@@ -11356,10 +11623,10 @@
     <title>海峡两岸-2026-108</title>
   </programme>
   <programme start="20260418235500 +0800" stop="20260418235900 +0800" channel="cctv4">
-    <title>护宝寻踪30/36</title>
+    <title>护宝寻踪34/36</title>
   </programme>
   <programme start="20260419004100 +0800" stop="20260419012700 +0800" channel="cctv4">
-    <title>护宝寻踪31/36</title>
+    <title>护宝寻踪35/36</title>
   </programme>
   <programme start="20260419012700 +0800" stop="20260419015300 +0800" channel="cctv4">
     <title>中国缘-2026-15</title>
@@ -11482,16 +11749,16 @@
     <title>国宝发现-2026-16</title>
   </programme>
   <programme start="20260419235600 +0800" stop="20260419235900 +0800" channel="cctv4">
-    <title>护宝寻踪32/36</title>
+    <title>护宝寻踪36/36</title>
   </programme>
-  <programme start="20260420004200 +0800" stop="20260420012900 +0800" channel="cctv4">
-    <title>护宝寻踪33/36</title>
+  <programme start="20260420004200 +0800" stop="20260420012800 +0800" channel="cctv4">
+    <title>风雨送春归1/40</title>
   </programme>
-  <programme start="20260420012900 +0800" stop="20260420015700 +0800" channel="cctv4">
+  <programme start="20260420012800 +0800" stop="20260420015600 +0800" channel="cctv4">
     <title>中国缘-2026-16</title>
   </programme>
-  <programme start="20260420015700 +0800" stop="20260420020000 +0800" channel="cctv4">
-    <title>记住乡愁-片段展播-2024-8</title>
+  <programme start="20260420015600 +0800" stop="20260420020000 +0800" channel="cctv4">
+    <title>记住乡愁-片段展播-2024-18</title>
   </programme>
   <programme start="20260420020000 +0800" stop="20260420023000 +0800" channel="cctv4">
     <title>新闻联播</title>
@@ -11503,13 +11770,13 @@
     <title>中国文艺-致敬经典2026-16</title>
   </programme>
   <programme start="20260420034500 +0800" stop="20260420034900 +0800" channel="cctv4">
-    <title>记住乡愁-片段展播-2024-7</title>
+    <title>记住乡愁-片段展播-2024-20</title>
   </programme>
-  <programme start="20260420034900 +0800" stop="20260420035200 +0800" channel="cctv4">
-    <title>记住乡愁-片段展播-2024-9</title>
+  <programme start="20260420034900 +0800" stop="20260420035300 +0800" channel="cctv4">
+    <title>记住乡愁-片段展播-2024-35</title>
   </programme>
-  <programme start="20260420035200 +0800" stop="20260420235900 +0800" channel="cctv4">
-    <title>记住乡愁-片段展播-2024-10</title>
+  <programme start="20260420035300 +0800" stop="20260420235900 +0800" channel="cctv4">
+    <title>记住乡愁-片段展播-2024-36</title>
   </programme>
   <programme start="20260409000000 +0800" stop="20260409060049 +0800" channel="cctv4k">
     <title>再见</title>
@@ -14430,8 +14697,302 @@
   <programme start="20260420014000 +0800" stop="20260420023800 +0800" channel="cctv5">
     <title>实况录像-2026年世界泳联花样游泳世界杯 法国站  3</title>
   </programme>
-  <programme start="20260420023800 +0800" stop="20260420235900 +0800" channel="cctv5">
+  <programme start="20260420023800 +0800" stop="20260420040000 +0800" channel="cctv5">
     <title>实况录像-2025/2026赛季中国男子篮球职业联赛 第32轮 青岛崂山啤酒—北京控股</title>
+  </programme>
+  <programme start="20260420040000 +0800" stop="20260420053000 +0800" channel="cctv5">
+    <title>国际足球赛场-25-26赛季英超联赛第7轮 纽卡斯尔联—诺丁汉森林</title>
+  </programme>
+  <programme start="20260420053000 +0800" stop="20260420060000 +0800" channel="cctv5">
+    <title>实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 越野滑雪女子10公里自由技术（4K）</title>
+  </programme>
+  <programme start="20260420060000 +0800" stop="20260420063000 +0800" channel="cctv5">
+    <title>实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 男子钢架雪车（4K）</title>
+  </programme>
+  <programme start="20260420063000 +0800" stop="20260420070000 +0800" channel="cctv5">
+    <title>健身动起来</title>
+  </programme>
+  <programme start="20260420070000 +0800" stop="20260420080300 +0800" channel="cctv5">
+    <title>体坛晨报</title>
+  </programme>
+  <programme start="20260420080300 +0800" stop="20260420090100 +0800" channel="cctv5">
+    <title>实况录像-2026年体操世界杯 奥西耶克站 1</title>
+  </programme>
+  <programme start="20260420090100 +0800" stop="20260420103100 +0800" channel="cctv5">
+    <title>2025/2026德国足球甲级联赛-第30轮（勒沃库森-奥格斯堡）（4K）</title>
+  </programme>
+  <programme start="20260420103100 +0800" stop="20260420115500 +0800" channel="cctv5">
+    <title>实况录像-2025/2026赛季中国男子篮球职业联赛 第41轮 深圳马可波罗—山东高速</title>
+  </programme>
+  <programme start="20260420115500 +0800" stop="20260420120000 +0800" channel="cctv5">
+    <title>健身动起来</title>
+  </programme>
+  <programme start="20260420120000 +0800" stop="20260420123500 +0800" channel="cctv5">
+    <title>体坛快讯</title>
+  </programme>
+  <programme start="20260420123500 +0800" stop="20260420125800 +0800" channel="cctv5">
+    <title>艺术里的奥林匹克(4K)</title>
+  </programme>
+  <programme start="20260420125800 +0800" stop="20260420143000 +0800" channel="cctv5">
+    <title>实况录像-2025/2026赛季世界斯诺克锦标赛 第一轮（录播）2</title>
+  </programme>
+  <programme start="20260420143000 +0800" stop="20260420160000 +0800" channel="cctv5">
+    <title>实况录像-2025/2026赛季欧洲篮球联赛 第38轮 奥林匹亚科斯—米兰</title>
+  </programme>
+  <programme start="20260420160000 +0800" stop="20260420165500 +0800" channel="cctv5">
+    <title>实况录像-2026年亚洲羽毛球锦标赛 1</title>
+  </programme>
+  <programme start="20260420165500 +0800" stop="20260420170000 +0800" channel="cctv5">
+    <title>健身动起来</title>
+  </programme>
+  <programme start="20260420170000 +0800" stop="20260420180000 +0800" channel="cctv5">
+    <title>运动一起赢</title>
+  </programme>
+  <programme start="20260420180000 +0800" stop="20260420183000 +0800" channel="cctv5">
+    <title>体育新闻</title>
+  </programme>
+  <programme start="20260420183000 +0800" stop="20260420193000 +0800" channel="cctv5">
+    <title>天下足球</title>
+  </programme>
+  <programme start="20260420193000 +0800" stop="20260420213000 +0800" channel="cctv5">
+    <title>2025/2026赛季中国男子篮球职业联赛常规赛-第41轮(上海久事 - 辽宁本钢)</title>
+  </programme>
+  <programme start="20260420213000 +0800" stop="20260420223000 +0800" channel="cctv5">
+    <title>体育世界</title>
+  </programme>
+  <programme start="20260420223000 +0800" stop="20260420235900 +0800" channel="cctv5">
+    <title>2025/2026赛季世界斯诺克锦标赛-第1轮3</title>
+  </programme>
+  <programme start="20260421003500 +0800" stop="20260421010500 +0800" channel="cctv5">
+    <title>实况录像-2026年体操世界杯 科特布斯站 25分钟版</title>
+  </programme>
+  <programme start="20260421010500 +0800" stop="20260421023600 +0800" channel="cctv5">
+    <title>实况录像-2025年世界田联钻石联赛  拉巴特站</title>
+  </programme>
+  <programme start="20260421023600 +0800" stop="20260421040000 +0800" channel="cctv5">
+    <title>实况录像-2025/2026赛季中国男子篮球职业联赛 第32轮 山西汾酒—上海久事</title>
+  </programme>
+  <programme start="20260421040000 +0800" stop="20260421053000 +0800" channel="cctv5">
+    <title>国际足球赛场-25-26赛季英超联赛第8轮 曼彻斯特城—埃弗顿</title>
+  </programme>
+  <programme start="20260421053000 +0800" stop="20260421060000 +0800" channel="cctv5">
+    <title>实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 越野滑雪男子10公里自由技术（4K）</title>
+  </programme>
+  <programme start="20260421060000 +0800" stop="20260421063000 +0800" channel="cctv5">
+    <title>实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 女子钢架雪车（4K）</title>
+  </programme>
+  <programme start="20260421063000 +0800" stop="20260421070000 +0800" channel="cctv5">
+    <title>健身动起来</title>
+  </programme>
+  <programme start="20260421070000 +0800" stop="20260421080300 +0800" channel="cctv5">
+    <title>体坛晨报</title>
+  </programme>
+  <programme start="20260421080300 +0800" stop="20260421090100 +0800" channel="cctv5">
+    <title>实况录像-2026年体操世界杯 奥西耶克站 2</title>
+  </programme>
+  <programme start="20260421090100 +0800" stop="20260421103100 +0800" channel="cctv5">
+    <title>国际足球赛场-25-26赛季英超联赛第33轮 纽卡斯尔联—伯恩茅斯（4K）</title>
+  </programme>
+  <programme start="20260421103100 +0800" stop="20260421115500 +0800" channel="cctv5">
+    <title>实况录像-2025/2026赛季中国男子篮球职业联赛 第41轮 上海久事—辽宁本钢</title>
+  </programme>
+  <programme start="20260421115500 +0800" stop="20260421120000 +0800" channel="cctv5">
+    <title>健身动起来</title>
+  </programme>
+  <programme start="20260421120000 +0800" stop="20260421123500 +0800" channel="cctv5">
+    <title>体坛快讯</title>
+  </programme>
+  <programme start="20260421123500 +0800" stop="20260421125800 +0800" channel="cctv5">
+    <title>艺术里的奥林匹克(4K)</title>
+  </programme>
+  <programme start="20260421125800 +0800" stop="20260421143000 +0800" channel="cctv5">
+    <title>实况录像-2025/2026赛季世界斯诺克锦标赛 第一轮（录播）3</title>
+  </programme>
+  <programme start="20260421143000 +0800" stop="20260421160000 +0800" channel="cctv5">
+    <title>2026年ATP1000男子网球大师赛-蒙特卡洛站 决赛（4K）</title>
+  </programme>
+  <programme start="20260421160000 +0800" stop="20260421165500 +0800" channel="cctv5">
+    <title>实况录像-2026年亚洲羽毛球锦标赛 2</title>
+  </programme>
+  <programme start="20260421165500 +0800" stop="20260421170000 +0800" channel="cctv5">
+    <title>健身动起来</title>
+  </programme>
+  <programme start="20260421170000 +0800" stop="20260421180000 +0800" channel="cctv5">
+    <title>实况录像-2026年世界室内田径锦标赛  1</title>
+  </programme>
+  <programme start="20260421180000 +0800" stop="20260421183000 +0800" channel="cctv5">
+    <title>体育新闻</title>
+  </programme>
+  <programme start="20260421183000 +0800" stop="20260421193000 +0800" channel="cctv5">
+    <title>实况录像-2026年国际乒联单打世界杯 男单比赛</title>
+  </programme>
+  <programme start="20260421193000 +0800" stop="20260421213000 +0800" channel="cctv5">
+    <title>2026年全国举重锦标赛-男子65公斤级</title>
+  </programme>
+  <programme start="20260421213000 +0800" stop="20260421223000 +0800" channel="cctv5">
+    <title>体育世界</title>
+  </programme>
+  <programme start="20260421223000 +0800" stop="20260421235900 +0800" channel="cctv5">
+    <title>2025/2026赛季世界斯诺克锦标赛-第1轮4</title>
+  </programme>
+  <programme start="20260422003500 +0800" stop="20260422013500 +0800" channel="cctv5">
+    <title>顶级赛事-围棋</title>
+  </programme>
+  <programme start="20260422013500 +0800" stop="20260422023600 +0800" channel="cctv5">
+    <title>实况录像-2026年世界泳联花样游泳世界杯 法国站  1</title>
+  </programme>
+  <programme start="20260422023600 +0800" stop="20260422040000 +0800" channel="cctv5">
+    <title>实况录像-2025/2026赛季中国男子篮球职业联赛 第33轮 广东东阳光—江苏肯帝亚</title>
+  </programme>
+  <programme start="20260422040000 +0800" stop="20260422053000 +0800" channel="cctv5">
+    <title>国际足球赛场-25-26赛季英超联赛第9轮 切尔西—桑德兰</title>
+  </programme>
+  <programme start="20260422053000 +0800" stop="20260422060000 +0800" channel="cctv5">
+    <title>实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 冬季两项女子10公里追逐（4K）</title>
+  </programme>
+  <programme start="20260422060000 +0800" stop="20260422063000 +0800" channel="cctv5">
+    <title>实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 钢架雪车混合团体（4K）</title>
+  </programme>
+  <programme start="20260422063000 +0800" stop="20260422070000 +0800" channel="cctv5">
+    <title>健身动起来</title>
+  </programme>
+  <programme start="20260422070000 +0800" stop="20260422080300 +0800" channel="cctv5">
+    <title>体坛晨报</title>
+  </programme>
+  <programme start="20260422080300 +0800" stop="20260422090100 +0800" channel="cctv5">
+    <title>实况录像-2026年艺术体操世界杯 巴库站1</title>
+  </programme>
+  <programme start="20260422090100 +0800" stop="20260422103100 +0800" channel="cctv5">
+    <title>国际足球赛场-25-26赛季法甲联赛第30轮 洛里昂—马赛（4K）</title>
+  </programme>
+  <programme start="20260422103100 +0800" stop="20260422115500 +0800" channel="cctv5">
+    <title>实况录像-2025/2026赛季中国男子篮球职业联赛 第40轮 辽宁本钢—浙江稠州金租</title>
+  </programme>
+  <programme start="20260422115500 +0800" stop="20260422120000 +0800" channel="cctv5">
+    <title>健身动起来</title>
+  </programme>
+  <programme start="20260422120000 +0800" stop="20260422123500 +0800" channel="cctv5">
+    <title>体坛快讯</title>
+  </programme>
+  <programme start="20260422123500 +0800" stop="20260422125800 +0800" channel="cctv5">
+    <title>艺术里的奥林匹克(4K)</title>
+  </programme>
+  <programme start="20260422125800 +0800" stop="20260422143000 +0800" channel="cctv5">
+    <title>实况录像-2025/2026赛季世界斯诺克锦标赛 第一轮（录播）4</title>
+  </programme>
+  <programme start="20260422143000 +0800" stop="20260422163000 +0800" channel="cctv5">
+    <title>2026年全国举重锦标赛-男子70公斤级</title>
+  </programme>
+  <programme start="20260422163000 +0800" stop="20260422165500 +0800" channel="cctv5">
+    <title>实况录像-精品赛事记录-2026年射箭世界杯墨西哥站 中国队金牌1</title>
+  </programme>
+  <programme start="20260422165500 +0800" stop="20260422170000 +0800" channel="cctv5">
+    <title>健身动起来</title>
+  </programme>
+  <programme start="20260422170000 +0800" stop="20260422180000 +0800" channel="cctv5">
+    <title>运动一起赢</title>
+  </programme>
+  <programme start="20260422180000 +0800" stop="20260422183000 +0800" channel="cctv5">
+    <title>体育新闻</title>
+  </programme>
+  <programme start="20260422183000 +0800" stop="20260422190000 +0800" channel="cctv5">
+    <title>2025/2026法国足球甲级联赛-第30轮集锦（4K）</title>
+  </programme>
+  <programme start="20260422190000 +0800" stop="20260422200000 +0800" channel="cctv5">
+    <title>实况录像-2026年国际乒联单打世界杯 女单比赛</title>
+  </programme>
+  <programme start="20260422200000 +0800" stop="20260422211500 +0800" channel="cctv5">
+    <title>2026年亚洲沙滩运动会-开幕式</title>
+  </programme>
+  <programme start="20260422211500 +0800" stop="20260422213000 +0800" channel="cctv5">
+    <title>实况录像-荣耀十分-2026年艺术体操世界杯索菲亚站 中国队获集体5球单项金牌</title>
+  </programme>
+  <programme start="20260422213000 +0800" stop="20260422223500 +0800" channel="cctv5">
+    <title>体育世界</title>
+  </programme>
+  <programme start="20260422223500 +0800" stop="20260422235900 +0800" channel="cctv5">
+    <title>2025/2026赛季世界斯诺克锦标赛-第1轮5</title>
+  </programme>
+  <programme start="20260423003500 +0800" stop="20260423010500 +0800" channel="cctv5">
+    <title>实况录像-精品赛事记录-2026年世界泳联花样游泳世界杯法国站 中国队2金1银</title>
+  </programme>
+  <programme start="20260423010500 +0800" stop="20260423023600 +0800" channel="cctv5">
+    <title>实况录像-2025年世界田联钻石联赛  罗马站</title>
+  </programme>
+  <programme start="20260423023600 +0800" stop="20260423040000 +0800" channel="cctv5">
+    <title>实况录像-2025/2026赛季中国男子篮球职业联赛 第33轮 辽宁本钢—新疆伊力特</title>
+  </programme>
+  <programme start="20260423040000 +0800" stop="20260423053000 +0800" channel="cctv5">
+    <title>国际足球赛场-25-26赛季英超联赛第10轮 诺丁汉森林—曼联</title>
+  </programme>
+  <programme start="20260423053000 +0800" stop="20260423060000 +0800" channel="cctv5">
+    <title>实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 单板滑雪男子障碍追逐（4K）</title>
+  </programme>
+  <programme start="20260423060000 +0800" stop="20260423063000 +0800" channel="cctv5">
+    <title>实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 雪橇男子单人（4K）</title>
+  </programme>
+  <programme start="20260423063000 +0800" stop="20260423070000 +0800" channel="cctv5">
+    <title>健身动起来</title>
+  </programme>
+  <programme start="20260423070000 +0800" stop="20260423080300 +0800" channel="cctv5">
+    <title>体坛晨报</title>
+  </programme>
+  <programme start="20260423080300 +0800" stop="20260423090100 +0800" channel="cctv5">
+    <title>实况录像-2026年艺术体操世界杯 巴库站2</title>
+  </programme>
+  <programme start="20260423090100 +0800" stop="20260423103100 +0800" channel="cctv5">
+    <title>国际足球赛场-25-26赛季英超联赛第33轮 埃弗顿—利物浦（4K）</title>
+  </programme>
+  <programme start="20260423103100 +0800" stop="20260423115500 +0800" channel="cctv5">
+    <title>实况录像-2025/2026赛季中国男子篮球职业联赛 第41轮 深圳马可波罗—山东高速</title>
+  </programme>
+  <programme start="20260423115500 +0800" stop="20260423120000 +0800" channel="cctv5">
+    <title>健身动起来</title>
+  </programme>
+  <programme start="20260423120000 +0800" stop="20260423123500 +0800" channel="cctv5">
+    <title>体坛快讯</title>
+  </programme>
+  <programme start="20260423123500 +0800" stop="20260423125800 +0800" channel="cctv5">
+    <title>艺术里的奥林匹克(4K)</title>
+  </programme>
+  <programme start="20260423125800 +0800" stop="20260423143000 +0800" channel="cctv5">
+    <title>实况录像-2025/2026赛季世界斯诺克锦标赛 第一轮（录播）5</title>
+  </programme>
+  <programme start="20260423143000 +0800" stop="20260423163000 +0800" channel="cctv5">
+    <title>2026年全国举重锦标赛-男子85公斤级</title>
+  </programme>
+  <programme start="20260423163000 +0800" stop="20260423172500 +0800" channel="cctv5">
+    <title>实况录像-2026年第六届亚沙会 游跑两项男子、女子决赛（录播）</title>
+  </programme>
+  <programme start="20260423172500 +0800" stop="20260423173000 +0800" channel="cctv5">
+    <title>健身动起来</title>
+  </programme>
+  <programme start="20260423173000 +0800" stop="20260423180000 +0800" channel="cctv5">
+    <title>实况录像-精品赛事记录-2026年射箭世界杯墨西哥站 中国队金牌2</title>
+  </programme>
+  <programme start="20260423180000 +0800" stop="20260423183000 +0800" channel="cctv5">
+    <title>体育新闻</title>
+  </programme>
+  <programme start="20260423183000 +0800" stop="20260423190000 +0800" channel="cctv5">
+    <title>体坛零距离(4K)</title>
+  </programme>
+  <programme start="20260423190000 +0800" stop="20260423200000 +0800" channel="cctv5">
+    <title>足球之夜</title>
+  </programme>
+  <programme start="20260423200000 +0800" stop="20260423213000 +0800" channel="cctv5">
+    <title>2025/2026赛季世界斯诺克锦标赛-1/8决赛等</title>
+  </programme>
+  <programme start="20260423213000 +0800" stop="20260423220000 +0800" channel="cctv5">
+    <title>体育世界</title>
+  </programme>
+  <programme start="20260423220000 +0800" stop="20260423230500 +0800" channel="cctv5">
+    <title>2025/2026赛季世界斯诺克锦标赛-1/8决赛等</title>
+  </programme>
+  <programme start="20260423230500 +0800" stop="20260423233500 +0800" channel="cctv5">
+    <title>2025/2026英格兰足球超级联赛-第33轮集锦（4K）</title>
+  </programme>
+  <programme start="20260423233500 +0800" stop="20260423235900 +0800" channel="cctv5">
+    <title>2026年ATP1000男子网球大师赛-迈阿密站 决赛</title>
   </programme>
   <programme start="20260409010600 +0800" stop="20260409023600 +0800" channel="cctv5plus">
     <title>实况录像-2025/2026赛季中国男子篮球职业联赛 第32轮 山西汾酒—上海久事</title>
@@ -15015,8 +15576,209 @@
   <programme start="20260420010900 +0800" stop="20260420023600 +0800" channel="cctv5plus">
     <title>实况录像-2025/2026赛季中国男子篮球职业联赛 第37轮 北京控股—北京北汽</title>
   </programme>
-  <programme start="20260420023600 +0800" stop="20260420235900 +0800" channel="cctv5plus">
+  <programme start="20260420023600 +0800" stop="20260420040000 +0800" channel="cctv5plus">
     <title>国际足球赛场-25-26赛季法甲联赛第6轮 洛里昂—摩纳哥</title>
+  </programme>
+  <programme start="20260420040000 +0800" stop="20260420060000 +0800" channel="cctv5plus">
+    <title>实况录像-2025/2026赛季斯诺克国际锦标赛 决赛</title>
+  </programme>
+  <programme start="20260420060000 +0800" stop="20260420072700 +0800" channel="cctv5plus">
+    <title>实况录像-2025年世界田联钻石联赛 尤金站</title>
+  </programme>
+  <programme start="20260420072700 +0800" stop="20260420082700 +0800" channel="cctv5plus">
+    <title>2026年蹦床世界杯-阿尔克马尔站1</title>
+  </programme>
+  <programme start="20260420082700 +0800" stop="20260420095700 +0800" channel="cctv5plus">
+    <title>实况录像-2025/2026赛季中国男子篮球职业联赛 第40轮 辽宁本钢—浙江稠州金租</title>
+  </programme>
+  <programme start="20260420095700 +0800" stop="20260420105800 +0800" channel="cctv5plus">
+    <title>实况录像-2026年世界室内田径锦标赛  1</title>
+  </programme>
+  <programme start="20260420105800 +0800" stop="20260420115900 +0800" channel="cctv5plus">
+    <title>实况录像-2026年亚洲羽毛球锦标赛 1</title>
+  </programme>
+  <programme start="20260420115900 +0800" stop="20260420132900 +0800" channel="cctv5plus">
+    <title>国际足球赛场-25-26赛季英超联赛第33轮 纽卡斯尔联—伯恩茅斯（4K）</title>
+  </programme>
+  <programme start="20260420132900 +0800" stop="20260420150000 +0800" channel="cctv5plus">
+    <title>2026年ATP1000男子网球大师赛-蒙特卡洛站 1/4决赛（4K）</title>
+  </programme>
+  <programme start="20260420150000 +0800" stop="20260420163000 +0800" channel="cctv5plus">
+    <title>2025/2026德国足球甲级联赛-第30轮（勒沃库森-奥格斯堡）（4K）</title>
+  </programme>
+  <programme start="20260420163000 +0800" stop="20260420170000 +0800" channel="cctv5plus">
+    <title>实况录像-精品赛事记录-2026年世界泳联花样游泳世界杯法国站 中国队2金1银</title>
+  </programme>
+  <programme start="20260420170000 +0800" stop="20260420200500 +0800" channel="cctv5plus">
+    <title>2025/2026赛季世界斯诺克锦标赛-第一轮1</title>
+  </programme>
+  <programme start="20260420200500 +0800" stop="20260420210600 +0800" channel="cctv5plus">
+    <title>实况录像-2026年国际乒联单打世界杯 男单比赛</title>
+  </programme>
+  <programme start="20260420210600 +0800" stop="20260420223600 +0800" channel="cctv5plus">
+    <title>2026亚足联女足U20亚洲杯-半决赛（4K）</title>
+  </programme>
+  <programme start="20260420223600 +0800" stop="20260420230600 +0800" channel="cctv5plus">
+    <title>2025/2026西班牙足球甲级联赛-第31轮集锦（4K）</title>
+  </programme>
+  <programme start="20260420230600 +0800" stop="20260420235900 +0800" channel="cctv5plus">
+    <title>实况录像-2026年世界花样滑冰锦标赛 冰舞</title>
+  </programme>
+  <programme start="20260421003600 +0800" stop="20260421010600 +0800" channel="cctv5plus">
+    <title>实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 高山滑雪女子大回转（4K）</title>
+  </programme>
+  <programme start="20260421010600 +0800" stop="20260421023600 +0800" channel="cctv5plus">
+    <title>实况录像-2025/2026赛季中国男子篮球职业联赛 第38轮 浙江浙商证券—广东东阳光</title>
+  </programme>
+  <programme start="20260421023600 +0800" stop="20260421040000 +0800" channel="cctv5plus">
+    <title>国际足球赛场-25-26赛季法甲联赛第7轮 里尔—巴黎圣日耳曼</title>
+  </programme>
+  <programme start="20260421040000 +0800" stop="20260421060000 +0800" channel="cctv5plus">
+    <title>实况录像-2025/2026赛季斯诺克西安大奖赛 1</title>
+  </programme>
+  <programme start="20260421060000 +0800" stop="20260421072700 +0800" channel="cctv5plus">
+    <title>实况录像-2025年世界田联钻石联赛 摩纳哥站</title>
+  </programme>
+  <programme start="20260421072700 +0800" stop="20260421082700 +0800" channel="cctv5plus">
+    <title>2026年蹦床世界杯-阿尔克马尔站2</title>
+  </programme>
+  <programme start="20260421082700 +0800" stop="20260421095700 +0800" channel="cctv5plus">
+    <title>实况录像-2025/2026赛季中国男子篮球职业联赛 第41轮 深圳马可波罗—山东高速</title>
+  </programme>
+  <programme start="20260421095700 +0800" stop="20260421105800 +0800" channel="cctv5plus">
+    <title>实况录像-2026年世界室内田径锦标赛  2</title>
+  </programme>
+  <programme start="20260421105800 +0800" stop="20260421115900 +0800" channel="cctv5plus">
+    <title>实况录像-2026年亚洲羽毛球锦标赛 2</title>
+  </programme>
+  <programme start="20260421115900 +0800" stop="20260421133000 +0800" channel="cctv5plus">
+    <title>2026年ATP1000男子网球大师赛-蒙特卡洛站 半决赛（4K）</title>
+  </programme>
+  <programme start="20260421133000 +0800" stop="20260421150000 +0800" channel="cctv5plus">
+    <title>国际足球赛场-25-26赛季法甲联赛第30轮 洛里昂—马赛（4K）</title>
+  </programme>
+  <programme start="20260421150000 +0800" stop="20260421170000 +0800" channel="cctv5plus">
+    <title>2026年全国举重锦标赛-男子60公斤级</title>
+  </programme>
+  <programme start="20260421170000 +0800" stop="20260421200500 +0800" channel="cctv5plus">
+    <title>2025/2026赛季世界斯诺克锦标赛-第一轮2</title>
+  </programme>
+  <programme start="20260421200500 +0800" stop="20260421210600 +0800" channel="cctv5plus">
+    <title>实况录像-2026年国际乒联单打世界杯 女单比赛</title>
+  </programme>
+  <programme start="20260421210600 +0800" stop="20260421213600 +0800" channel="cctv5plus">
+    <title>2025/2026法国足球甲级联赛-第30轮集锦（4K）</title>
+  </programme>
+  <programme start="20260421213600 +0800" stop="20260421230600 +0800" channel="cctv5plus">
+    <title>实况录像-2025/2026赛季中国男子篮球职业联赛 第41轮 上海久事—辽宁本钢</title>
+  </programme>
+  <programme start="20260421230600 +0800" stop="20260421235900 +0800" channel="cctv5plus">
+    <title>2026亚足联女足U20亚洲杯-决赛（4K）</title>
+  </programme>
+  <programme start="20260422003500 +0800" stop="20260422010600 +0800" channel="cctv5plus">
+    <title>实况录像-2026年世界短道速滑锦标赛  25分钟版</title>
+  </programme>
+  <programme start="20260422010600 +0800" stop="20260422023600 +0800" channel="cctv5plus">
+    <title>实况录像-2025/2026赛季中国男子篮球职业联赛 第38轮 山东高速—辽宁本钢</title>
+  </programme>
+  <programme start="20260422023600 +0800" stop="20260422040000 +0800" channel="cctv5plus">
+    <title>国际足球赛场-25-26赛季法甲联赛第8轮 尼斯—里昂</title>
+  </programme>
+  <programme start="20260422040000 +0800" stop="20260422060000 +0800" channel="cctv5plus">
+    <title>实况录像-2025/2026赛季斯诺克西安大奖赛 2</title>
+  </programme>
+  <programme start="20260422060000 +0800" stop="20260422073000 +0800" channel="cctv5plus">
+    <title>实况录像-2025年世界田联钻石联赛 伦敦站</title>
+  </programme>
+  <programme start="20260422073000 +0800" stop="20260422083000 +0800" channel="cctv5plus">
+    <title>实况录像-2026年世界泳联花样游泳世界杯 法国站  1</title>
+  </programme>
+  <programme start="20260422083000 +0800" stop="20260422100000 +0800" channel="cctv5plus">
+    <title>实况录像-2025/2026赛季中国男子篮球职业联赛 第41轮 青岛崂山啤酒—北京北汽</title>
+  </programme>
+  <programme start="20260422100000 +0800" stop="20260422110100 +0800" channel="cctv5plus">
+    <title>实况录像-2026年世界室内田径锦标赛  3</title>
+  </programme>
+  <programme start="20260422110100 +0800" stop="20260422120200 +0800" channel="cctv5plus">
+    <title>实况录像-2026年亚洲羽毛球锦标赛 3</title>
+  </programme>
+  <programme start="20260422120200 +0800" stop="20260422133200 +0800" channel="cctv5plus">
+    <title>国际足球赛场-25-26赛季英超联赛第33轮 埃弗顿—利物浦（4K）</title>
+  </programme>
+  <programme start="20260422133200 +0800" stop="20260422150300 +0800" channel="cctv5plus">
+    <title>2026年ATP1000男子网球大师赛-蒙特卡洛站 决赛（4K）</title>
+  </programme>
+  <programme start="20260422150300 +0800" stop="20260422155900 +0800" channel="cctv5plus">
+    <title>实况录像-2026年世界职业拳王争霸赛 5</title>
+  </programme>
+  <programme start="20260422155900 +0800" stop="20260422170000 +0800" channel="cctv5plus">
+    <title>实况录像-2026年国际乒联单打世界杯 1</title>
+  </programme>
+  <programme start="20260422170000 +0800" stop="20260422193000 +0800" channel="cctv5plus">
+    <title>2025/2026赛季世界斯诺克锦标赛-第一轮3</title>
+  </programme>
+  <programme start="20260422193000 +0800" stop="20260422213500 +0800" channel="cctv5plus">
+    <title>2026年全国举重锦标赛-男子75公斤级</title>
+  </programme>
+  <programme start="20260422213500 +0800" stop="20260422230500 +0800" channel="cctv5plus">
+    <title>实况录像-2025/2026赛季欧洲篮球联赛 第38轮 奥林匹亚科斯—米兰</title>
+  </programme>
+  <programme start="20260422230500 +0800" stop="20260422235900 +0800" channel="cctv5plus">
+    <title>实况录像-2026年世界短道速滑锦标赛  1</title>
+  </programme>
+  <programme start="20260423000500 +0800" stop="20260423010600 +0800" channel="cctv5plus">
+    <title>实况录像-2026年亚洲羽毛球锦标赛 1</title>
+  </programme>
+  <programme start="20260423010600 +0800" stop="20260423023600 +0800" channel="cctv5plus">
+    <title>实况录像-2025/2026赛季中国男子篮球职业联赛 第39轮 北京北汽—青岛崂山啤酒</title>
+  </programme>
+  <programme start="20260423023600 +0800" stop="20260423040000 +0800" channel="cctv5plus">
+    <title>国际足球赛场-25-26赛季法甲联赛第9轮 布雷斯特—巴黎圣日耳曼</title>
+  </programme>
+  <programme start="20260423040000 +0800" stop="20260423060000 +0800" channel="cctv5plus">
+    <title>实况录像-2025/2026赛季斯诺克西安大奖赛 决赛</title>
+  </programme>
+  <programme start="20260423060000 +0800" stop="20260423073000 +0800" channel="cctv5plus">
+    <title>实况录像-2025年世界田联钻石联赛 西里西亚站</title>
+  </programme>
+  <programme start="20260423073000 +0800" stop="20260423083000 +0800" channel="cctv5plus">
+    <title>实况录像-2026年世界泳联花样游泳世界杯 法国站  2</title>
+  </programme>
+  <programme start="20260423083000 +0800" stop="20260423100100 +0800" channel="cctv5plus">
+    <title>实况录像-2026年世界男子冰壶锦标赛 1</title>
+  </programme>
+  <programme start="20260423100100 +0800" stop="20260423110200 +0800" channel="cctv5plus">
+    <title>实况录像-2026年亚洲羽毛球锦标赛 4</title>
+  </programme>
+  <programme start="20260423110200 +0800" stop="20260423123200 +0800" channel="cctv5plus">
+    <title>2025/2026德国足球甲级联赛-第30轮（拜仁慕尼黑-斯图加特）（4K）</title>
+  </programme>
+  <programme start="20260423123200 +0800" stop="20260423140200 +0800" channel="cctv5plus">
+    <title>实况录像-2025/2026赛季欧洲篮球联赛 第38轮 奥林匹亚科斯—米兰</title>
+  </programme>
+  <programme start="20260423140200 +0800" stop="20260423153200 +0800" channel="cctv5plus">
+    <title>国际足球赛场-25-26赛季法甲联赛第30轮 巴黎圣日耳曼—里昂（4K）</title>
+  </programme>
+  <programme start="20260423153200 +0800" stop="20260423163300 +0800" channel="cctv5plus">
+    <title>实况录像-2026年体操世界杯 奥西耶克站 1</title>
+  </programme>
+  <programme start="20260423163300 +0800" stop="20260423175700 +0800" channel="cctv5plus">
+    <title>2025/2026赛季中国排球超级联赛-女排决赛第一场</title>
+  </programme>
+  <programme start="20260423175700 +0800" stop="20260423183000 +0800" channel="cctv5plus">
+    <title>2025/2026英格兰足球超级联赛-第33轮集锦（4K）</title>
+  </programme>
+  <programme start="20260423183000 +0800" stop="20260423203500 +0800" channel="cctv5plus">
+    <title>2026年全国举重锦标赛-男子95公斤级</title>
+  </programme>
+  <programme start="20260423203500 +0800" stop="20260423213600 +0800" channel="cctv5plus">
+    <title>实况录像-2026年国际乒联单打世界杯 2</title>
+  </programme>
+  <programme start="20260423213600 +0800" stop="20260423230700 +0800" channel="cctv5plus">
+    <title>2026年ATP1000男子网球大师赛-迈阿密站 半决赛</title>
+  </programme>
+  <programme start="20260423230700 +0800" stop="20260423235900 +0800" channel="cctv5plus">
+    <title>实况录像-2026年世界花样滑冰锦标赛 女子单人滑</title>
   </programme>
   <programme start="20260409003133 +0800" stop="20260409021235 +0800" channel="cctv6">
     <title>八女投江</title>
@@ -28378,7 +29140,7 @@
     <title>中国新闻</title>
   </programme>
   <programme start="20260417043000 +0800" stop="20260417050000 +0800" channel="cctvamerica">
-    <title>今日关注</title>
+    <title>记住乡愁2026-33</title>
   </programme>
   <programme start="20260417050000 +0800" stop="20260417053000 +0800" channel="cctvamerica">
     <title>中国文艺-2026-76</title>
@@ -28392,23 +29154,20 @@
   <programme start="20260417063000 +0800" stop="20260417070000 +0800" channel="cctvamerica">
     <title>走遍中国-2026-61</title>
   </programme>
-  <programme start="20260417070000 +0800" stop="20260417073000 +0800" channel="cctvamerica">
+  <programme start="20260417070000 +0800" stop="20260417080000 +0800" channel="cctvamerica">
     <title>中国新闻</title>
-  </programme>
-  <programme start="20260417073000 +0800" stop="20260417080000 +0800" channel="cctvamerica">
-    <title>今日关注</title>
   </programme>
   <programme start="20260417080000 +0800" stop="20260417090000 +0800" channel="cctvamerica">
     <title>今日环球</title>
   </programme>
   <programme start="20260417090000 +0800" stop="20260417094600 +0800" channel="cctvamerica">
-    <title>依依向北风第5集</title>
+    <title>依依向北风第4集</title>
   </programme>
   <programme start="20260417094600 +0800" stop="20260417103200 +0800" channel="cctvamerica">
-    <title>依依向北风第6集</title>
+    <title>依依向北风第5集</title>
   </programme>
   <programme start="20260417103200 +0800" stop="20260417110200 +0800" channel="cctvamerica">
-    <title>记住乡愁2026-44</title>
+    <title>记住乡愁2026-33</title>
   </programme>
   <programme start="20260417110200 +0800" stop="20260417114700 +0800" channel="cctvamerica">
     <title>远方的家2026-81</title>
@@ -28417,34 +29176,28 @@
     <title>记住乡愁-片段展播-2025-14</title>
   </programme>
   <programme start="20260417115500 +0800" stop="20260417120000 +0800" channel="cctvamerica">
-    <title>记住乡愁-片段展播-2025-22</title>
+    <title>荟萃节目-智在匠心第二季1</title>
   </programme>
-  <programme start="20260417120000 +0800" stop="20260417130000 +0800" channel="cctvamerica">
+  <programme start="20260417120000 +0800" stop="20260417140000 +0800" channel="cctvamerica">
     <title>中国新闻</title>
   </programme>
-  <programme start="20260417130000 +0800" stop="20260417133000 +0800" channel="cctvamerica">
+  <programme start="20260417140000 +0800" stop="20260417143000 +0800" channel="cctvamerica">
     <title>海峡两岸-2026-106</title>
   </programme>
-  <programme start="20260417133000 +0800" stop="20260417135800 +0800" channel="cctvamerica">
-    <title>走遍中国-2026-61</title>
-  </programme>
-  <programme start="20260417135800 +0800" stop="20260417144400 +0800" channel="cctvamerica">
+  <programme start="20260417143000 +0800" stop="20260417151600 +0800" channel="cctvamerica">
     <title>塞上风云记－第11集</title>
   </programme>
-  <programme start="20260417144400 +0800" stop="20260417153000 +0800" channel="cctvamerica">
+  <programme start="20260417151600 +0800" stop="20260417160200 +0800" channel="cctvamerica">
     <title>塞上风云记－第12集</title>
   </programme>
-  <programme start="20260417153000 +0800" stop="20260417162000 +0800" channel="cctvamerica">
-    <title>远方的家2026-81</title>
-  </programme>
-  <programme start="20260417162000 +0800" stop="20260417162800 +0800" channel="cctvamerica">
-    <title>记住乡愁-片段展播-2025-14</title>
+  <programme start="20260417160200 +0800" stop="20260417162800 +0800" channel="cctvamerica">
+    <title>走遍中国-2026-61</title>
   </programme>
   <programme start="20260417162800 +0800" stop="20260417171400 +0800" channel="cctvamerica">
-    <title>依依向北风第5集</title>
+    <title>依依向北风第4集</title>
   </programme>
   <programme start="20260417171400 +0800" stop="20260417180000 +0800" channel="cctvamerica">
-    <title>依依向北风第6集</title>
+    <title>依依向北风第5集</title>
   </programme>
   <programme start="20260417180000 +0800" stop="20260417190000 +0800" channel="cctvamerica">
     <title>中国新闻</title>
@@ -28474,7 +29227,7 @@
     <title>动画城(四套)-2026-98</title>
   </programme>
   <programme start="20260417233000 +0800" stop="20260417235900 +0800" channel="cctvamerica">
-    <title>记住乡愁2026-44</title>
+    <title>记住乡愁2026-33</title>
   </programme>
   <programme start="20260418000000 +0800" stop="20260418003000 +0800" channel="cctvamerica">
     <title>海峡两岸-2026-106</title>
@@ -28525,10 +29278,10 @@
     <title>今日环球</title>
   </programme>
   <programme start="20260418090000 +0800" stop="20260418094600 +0800" channel="cctvamerica">
-    <title>依依向北风7/38</title>
+    <title>依依向北风6/38</title>
   </programme>
   <programme start="20260418094600 +0800" stop="20260418103200 +0800" channel="cctvamerica">
-    <title>依依向北风8/38</title>
+    <title>依依向北风7/38</title>
   </programme>
   <programme start="20260418103200 +0800" stop="20260418110200 +0800" channel="cctvamerica">
     <title>记住乡愁2026-46</title>
@@ -28540,7 +29293,7 @@
     <title>记住乡愁-片段展播-2025-14</title>
   </programme>
   <programme start="20260418115500 +0800" stop="20260418120000 +0800" channel="cctvamerica">
-    <title>记住乡愁-片段展播-2025-23</title>
+    <title>荟萃节目-智在匠心第二季2</title>
   </programme>
   <programme start="20260418120000 +0800" stop="20260418130000 +0800" channel="cctvamerica">
     <title>中国新闻</title>
@@ -28669,7 +29422,7 @@
     <title>华人故事-2026-17</title>
   </programme>
   <programme start="20260419115500 +0800" stop="20260419120000 +0800" channel="cctvamerica">
-    <title>记住乡愁-片段展播-2025-24</title>
+    <title>荟萃节目-智在匠心第二季3</title>
   </programme>
   <programme start="20260419120000 +0800" stop="20260419130000 +0800" channel="cctvamerica">
     <title>中国新闻</title>
@@ -30127,7 +30880,7 @@
     <title>走遍中国-2026-61</title>
   </programme>
   <programme start="20260417020000 +0800" stop="20260417023000 +0800" channel="cctveurope">
-    <title>记住乡愁2026-44</title>
+    <title>记住乡愁2026-33</title>
   </programme>
   <programme start="20260417023000 +0800" stop="20260417030000 +0800" channel="cctveurope">
     <title>海峡两岸-2026-106</title>
@@ -30141,26 +30894,23 @@
   <programme start="20260417040000 +0800" stop="20260417043000 +0800" channel="cctveurope">
     <title>中国新闻</title>
   </programme>
-  <programme start="20260417043000 +0800" stop="20260417050000 +0800" channel="cctveurope">
-    <title>今日关注</title>
-  </programme>
-  <programme start="20260417050000 +0800" stop="20260417055000 +0800" channel="cctveurope">
+  <programme start="20260417043000 +0800" stop="20260417052000 +0800" channel="cctveurope">
     <title>远方的家2026-81</title>
   </programme>
-  <programme start="20260417055000 +0800" stop="20260417062500 +0800" channel="cctveurope">
+  <programme start="20260417052000 +0800" stop="20260417055500 +0800" channel="cctveurope">
     <title>探索发现(海外版)-2026-71</title>
   </programme>
-  <programme start="20260417062500 +0800" stop="20260417063000 +0800" channel="cctveurope">
-    <title>记住乡愁-片段展播-2025-21</title>
-  </programme>
-  <programme start="20260417063000 +0800" stop="20260417070000 +0800" channel="cctveurope">
-    <title>记住乡愁2026-44</title>
-  </programme>
-  <programme start="20260417070000 +0800" stop="20260417073000 +0800" channel="cctveurope">
+  <programme start="20260417055500 +0800" stop="20260417062500 +0800" channel="cctveurope">
     <title>走遍中国-2026-61</title>
   </programme>
-  <programme start="20260417073000 +0800" stop="20260417080000 +0800" channel="cctveurope">
+  <programme start="20260417062500 +0800" stop="20260417063000 +0800" channel="cctveurope">
+    <title>荟萃节目-智在匠心第二季1</title>
+  </programme>
+  <programme start="20260417063000 +0800" stop="20260417070000 +0800" channel="cctveurope">
     <title>海峡两岸-2026-106</title>
+  </programme>
+  <programme start="20260417070000 +0800" stop="20260417080000 +0800" channel="cctveurope">
+    <title>中国新闻</title>
   </programme>
   <programme start="20260417080000 +0800" stop="20260417090500 +0800" channel="cctveurope">
     <title>今日环球</title>
@@ -30175,7 +30925,7 @@
     <title>远方的家2026-81</title>
   </programme>
   <programme start="20260417095600 +0800" stop="20260417102800 +0800" channel="cctveurope">
-    <title>记住乡愁2026-44</title>
+    <title>记住乡愁2026-33</title>
   </programme>
   <programme start="20260417102800 +0800" stop="20260417111400 +0800" channel="cctveurope">
     <title>武当一剑第21集</title>
@@ -30183,22 +30933,16 @@
   <programme start="20260417111400 +0800" stop="20260417120000 +0800" channel="cctveurope">
     <title>武当一剑第22集</title>
   </programme>
-  <programme start="20260417120000 +0800" stop="20260417130000 +0800" channel="cctveurope">
+  <programme start="20260417120000 +0800" stop="20260417140000 +0800" channel="cctveurope">
     <title>中国新闻</title>
   </programme>
-  <programme start="20260417130000 +0800" stop="20260417132800 +0800" channel="cctveurope">
-    <title>走遍中国-2026-61</title>
-  </programme>
-  <programme start="20260417132800 +0800" stop="20260417141400 +0800" channel="cctveurope">
+  <programme start="20260417140000 +0800" stop="20260417144600 +0800" channel="cctveurope">
     <title>枫桥警事第9集</title>
   </programme>
-  <programme start="20260417141400 +0800" stop="20260417150000 +0800" channel="cctveurope">
+  <programme start="20260417144600 +0800" stop="20260417153200 +0800" channel="cctveurope">
     <title>枫桥警事第10集</title>
   </programme>
-  <programme start="20260417150000 +0800" stop="20260417153000 +0800" channel="cctveurope">
-    <title>记住乡愁2026-44</title>
-  </programme>
-  <programme start="20260417153000 +0800" stop="20260417160000 +0800" channel="cctveurope">
+  <programme start="20260417153200 +0800" stop="20260417160000 +0800" channel="cctveurope">
     <title>中国文艺-2026-76</title>
   </programme>
   <programme start="20260417160000 +0800" stop="20260417162630 +0800" channel="cctveurope">
@@ -30256,7 +31000,7 @@
     <title>国宝发现-2026-15</title>
   </programme>
   <programme start="20260418020000 +0800" stop="20260418023000 +0800" channel="cctveurope">
-    <title>记住乡愁2026-46</title>
+    <title>记住乡愁2026-9</title>
   </programme>
   <programme start="20260418023000 +0800" stop="20260418030000 +0800" channel="cctveurope">
     <title>海峡两岸-2026-107</title>
@@ -30304,7 +31048,7 @@
     <title>远方的家2026-82</title>
   </programme>
   <programme start="20260418095600 +0800" stop="20260418102800 +0800" channel="cctveurope">
-    <title>记住乡愁2026-46</title>
+    <title>记住乡愁2026-9</title>
   </programme>
   <programme start="20260418102800 +0800" stop="20260418111400 +0800" channel="cctveurope">
     <title>武当一剑23/39</title>
@@ -30325,7 +31069,7 @@
     <title>枫桥警事12/30</title>
   </programme>
   <programme start="20260418150000 +0800" stop="20260418153000 +0800" channel="cctveurope">
-    <title>记住乡愁2026-46</title>
+    <title>记住乡愁2026-9</title>
   </programme>
   <programme start="20260418153000 +0800" stop="20260418160000 +0800" channel="cctveurope">
     <title>中国文艺-2026-77</title>
@@ -30406,7 +31150,7 @@
     <title>平凡匠心-2026-33</title>
   </programme>
   <programme start="20260419062500 +0800" stop="20260419063000 +0800" channel="cctveurope">
-    <title>记住乡愁-片段展播-2025-23</title>
+    <title>荟萃节目-智在匠心第二季3</title>
   </programme>
   <programme start="20260419063000 +0800" stop="20260419073000 +0800" channel="cctveurope">
     <title>环球综艺秀-2026-15</title>
