@@ -955,10 +955,10 @@
     <title>金关第8集</title>
   </programme>
   <programme start="20260420205320 +0800" stop="20260420205745 +0800" channel="cctv1">
-    <title>前情提要-金关-9/22</title>
+    <title>前情提要-金关-第9集</title>
   </programme>
   <programme start="20260420205745 +0800" stop="20260420215225 +0800" channel="cctv1">
-    <title>金关9/22</title>
+    <title>金关第9集</title>
   </programme>
   <programme start="20260420215225 +0800" stop="20260420220000 +0800" channel="cctv1">
     <title>非遗里的中国-MV</title>
@@ -1059,22 +1059,22 @@
   <programme start="20260421190000 +0800" stop="20260421193740 +0800" channel="cctv1">
     <title>新闻联播</title>
   </programme>
-  <programme start="20260421193740 +0800" stop="20260421195810 +0800" channel="cctv1">
+  <programme start="20260421193740 +0800" stop="20260421195800 +0800" channel="cctv1">
     <title>焦点访谈</title>
   </programme>
-  <programme start="20260421195810 +0800" stop="20260421200200 +0800" channel="cctv1">
-    <title>前情提要-金关-10/22</title>
+  <programme start="20260421195800 +0800" stop="20260421200200 +0800" channel="cctv1">
+    <title>前情提要-金关-第10集</title>
   </programme>
-  <programme start="20260421200200 +0800" stop="20260421205305 +0800" channel="cctv1">
+  <programme start="20260421200200 +0800" stop="20260421205225 +0800" channel="cctv1">
     <title>金关10/22</title>
   </programme>
-  <programme start="20260421205305 +0800" stop="20260421205535 +0800" channel="cctv1">
-    <title>前情提要-金关-11/22</title>
+  <programme start="20260421205225 +0800" stop="20260421205700 +0800" channel="cctv1">
+    <title>前情提要-金关-第11集</title>
   </programme>
-  <programme start="20260421205535 +0800" stop="20260421215030 +0800" channel="cctv1">
+  <programme start="20260421205700 +0800" stop="20260421215130 +0800" channel="cctv1">
     <title>金关11/22</title>
   </programme>
-  <programme start="20260421215030 +0800" stop="20260421220000 +0800" channel="cctv1">
+  <programme start="20260421215130 +0800" stop="20260421220000 +0800" channel="cctv1">
     <title>三餐四季（第二季）-宣传片</title>
   </programme>
   <programme start="20260421220000 +0800" stop="20260421223615 +0800" channel="cctv1">
@@ -1410,28 +1410,25 @@
   <programme start="20260424220000 +0800" stop="20260424223615 +0800" channel="cctv1">
     <title>晚间新闻</title>
   </programme>
-  <programme start="20260424223615 +0800" stop="20260424233230 +0800" channel="cctv1">
-    <title>周末一起看电影-1</title>
+  <programme start="20260424223615 +0800" stop="20260424232630 +0800" channel="cctv1">
+    <title>开讲啦-2026-9</title>
   </programme>
-  <programme start="20260424233230 +0800" stop="20260424235900 +0800" channel="cctv1">
+  <programme start="20260424232630 +0800" stop="20260424235900 +0800" channel="cctv1">
     <title>星光大道-2026-22</title>
   </programme>
-  <programme start="20260425005300 +0800" stop="20260425012500 +0800" channel="cctv1">
-    <title>文脉春秋-2025-4</title>
-  </programme>
-  <programme start="20260425012500 +0800" stop="20260425015515 +0800" channel="cctv1">
-    <title>晚间新闻</title>
-  </programme>
-  <programme start="20260425015515 +0800" stop="20260425023735 +0800" channel="cctv1">
+  <programme start="20260425004700 +0800" stop="20260425013100 +0800" channel="cctv1">
     <title>生活早参考-特别节目（生活圈）2026-109</title>
   </programme>
-  <programme start="20260425023735 +0800" stop="20260425024735 +0800" channel="cctv1">
+  <programme start="20260425013100 +0800" stop="20260425020115 +0800" channel="cctv1">
+    <title>晚间新闻</title>
+  </programme>
+  <programme start="20260425020115 +0800" stop="20260425024635 +0800" channel="cctv1">
+    <title>开讲啦-2026-9</title>
+  </programme>
+  <programme start="20260425024635 +0800" stop="20260425025635 +0800" channel="cctv1">
     <title>中华古树-功勋树（4K）</title>
   </programme>
-  <programme start="20260425024735 +0800" stop="20260425025735 +0800" channel="cctv1">
-    <title>中华古树-茅镬古树群（4K）</title>
-  </programme>
-  <programme start="20260425025735 +0800" stop="20260425030300 +0800" channel="cctv1">
+  <programme start="20260425025635 +0800" stop="20260425030300 +0800" channel="cctv1">
     <title>非遗里的中国-MV</title>
   </programme>
   <programme start="20260425030300 +0800" stop="20260425042000 +0800" channel="cctv1">
@@ -1509,32 +1506,26 @@
   <programme start="20260425220000 +0800" stop="20260425223615 +0800" channel="cctv1">
     <title>晚间新闻</title>
   </programme>
-  <programme start="20260425223615 +0800" stop="20260425231130 +0800" channel="cctv1">
-    <title>国家荣光-2025-35</title>
+  <programme start="20260425223615 +0800" stop="20260425232630 +0800" channel="cctv1">
+    <title>开讲啦-2026-10</title>
   </programme>
-  <programme start="20260425231130 +0800" stop="20260425235900 +0800" channel="cctv1">
-    <title>金石探文明-利簋</title>
+  <programme start="20260425232630 +0800" stop="20260425235900 +0800" channel="cctv1">
+    <title>中华考工记-9</title>
   </programme>
-  <programme start="20260426004400 +0800" stop="20260426012800 +0800" channel="cctv1">
+  <programme start="20260426010000 +0800" stop="20260426014400 +0800" channel="cctv1">
     <title>生活早参考-特别节目（生活圈）2026-110</title>
   </programme>
-  <programme start="20260426012800 +0800" stop="20260426020000 +0800" channel="cctv1">
+  <programme start="20260426014400 +0800" stop="20260426021420 +0800" channel="cctv1">
     <title>晚间新闻</title>
   </programme>
-  <programme start="20260426020000 +0800" stop="20260426023020 +0800" channel="cctv1">
-    <title>国家荣光-2025-35</title>
+  <programme start="20260426021420 +0800" stop="20260426024435 +0800" channel="cctv1">
+    <title>文脉春秋-2025-4</title>
   </programme>
-  <programme start="20260426023020 +0800" stop="20260426024035 +0800" channel="cctv1">
-    <title>中华古树-岭脚古樟树（4K）</title>
-  </programme>
-  <programme start="20260426024035 +0800" stop="20260426024435 +0800" channel="cctv1">
+  <programme start="20260426024435 +0800" stop="20260426025000 +0800" channel="cctv1">
     <title>三餐四季（第二季）-宣传片</title>
   </programme>
-  <programme start="20260426024435 +0800" stop="20260426025100 +0800" channel="cctv1">
-    <title>非遗里的中国-MV</title>
-  </programme>
-  <programme start="20260426025100 +0800" stop="20260426042000 +0800" channel="cctv1">
-    <title>金石探文明-利簋</title>
+  <programme start="20260426025000 +0800" stop="20260426042000 +0800" channel="cctv1">
+    <title>中华考工记-9</title>
   </programme>
   <programme start="20260426042000 +0800" stop="20260426045300 +0800" channel="cctv1">
     <title>本草流芳-葛根</title>
@@ -1608,20 +1599,23 @@
   <programme start="20260426220000 +0800" stop="20260426223615 +0800" channel="cctv1">
     <title>晚间新闻</title>
   </programme>
-  <programme start="20260426223615 +0800" stop="20260426232630 +0800" channel="cctv1">
-    <title>开讲啦-2026-9</title>
+  <programme start="20260426223615 +0800" stop="20260426231130 +0800" channel="cctv1">
+    <title>国家荣光-2025-35</title>
   </programme>
-  <programme start="20260426232630 +0800" stop="20260426235900 +0800" channel="cctv1">
+  <programme start="20260426231130 +0800" stop="20260426235900 +0800" channel="cctv1">
     <title>星光大道-2026-23</title>
   </programme>
-  <programme start="20260427004700 +0800" stop="20260427013100 +0800" channel="cctv1">
+  <programme start="20260427003200 +0800" stop="20260427011600 +0800" channel="cctv1">
     <title>生活早参考-特别节目（生活圈）2026-111</title>
   </programme>
-  <programme start="20260427013100 +0800" stop="20260427020120 +0800" channel="cctv1">
+  <programme start="20260427011600 +0800" stop="20260427014620 +0800" channel="cctv1">
     <title>晚间新闻</title>
   </programme>
-  <programme start="20260427020120 +0800" stop="20260427024635 +0800" channel="cctv1">
-    <title>开讲啦-2026-9</title>
+  <programme start="20260427014620 +0800" stop="20260427021635 +0800" channel="cctv1">
+    <title>文脉春秋-2025-23</title>
+  </programme>
+  <programme start="20260427021635 +0800" stop="20260427024635 +0800" channel="cctv1">
+    <title>国家荣光-2025-35</title>
   </programme>
   <programme start="20260427024635 +0800" stop="20260427025035 +0800" channel="cctv1">
     <title>三餐四季（第二季）-宣传片</title>
@@ -15951,13 +15945,16 @@
   <programme start="20260420213735 +0800" stop="20260420222705 +0800" channel="cctv4k">
     <title>大地之上-5（4K）</title>
   </programme>
-  <programme start="20260420222705 +0800" stop="20260420230705 +0800" channel="cctv4k">
+  <programme start="20260420222705 +0800" stop="20260420222817 +0800" channel="cctv4k">
+    <title>4K宣传片-谷雨牡丹</title>
+  </programme>
+  <programme start="20260420222817 +0800" stop="20260420230817 +0800" channel="cctv4k">
     <title>探索·发现（4K）-2024-49</title>
   </programme>
-  <programme start="20260420230705 +0800" stop="20260420235635 +0800" channel="cctv4k">
+  <programme start="20260420230817 +0800" stop="20260420235747 +0800" channel="cctv4k">
     <title>舌尖上的中国 第四季-3（4K）</title>
   </programme>
-  <programme start="20260420235635 +0800" stop="20260420235925 +0800" channel="cctv4k">
+  <programme start="20260420235747 +0800" stop="20260420235925 +0800" channel="cctv4k">
     <title>4K垫播节目-丝绸之旅2025</title>
   </programme>
   <programme start="20260420235925 +0800" stop="20260420235900 +0800" channel="cctv4k">
@@ -15987,8 +15984,11 @@
   <programme start="20260421080325 +0800" stop="20260421085255 +0800" channel="cctv4k">
     <title>大地之上-5（4K）</title>
   </programme>
-  <programme start="20260421085255 +0800" stop="20260421085745 +0800" channel="cctv4k">
-    <title>听起来很好吃(第二季)-3（4K）</title>
+  <programme start="20260421085255 +0800" stop="20260421085633 +0800" channel="cctv4k">
+    <title>4K垫播节目-美丽中国2025-云南1</title>
+  </programme>
+  <programme start="20260421085633 +0800" stop="20260421085745 +0800" channel="cctv4k">
+    <title>4K宣传片-谷雨牡丹</title>
   </programme>
   <programme start="20260421085745 +0800" stop="20260421085815 +0800" channel="cctv4k">
     <title>4K宣传片-城市风华录</title>
@@ -16035,8 +16035,14 @@
   <programme start="20260421131150 +0800" stop="20260421135350 +0800" channel="cctv4k">
     <title>远方的家2024-127(4K)</title>
   </programme>
-  <programme start="20260421135350 +0800" stop="20260421140350 +0800" channel="cctv4k">
-    <title>2024秘境之眼-探秘金丝猴栖息地(4K)</title>
+  <programme start="20260421135350 +0800" stop="20260421135840 +0800" channel="cctv4k">
+    <title>听起来很好吃(第二季)-3（4K）</title>
+  </programme>
+  <programme start="20260421135840 +0800" stop="20260421140238 +0800" channel="cctv4k">
+    <title>4K垫播节目-美丽中国2025-云南1</title>
+  </programme>
+  <programme start="20260421140238 +0800" stop="20260421140350 +0800" channel="cctv4k">
+    <title>4K宣传片-谷雨牡丹</title>
   </programme>
   <programme start="20260421140350 +0800" stop="20260421144950 +0800" channel="cctv4k">
     <title>蛮好的人生-（4K）-20/36</title>
@@ -16086,8 +16092,11 @@
   <programme start="20260421180000 +0800" stop="20260421182800 +0800" channel="cctv4k">
     <title>绿水青山中国答卷-18（4K）</title>
   </programme>
-  <programme start="20260421182800 +0800" stop="20260421183000 +0800" channel="cctv4k">
+  <programme start="20260421182800 +0800" stop="20260421182848 +0800" channel="cctv4k">
     <title>4K垫播节目-美丽中国2025-云南滇金丝猴</title>
+  </programme>
+  <programme start="20260421182848 +0800" stop="20260421183000 +0800" channel="cctv4k">
+    <title>4K宣传片-谷雨牡丹</title>
   </programme>
   <programme start="20260421183000 +0800" stop="20260421190000 +0800" channel="cctv4k">
     <title>文脉春秋-2025-2(4K)</title>
@@ -16242,8 +16251,11 @@
   <programme start="20260422153550 +0800" stop="20260422162520 +0800" channel="cctv4k">
     <title>大地之上-6（4K）</title>
   </programme>
-  <programme start="20260422162520 +0800" stop="20260422163010 +0800" channel="cctv4k">
-    <title>听起来很好吃(第二季)-4（4K）</title>
+  <programme start="20260422162520 +0800" stop="20260422162858 +0800" channel="cctv4k">
+    <title>4K垫播节目-美丽中国2025-云南1</title>
+  </programme>
+  <programme start="20260422162858 +0800" stop="20260422163010 +0800" channel="cctv4k">
+    <title>4K宣传片-谷雨牡丹</title>
   </programme>
   <programme start="20260422163010 +0800" stop="20260422171010 +0800" channel="cctv4k">
     <title>探索·发现（4K）-2024-50</title>
