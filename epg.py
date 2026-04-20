@@ -278,7 +278,7 @@ def parse_epg(epg_content, alias_map, regex_aliases):
         for dn, lang in channel_display_names:
             if dn and dn not in seen_names:
                 deduped_names.append([dn, lang])
-                seen_names.add(dn)
+                seen_names.add(dn[0])
 
         if main_name not in seen_names:
             deduped_names.insert(0, [main_name, 'zh'])
@@ -299,8 +299,8 @@ def parse_epg(epg_content, alias_map, regex_aliases):
         channel_id = normalize_channel_name(raw_channel_id, alias_map, regex_aliases)
         channel_id = channel_id_to_main_name.get(channel_id, channel_id_to_main_name.get(raw_channel_id, channel_id))
 
-        start_raw = programme.get('start')
-        stop_raw = programme.get('stop')
+        start_raw = programme.get("start")
+        stop_raw = programme.get("stop")
         channel_start = parse_xmltv_datetime(start_raw)
         channel_stop = parse_xmltv_datetime(stop_raw)
 
@@ -411,7 +411,7 @@ def get_urls():
     whitelist_urls = []
     in_whitelist = False
 
-    with open('config.txt', 'r', encoding='utf-8') as file:
+    with open('config.txt', 'r', encoding='utf--8') as file:
         for line in file:
             line = line.strip()
             if not line or line.startswith('#'):
@@ -434,6 +434,28 @@ def write_source_log(source_log_map):
             for day in sorted(source_log_map[channel_name].keys()):
                 source_url = source_log_map[channel_name][day]
                 f.write(f"频道: [{channel_name}] | 日期: {day.strftime('%Y-%m-%d')}| 来源: {source_url}\n")
+
+
+async def fetch_epg(url):
+    connector = aiohttp.TCPConnector(limit=16, ssl=False)
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+    }
+    try:
+        async with aiohttp.ClientSession(connector=connector, trust_env=True, headers=headers) as session:
+            async with session.get(url) as response:
+                if url.endswith('.gz'):
+                    compressed_data = await response.read()
+                    return gzip.decompress(compressed_data).decode('utf-8', errors='ignore')
+                else:
+                    return await response.text(encoding='utf-8')
+    except aiohttp.ClientError as e:
+        print(f"{url}HTTP请求错误: {e}")
+    except asyncio.TimeoutError:
+        print(f"{url}请求超时")
+    except Exception as e:
+        print(f"{url}其他错误: {e}")
+    return None
 
 
 async def main():
@@ -472,20 +494,14 @@ async def main():
 
         with tqdm(total=len(channels), desc="Merging EPG", unit="file") as pbar:
             for channel_id, display_names in channels.items():
-                if channel_id not in programmes or len(programmes[channel_id]) == 0:
-                    pbar.update(1)
-                    continue
-
-                current_programmes = programmes[channel_id]
-
                 if channel_id not in all_channel_id:
                     all_channel_id.add(channel_id)
                     all_channel_names[channel_id] = display_names
-                    all_programmes[channel_id] = current_programmes
+                    all_programmes[channel_id] = programmes[channel_id]
                     all_channel_source_type[channel_id] = is_whitelist
 
                     # 初始化日志
-                    for prog in current_programmes:
+                    for prog in programmes[channel_id]:
                         day = get_programme_day_key(prog)
                         if day is not None:
                             source_log_map[channel_id][day] = source_url
@@ -508,7 +524,7 @@ async def main():
                     elif not existing_is_whitelist and is_whitelist:
                         merged_programmes, day_source_is_new = merge_programmes_by_day(
                             all_programmes[channel_id],
-                            current_programmes,
+                            programmes[channel_id],
                             prefer_new=True
                         )
                         all_programmes[channel_id] = merged_programmes
@@ -519,7 +535,7 @@ async def main():
                     elif existing_is_whitelist and is_whitelist:
                         merged_programmes, day_source_is_new = merge_programmes_by_day(
                             all_programmes[channel_id],
-                            current_programmes,
+                            programmes[channel_id],
                             prefer_new=True
                         )
                         all_programmes[channel_id] = merged_programmes
@@ -529,7 +545,7 @@ async def main():
                     else:
                         merged_programmes, day_source_is_new = merge_programmes_by_day(
                             all_programmes[channel_id],
-                            current_programmes,
+                            programmes[channel_id],
                             prefer_new=False
                         )
                         all_programmes[channel_id] = merged_programmes
