@@ -1038,25 +1038,25 @@
   <programme start="20260427190000 +0800" stop="20260427193755 +0800" channel="cctv1">
     <title>新闻联播</title>
   </programme>
-  <programme start="20260427193755 +0800" stop="20260427195830 +0800" channel="cctv1">
+  <programme start="20260427193755 +0800" stop="20260427195820 +0800" channel="cctv1">
     <title>焦点访谈</title>
   </programme>
-  <programme start="20260427195830 +0800" stop="20260427200300 +0800" channel="cctv1">
+  <programme start="20260427195820 +0800" stop="20260427200200 +0800" channel="cctv1">
     <title>前情提要-金关-第17集</title>
   </programme>
-  <programme start="20260427200300 +0800" stop="20260427205400 +0800" channel="cctv1">
+  <programme start="20260427200200 +0800" stop="20260427205250 +0800" channel="cctv1">
     <title>金关17/22</title>
   </programme>
-  <programme start="20260427205400 +0800" stop="20260427205630 +0800" channel="cctv1">
+  <programme start="20260427205250 +0800" stop="20260427205510 +0800" channel="cctv1">
     <title>前情提要-金关-第18集</title>
   </programme>
-  <programme start="20260427205630 +0800" stop="20260427214650 +0800" channel="cctv1">
+  <programme start="20260427205510 +0800" stop="20260427214705 +0800" channel="cctv1">
     <title>金关18/22</title>
   </programme>
-  <programme start="20260427214650 +0800" stop="20260427215050 +0800" channel="cctv1">
+  <programme start="20260427214705 +0800" stop="20260427215105 +0800" channel="cctv1">
     <title>三餐四季（第二季）-宣传片</title>
   </programme>
-  <programme start="20260427215050 +0800" stop="20260427220000 +0800" channel="cctv1">
+  <programme start="20260427215105 +0800" stop="20260427220000 +0800" channel="cctv1">
     <title>非遗里的中国-MV</title>
   </programme>
   <programme start="20260427220000 +0800" stop="20260427223545 +0800" channel="cctv1">
@@ -20205,214 +20205,235 @@
   <programme start="20260426021911 +0800" stop="20260426035312 +0800" channel="cctv6">
     <title>黄昏中的鱼肚白</title>
   </programme>
-  <programme start="20260426035312 +0800" stop="20260426055221 +0800" channel="cctv6">
+  <programme start="20260426035312 +0800" stop="20260426052320 +0800" channel="cctv6">
     <title>守卫者</title>
   </programme>
-  <programme start="20260426055221 +0800" stop="20260426080201 +0800" channel="cctv6">
+  <programme start="20260426052320 +0800" stop="20260426054546 +0800" channel="cctv6">
+    <title>我和我的家乡：北京好人</title>
+  </programme>
+  <programme start="20260426054546 +0800" stop="20260426075529 +0800" channel="cctv6">
     <title>战狼Ⅱ</title>
   </programme>
-  <programme start="20260426080201 +0800" stop="20260426095401 +0800" channel="cctv6">
+  <programme start="20260426075529 +0800" stop="20260426094624 +0800" channel="cctv6">
     <title>云南虫谷</title>
   </programme>
-  <programme start="20260426095401 +0800" stop="20260426112547 +0800" channel="cctv6">
+  <programme start="20260426094624 +0800" stop="20260426112255 +0800" channel="cctv6">
     <title>龙岭迷窟</title>
   </programme>
-  <programme start="20260426112547 +0800" stop="20260426113227 +0800" channel="cctv6">
+  <programme start="20260426112255 +0800" stop="20260426112820 +0800" channel="cctv6">
     <title>音乐电影欣赏</title>
   </programme>
-  <programme start="20260426113227 +0800" stop="20260426134333 +0800" channel="cctv6">
+  <programme start="20260426112820 +0800" stop="20260426133641 +0800" channel="cctv6">
     <title>盗墓笔记</title>
   </programme>
-  <programme start="20260426134333 +0800" stop="20260426154543 +0800" channel="cctv6">
+  <programme start="20260426133641 +0800" stop="20260426153821 +0800" channel="cctv6">
     <title>九层妖塔</title>
   </programme>
-  <programme start="20260426154543 +0800" stop="20260426160453 +0800" channel="cctv6">
+  <programme start="20260426153821 +0800" stop="20260426155731 +0800" channel="cctv6">
     <title>佳片有约周日版2026-017</title>
   </programme>
-  <programme start="20260426160453 +0800" stop="20260426182308 +0800" channel="cctv6">
-    <title>保镖</title>
+  <programme start="20260426155731 +0800" stop="20260426162347 +0800" channel="cctv6">
+    <title>保镖（上）</title>
   </programme>
-  <programme start="20260426182308 +0800" stop="20260426200908 +0800" channel="cctv6">
+  <programme start="20260426162347 +0800" stop="20260426182526 +0800" channel="cctv6">
+    <title>保镖（下）</title>
+  </programme>
+  <programme start="20260426182526 +0800" stop="20260426200743 +0800" channel="cctv6">
     <title>小醉拳</title>
   </programme>
-  <programme start="20260426200908 +0800" stop="20260426220000 +0800" channel="cctv6">
+  <programme start="20260426200743 +0800" stop="20260426220000 +0800" channel="cctv6">
     <title>断刀客</title>
   </programme>
   <programme start="20260426220000 +0800" stop="20260426221800 +0800" channel="cctv6">
     <title>中国电影报道2026-116</title>
   </programme>
-  <programme start="20260426221800 +0800" stop="20260426222345 +0800" channel="cctv6">
+  <programme start="20260426221800 +0800" stop="20260426222340 +0800" channel="cctv6">
     <title>中国福利彩票阳光开奖2026-04-26</title>
   </programme>
-  <programme start="20260426222345 +0800" stop="20260426234525 +0800" channel="cctv6">
-    <title>正午</title>
+  <programme start="20260426222340 +0800" stop="20260426230051 +0800" channel="cctv6">
+    <title>正午（上）</title>
   </programme>
-  <programme start="20260426234525 +0800" stop="20260426235600 +0800" channel="cctv6">
+  <programme start="20260426230051 +0800" stop="20260426230151 +0800" channel="cctv6">
     <title>中国体育彩票阳光开奖2026-04-26</title>
   </programme>
-  <programme start="20260426235600 +0800" stop="20260426235900 +0800" channel="cctv6">
+  <programme start="20260426230151 +0800" stop="20260426235530 +0800" channel="cctv6">
+    <title>正午（下）</title>
+  </programme>
+  <programme start="20260426235530 +0800" stop="20260426235900 +0800" channel="cctv6">
     <title>大烟炮！一千八！</title>
   </programme>
-  <programme start="20260427013330 +0800" stop="20260427030333 +0800" channel="cctv6">
+  <programme start="20260427012900 +0800" stop="20260427025903 +0800" channel="cctv6">
     <title>样板间</title>
   </programme>
-  <programme start="20260427030333 +0800" stop="20260427055756 +0800" channel="cctv6">
+  <programme start="20260427025903 +0800" stop="20260427042107 +0800" channel="cctv6">
     <title>毕业作品</title>
   </programme>
-  <programme start="20260427055756 +0800" stop="20260427074653 +0800" channel="cctv6">
+  <programme start="20260427042107 +0800" stop="20260427055448 +0800" channel="cctv6">
+    <title>八子</title>
+  </programme>
+  <programme start="20260427055448 +0800" stop="20260427074255 +0800" channel="cctv6">
     <title>断刀客</title>
   </programme>
-  <programme start="20260427074653 +0800" stop="20260427092813 +0800" channel="cctv6">
+  <programme start="20260427074255 +0800" stop="20260427092830 +0800" channel="cctv6">
     <title>石城九月</title>
   </programme>
-  <programme start="20260427092813 +0800" stop="20260427110635 +0800" channel="cctv6">
+  <programme start="20260427092830 +0800" stop="20260427111117 +0800" channel="cctv6">
     <title>新冷血十三鹰</title>
   </programme>
-  <programme start="20260427110635 +0800" stop="20260427111250 +0800" channel="cctv6">
+  <programme start="20260427111117 +0800" stop="20260427111617 +0800" channel="cctv6">
     <title>音乐电影欣赏</title>
   </programme>
-  <programme start="20260427111250 +0800" stop="20260427134744 +0800" channel="cctv6">
+  <programme start="20260427111617 +0800" stop="20260427134726 +0800" channel="cctv6">
     <title>封神第一部：朝歌风云</title>
   </programme>
-  <programme start="20260427134744 +0800" stop="20260427161642 +0800" channel="cctv6">
+  <programme start="20260427134726 +0800" stop="20260427161344 +0800" channel="cctv6">
     <title>最初的梦想</title>
   </programme>
-  <programme start="20260427161642 +0800" stop="20260427181300 +0800" channel="cctv6">
+  <programme start="20260427161344 +0800" stop="20260427181657 +0800" channel="cctv6">
     <title>断金</title>
   </programme>
-  <programme start="20260427181300 +0800" stop="20260427202159 +0800" channel="cctv6">
+  <programme start="20260427181657 +0800" stop="20260427201926 +0800" channel="cctv6">
     <title>危城</title>
   </programme>
-  <programme start="20260427202159 +0800" stop="20260427220203 +0800" channel="cctv6">
+  <programme start="20260427201926 +0800" stop="20260427220000 +0800" channel="cctv6">
     <title>冰雪大围捕</title>
   </programme>
-  <programme start="20260427220203 +0800" stop="20260427222003 +0800" channel="cctv6">
+  <programme start="20260427220000 +0800" stop="20260427221800 +0800" channel="cctv6">
     <title>中国电影报道2026-117</title>
   </programme>
-  <programme start="20260427222003 +0800" stop="20260427222523 +0800" channel="cctv6">
+  <programme start="20260427221800 +0800" stop="20260427222420 +0800" channel="cctv6">
     <title>中国福利彩票阳光开奖2026-04-27</title>
   </programme>
-  <programme start="20260427222523 +0800" stop="20260427230115 +0800" channel="cctv6">
+  <programme start="20260427222420 +0800" stop="20260427230012 +0800" channel="cctv6">
     <title>谍影重重5（上）</title>
   </programme>
-  <programme start="20260427230115 +0800" stop="20260427230245 +0800" channel="cctv6">
+  <programme start="20260427230012 +0800" stop="20260427230112 +0800" channel="cctv6">
     <title>中国体育彩票阳光开奖2026-04-27</title>
   </programme>
-  <programme start="20260427230245 +0800" stop="20260427235900 +0800" channel="cctv6">
+  <programme start="20260427230112 +0800" stop="20260427235900 +0800" channel="cctv6">
     <title>谍影重重5（下）</title>
   </programme>
-  <programme start="20260428002833 +0800" stop="20260428020757 +0800" channel="cctv6">
+  <programme start="20260428002340 +0800" stop="20260428015904 +0800" channel="cctv6">
     <title>抗日名将卫立煌</title>
   </programme>
-  <programme start="20260428020757 +0800" stop="20260428035519 +0800" channel="cctv6">
+  <programme start="20260428015904 +0800" stop="20260428034626 +0800" channel="cctv6">
     <title>哥，你好</title>
   </programme>
-  <programme start="20260428035519 +0800" stop="20260428080253 +0800" channel="cctv6">
+  <programme start="20260428034626 +0800" stop="20260428053124 +0800" channel="cctv6">
     <title>八卦宗师</title>
   </programme>
-  <programme start="20260428080253 +0800" stop="20260428094102 +0800" channel="cctv6">
+  <programme start="20260428053124 +0800" stop="20260428063801 +0800" channel="cctv6">
+    <title>追你而来</title>
+  </programme>
+  <programme start="20260428063801 +0800" stop="20260428081450 +0800" channel="cctv6">
     <title>冰雪大围捕</title>
   </programme>
-  <programme start="20260428094102 +0800" stop="20260428111945 +0800" channel="cctv6">
+  <programme start="20260428081450 +0800" stop="20260428095243 +0800" channel="cctv6">
     <title>圩堡枪声</title>
   </programme>
-  <programme start="20260428111945 +0800" stop="20260428125946 +0800" channel="cctv6">
+  <programme start="20260428095243 +0800" stop="20260428113719 +0800" channel="cctv6">
     <title>关东棋王</title>
   </programme>
-  <programme start="20260428125946 +0800" stop="20260428130601 +0800" channel="cctv6">
+  <programme start="20260428113719 +0800" stop="20260428114219 +0800" channel="cctv6">
     <title>音乐电影欣赏</title>
   </programme>
-  <programme start="20260428130601 +0800" stop="20260428143938 +0800" channel="cctv6">
+  <programme start="20260428114219 +0800" stop="20260428131236 +0800" channel="cctv6">
     <title>紫霞</title>
   </programme>
-  <programme start="20260428143938 +0800" stop="20260428164443 +0800" channel="cctv6">
+  <programme start="20260428131236 +0800" stop="20260428144413 +0800" channel="cctv6">
+    <title>小醉拳</title>
+  </programme>
+  <programme start="20260428144413 +0800" stop="20260428164603 +0800" channel="cctv6">
     <title>蚁人与黄蜂女：量子狂潮</title>
   </programme>
-  <programme start="20260428164443 +0800" stop="20260428182627 +0800" channel="cctv6">
+  <programme start="20260428164603 +0800" stop="20260428183132 +0800" channel="cctv6">
     <title>刀锋行动</title>
   </programme>
-  <programme start="20260428182627 +0800" stop="20260428183912 +0800" channel="cctv6">
+  <programme start="20260428183132 +0800" stop="20260428184252 +0800" channel="cctv6">
     <title>《M指数》2026-009</title>
   </programme>
-  <programme start="20260428183912 +0800" stop="20260428202353 +0800" channel="cctv6">
+  <programme start="20260428184252 +0800" stop="20260428202148 +0800" channel="cctv6">
     <title>龙虎山张天师</title>
   </programme>
-  <programme start="20260428202353 +0800" stop="20260428220310 +0800" channel="cctv6">
+  <programme start="20260428202148 +0800" stop="20260428220000 +0800" channel="cctv6">
     <title>生死下一秒</title>
   </programme>
-  <programme start="20260428220310 +0800" stop="20260428222110 +0800" channel="cctv6">
+  <programme start="20260428220000 +0800" stop="20260428221800 +0800" channel="cctv6">
     <title>中国电影报道2026-118</title>
   </programme>
-  <programme start="20260428222110 +0800" stop="20260428222630 +0800" channel="cctv6">
+  <programme start="20260428221800 +0800" stop="20260428222330 +0800" channel="cctv6">
     <title>中国福利彩票阳光开奖2026-04-28</title>
   </programme>
-  <programme start="20260428222630 +0800" stop="20260428230300 +0800" channel="cctv6">
+  <programme start="20260428222330 +0800" stop="20260428230000 +0800" channel="cctv6">
     <title>残缺（上）</title>
   </programme>
-  <programme start="20260428230300 +0800" stop="20260428230430 +0800" channel="cctv6">
+  <programme start="20260428230000 +0800" stop="20260428230100 +0800" channel="cctv6">
     <title>中国体育彩票阳光开奖2026-04-28</title>
   </programme>
-  <programme start="20260428230430 +0800" stop="20260428235900 +0800" channel="cctv6">
+  <programme start="20260428230100 +0800" stop="20260428235900 +0800" channel="cctv6">
     <title>残缺（下）</title>
   </programme>
-  <programme start="20260429001946 +0800" stop="20260429015128 +0800" channel="cctv6">
+  <programme start="20260429001441 +0800" stop="20260429014223 +0800" channel="cctv6">
     <title>少年陈真之乱世英雄</title>
   </programme>
-  <programme start="20260429015128 +0800" stop="20260429034434 +0800" channel="cctv6">
+  <programme start="20260429014223 +0800" stop="20260429033529 +0800" channel="cctv6">
     <title>温暖的抱抱</title>
   </programme>
-  <programme start="20260429034434 +0800" stop="20260429070200 +0800" channel="cctv6">
+  <programme start="20260429033529 +0800" stop="20260429051908 +0800" channel="cctv6">
     <title>名画谜踪</title>
   </programme>
-  <programme start="20260429070200 +0800" stop="20260429083922 +0800" channel="cctv6">
+  <programme start="20260429051908 +0800" stop="20260429071348 +0800" channel="cctv6">
+    <title>盗墓笔记</title>
+  </programme>
+  <programme start="20260429071348 +0800" stop="20260429085155 +0800" channel="cctv6">
     <title>生死下一秒</title>
   </programme>
-  <programme start="20260429083922 +0800" stop="20260429103058 +0800" channel="cctv6">
+  <programme start="20260429085155 +0800" stop="20260429104506 +0800" channel="cctv6">
     <title>鼠胆英雄</title>
   </programme>
-  <programme start="20260429103058 +0800" stop="20260429121732 +0800" channel="cctv6">
+  <programme start="20260429104506 +0800" stop="20260429123135 +0800" channel="cctv6">
     <title>人生路不熟</title>
   </programme>
-  <programme start="20260429121732 +0800" stop="20260429122347 +0800" channel="cctv6">
+  <programme start="20260429123135 +0800" stop="20260429123635 +0800" channel="cctv6">
     <title>音乐电影欣赏</title>
   </programme>
-  <programme start="20260429122347 +0800" stop="20260429142542 +0800" channel="cctv6">
+  <programme start="20260429123635 +0800" stop="20260429143500 +0800" channel="cctv6">
     <title>长安伏妖</title>
   </programme>
-  <programme start="20260429142542 +0800" stop="20260429160237 +0800" channel="cctv6">
+  <programme start="20260429143500 +0800" stop="20260429161123 +0800" channel="cctv6">
     <title>小农夫</title>
   </programme>
-  <programme start="20260429160237 +0800" stop="20260429174833 +0800" channel="cctv6">
+  <programme start="20260429161123 +0800" stop="20260429175459 +0800" channel="cctv6">
     <title>风雪狼道</title>
   </programme>
-  <programme start="20260429174833 +0800" stop="20260429195010 +0800" channel="cctv6">
+  <programme start="20260429175459 +0800" stop="20260429195021 +0800" channel="cctv6">
     <title>扫黑·决战</title>
   </programme>
-  <programme start="20260429195010 +0800" stop="20260429220104 +0800" channel="cctv6">
+  <programme start="20260429195021 +0800" stop="20260429220000 +0800" channel="cctv6">
     <title>扫毒3：人在天涯</title>
   </programme>
-  <programme start="20260429220104 +0800" stop="20260429221904 +0800" channel="cctv6">
+  <programme start="20260429220000 +0800" stop="20260429221800 +0800" channel="cctv6">
     <title>中国电影报道2026-119</title>
   </programme>
-  <programme start="20260429221904 +0800" stop="20260429222424 +0800" channel="cctv6">
+  <programme start="20260429221800 +0800" stop="20260429222335 +0800" channel="cctv6">
     <title>中国福利彩票阳光开奖2026-04-29</title>
   </programme>
-  <programme start="20260429222424 +0800" stop="20260429230054 +0800" channel="cctv6">
+  <programme start="20260429222335 +0800" stop="20260429230005 +0800" channel="cctv6">
     <title>死侍2：我爱我家（上）</title>
   </programme>
-  <programme start="20260429230054 +0800" stop="20260429230224 +0800" channel="cctv6">
+  <programme start="20260429230005 +0800" stop="20260429230105 +0800" channel="cctv6">
     <title>中国体育彩票阳光开奖2026-04-29</title>
   </programme>
-  <programme start="20260429230224 +0800" stop="20260429235900 +0800" channel="cctv6">
+  <programme start="20260429230105 +0800" stop="20260429235900 +0800" channel="cctv6">
     <title>死侍2：我爱我家（下）</title>
   </programme>
-  <programme start="20260430002628 +0800" stop="20260430021636 +0800" channel="cctv6">
+  <programme start="20260430002254 +0800" stop="20260430020902 +0800" channel="cctv6">
     <title>喋血羊城</title>
   </programme>
-  <programme start="20260430021636 +0800" stop="20260430035456 +0800" channel="cctv6">
+  <programme start="20260430020902 +0800" stop="20260430034722 +0800" channel="cctv6">
     <title>狗果定理</title>
   </programme>
-  <programme start="20260430035456 +0800" stop="20260430064150 +0800" channel="cctv6">
+  <programme start="20260430034722 +0800" stop="20260430064150 +0800" channel="cctv6">
     <title>无效申请</title>
   </programme>
   <programme start="20260430064150 +0800" stop="20260430085049 +0800" channel="cctv6">
