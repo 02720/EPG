@@ -939,8 +939,14 @@
   <programme start="20260504193855 +0800" stop="20260504200000 +0800" channel="cctv1">
     <title>焦点访谈</title>
   </programme>
-  <programme start="20260504200000 +0800" stop="20260504214605 +0800" channel="cctv1">
-    <title>未来我来-2026五四青年节特别节目-完整版</title>
+  <programme start="20260504200000 +0800" stop="20260504203550 +0800" channel="cctv1">
+    <title>未来我来-2026五四青年节特别节目-1/3</title>
+  </programme>
+  <programme start="20260504203550 +0800" stop="20260504211215 +0800" channel="cctv1">
+    <title>未来我来-2026五四青年节特别节目-2/3</title>
+  </programme>
+  <programme start="20260504211215 +0800" stop="20260504214605 +0800" channel="cctv1">
+    <title>未来我来-2026五四青年节特别节目-3/3</title>
   </programme>
   <programme start="20260504214605 +0800" stop="20260504220000 +0800" channel="cctv1">
     <title>非遗里的中国-MV</title>
@@ -7020,8 +7026,14 @@
   <programme start="20260504184430 +0800" stop="20260504200000 +0800" channel="cctv15">
     <title>精彩音乐汇-我的爱对你说-2026-224</title>
   </programme>
-  <programme start="20260504200000 +0800" stop="20260504214900 +0800" channel="cctv15">
-    <title>未来我来-2026五四青年节特别节目-完整版</title>
+  <programme start="20260504200000 +0800" stop="20260504203550 +0800" channel="cctv15">
+    <title>未来我来-2026五四青年节特别节目-1/3</title>
+  </programme>
+  <programme start="20260504203550 +0800" stop="20260504211215 +0800" channel="cctv15">
+    <title>未来我来-2026五四青年节特别节目-2/3</title>
+  </programme>
+  <programme start="20260504211215 +0800" stop="20260504214900 +0800" channel="cctv15">
+    <title>未来我来-2026五四青年节特别节目-3/3</title>
   </programme>
   <programme start="20260504214900 +0800" stop="20260504225530 +0800" channel="cctv15">
     <title>神采正飞扬-中国郎之夜-4（纯享版）</title>
@@ -7053,8 +7065,14 @@
   <programme start="20260505100400 +0800" stop="20260505111930 +0800" channel="cctv15">
     <title>精彩音乐汇-我的爱对你说-2026-96</title>
   </programme>
-  <programme start="20260505111930 +0800" stop="20260505131500 +0800" channel="cctv15">
-    <title>未来我来-2026五四青年节特别节目-完整版</title>
+  <programme start="20260505111930 +0800" stop="20260505115730 +0800" channel="cctv15">
+    <title>未来我来-2026五四青年节特别节目-1/3</title>
+  </programme>
+  <programme start="20260505115730 +0800" stop="20260505123605 +0800" channel="cctv15">
+    <title>未来我来-2026五四青年节特别节目-2/3</title>
+  </programme>
+  <programme start="20260505123605 +0800" stop="20260505131500 +0800" channel="cctv15">
+    <title>未来我来-2026五四青年节特别节目-3/3</title>
   </programme>
   <programme start="20260505131500 +0800" stop="20260505154330 +0800" channel="cctv15">
     <title>影视留声机-2026-24-经典电影欣赏《上甘岭》</title>
@@ -11871,8 +11889,14 @@
   <programme start="20260504183915 +0800" stop="20260504200000 +0800" channel="cctv3">
     <title>开门大吉-2026-18</title>
   </programme>
-  <programme start="20260504200000 +0800" stop="20260504214400 +0800" channel="cctv3">
-    <title>未来我来-2026五四青年节特别节目-完整版</title>
+  <programme start="20260504200000 +0800" stop="20260504203550 +0800" channel="cctv3">
+    <title>未来我来-2026五四青年节特别节目-1/3</title>
+  </programme>
+  <programme start="20260504203550 +0800" stop="20260504211215 +0800" channel="cctv3">
+    <title>未来我来-2026五四青年节特别节目-2/3</title>
+  </programme>
+  <programme start="20260504211215 +0800" stop="20260504214400 +0800" channel="cctv3">
+    <title>未来我来-2026五四青年节特别节目-3/3</title>
   </programme>
   <programme start="20260504214400 +0800" stop="20260504224305 +0800" channel="cctv3">
     <title>综艺喜乐汇-2026-525</title>
@@ -11892,16 +11916,16 @@
   <programme start="20260505015720 +0800" stop="20260505034320 +0800" channel="cctv3">
     <title>影视留声机-2025-63-经典音乐电影欣赏《五朵金花》</title>
   </programme>
-  <programme start="20260505034320 +0800" stop="20260505044320 +0800" channel="cctv3">
+  <programme start="20260505034320 +0800" stop="20260505044335 +0800" channel="cctv3">
     <title>精彩音乐汇-我的爱对你说-2026-124</title>
   </programme>
-  <programme start="20260505044320 +0800" stop="20260505051920 +0800" channel="cctv3">
-    <title>动物园里有什么-5</title>
+  <programme start="20260505044335 +0800" stop="20260505051435 +0800" channel="cctv3">
+    <title>动物园里有什么-10</title>
   </programme>
-  <programme start="20260505051920 +0800" stop="20260505060455 +0800" channel="cctv3">
-    <title>金声玉振——中国器乐大会-精编六</title>
+  <programme start="20260505051435 +0800" stop="20260505060445 +0800" channel="cctv3">
+    <title>2026年读书日特别节目-1</title>
   </programme>
-  <programme start="20260505060455 +0800" stop="20260505062610 +0800" channel="cctv3">
+  <programme start="20260505060445 +0800" stop="20260505062610 +0800" channel="cctv3">
     <title>文化十分-2026-90</title>
   </programme>
   <programme start="20260505062610 +0800" stop="20260505075055 +0800" channel="cctv3">
@@ -11937,11 +11961,14 @@
   <programme start="20260505150345 +0800" stop="20260505154030 +0800" channel="cctv3">
     <title>非常6+1-2025-29多彩少年暑期集锦11</title>
   </programme>
-  <programme start="20260505154030 +0800" stop="20260505171930 +0800" channel="cctv3">
-    <title>未来我来-2026五四青年节特别节目-完整版</title>
+  <programme start="20260505154030 +0800" stop="20260505161900 +0800" channel="cctv3">
+    <title>未来我来-2026五四青年节特别节目-1/3</title>
   </programme>
-  <programme start="20260505171930 +0800" stop="20260505173600 +0800" channel="cctv3">
-    <title>未来我来-2026五四青年节特别节目-完整版</title>
+  <programme start="20260505161900 +0800" stop="20260505165905 +0800" channel="cctv3">
+    <title>未来我来-2026五四青年节特别节目-2/3</title>
+  </programme>
+  <programme start="20260505165905 +0800" stop="20260505173600 +0800" channel="cctv3">
+    <title>未来我来-2026五四青年节特别节目-3/3</title>
   </programme>
   <programme start="20260505173600 +0800" stop="20260505183900 +0800" channel="cctv3">
     <title>综艺喜乐汇-2026-478</title>
@@ -11973,13 +12000,16 @@
   <programme start="20260506033950 +0800" stop="20260506043950 +0800" channel="cctv3">
     <title>精彩音乐汇-我的爱对你说-2026-126</title>
   </programme>
-  <programme start="20260506043950 +0800" stop="20260506045150 +0800" channel="cctv3">
-    <title>有礼走遍天下-2</title>
+  <programme start="20260506043950 +0800" stop="20260506051850 +0800" channel="cctv3">
+    <title>衣锦天下丝路季-1</title>
   </programme>
-  <programme start="20260506045150 +0800" stop="20260506061035 +0800" channel="cctv3">
-    <title>和美之夜2025-播出版</title>
+  <programme start="20260506051850 +0800" stop="20260506060905 +0800" channel="cctv3">
+    <title>星光大道-2026-31（星光欢唱季1）</title>
   </programme>
-  <programme start="20260506061035 +0800" stop="20260506063035 +0800" channel="cctv3">
+  <programme start="20260506060905 +0800" stop="20260506061025 +0800" channel="cctv3">
+    <title>2026年读书日特别节目-腰封-5</title>
+  </programme>
+  <programme start="20260506061025 +0800" stop="20260506063035 +0800" channel="cctv3">
     <title>文化十分-2026-91</title>
   </programme>
   <programme start="20260506063035 +0800" stop="20260506073320 +0800" channel="cctv3">
@@ -17302,13 +17332,13 @@
     <title>运动一起赢</title>
   </programme>
   <programme start="20260504170000 +0800" stop="20260504190000 +0800" channel="cctv5">
-    <title>2026年世界乒乓球团体锦标赛-男团16强赛（中国香港VS朝鲜）</title>
+    <title>2026年世界乒乓球团体锦标赛-男团1/16决赛（中国香港VS朝鲜）</title>
   </programme>
   <programme start="20260504190000 +0800" stop="20260504193000 +0800" channel="cctv5">
     <title>体育新闻</title>
   </programme>
   <programme start="20260504193000 +0800" stop="20260504213000 +0800" channel="cctv5">
-    <title>2026年世界乒乓球团体锦标赛-女团16强赛（中国VS波兰）</title>
+    <title>2026年世界乒乓球团体锦标赛-女团1/16决赛（中国VS波兰）</title>
   </programme>
   <programme start="20260504213000 +0800" stop="20260504220500 +0800" channel="cctv5">
     <title>体育世界</title>
@@ -17362,7 +17392,7 @@
     <title>健身动起来</title>
   </programme>
   <programme start="20260505170000 +0800" stop="20260505190000 +0800" channel="cctv5">
-    <title>2026年世界乒乓球团体锦标赛-男团16强赛2</title>
+    <title>2026年世界乒乓球团体锦标赛-男团1/16决赛2</title>
   </programme>
   <programme start="20260505190000 +0800" stop="20260505193000 +0800" channel="cctv5">
     <title>体育新闻</title>
