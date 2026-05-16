@@ -1,19 +1,19 @@
 #epg链接，一行一个
-https://github.com/kuke31/xmlgz/raw/refs/heads/main/all.xml.gz
+http://e.erw.cc/all.xml.gz
 http://epg.51zmt.top:8000/e1.xml.gz
 https://epg.deny.vip/sh/tel-epg.xml
-https://github.com/zzzz0317/beijing-unicom-iptv-playlist/raw/refs/heads/main/epg.xml
-https://liliu.serv00.net/epg/cn.xml
+https://github.com/zzzz0317/beijing-unicom-iptv-playlist/raw/refs/heads/main/epg.xml.gz
+https://liliu.serv00.net/epg/cn.xml.gz
 https://github.com/plsy1/epg/raw/refs/heads/main/e/seven-days.xml.gz
 https://github.com/mytv-android/SCTV_EPG/raw/refs/heads/main/epg.xml
-https://github.com/sumingyd/xml/raw/refs/heads/main/epg.xml
-https://github.com/magihub/EPG/raw/refs/heads/main/epg.xml
+https://github.com/sumingyd/xml/raw/refs/heads/main/epg.xml.gz
+https://github.com/magihub/EPG/raw/refs/heads/main/epg.xml.gz
 https://epg.mb6.top/heiptv.xml
 https://epg.catvod.com/epg.xml
 http://139.199.229.98:8989/EPG
-https://epg.112114.xyz/pp.xml
+https://epg.112114.xyz/pp.xml.gz
 https://laobaiepg.laobaitv.net/guide_mainland.xml
-https://xml.epg.qzz.io/cs_gdx.xml
+https://xml.epg.qzz.io/cs_gdx.xml.gz
 
 [WHITELIST]
 https://github.com/02720/EPG/raw/refs/heads/CCTV/CCTV.xml
