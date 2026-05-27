@@ -1015,7 +1015,7 @@
     <title>前情提要-主角-第31集</title>
   </programme>
   <programme start="20260527200300 +0800" stop="20260527205330 +0800" channel="cctv1">
-    <title>主角31/48</title>
+    <title>主角第31集</title>
   </programme>
   <programme start="20260527205330 +0800" stop="20260527205650 +0800" channel="cctv1">
     <title>前情提要-主角-第32集</title>
@@ -15501,14 +15501,17 @@
   <programme start="20260528063000 +0800" stop="20260528070000 +0800" channel="cctv5">
     <title>健身动起来</title>
   </programme>
-  <programme start="20260528070000 +0800" stop="20260528080000 +0800" channel="cctv5">
+  <programme start="20260528070000 +0800" stop="20260528080300 +0800" channel="cctv5">
     <title>体坛晨报</title>
   </programme>
-  <programme start="20260528080000 +0800" stop="20260528110500 +0800" channel="cctv5">
-    <title>2025/2026赛季美国职业篮球联赛-东部决赛（骑士-尼克斯）第五场</title>
+  <programme start="20260528080300 +0800" stop="20260528093000 +0800" channel="cctv5">
+    <title>实况录像-2026年世界田联钻石联赛 厦门站</title>
+  </programme>
+  <programme start="20260528093000 +0800" stop="20260528110500 +0800" channel="cctv5">
+    <title>实况录像-2025/2026赛季欧洲篮球联赛  决赛</title>
   </programme>
   <programme start="20260528110500 +0800" stop="20260528115500 +0800" channel="cctv5">
-    <title>实况录像-2026年世界职业拳王争霸赛 8</title>
+    <title>实况录像-绿茵经典-2018年俄罗斯世界杯 小组赛B组 葡萄牙队-西班牙队</title>
   </programme>
   <programme start="20260528115500 +0800" stop="20260528120000 +0800" channel="cctv5">
     <title>健身动起来</title>
@@ -15537,20 +15540,20 @@
   <programme start="20260528180000 +0800" stop="20260528183000 +0800" channel="cctv5">
     <title>体育新闻</title>
   </programme>
-  <programme start="20260528183000 +0800" stop="20260528193000 +0800" channel="cctv5">
+  <programme start="20260528183000 +0800" stop="20260528192500 +0800" channel="cctv5">
     <title>足球之夜</title>
   </programme>
-  <programme start="20260528193000 +0800" stop="20260528213000 +0800" channel="cctv5">
-    <title>2026年法国网球公开赛-第2轮2</title>
+  <programme start="20260528192500 +0800" stop="20260528213000 +0800" channel="cctv5">
+    <title>2025/2026赛季中国男子篮球职业联赛-总决赛第二场（上海久事-浙江浙商证券）</title>
   </programme>
-  <programme start="20260528213000 +0800" stop="20260528223600 +0800" channel="cctv5">
+  <programme start="20260528213000 +0800" stop="20260528225000 +0800" channel="cctv5">
     <title>体育世界</title>
   </programme>
-  <programme start="20260528223600 +0800" stop="20260528235900 +0800" channel="cctv5">
-    <title>实况录像-2025/2026赛季欧洲篮球联赛  决赛</title>
+  <programme start="20260528225000 +0800" stop="20260528234500 +0800" channel="cctv5">
+    <title>实况录像-2026年世界职业拳王争霸赛 8</title>
   </programme>
-  <programme start="20260529000500 +0800" stop="20260529010500 +0800" channel="cctv5">
-    <title>实况录像-2026年全国举重锦标赛 女子比赛2</title>
+  <programme start="20260528234500 +0800" stop="20260528235900 +0800" channel="cctv5">
+    <title>实况录像-精彩一刻-2025/2026斯诺克世界公开赛 奥沙利文的153</title>
   </programme>
   <programme start="20260529010500 +0800" stop="20260529023600 +0800" channel="cctv5">
     <title>实况录像-2025年世界田联钻石联赛  斯德哥尔摩站</title>
@@ -16893,34 +16896,40 @@
   <programme start="20260529014951 +0800" stop="20260529031754 +0800" channel="cctv6">
     <title>男孩都想有辆车</title>
   </programme>
-  <programme start="20260529031754 +0800" stop="20260529061029 +0800" channel="cctv6">
+  <programme start="20260529031754 +0800" stop="20260529044600 +0800" channel="cctv6">
     <title>致命空间</title>
   </programme>
-  <programme start="20260529061029 +0800" stop="20260529074850 +0800" channel="cctv6">
+  <programme start="20260529044600 +0800" stop="20260529061100 +0800" channel="cctv6">
     <title>男人上路</title>
   </programme>
-  <programme start="20260529074850 +0800" stop="20260529093510 +0800" channel="cctv6">
-    <title>陆小凤传奇之血衣之谜</title>
+  <programme start="20260529061100 +0800" stop="20260529080124 +0800" channel="cctv6">
+    <title>解放·终局营救</title>
   </programme>
-  <programme start="20260529093510 +0800" stop="20260529112509 +0800" channel="cctv6">
+  <programme start="20260529080124 +0800" stop="20260529095008 +0800" channel="cctv6">
     <title>二子开店</title>
   </programme>
-  <programme start="20260529112509 +0800" stop="20260529113124 +0800" channel="cctv6">
-    <title>音乐电影欣赏</title>
-  </programme>
-  <programme start="20260529113124 +0800" stop="20260529131513 +0800" channel="cctv6">
+  <programme start="20260529095008 +0800" stop="20260529113502 +0800" channel="cctv6">
     <title>傻冒经理</title>
   </programme>
-  <programme start="20260529131513 +0800" stop="20260529153708 +0800" channel="cctv6">
+  <programme start="20260529113502 +0800" stop="20260529114002 +0800" channel="cctv6">
+    <title>音乐电影欣赏</title>
+  </programme>
+  <programme start="20260529114002 +0800" stop="20260529135938 +0800" channel="cctv6">
     <title>亡命救护车</title>
   </programme>
-  <programme start="20260529153708 +0800" stop="20260529171653 +0800" channel="cctv6">
-    <title>珍珠港</title>
+  <programme start="20260529135938 +0800" stop="20260529153109 +0800" channel="cctv6">
+    <title>珍珠港（上）</title>
   </programme>
-  <programme start="20260529171653 +0800" stop="20260529174533 +0800" channel="cctv6">
+  <programme start="20260529153109 +0800" stop="20260529171153 +0800" channel="cctv6">
+    <title>珍珠港（下）</title>
+  </programme>
+  <programme start="20260529171153 +0800" stop="20260529173808 +0800" channel="cctv6">
     <title>《1905影视频》2026-022</title>
   </programme>
-  <programme start="20260529174533 +0800" stop="20260529201347 +0800" channel="cctv6">
+  <programme start="20260529173808 +0800" stop="20260529174943 +0800" channel="cctv6">
+    <title>《M指数》2026-013</title>
+  </programme>
+  <programme start="20260529174943 +0800" stop="20260529201347 +0800" channel="cctv6">
     <title>爆裂点</title>
   </programme>
   <programme start="20260529201347 +0800" stop="20260529220000 +0800" channel="cctv6">
@@ -16929,79 +16938,82 @@
   <programme start="20260529220000 +0800" stop="20260529221800 +0800" channel="cctv6">
     <title>中国电影报道2026-149</title>
   </programme>
-  <programme start="20260529221800 +0800" stop="20260529222320 +0800" channel="cctv6">
+  <programme start="20260529221800 +0800" stop="20260529222420 +0800" channel="cctv6">
     <title>中国福利彩票阳光开奖2026-05-29</title>
   </programme>
-  <programme start="20260529222320 +0800" stop="20260529225901 +0800" channel="cctv6">
+  <programme start="20260529222420 +0800" stop="20260529230001 +0800" channel="cctv6">
     <title>卧虎（上）</title>
   </programme>
-  <programme start="20260529225901 +0800" stop="20260529230031 +0800" channel="cctv6">
+  <programme start="20260529230001 +0800" stop="20260529230101 +0800" channel="cctv6">
     <title>中国体育彩票阳光开奖2026-05-29</title>
   </programme>
-  <programme start="20260529230031 +0800" stop="20260529235900 +0800" channel="cctv6">
+  <programme start="20260529230101 +0800" stop="20260529235900 +0800" channel="cctv6">
     <title>卧虎（下）</title>
   </programme>
-  <programme start="20260530000337 +0800" stop="20260530014301 +0800" channel="cctv6">
+  <programme start="20260530000102 +0800" stop="20260530013626 +0800" channel="cctv6">
     <title>抗日名将卫立煌</title>
   </programme>
-  <programme start="20260530014301 +0800" stop="20260530031553 +0800" channel="cctv6">
+  <programme start="20260530013626 +0800" stop="20260530030918 +0800" channel="cctv6">
     <title>心桥恋人</title>
   </programme>
-  <programme start="20260530031553 +0800" stop="20260530065627 +0800" channel="cctv6">
+  <programme start="20260530030918 +0800" stop="20260530065836 +0800" channel="cctv6">
     <title>半步崩拳</title>
   </programme>
-  <programme start="20260530065627 +0800" stop="20260530084045 +0800" channel="cctv6">
+  <programme start="20260530065836 +0800" stop="20260530084254 +0800" channel="cctv6">
     <title>特殊身份</title>
   </programme>
-  <programme start="20260530084045 +0800" stop="20260530101715 +0800" channel="cctv6">
+  <programme start="20260530084254 +0800" stop="20260530101924 +0800" channel="cctv6">
     <title>探险小狗媞蒂娜</title>
   </programme>
-  <programme start="20260530101715 +0800" stop="20260530121041 +0800" channel="cctv6">
+  <programme start="20260530101924 +0800" stop="20260530121250 +0800" channel="cctv6">
     <title>奇迹·笨小孩</title>
   </programme>
-  <programme start="20260530121041 +0800" stop="20260530121706 +0800" channel="cctv6">
+  <programme start="20260530121250 +0800" stop="20260530121915 +0800" channel="cctv6">
     <title>音乐电影欣赏</title>
   </programme>
-  <programme start="20260530121706 +0800" stop="20260530140646 +0800" channel="cctv6">
+  <programme start="20260530121915 +0800" stop="20260530140855 +0800" channel="cctv6">
     <title>羞羞的铁拳</title>
   </programme>
-  <programme start="20260530140646 +0800" stop="20260530142916 +0800" channel="cctv6">
+  <programme start="20260530140855 +0800" stop="20260530143125 +0800" channel="cctv6">
     <title>《1905影视频》2026-022</title>
   </programme>
-  <programme start="20260530142916 +0800" stop="20260530160900 +0800" channel="cctv6">
+  <programme start="20260530143125 +0800" stop="20260530161109 +0800" channel="cctv6">
     <title>锦衣卫之初露锋芒</title>
   </programme>
-  <programme start="20260530160900 +0800" stop="20260530175505 +0800" channel="cctv6">
+  <programme start="20260530161109 +0800" stop="20260530175714 +0800" channel="cctv6">
     <title>锦衣卫之日炎刀</title>
   </programme>
-  <programme start="20260530175505 +0800" stop="20260530201100 +0800" channel="cctv6">
-    <title>侍神令</title>
-  </programme>
-  <programme start="20260530201100 +0800" stop="20260530215751 +0800" channel="cctv6">
+  <programme start="20260530175714 +0800" stop="20260530194830 +0800" channel="cctv6">
     <title>诛仙1</title>
   </programme>
-  <programme start="20260530215751 +0800" stop="20260530221551 +0800" channel="cctv6">
+  <programme start="20260530194830 +0800" stop="20260530221440 +0800" channel="cctv6">
+    <title>《国乐无双》第2期</title>
+  </programme>
+  <programme start="20260530221440 +0800" stop="20260530223240 +0800" channel="cctv6">
     <title>中国电影报道2026-150</title>
   </programme>
-  <programme start="20260530221551 +0800" stop="20260530222111 +0800" channel="cctv6">
+  <programme start="20260530223240 +0800" stop="20260530223800 +0800" channel="cctv6">
     <title>中国福利彩票阳光开奖2026-05-30</title>
   </programme>
-  <programme start="20260530222111 +0800" stop="20260530223021 +0800" channel="cctv6">
+  <programme start="20260530223800 +0800" stop="20260530224710 +0800" channel="cctv6">
     <title>佳片有约周六版2026-022</title>
   </programme>
-  <programme start="20260530223021 +0800" stop="20260530235900 +0800" channel="cctv6">
-    <title>雷霆沙赞！众神之怒</title>
+  <programme start="20260530224710 +0800" stop="20260530231450 +0800" channel="cctv6">
+    <title>雷霆沙赞！众神之怒（上）</title>
   </programme>
-  <programme start="20260531002201 +0800" stop="20260531003236 +0800" channel="cctv6">
+  <programme start="20260530231450 +0800" stop="20260530231620 +0800" channel="cctv6">
     <title>中国体育彩票阳光开奖2026-05-30</title>
   </programme>
-  <programme start="20260531003236 +0800" stop="20260531020913 +0800" channel="cctv6">
+  <programme start="20260530231620 +0800" stop="20260530235900 +0800" channel="cctv6">
+    <title>雷霆沙赞！众神之怒（下）</title>
+  </programme>
+  <programme start="20260531005025 +0800" stop="20260531022702 +0800" channel="cctv6">
     <title>三月三之恋</title>
   </programme>
-  <programme start="20260531020913 +0800" stop="20260531034124 +0800" channel="cctv6">
+  <programme start="20260531022702 +0800" stop="20260531035913 +0800" channel="cctv6">
     <title>男孩女孩</title>
   </programme>
-  <programme start="20260531034124 +0800" stop="20260531063852 +0800" channel="cctv6">
+  <programme start="20260531035913 +0800" stop="20260531063852 +0800" channel="cctv6">
     <title>临时爸爸</title>
   </programme>
   <programme start="20260531063852 +0800" stop="20260531082413 +0800" channel="cctv6">
@@ -19543,7 +19555,7 @@
     <title>本集提要-太行谣-第3集</title>
   </programme>
   <programme start="20260528222140 +0800" stop="20260528231140 +0800" channel="cctv8">
-    <title>太行谣3/24</title>
+    <title>太行谣第3集</title>
   </programme>
   <programme start="20260528231140 +0800" stop="20260528235740 +0800" channel="cctv8">
     <title>不期而遇的生活第18集</title>
