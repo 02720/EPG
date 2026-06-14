@@ -1071,25 +1071,25 @@
   <programme start="20260615190000 +0800" stop="20260615193855 +0800" channel="cctv1">
     <title>新闻联播</title>
   </programme>
-  <programme start="20260615193855 +0800" stop="20260615195900 +0800" channel="cctv1">
+  <programme start="20260615193855 +0800" stop="20260615195935 +0800" channel="cctv1">
     <title>焦点访谈</title>
   </programme>
-  <programme start="20260615195900 +0800" stop="20260615200300 +0800" channel="cctv1">
+  <programme start="20260615195935 +0800" stop="20260615200400 +0800" channel="cctv1">
     <title>前情提要-星月征途-第10集</title>
   </programme>
-  <programme start="20260615200300 +0800" stop="20260615205425 +0800" channel="cctv1">
+  <programme start="20260615200400 +0800" stop="20260615205425 +0800" channel="cctv1">
     <title>星月征途第10集</title>
   </programme>
-  <programme start="20260615205425 +0800" stop="20260615205655 +0800" channel="cctv1">
+  <programme start="20260615205425 +0800" stop="20260615205700 +0800" channel="cctv1">
     <title>前情提要-星月征途-第11集</title>
   </programme>
-  <programme start="20260615205655 +0800" stop="20260615214300 +0800" channel="cctv1">
+  <programme start="20260615205700 +0800" stop="20260615214305 +0800" channel="cctv1">
     <title>星月征途第11集</title>
   </programme>
-  <programme start="20260615214300 +0800" stop="20260615215000 +0800" channel="cctv1">
+  <programme start="20260615214305 +0800" stop="20260615215150 +0800" channel="cctv1">
     <title>非遗里的中国-MV</title>
   </programme>
-  <programme start="20260615215000 +0800" stop="20260615220000 +0800" channel="cctv1">
+  <programme start="20260615215150 +0800" stop="20260615220000 +0800" channel="cctv1">
     <title>三餐四季（第二季）-宣传片</title>
   </programme>
   <programme start="20260615220000 +0800" stop="20260615223630 +0800" channel="cctv1">
@@ -1194,20 +1194,17 @@
   <programme start="20260616195915 +0800" stop="20260616200300 +0800" channel="cctv1">
     <title>前情提要-星月征途-12/20</title>
   </programme>
-  <programme start="20260616200300 +0800" stop="20260616205530 +0800" channel="cctv1">
+  <programme start="20260616200300 +0800" stop="20260616205330 +0800" channel="cctv1">
     <title>星月征途12/20</title>
   </programme>
-  <programme start="20260616205530 +0800" stop="20260616205800 +0800" channel="cctv1">
+  <programme start="20260616205330 +0800" stop="20260616205600 +0800" channel="cctv1">
     <title>前情提要-星月征途-13/20</title>
   </programme>
-  <programme start="20260616205800 +0800" stop="20260616214815 +0800" channel="cctv1">
+  <programme start="20260616205600 +0800" stop="20260616214820 +0800" channel="cctv1">
     <title>星月征途13/20</title>
   </programme>
-  <programme start="20260616214815 +0800" stop="20260616215420 +0800" channel="cctv1">
-    <title>非遗里的中国-MV</title>
-  </programme>
-  <programme start="20260616215420 +0800" stop="20260616220000 +0800" channel="cctv1">
-    <title>三餐四季（第二季）-宣传片</title>
+  <programme start="20260616214820 +0800" stop="20260616220000 +0800" channel="cctv1">
+    <title>中华古树-海南东方酸豆王（4K）</title>
   </programme>
   <programme start="20260616220000 +0800" stop="20260616223630 +0800" channel="cctv1">
     <title>晚间新闻</title>
@@ -1224,17 +1221,14 @@
   <programme start="20260617011030 +0800" stop="20260617014230 +0800" channel="cctv1">
     <title>晚间新闻</title>
   </programme>
-  <programme start="20260617014230 +0800" stop="20260617014650 +0800" channel="cctv1">
-    <title>三餐四季（第二季）-宣传片</title>
-  </programme>
-  <programme start="20260617014650 +0800" stop="20260617023050 +0800" channel="cctv1">
+  <programme start="20260617014230 +0800" stop="20260617022450 +0800" channel="cctv1">
     <title>生活早参考-特别节目（生活圈）2026-162</title>
   </programme>
-  <programme start="20260617023050 +0800" stop="20260617024105 +0800" channel="cctv1">
+  <programme start="20260617022450 +0800" stop="20260617023505 +0800" channel="cctv1">
     <title>中华古树-蕉城杉木王（4K）</title>
   </programme>
-  <programme start="20260617024105 +0800" stop="20260617024730 +0800" channel="cctv1">
-    <title>非遗里的中国-MV</title>
+  <programme start="20260617023505 +0800" stop="20260617024730 +0800" channel="cctv1">
+    <title>中华古树-九华山凤凰松（4K）</title>
   </programme>
   <programme start="20260617024730 +0800" stop="20260617042000 +0800" channel="cctv1">
     <title>宗师列传▪唐宋八大家-苏轼苏辙上</title>
