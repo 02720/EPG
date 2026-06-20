@@ -7431,22 +7431,22 @@
   <programme start="20260620181430 +0800" stop="20260620193000 +0800" channel="cctv15">
     <title>精彩音乐汇-我的爱对你说-2026-271</title>
   </programme>
-  <programme start="20260620193000 +0800" stop="20260620210935 +0800" channel="cctv15">
+  <programme start="20260620193000 +0800" stop="20260620210835 +0800" channel="cctv15">
     <title>经典（2026年美泉宫夏季音乐会）-CMG夏日歌会</title>
   </programme>
-  <programme start="20260620210935 +0800" stop="20260620230905 +0800" channel="cctv15">
+  <programme start="20260620210835 +0800" stop="20260620230805 +0800" channel="cctv15">
     <title>CCTV音乐厅-和美之夜（1）-</title>
   </programme>
-  <programme start="20260620230905 +0800" stop="20260620235900 +0800" channel="cctv15">
+  <programme start="20260620230805 +0800" stop="20260620235900 +0800" channel="cctv15">
     <title>精彩音乐汇-我的爱对你说-2026-248</title>
   </programme>
-  <programme start="20260621002435 +0800" stop="20260621012220 +0800" channel="cctv15">
+  <programme start="20260621002335 +0800" stop="20260621012120 +0800" channel="cctv15">
     <title>CCTV音乐厅-2026-120-巨匠之声·古典音乐大师系列音乐会（3）</title>
   </programme>
-  <programme start="20260621012220 +0800" stop="20260621015720 +0800" channel="cctv15">
+  <programme start="20260621012120 +0800" stop="20260621015620 +0800" channel="cctv15">
     <title>风华国乐-2026-174</title>
   </programme>
-  <programme start="20260621015720 +0800" stop="20260621060000 +0800" channel="cctv15">
+  <programme start="20260621015620 +0800" stop="20260621060000 +0800" channel="cctv15">
     <title>再见</title>
   </programme>
   <programme start="20260621060000 +0800" stop="20260621070200 +0800" channel="cctv15">
@@ -7483,7 +7483,7 @@
     <title>精彩音乐汇-我的爱对你说-2026-272</title>
   </programme>
   <programme start="20260621183000 +0800" stop="20260621200930 +0800" channel="cctv15">
-    <title>经典（2026年美泉宫夏季音乐会）-纯享版</title>
+    <title>CCTV音乐厅-启航2026-（纯享版1）</title>
   </programme>
   <programme start="20260621200930 +0800" stop="20260621220500 +0800" channel="cctv15">
     <title>影视留声机-2026-74-经典电影欣赏《大醉侠》</title>
@@ -11346,14 +11346,14 @@
   <programme start="20260621145110 +0800" stop="20260621151920 +0800" channel="cctv2">
     <title>2026精品财经纪录-水下中国第二季4</title>
   </programme>
-  <programme start="20260621151920 +0800" stop="20260621152220 +0800" channel="cctv2">
-    <title>周末特供2024-大河之洲1-3分版</title>
-  </programme>
-  <programme start="20260621152220 +0800" stop="20260621155220 +0800" channel="cctv2">
+  <programme start="20260621151920 +0800" stop="20260621154920 +0800" channel="cctv2">
     <title>2024精品财经纪录-人类记忆中国的世界遗产-3</title>
   </programme>
-  <programme start="20260621155220 +0800" stop="20260621161350 +0800" channel="cctv2">
+  <programme start="20260621154920 +0800" stop="20260621161050 +0800" channel="cctv2">
     <title>周末特供2026-340</title>
+  </programme>
+  <programme start="20260621161050 +0800" stop="20260621161350 +0800" channel="cctv2">
+    <title>周末特供2025-圈粉食刻1-3分版</title>
   </programme>
   <programme start="20260621161350 +0800" stop="20260621163750 +0800" channel="cctv2">
     <title>周末特供2025-辣椒的征途4</title>
@@ -12648,10 +12648,10 @@
   <programme start="20260620180540 +0800" stop="20260620193000 +0800" channel="cctv3">
     <title>开门大吉-2026-22</title>
   </programme>
-  <programme start="20260620193000 +0800" stop="20260620210405 +0800" channel="cctv3">
+  <programme start="20260620193000 +0800" stop="20260620210320 +0800" channel="cctv3">
     <title>经典（2026年美泉宫夏季音乐会）-CMG夏日歌会</title>
   </programme>
-  <programme start="20260620210405 +0800" stop="20260620220510 +0800" channel="cctv3">
+  <programme start="20260620210320 +0800" stop="20260620220510 +0800" channel="cctv3">
     <title>综艺喜乐汇-2026-525</title>
   </programme>
   <programme start="20260620220510 +0800" stop="20260620230355 +0800" channel="cctv3">
@@ -12678,16 +12678,16 @@
   <programme start="20260621045955 +0800" stop="20260621055005 +0800" channel="cctv3">
     <title>2026年读书日特别节目-1</title>
   </programme>
-  <programme start="20260621055005 +0800" stop="20260621055455 +0800" channel="cctv3">
-    <title>综艺喜乐汇-2026-1039 踏地为节</title>
+  <programme start="20260621055005 +0800" stop="20260621055325 +0800" channel="cctv3">
+    <title>综艺喜乐汇-2026-1036 喜雨</title>
   </programme>
-  <programme start="20260621055455 +0800" stop="20260621072505 +0800" channel="cctv3">
+  <programme start="20260621055325 +0800" stop="20260621072335 +0800" channel="cctv3">
     <title>民歌·中国-2026-30开播吧！国潮（第三季）精编</title>
   </programme>
-  <programme start="20260621072505 +0800" stop="20260621083235 +0800" channel="cctv3">
+  <programme start="20260621072335 +0800" stop="20260621083105 +0800" channel="cctv3">
     <title>综艺喜乐汇-2025-945</title>
   </programme>
-  <programme start="20260621083235 +0800" stop="20260621091045 +0800" channel="cctv3">
+  <programme start="20260621083105 +0800" stop="20260621091045 +0800" channel="cctv3">
     <title>综艺喜乐汇-2025-19</title>
   </programme>
   <programme start="20260621091045 +0800" stop="20260621101745 +0800" channel="cctv3">
@@ -22540,10 +22540,10 @@
     <title>星推荐-2026年6月-20</title>
   </programme>
   <programme start="20260621124225 +0800" stop="20260621133810 +0800" channel="cctv8">
-    <title>莫离26/40</title>
+    <title>莫离第26集</title>
   </programme>
   <programme start="20260621133810 +0800" stop="20260621143310 +0800" channel="cctv8">
-    <title>莫离27/40</title>
+    <title>莫离第27集</title>
   </programme>
   <programme start="20260621143310 +0800" stop="20260621152910 +0800" channel="cctv8">
     <title>大山的女儿第2集</title>
