@@ -973,7 +973,7 @@
     <title>前情提要-种墨园-第4集</title>
   </programme>
   <programme start="20260625200500 +0800" stop="20260625205455 +0800" channel="cctv1">
-    <title>种墨园4/34</title>
+    <title>种墨园第4集</title>
   </programme>
   <programme start="20260625205455 +0800" stop="20260625205800 +0800" channel="cctv1">
     <title>前情提要-种墨园-第5集</title>
@@ -1083,26 +1083,17 @@
   <programme start="20260626190000 +0800" stop="20260626193825 +0800" channel="cctv1">
     <title>新闻联播</title>
   </programme>
-  <programme start="20260626193825 +0800" stop="20260626200040 +0800" channel="cctv1">
+  <programme start="20260626193825 +0800" stop="20260626200200 +0800" channel="cctv1">
     <title>焦点访谈</title>
   </programme>
-  <programme start="20260626200040 +0800" stop="20260626200500 +0800" channel="cctv1">
-    <title>前情提要-电视剧（高清文件）</title>
+  <programme start="20260626200200 +0800" stop="20260626210415 +0800" channel="cctv1">
+    <title>中国中医药大会（第三季）-8</title>
   </programme>
-  <programme start="20260626200500 +0800" stop="20260626205505 +0800" channel="cctv1">
-    <title>电视剧-（高清文件）</title>
+  <programme start="20260626210415 +0800" stop="20260626210545 +0800" channel="cctv1">
+    <title>前情提要-种墨园-6/34</title>
   </programme>
-  <programme start="20260626205505 +0800" stop="20260626205635 +0800" channel="cctv1">
-    <title>前情提要-电视剧（高清文件）</title>
-  </programme>
-  <programme start="20260626205635 +0800" stop="20260626214530 +0800" channel="cctv1">
-    <title>电视剧-（高清文件）</title>
-  </programme>
-  <programme start="20260626214530 +0800" stop="20260626215100 +0800" channel="cctv1">
-    <title>非遗里的中国-MV</title>
-  </programme>
-  <programme start="20260626215100 +0800" stop="20260626220000 +0800" channel="cctv1">
-    <title>三餐四季（第二季）-宣传片</title>
+  <programme start="20260626210545 +0800" stop="20260626220000 +0800" channel="cctv1">
+    <title>种墨园6/34</title>
   </programme>
   <programme start="20260626220000 +0800" stop="20260626223530 +0800" channel="cctv1">
     <title>晚间新闻</title>
@@ -13413,14 +13404,14 @@
   <programme start="20260627153520 +0800" stop="20260627162450 +0800" channel="cctv4k">
     <title>我们中国人-2（4K）</title>
   </programme>
-  <programme start="20260627162450 +0800" stop="20260627170450 +0800" channel="cctv4k">
-    <title>探索·发现（4K）-2024-201</title>
+  <programme start="20260627162450 +0800" stop="20260627174450 +0800" channel="cctv4k">
+    <title>实况录像（奥林匹克）-2026世界杯小组赛L组第二轮 英格兰队—加纳队（4K）</title>
   </programme>
-  <programme start="20260627170450 +0800" stop="20260627170940 +0800" channel="cctv4k">
-    <title>中国微名片·世界遗产（第二季）-3（4K）</title>
+  <programme start="20260627174450 +0800" stop="20260627175450 +0800" channel="cctv4k">
+    <title>中华古树-北京卧佛寺古蜡梅（4K）</title>
   </programme>
-  <programme start="20260627170940 +0800" stop="20260627175910 +0800" channel="cctv4k">
-    <title>舌尖上的中国 第四季-4（4K）</title>
+  <programme start="20260627175450 +0800" stop="20260627175910 +0800" channel="cctv4k">
+    <title>4K垫播节目-丝绸之旅2025</title>
   </programme>
   <programme start="20260627175910 +0800" stop="20260627175945 +0800" channel="cctv4k">
     <title>生命树-第13集预告（4K）</title>
@@ -13476,16 +13467,16 @@
   <programme start="20260627213605 +0800" stop="20260627213625 +0800" channel="cctv4k">
     <title>4K标识演绎-2019-2</title>
   </programme>
-  <programme start="20260627213625 +0800" stop="20260627222555 +0800" channel="cctv4k">
-    <title>我们中国人-3（4K）</title>
+  <programme start="20260627213625 +0800" stop="20260627225625 +0800" channel="cctv4k">
+    <title>实况录像（奥林匹克）-2026世界杯小组赛K组第二轮 葡萄牙队—乌兹别克斯坦队（4K）</title>
   </programme>
-  <programme start="20260627222555 +0800" stop="20260627230555 +0800" channel="cctv4k">
-    <title>探索·发现（4K）-2024-202</title>
+  <programme start="20260627225625 +0800" stop="20260627230625 +0800" channel="cctv4k">
+    <title>中华古树-北京卧佛寺古蜡梅（4K）</title>
   </programme>
-  <programme start="20260627230555 +0800" stop="20260627235525 +0800" channel="cctv4k">
+  <programme start="20260627230625 +0800" stop="20260627235555 +0800" channel="cctv4k">
     <title>舌尖上的中国 第四季-5（4K）</title>
   </programme>
-  <programme start="20260627235525 +0800" stop="20260627235925 +0800" channel="cctv4k">
+  <programme start="20260627235555 +0800" stop="20260627235925 +0800" channel="cctv4k">
     <title>4K垫播节目-丝绸之旅2025</title>
   </programme>
   <programme start="20260627235925 +0800" stop="20260627235900 +0800" channel="cctv4k">
@@ -24111,20 +24102,17 @@
   <programme start="20260626080130 +0800" stop="20260626080200 +0800" channel="cctv8k">
     <title>周末一起看电影-宣传片（8K）</title>
   </programme>
-  <programme start="20260626080200 +0800" stop="20260626080330 +0800" channel="cctv8k">
+  <programme start="20260626080200 +0800" stop="20260626080400 +0800" channel="cctv8k">
+    <title>2026机器人机甲格斗赛-宣传片（8K）</title>
+  </programme>
+  <programme start="20260626080400 +0800" stop="20260626080530 +0800" channel="cctv8k">
     <title>品牌强国工程-2026形象宣传片4（8K）</title>
   </programme>
-  <programme start="20260626080330 +0800" stop="20260626080620 +0800" channel="cctv8k">
+  <programme start="20260626080530 +0800" stop="20260626080820 +0800" channel="cctv8k">
     <title>大国之翼同风起-宣传片（8K）</title>
   </programme>
-  <programme start="20260626080620 +0800" stop="20260626080655 +0800" channel="cctv8k">
-    <title>8K超高清万象-夏至2026</title>
-  </programme>
-  <programme start="20260626080655 +0800" stop="20260626081145 +0800" channel="cctv8k">
+  <programme start="20260626080820 +0800" stop="20260626081310 +0800" channel="cctv8k">
     <title>大国小鲜——石榴说-4（8K）</title>
-  </programme>
-  <programme start="20260626081145 +0800" stop="20260626081310 +0800" channel="cctv8k">
-    <title>8K超高清万象-等春来（8K）</title>
   </programme>
   <programme start="20260626081310 +0800" stop="20260626082442 +0800" channel="cctv8k">
     <title>2025重阳特别节目-霞光满天山河颂(8K)-6</title>
@@ -24312,20 +24300,17 @@
   <programme start="20260626120130 +0800" stop="20260626120200 +0800" channel="cctv8k">
     <title>周末一起看电影-宣传片（8K）</title>
   </programme>
-  <programme start="20260626120200 +0800" stop="20260626120330 +0800" channel="cctv8k">
+  <programme start="20260626120200 +0800" stop="20260626120400 +0800" channel="cctv8k">
+    <title>2026机器人机甲格斗赛-宣传片（8K）</title>
+  </programme>
+  <programme start="20260626120400 +0800" stop="20260626120530 +0800" channel="cctv8k">
     <title>品牌强国工程-2026形象宣传片4（8K）</title>
   </programme>
-  <programme start="20260626120330 +0800" stop="20260626120620 +0800" channel="cctv8k">
+  <programme start="20260626120530 +0800" stop="20260626120820 +0800" channel="cctv8k">
     <title>大国之翼同风起-宣传片（8K）</title>
   </programme>
-  <programme start="20260626120620 +0800" stop="20260626120655 +0800" channel="cctv8k">
-    <title>8K超高清万象-夏至2026</title>
-  </programme>
-  <programme start="20260626120655 +0800" stop="20260626121145 +0800" channel="cctv8k">
+  <programme start="20260626120820 +0800" stop="20260626121310 +0800" channel="cctv8k">
     <title>大国小鲜——石榴说-4（8K）</title>
-  </programme>
-  <programme start="20260626121145 +0800" stop="20260626121310 +0800" channel="cctv8k">
-    <title>8K超高清万象-等春来（8K）</title>
   </programme>
   <programme start="20260626121310 +0800" stop="20260626122442 +0800" channel="cctv8k">
     <title>2025重阳特别节目-霞光满天山河颂(8K)-6</title>
@@ -24513,20 +24498,17 @@
   <programme start="20260626160130 +0800" stop="20260626160200 +0800" channel="cctv8k">
     <title>周末一起看电影-宣传片（8K）</title>
   </programme>
-  <programme start="20260626160200 +0800" stop="20260626160330 +0800" channel="cctv8k">
+  <programme start="20260626160200 +0800" stop="20260626160400 +0800" channel="cctv8k">
+    <title>2026机器人机甲格斗赛-宣传片（8K）</title>
+  </programme>
+  <programme start="20260626160400 +0800" stop="20260626160530 +0800" channel="cctv8k">
     <title>品牌强国工程-2026形象宣传片4（8K）</title>
   </programme>
-  <programme start="20260626160330 +0800" stop="20260626160620 +0800" channel="cctv8k">
+  <programme start="20260626160530 +0800" stop="20260626160820 +0800" channel="cctv8k">
     <title>大国之翼同风起-宣传片（8K）</title>
   </programme>
-  <programme start="20260626160620 +0800" stop="20260626160655 +0800" channel="cctv8k">
-    <title>8K超高清万象-夏至2026</title>
-  </programme>
-  <programme start="20260626160655 +0800" stop="20260626161145 +0800" channel="cctv8k">
+  <programme start="20260626160820 +0800" stop="20260626161310 +0800" channel="cctv8k">
     <title>大国小鲜——石榴说-4（8K）</title>
-  </programme>
-  <programme start="20260626161145 +0800" stop="20260626161310 +0800" channel="cctv8k">
-    <title>8K超高清万象-等春来（8K）</title>
   </programme>
   <programme start="20260626161310 +0800" stop="20260626162442 +0800" channel="cctv8k">
     <title>2025重阳特别节目-霞光满天山河颂(8K)-6</title>
@@ -24654,26 +24636,32 @@
   <programme start="20260626190100 +0800" stop="20260626190130 +0800" channel="cctv8k">
     <title>城市风华录-宣传片（8K）</title>
   </programme>
-  <programme start="20260626190130 +0800" stop="20260626190300 +0800" channel="cctv8k">
-    <title>品牌强国工程-2026形象宣传片4（8K）</title>
+  <programme start="20260626190130 +0800" stop="20260626190330 +0800" channel="cctv8k">
+    <title>2026机器人机甲格斗赛-宣传片（8K）</title>
   </programme>
-  <programme start="20260626190300 +0800" stop="20260626190550 +0800" channel="cctv8k">
+  <programme start="20260626190330 +0800" stop="20260626190430 +0800" channel="cctv8k">
+    <title>品牌强国工程-2026形象宣传片3（8K）</title>
+  </programme>
+  <programme start="20260626190430 +0800" stop="20260626190720 +0800" channel="cctv8k">
     <title>大国之翼同风起-宣传片（8K）</title>
   </programme>
-  <programme start="20260626190550 +0800" stop="20260626190625 +0800" channel="cctv8k">
+  <programme start="20260626190720 +0800" stop="20260626190755 +0800" channel="cctv8k">
     <title>8K超高清万象-夏至2026</title>
   </programme>
-  <programme start="20260626190625 +0800" stop="20260626191115 +0800" channel="cctv8k">
+  <programme start="20260626190755 +0800" stop="20260626191245 +0800" channel="cctv8k">
     <title>大国小鲜——石榴说-5（8K）</title>
   </programme>
-  <programme start="20260626191115 +0800" stop="20260626191935 +0800" channel="cctv8k">
-    <title>精彩集锦-喀纳斯+三沙（8K）</title>
+  <programme start="20260626191245 +0800" stop="20260626191525 +0800" channel="cctv8k">
+    <title>国博文物展示-错金银云纹铜犀尊（8K）</title>
   </programme>
-  <programme start="20260626191935 +0800" stop="20260626194900 +0800" channel="cctv8k">
+  <programme start="20260626191525 +0800" stop="20260626191955 +0800" channel="cctv8k">
+    <title>8K超高清万象-美丽中国 四季</title>
+  </programme>
+  <programme start="20260626191955 +0800" stop="20260626194920 +0800" channel="cctv8k">
     <title>美丽中国说-3（8K）</title>
   </programme>
-  <programme start="20260626194900 +0800" stop="20260626195051 +0800" channel="cctv8k">
-    <title>哈尔滨2025年亚冬会-夺冠时刻速度滑冰男子1500米（8K）</title>
+  <programme start="20260626194920 +0800" stop="20260626195051 +0800" channel="cctv8k">
+    <title>哈尔滨2025年亚冬会-夺冠时刻速度滑冰男子100米（8K）</title>
   </programme>
   <programme start="20260626195051 +0800" stop="20260626195432 +0800" channel="cctv8k">
     <title>奋楫家国 沈水欢歌颂端阳-回家的路（8K）</title>
@@ -24933,32 +24921,35 @@
   <programme start="20260627090200 +0800" stop="20260627090230 +0800" channel="cctv8k">
     <title>城市风华录-宣传片（8K）</title>
   </programme>
-  <programme start="20260627090230 +0800" stop="20260627090520 +0800" channel="cctv8k">
+  <programme start="20260627090230 +0800" stop="20260627090430 +0800" channel="cctv8k">
+    <title>2026机器人机甲格斗赛-宣传片（8K）</title>
+  </programme>
+  <programme start="20260627090430 +0800" stop="20260627090530 +0800" channel="cctv8k">
+    <title>品牌强国工程-2026形象宣传片3（8K）</title>
+  </programme>
+  <programme start="20260627090530 +0800" stop="20260627090820 +0800" channel="cctv8k">
     <title>大国之翼同风起-宣传片（8K）</title>
   </programme>
-  <programme start="20260627090520 +0800" stop="20260627090555 +0800" channel="cctv8k">
+  <programme start="20260627090820 +0800" stop="20260627090855 +0800" channel="cctv8k">
     <title>8K超高清万象-夏至2026</title>
   </programme>
-  <programme start="20260627090555 +0800" stop="20260627090819 +0800" channel="cctv8k">
+  <programme start="20260627090855 +0800" stop="20260627091119 +0800" channel="cctv8k">
     <title>奋楫家国  沈水欢歌颂端阳-赠你（8K）</title>
   </programme>
-  <programme start="20260627090819 +0800" stop="20260627091234 +0800" channel="cctv8k">
+  <programme start="20260627091119 +0800" stop="20260627091534 +0800" channel="cctv8k">
     <title>奋楫家国  沈水欢歌颂端阳-心月同辉（8K）</title>
   </programme>
-  <programme start="20260627091234 +0800" stop="20260627091500 +0800" channel="cctv8k">
+  <programme start="20260627091534 +0800" stop="20260627091800 +0800" channel="cctv8k">
     <title>奋楫家国  沈水欢歌颂端阳-华夏（8K）</title>
   </programme>
-  <programme start="20260627091500 +0800" stop="20260627091950 +0800" channel="cctv8k">
+  <programme start="20260627091800 +0800" stop="20260627092250 +0800" channel="cctv8k">
     <title>大国小鲜——石榴说-6（8K）</title>
   </programme>
-  <programme start="20260627091950 +0800" stop="20260627095550 +0800" channel="cctv8k">
+  <programme start="20260627092250 +0800" stop="20260627095850 +0800" channel="cctv8k">
     <title>我们的村节-2（8K）</title>
   </programme>
-  <programme start="20260627095550 +0800" stop="20260627095700 +0800" channel="cctv8k">
+  <programme start="20260627095850 +0800" stop="20260627100000 +0800" channel="cctv8k">
     <title>哈尔滨2025年亚冬会-夺冠时刻短道速滑男子500米（8K）</title>
-  </programme>
-  <programme start="20260627095700 +0800" stop="20260627100000 +0800" channel="cctv8k">
-    <title>美丽中国-海南岛（8K）</title>
   </programme>
   <programme start="20260627100000 +0800" stop="20260627100030 +0800" channel="cctv8k">
     <title>2026美加墨世界杯-央视频宣传片（8K）</title>
@@ -25119,32 +25110,35 @@
   <programme start="20260627130200 +0800" stop="20260627130230 +0800" channel="cctv8k">
     <title>城市风华录-宣传片（8K）</title>
   </programme>
-  <programme start="20260627130230 +0800" stop="20260627130520 +0800" channel="cctv8k">
+  <programme start="20260627130230 +0800" stop="20260627130430 +0800" channel="cctv8k">
+    <title>2026机器人机甲格斗赛-宣传片（8K）</title>
+  </programme>
+  <programme start="20260627130430 +0800" stop="20260627130530 +0800" channel="cctv8k">
+    <title>品牌强国工程-2026形象宣传片3（8K）</title>
+  </programme>
+  <programme start="20260627130530 +0800" stop="20260627130820 +0800" channel="cctv8k">
     <title>大国之翼同风起-宣传片（8K）</title>
   </programme>
-  <programme start="20260627130520 +0800" stop="20260627130555 +0800" channel="cctv8k">
+  <programme start="20260627130820 +0800" stop="20260627130855 +0800" channel="cctv8k">
     <title>8K超高清万象-夏至2026</title>
   </programme>
-  <programme start="20260627130555 +0800" stop="20260627130819 +0800" channel="cctv8k">
+  <programme start="20260627130855 +0800" stop="20260627131119 +0800" channel="cctv8k">
     <title>奋楫家国  沈水欢歌颂端阳-赠你（8K）</title>
   </programme>
-  <programme start="20260627130819 +0800" stop="20260627131234 +0800" channel="cctv8k">
+  <programme start="20260627131119 +0800" stop="20260627131534 +0800" channel="cctv8k">
     <title>奋楫家国  沈水欢歌颂端阳-心月同辉（8K）</title>
   </programme>
-  <programme start="20260627131234 +0800" stop="20260627131500 +0800" channel="cctv8k">
+  <programme start="20260627131534 +0800" stop="20260627131800 +0800" channel="cctv8k">
     <title>奋楫家国  沈水欢歌颂端阳-华夏（8K）</title>
   </programme>
-  <programme start="20260627131500 +0800" stop="20260627131950 +0800" channel="cctv8k">
+  <programme start="20260627131800 +0800" stop="20260627132250 +0800" channel="cctv8k">
     <title>大国小鲜——石榴说-6（8K）</title>
   </programme>
-  <programme start="20260627131950 +0800" stop="20260627135550 +0800" channel="cctv8k">
+  <programme start="20260627132250 +0800" stop="20260627135850 +0800" channel="cctv8k">
     <title>我们的村节-2（8K）</title>
   </programme>
-  <programme start="20260627135550 +0800" stop="20260627135700 +0800" channel="cctv8k">
+  <programme start="20260627135850 +0800" stop="20260627140000 +0800" channel="cctv8k">
     <title>哈尔滨2025年亚冬会-夺冠时刻短道速滑男子500米（8K）</title>
-  </programme>
-  <programme start="20260627135700 +0800" stop="20260627140000 +0800" channel="cctv8k">
-    <title>美丽中国-海南岛（8K）</title>
   </programme>
   <programme start="20260627140000 +0800" stop="20260627140030 +0800" channel="cctv8k">
     <title>2026美加墨世界杯-金杯宣传片（8K）</title>
@@ -25305,32 +25299,35 @@
   <programme start="20260627170200 +0800" stop="20260627170230 +0800" channel="cctv8k">
     <title>城市风华录-宣传片（8K）</title>
   </programme>
-  <programme start="20260627170230 +0800" stop="20260627170520 +0800" channel="cctv8k">
+  <programme start="20260627170230 +0800" stop="20260627170430 +0800" channel="cctv8k">
+    <title>2026机器人机甲格斗赛-宣传片（8K）</title>
+  </programme>
+  <programme start="20260627170430 +0800" stop="20260627170530 +0800" channel="cctv8k">
+    <title>品牌强国工程-2026形象宣传片3（8K）</title>
+  </programme>
+  <programme start="20260627170530 +0800" stop="20260627170820 +0800" channel="cctv8k">
     <title>大国之翼同风起-宣传片（8K）</title>
   </programme>
-  <programme start="20260627170520 +0800" stop="20260627170555 +0800" channel="cctv8k">
+  <programme start="20260627170820 +0800" stop="20260627170855 +0800" channel="cctv8k">
     <title>8K超高清万象-夏至2026</title>
   </programme>
-  <programme start="20260627170555 +0800" stop="20260627170819 +0800" channel="cctv8k">
+  <programme start="20260627170855 +0800" stop="20260627171119 +0800" channel="cctv8k">
     <title>奋楫家国  沈水欢歌颂端阳-赠你（8K）</title>
   </programme>
-  <programme start="20260627170819 +0800" stop="20260627171234 +0800" channel="cctv8k">
+  <programme start="20260627171119 +0800" stop="20260627171534 +0800" channel="cctv8k">
     <title>奋楫家国  沈水欢歌颂端阳-心月同辉（8K）</title>
   </programme>
-  <programme start="20260627171234 +0800" stop="20260627171500 +0800" channel="cctv8k">
+  <programme start="20260627171534 +0800" stop="20260627171800 +0800" channel="cctv8k">
     <title>奋楫家国  沈水欢歌颂端阳-华夏（8K）</title>
   </programme>
-  <programme start="20260627171500 +0800" stop="20260627171950 +0800" channel="cctv8k">
+  <programme start="20260627171800 +0800" stop="20260627172250 +0800" channel="cctv8k">
     <title>大国小鲜——石榴说-6（8K）</title>
   </programme>
-  <programme start="20260627171950 +0800" stop="20260627175550 +0800" channel="cctv8k">
+  <programme start="20260627172250 +0800" stop="20260627175850 +0800" channel="cctv8k">
     <title>我们的村节-2（8K）</title>
   </programme>
-  <programme start="20260627175550 +0800" stop="20260627175700 +0800" channel="cctv8k">
+  <programme start="20260627175850 +0800" stop="20260627180000 +0800" channel="cctv8k">
     <title>哈尔滨2025年亚冬会-夺冠时刻短道速滑男子500米（8K）</title>
-  </programme>
-  <programme start="20260627175700 +0800" stop="20260627180000 +0800" channel="cctv8k">
-    <title>美丽中国-海南岛（8K）</title>
   </programme>
   <programme start="20260627180000 +0800" stop="20260627180030 +0800" channel="cctv8k">
     <title>金石探文明-宣传片（8K）</title>
@@ -31641,8 +31638,254 @@
   <programme start="20260630025330 +0800" stop="20260630035400 +0800" channel="cctvjilu">
     <title>特别呈现2026-180</title>
   </programme>
-  <programme start="20260630035400 +0800" stop="20260630235900 +0800" channel="cctvjilu">
+  <programme start="20260630035400 +0800" stop="20260630041100 +0800" channel="cctvjilu">
     <title>9视频2026-180</title>
+  </programme>
+  <programme start="20260630041100 +0800" stop="20260630044630 +0800" channel="cctvjilu">
+    <title>活力·源2026-180</title>
+  </programme>
+  <programme start="20260630044630 +0800" stop="20260630054600 +0800" channel="cctvjilu">
+    <title>故事中国2026-140</title>
+  </programme>
+  <programme start="20260630054600 +0800" stop="20260630064700 +0800" channel="cctvjilu">
+    <title>全景自然2026-180</title>
+  </programme>
+  <programme start="20260630064700 +0800" stop="20260630074300 +0800" channel="cctvjilu">
+    <title>魅力万象2026-180</title>
+  </programme>
+  <programme start="20260630074300 +0800" stop="20260630075930 +0800" channel="cctvjilu">
+    <title>9视频2026-180</title>
+  </programme>
+  <programme start="20260630075930 +0800" stop="20260630083100 +0800" channel="cctvjilu">
+    <title>活力·源2026-180</title>
+  </programme>
+  <programme start="20260630083100 +0800" stop="20260630092700 +0800" channel="cctvjilu">
+    <title>特别呈现2026-180</title>
+  </programme>
+  <programme start="20260630092700 +0800" stop="20260630102600 +0800" channel="cctvjilu">
+    <title>全景自然2026-180</title>
+  </programme>
+  <programme start="20260630102600 +0800" stop="20260630112400 +0800" channel="cctvjilu">
+    <title>魅力万象2026-180</title>
+  </programme>
+  <programme start="20260630112400 +0800" stop="20260630122700 +0800" channel="cctvjilu">
+    <title>寰宇视野2026-180</title>
+  </programme>
+  <programme start="20260630122700 +0800" stop="20260630133100 +0800" channel="cctvjilu">
+    <title>特别呈现2026-180</title>
+  </programme>
+  <programme start="20260630133100 +0800" stop="20260630143000 +0800" channel="cctvjilu">
+    <title>全景自然2026-180</title>
+  </programme>
+  <programme start="20260630143000 +0800" stop="20260630152800 +0800" channel="cctvjilu">
+    <title>魅力万象2026-180</title>
+  </programme>
+  <programme start="20260630152800 +0800" stop="20260630162700 +0800" channel="cctvjilu">
+    <title>故事中国2026-140</title>
+  </programme>
+  <programme start="20260630162700 +0800" stop="20260630172800 +0800" channel="cctvjilu">
+    <title>寰宇视野2026-180</title>
+  </programme>
+  <programme start="20260630172800 +0800" stop="20260630182700 +0800" channel="cctvjilu">
+    <title>全景自然2026-181</title>
+  </programme>
+  <programme start="20260630182700 +0800" stop="20260630192700 +0800" channel="cctvjilu">
+    <title>魅力万象2026-181</title>
+  </programme>
+  <programme start="20260630192700 +0800" stop="20260630200000 +0800" channel="cctvjilu">
+    <title>活力·源2026-181</title>
+  </programme>
+  <programme start="20260630200000 +0800" stop="20260630210000 +0800" channel="cctvjilu">
+    <title>特别呈现2026-181</title>
+  </programme>
+  <programme start="20260630210000 +0800" stop="20260630220700 +0800" channel="cctvjilu">
+    <title>寰宇视野2026-181</title>
+  </programme>
+  <programme start="20260630220700 +0800" stop="20260630230110 +0800" channel="cctvjilu">
+    <title>荟萃节目-布达拉宫2</title>
+  </programme>
+  <programme start="20260630230110 +0800" stop="20260630230800 +0800" channel="cctvjilu">
+    <title>9视频-请您欣赏</title>
+  </programme>
+  <programme start="20260630230800 +0800" stop="20260630233100 +0800" channel="cctvjilu">
+    <title>9视频2026-181</title>
+  </programme>
+  <programme start="20260630233100 +0800" stop="20260630235900 +0800" channel="cctvjilu">
+    <title>寰宇视野2026-181</title>
+  </programme>
+  <programme start="20260701003100 +0800" stop="20260701012700 +0800" channel="cctvjilu">
+    <title>全景自然2026-181</title>
+  </programme>
+  <programme start="20260701012700 +0800" stop="20260701022300 +0800" channel="cctvjilu">
+    <title>魅力万象2026-181</title>
+  </programme>
+  <programme start="20260701022300 +0800" stop="20260701025330 +0800" channel="cctvjilu">
+    <title>活力·源2026-181</title>
+  </programme>
+  <programme start="20260701025330 +0800" stop="20260701035400 +0800" channel="cctvjilu">
+    <title>特别呈现2026-181</title>
+  </programme>
+  <programme start="20260701035400 +0800" stop="20260701041100 +0800" channel="cctvjilu">
+    <title>9视频2026-181</title>
+  </programme>
+  <programme start="20260701041100 +0800" stop="20260701044630 +0800" channel="cctvjilu">
+    <title>活力·源2026-181</title>
+  </programme>
+  <programme start="20260701044630 +0800" stop="20260701054600 +0800" channel="cctvjilu">
+    <title>故事中国2026-141</title>
+  </programme>
+  <programme start="20260701054600 +0800" stop="20260701064700 +0800" channel="cctvjilu">
+    <title>全景自然2026-181</title>
+  </programme>
+  <programme start="20260701064700 +0800" stop="20260701074300 +0800" channel="cctvjilu">
+    <title>魅力万象2026-181</title>
+  </programme>
+  <programme start="20260701074300 +0800" stop="20260701075930 +0800" channel="cctvjilu">
+    <title>9视频2026-181</title>
+  </programme>
+  <programme start="20260701075930 +0800" stop="20260701083100 +0800" channel="cctvjilu">
+    <title>活力·源2026-181</title>
+  </programme>
+  <programme start="20260701083100 +0800" stop="20260701092700 +0800" channel="cctvjilu">
+    <title>特别呈现2026-181</title>
+  </programme>
+  <programme start="20260701092700 +0800" stop="20260701102600 +0800" channel="cctvjilu">
+    <title>全景自然2026-181</title>
+  </programme>
+  <programme start="20260701102600 +0800" stop="20260701112400 +0800" channel="cctvjilu">
+    <title>魅力万象2026-181</title>
+  </programme>
+  <programme start="20260701112400 +0800" stop="20260701122700 +0800" channel="cctvjilu">
+    <title>寰宇视野2026-181</title>
+  </programme>
+  <programme start="20260701122700 +0800" stop="20260701133100 +0800" channel="cctvjilu">
+    <title>特别呈现2026-181</title>
+  </programme>
+  <programme start="20260701133100 +0800" stop="20260701143000 +0800" channel="cctvjilu">
+    <title>全景自然2026-181</title>
+  </programme>
+  <programme start="20260701143000 +0800" stop="20260701152800 +0800" channel="cctvjilu">
+    <title>魅力万象2026-181</title>
+  </programme>
+  <programme start="20260701152800 +0800" stop="20260701162700 +0800" channel="cctvjilu">
+    <title>故事中国2026-141</title>
+  </programme>
+  <programme start="20260701162700 +0800" stop="20260701172800 +0800" channel="cctvjilu">
+    <title>寰宇视野2026-181</title>
+  </programme>
+  <programme start="20260701172800 +0800" stop="20260701182700 +0800" channel="cctvjilu">
+    <title>全景自然2026-182</title>
+  </programme>
+  <programme start="20260701182700 +0800" stop="20260701192700 +0800" channel="cctvjilu">
+    <title>魅力万象2026-182</title>
+  </programme>
+  <programme start="20260701192700 +0800" stop="20260701200000 +0800" channel="cctvjilu">
+    <title>活力·源2026-182</title>
+  </programme>
+  <programme start="20260701200000 +0800" stop="20260701210000 +0800" channel="cctvjilu">
+    <title>特别呈现2026-182</title>
+  </programme>
+  <programme start="20260701210000 +0800" stop="20260701220700 +0800" channel="cctvjilu">
+    <title>寰宇视野2026-182</title>
+  </programme>
+  <programme start="20260701220700 +0800" stop="20260701225920 +0800" channel="cctvjilu">
+    <title>荟萃节目-布达拉宫3</title>
+  </programme>
+  <programme start="20260701225920 +0800" stop="20260701230600 +0800" channel="cctvjilu">
+    <title>9视频-请您欣赏</title>
+  </programme>
+  <programme start="20260701230600 +0800" stop="20260701232730 +0800" channel="cctvjilu">
+    <title>9视频2026-182</title>
+  </programme>
+  <programme start="20260701232730 +0800" stop="20260701235900 +0800" channel="cctvjilu">
+    <title>寰宇视野2026-182</title>
+  </programme>
+  <programme start="20260702003100 +0800" stop="20260702012700 +0800" channel="cctvjilu">
+    <title>全景自然2026-182</title>
+  </programme>
+  <programme start="20260702012700 +0800" stop="20260702022300 +0800" channel="cctvjilu">
+    <title>魅力万象2026-182</title>
+  </programme>
+  <programme start="20260702022300 +0800" stop="20260702025330 +0800" channel="cctvjilu">
+    <title>活力·源2026-182</title>
+  </programme>
+  <programme start="20260702025330 +0800" stop="20260702035400 +0800" channel="cctvjilu">
+    <title>特别呈现2026-182</title>
+  </programme>
+  <programme start="20260702035400 +0800" stop="20260702041100 +0800" channel="cctvjilu">
+    <title>9视频2026-182</title>
+  </programme>
+  <programme start="20260702041100 +0800" stop="20260702044630 +0800" channel="cctvjilu">
+    <title>活力·源2026-182</title>
+  </programme>
+  <programme start="20260702044630 +0800" stop="20260702054600 +0800" channel="cctvjilu">
+    <title>故事中国2026-142</title>
+  </programme>
+  <programme start="20260702054600 +0800" stop="20260702064700 +0800" channel="cctvjilu">
+    <title>全景自然2026-182</title>
+  </programme>
+  <programme start="20260702064700 +0800" stop="20260702074300 +0800" channel="cctvjilu">
+    <title>魅力万象2026-182</title>
+  </programme>
+  <programme start="20260702074300 +0800" stop="20260702075930 +0800" channel="cctvjilu">
+    <title>9视频2026-182</title>
+  </programme>
+  <programme start="20260702075930 +0800" stop="20260702083100 +0800" channel="cctvjilu">
+    <title>活力·源2026-182</title>
+  </programme>
+  <programme start="20260702083100 +0800" stop="20260702092700 +0800" channel="cctvjilu">
+    <title>特别呈现2026-182</title>
+  </programme>
+  <programme start="20260702092700 +0800" stop="20260702102600 +0800" channel="cctvjilu">
+    <title>全景自然2026-182</title>
+  </programme>
+  <programme start="20260702102600 +0800" stop="20260702112400 +0800" channel="cctvjilu">
+    <title>魅力万象2026-182</title>
+  </programme>
+  <programme start="20260702112400 +0800" stop="20260702122700 +0800" channel="cctvjilu">
+    <title>寰宇视野2026-182</title>
+  </programme>
+  <programme start="20260702122700 +0800" stop="20260702133100 +0800" channel="cctvjilu">
+    <title>特别呈现2026-182</title>
+  </programme>
+  <programme start="20260702133100 +0800" stop="20260702143000 +0800" channel="cctvjilu">
+    <title>全景自然2026-182</title>
+  </programme>
+  <programme start="20260702143000 +0800" stop="20260702152800 +0800" channel="cctvjilu">
+    <title>魅力万象2026-182</title>
+  </programme>
+  <programme start="20260702152800 +0800" stop="20260702162700 +0800" channel="cctvjilu">
+    <title>故事中国2026-142</title>
+  </programme>
+  <programme start="20260702162700 +0800" stop="20260702172800 +0800" channel="cctvjilu">
+    <title>寰宇视野2026-182</title>
+  </programme>
+  <programme start="20260702172800 +0800" stop="20260702182700 +0800" channel="cctvjilu">
+    <title>全景自然2026-183</title>
+  </programme>
+  <programme start="20260702182700 +0800" stop="20260702192700 +0800" channel="cctvjilu">
+    <title>魅力万象2026-183</title>
+  </programme>
+  <programme start="20260702192700 +0800" stop="20260702200000 +0800" channel="cctvjilu">
+    <title>活力·源2026-183</title>
+  </programme>
+  <programme start="20260702200000 +0800" stop="20260702210000 +0800" channel="cctvjilu">
+    <title>特别呈现2026-183</title>
+  </programme>
+  <programme start="20260702210000 +0800" stop="20260702220700 +0800" channel="cctvjilu">
+    <title>寰宇视野2026-183</title>
+  </programme>
+  <programme start="20260702220700 +0800" stop="20260702230020 +0800" channel="cctvjilu">
+    <title>荟萃节目-布达拉宫4</title>
+  </programme>
+  <programme start="20260702230020 +0800" stop="20260702230600 +0800" channel="cctvjilu">
+    <title>9视频-请您欣赏</title>
+  </programme>
+  <programme start="20260702230600 +0800" stop="20260702232730 +0800" channel="cctvjilu">
+    <title>9视频2026-183</title>
+  </programme>
+  <programme start="20260702232730 +0800" stop="20260702235900 +0800" channel="cctvjilu">
+    <title>寰宇视野2026-183</title>
   </programme>
   <programme start="20260618000500 +0800" stop="20260618003200 +0800" channel="cctvlaogushi">
     <title>特别节目《跨越时空的四库全书》（十）</title>
