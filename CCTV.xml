@@ -988,7 +988,7 @@
     <title>焦点访谈</title>
   </programme>
   <programme start="20260704200100 +0800" stop="20260704213735 +0800" channel="cctv1">
-    <title>城市风华录（第二季）-沈阳篇</title>
+    <title>城市风华录（第二季）-沈阳</title>
   </programme>
   <programme start="20260704213735 +0800" stop="20260704214725 +0800" channel="cctv1">
     <title>三餐四季（第二季）-宣传片</title>
@@ -1092,13 +1092,13 @@
   <programme start="20260705193825 +0800" stop="20260705200100 +0800" channel="cctv1">
     <title>焦点访谈</title>
   </programme>
-  <programme start="20260705200100 +0800" stop="20260705213550 +0800" channel="cctv1">
+  <programme start="20260705200100 +0800" stop="20260705213350 +0800" channel="cctv1">
     <title>金石探文明-妇好鸮尊</title>
   </programme>
-  <programme start="20260705213550 +0800" stop="20260705214755 +0800" channel="cctv1">
+  <programme start="20260705213350 +0800" stop="20260705214555 +0800" channel="cctv1">
     <title>非遗里的中国-MV</title>
   </programme>
-  <programme start="20260705214755 +0800" stop="20260705220000 +0800" channel="cctv1">
+  <programme start="20260705214555 +0800" stop="20260705220000 +0800" channel="cctv1">
     <title>三餐四季（第二季）-宣传片</title>
   </programme>
   <programme start="20260705220000 +0800" stop="20260705223615 +0800" channel="cctv1">
@@ -11628,20 +11628,17 @@
   <programme start="20260706000530 +0800" stop="20260706002330 +0800" channel="cctv2">
     <title>周末特供2025-雨林之子2-14分版</title>
   </programme>
-  <programme start="20260706002330 +0800" stop="20260706012330 +0800" channel="cctv2">
+  <programme start="20260706002330 +0800" stop="20260706012550 +0800" channel="cctv2">
     <title>职场健康课-2026-27</title>
   </programme>
-  <programme start="20260706012330 +0800" stop="20260706013320 +0800" channel="cctv2">
-    <title>周末特供2023-雕琢岁月1-7分30秒版</title>
-  </programme>
-  <programme start="20260706013320 +0800" stop="20260706021820 +0800" channel="cctv2">
+  <programme start="20260706012550 +0800" stop="20260706021050 +0800" channel="cctv2">
     <title>中国经济大讲堂-2026-25</title>
   </programme>
-  <programme start="20260706021820 +0800" stop="20260706024820 +0800" channel="cctv2">
+  <programme start="20260706021050 +0800" stop="20260706024050 +0800" channel="cctv2">
     <title>周末特供2026-城市脉动2-30分版</title>
   </programme>
-  <programme start="20260706024820 +0800" stop="20260706025250 +0800" channel="cctv2">
-    <title>周末特供-奇妙中国2-4分30版</title>
+  <programme start="20260706024050 +0800" stop="20260706025250 +0800" channel="cctv2">
+    <title>周末特供2023-雕琢岁月2-12分版</title>
   </programme>
   <programme start="20260706025250 +0800" stop="20260706031650 +0800" channel="cctv2">
     <title>2026精品财经纪录-中国民居第三季-2</title>
@@ -16977,11 +16974,11 @@
   <programme start="20260705191230 +0800" stop="20260705191750 +0800" channel="cctv4k">
     <title>美丽中国自然-2022-19</title>
   </programme>
-  <programme start="20260705191750 +0800" stop="20260705192830 +0800" channel="cctv4k">
-    <title>营造之法4-在避暑山庄望长城内外(4K)</title>
+  <programme start="20260705191750 +0800" stop="20260705192750 +0800" channel="cctv4k">
+    <title>中华古树-项王手植槐（4K）</title>
   </programme>
-  <programme start="20260705192830 +0800" stop="20260705192930 +0800" channel="cctv4k">
-    <title>4K宣传片-2026品牌强国工程1</title>
+  <programme start="20260705192750 +0800" stop="20260705192930 +0800" channel="cctv4k">
+    <title>4K垫播节目-坝上风光2025</title>
   </programme>
   <programme start="20260705192930 +0800" stop="20260705193005 +0800" channel="cctv4k">
     <title>4K宣传片-夏至2026</title>
