@@ -3945,19 +3945,22 @@
   <programme start="20260710190000 +0800" stop="20260710193000 +0800" channel="cctv11">
     <title>青春戏苑-2026-184越剧《五女拜寿》专辑2</title>
   </programme>
-  <programme start="20260710193000 +0800" stop="20260710213230 +0800" channel="cctv11">
-    <title>青春戏苑-2026-19“正华年” 总台首届青年京剧演员大会集萃（二）</title>
+  <programme start="20260710193000 +0800" stop="20260710203830 +0800" channel="cctv11">
+    <title>戏韵风华 星耀合肥-中央广播电视总台首届戏曲知音大会-1</title>
   </programme>
-  <programme start="20260710213230 +0800" stop="20260710222300 +0800" channel="cctv11">
+  <programme start="20260710203830 +0800" stop="20260710215730 +0800" channel="cctv11">
+    <title>青春戏苑-2026-83“正华年” 总台首届青年京剧演员大会集萃（四）</title>
+  </programme>
+  <programme start="20260710215730 +0800" stop="20260710224800 +0800" channel="cctv11">
     <title>小夫妻31/36</title>
   </programme>
-  <programme start="20260710222300 +0800" stop="20260710231330 +0800" channel="cctv11">
+  <programme start="20260710224800 +0800" stop="20260710233830 +0800" channel="cctv11">
     <title>小夫妻32/36</title>
   </programme>
-  <programme start="20260710231330 +0800" stop="20260710235900 +0800" channel="cctv11">
+  <programme start="20260710233830 +0800" stop="20260710235900 +0800" channel="cctv11">
     <title>小夫妻33/36</title>
   </programme>
-  <programme start="20260711000400 +0800" stop="20260711060630 +0800" channel="cctv11">
+  <programme start="20260711002900 +0800" stop="20260711060630 +0800" channel="cctv11">
     <title>青春戏苑-2026-184越剧《五女拜寿》专辑2</title>
   </programme>
   <programme start="20260711060630 +0800" stop="20260711072030 +0800" channel="cctv11">
@@ -7497,16 +7500,16 @@
   <programme start="20260710193000 +0800" stop="20260710205030 +0800" channel="cctv15">
     <title>民歌·中国-2026-82中国器乐大会精编1</title>
   </programme>
-  <programme start="20260710205030 +0800" stop="20260710221600 +0800" channel="cctv15">
+  <programme start="20260710205030 +0800" stop="20260710221100 +0800" channel="cctv15">
     <title>影视留声机-2026-105</title>
   </programme>
-  <programme start="20260710221600 +0800" stop="20260710233130 +0800" channel="cctv15">
+  <programme start="20260710221100 +0800" stop="20260710232630 +0800" channel="cctv15">
     <title>精彩音乐汇-我的爱对你说-2026-276</title>
   </programme>
-  <programme start="20260710233130 +0800" stop="20260710235900 +0800" channel="cctv15">
+  <programme start="20260710232630 +0800" stop="20260710235900 +0800" channel="cctv15">
     <title>CCTV音乐厅-2026-125-巨匠之声·古典音乐大师系列音乐会（8）</title>
   </programme>
-  <programme start="20260711002915 +0800" stop="20260711060000 +0800" channel="cctv15">
+  <programme start="20260711002415 +0800" stop="20260711060000 +0800" channel="cctv15">
     <title>风华国乐-2026-195</title>
   </programme>
   <programme start="20260711060000 +0800" stop="20260711070900 +0800" channel="cctv15">
@@ -8446,7 +8449,7 @@
     <title>艺术里的奥林匹克2026-44</title>
   </programme>
   <programme start="20260711121700 +0800" stop="20260711134000 +0800" channel="cctv16">
-    <title>实况录像（奥林匹克）-2026世界杯 1/8决赛6</title>
+    <title>实况录像（奥林匹克）-2026世界杯 1/8决赛 美国队-比利时队（4K）</title>
   </programme>
   <programme start="20260711134000 +0800" stop="20260711153500 +0800" channel="cctv16">
     <title>实况录像（奥林匹克）-2026年汤姆斯杯羽毛球赛  决赛</title>
@@ -8467,13 +8470,13 @@
     <title>艺术里的奥林匹克2026-46</title>
   </programme>
   <programme start="20260711193000 +0800" stop="20260711214500 +0800" channel="cctv16">
-    <title>2026中国足球超级联赛-第18轮 上海申花-北京国安</title>
+    <title>2026中国足协中国之队·银川国际U17足球锦标赛-中国队-尼日利亚队</title>
   </programme>
   <programme start="20260711214500 +0800" stop="20260711224500 +0800" channel="cctv16">
     <title>实况录像（奥林匹克）-WTT美国大满贯2026 比赛4</title>
   </programme>
   <programme start="20260711224500 +0800" stop="20260711235900 +0800" channel="cctv16">
-    <title>实况录像（奥林匹克）-2026世界杯 1/8决赛7</title>
+    <title>实况录像（奥林匹克）-2026世界杯 1/8决赛 瑞士队-哥伦比亚队（4K）</title>
   </programme>
   <programme start="20260712001000 +0800" stop="20260712013500 +0800" channel="cctv16">
     <title>实况录像（奥林匹克）-2026年欧洲乒乓球俱乐部冠军联赛 半决赛</title>
@@ -11278,7 +11281,7 @@
     <title>周末特供2026-380</title>
   </programme>
   <programme start="20260709114430 +0800" stop="20260709120000 +0800" channel="cctv2">
-    <title>周末特供2026-381</title>
+    <title>周末特供2026-349</title>
   </programme>
   <programme start="20260709120000 +0800" stop="20260709130000 +0800" channel="cctv2">
     <title>天下财经</title>
@@ -11353,7 +11356,7 @@
     <title>职场健康课-2026-27</title>
   </programme>
   <programme start="20260710023640 +0800" stop="20260710030240 +0800" channel="cctv2">
-    <title>2026精品财经纪录-水下中国第二季2</title>
+    <title>2026精品财经纪录-水下中国第二季3</title>
   </programme>
   <programme start="20260710030240 +0800" stop="20260710030440 +0800" channel="cctv2">
     <title>周末特供2026-奇妙中国第二季6-2分版</title>
@@ -11515,7 +11518,7 @@
     <title>2023精品财经纪录-边城好味-1</title>
   </programme>
   <programme start="20260711113230 +0800" stop="20260711120000 +0800" channel="cctv2">
-    <title>2023精品财经纪录-边城好味-2</title>
+    <title>2023精品财经纪录-边城好味-3</title>
   </programme>
   <programme start="20260711120000 +0800" stop="20260711130140 +0800" channel="cctv2">
     <title>天下财经</title>
@@ -11632,10 +11635,10 @@
     <title>2026精品财经纪录-皖美早餐2</title>
   </programme>
   <programme start="20260712110630 +0800" stop="20260712113230 +0800" channel="cctv2">
-    <title>2023精品财经纪录-边城好味-3</title>
+    <title>2023精品财经纪录-边城好味-4</title>
   </programme>
   <programme start="20260712113230 +0800" stop="20260712120000 +0800" channel="cctv2">
-    <title>2023精品财经纪录-边城好味-4</title>
+    <title>2023精品财经纪录-边城好味-6</title>
   </programme>
   <programme start="20260712120000 +0800" stop="20260712130140 +0800" channel="cctv2">
     <title>天下财经</title>
@@ -12403,13 +12406,13 @@
     <title>综艺喜乐汇-2026-475</title>
   </programme>
   <programme start="20260707231650 +0800" stop="20260707235900 +0800" channel="cctv3">
-    <title>综艺喜乐汇-2026-758 爱在青山绿水间 1/33</title>
+    <title>综艺喜乐汇-2026-779 爱在青山绿水间22/33</title>
   </programme>
   <programme start="20260708000250 +0800" stop="20260708004850 +0800" channel="cctv3">
-    <title>综艺喜乐汇-2026-759 爱在青山绿水间 2/33</title>
+    <title>综艺喜乐汇-2026-780 爱在青山绿水间23/33</title>
   </programme>
   <programme start="20260708004850 +0800" stop="20260708013450 +0800" channel="cctv3">
-    <title>综艺喜乐汇-2026-760 爱在青山绿水间 3/33</title>
+    <title>综艺喜乐汇-2026-781 爱在青山绿水间24/33</title>
   </programme>
   <programme start="20260708013450 +0800" stop="20260708030650 +0800" channel="cctv3">
     <title>影视留声机-2025-65-经典电影欣赏《平原游击队》</title>
@@ -17514,10 +17517,10 @@
   <programme start="20260707060000 +0800" stop="20260707063000 +0800" channel="cctv5">
     <title>燃动金杯-2026年世界杯1/16决赛进球集锦</title>
   </programme>
-  <programme start="20260707063000 +0800" stop="20260707103000 +0800" channel="cctv5">
+  <programme start="20260707063000 +0800" stop="20260707103500 +0800" channel="cctv5">
     <title>2026世界杯-1/8决赛（美国—比利时）</title>
   </programme>
-  <programme start="20260707103000 +0800" stop="20260707120000 +0800" channel="cctv5">
+  <programme start="20260707103500 +0800" stop="20260707120000 +0800" channel="cctv5">
     <title>实况录像-2026世界杯 1/8决赛 墨西哥队-英格兰队</title>
   </programme>
   <programme start="20260707120000 +0800" stop="20260707123500 +0800" channel="cctv5">
@@ -17548,10 +17551,10 @@
     <title>2026年美加墨世界杯报道-如约而至-27</title>
   </programme>
   <programme start="20260707223000 +0800" stop="20260707235900 +0800" channel="cctv5">
-    <title>2026世界杯-1/8决赛（W86—W88）</title>
+    <title>2026世界杯-1/8决赛（阿根廷—埃及）</title>
   </programme>
   <programme start="20260708023000 +0800" stop="20260708063000 +0800" channel="cctv5">
-    <title>2026世界杯-1/8决赛（W85—W87）</title>
+    <title>2026世界杯-1/8决赛（瑞士—哥伦比亚）</title>
   </programme>
   <programme start="20260708063000 +0800" stop="20260708070000 +0800" channel="cctv5">
     <title>燃动金杯-2026年世界杯小组赛第一轮进球集锦</title>
@@ -17563,7 +17566,7 @@
     <title>燃动金杯-2026年世界杯1/16决赛进球集锦</title>
   </programme>
   <programme start="20260708080000 +0800" stop="20260708093000 +0800" channel="cctv5">
-    <title>实况录像-2026世界杯 1/8决赛 5</title>
+    <title>实况录像-2026世界杯 1/8决赛 葡萄牙队-西班牙队</title>
   </programme>
   <programme start="20260708093000 +0800" stop="20260708110000 +0800" channel="cctv5">
     <title>2027年国际篮联世界杯预选赛-中国队—中国台北队（4K）</title>
@@ -17592,14 +17595,17 @@
   <programme start="20260708200000 +0800" stop="20260708220000 +0800" channel="cctv5">
     <title>2026年美加墨世界杯报道-豪门盛宴-28</title>
   </programme>
-  <programme start="20260708220000 +0800" stop="20260708230500 +0800" channel="cctv5">
+  <programme start="20260708220000 +0800" stop="20260708230000 +0800" channel="cctv5">
     <title>2026年美加墨世界杯报道-如约而至-28</title>
   </programme>
-  <programme start="20260708230500 +0800" stop="20260708235900 +0800" channel="cctv5">
-    <title>实况录像-2026世界杯 1/8决赛 7</title>
+  <programme start="20260708230000 +0800" stop="20260708235900 +0800" channel="cctv5">
+    <title>实况录像-2026世界杯 1/8决赛 巴西队-挪威队</title>
   </programme>
-  <programme start="20260709003500 +0800" stop="20260709020500 +0800" channel="cctv5">
-    <title>实况录像-2026世界杯 1/8决赛 8</title>
+  <programme start="20260709002500 +0800" stop="20260709015000 +0800" channel="cctv5">
+    <title>实况录像-2026世界杯 1/8决赛 瑞士队-哥伦比亚队</title>
+  </programme>
+  <programme start="20260709015000 +0800" stop="20260709020500 +0800" channel="cctv5">
+    <title>实况录像-精彩一刻-2025/2026斯诺克世界公开赛 奥沙利文的153</title>
   </programme>
   <programme start="20260709020500 +0800" stop="20260709040000 +0800" channel="cctv5">
     <title>实况录像-2026年汤姆斯杯羽毛球赛  半决赛</title>
@@ -17658,8 +17664,11 @@
   <programme start="20260709230500 +0800" stop="20260709235900 +0800" channel="cctv5">
     <title>实况录像-2026世界杯 1/8决赛 加拿大队-摩洛哥队</title>
   </programme>
-  <programme start="20260710003500 +0800" stop="20260710020000 +0800" channel="cctv5">
+  <programme start="20260710003000 +0800" stop="20260710015000 +0800" channel="cctv5">
     <title>实况录像-2026世界杯 1/8决赛 巴拉圭队-法国队</title>
+  </programme>
+  <programme start="20260710015000 +0800" stop="20260710020000 +0800" channel="cctv5">
+    <title>实况录像-2025/2026赛季斯诺克世界公开赛 决赛 塔猜亚的147</title>
   </programme>
   <programme start="20260710020000 +0800" stop="20260710023000 +0800" channel="cctv5">
     <title>燃动金杯-2026年世界杯1/16决赛进球集锦</title>
@@ -17709,10 +17718,10 @@
   <programme start="20260710200000 +0800" stop="20260710220000 +0800" channel="cctv5">
     <title>2026年美加墨世界杯报道-豪门盛宴-29</title>
   </programme>
-  <programme start="20260710220000 +0800" stop="20260710230500 +0800" channel="cctv5">
+  <programme start="20260710220000 +0800" stop="20260710230000 +0800" channel="cctv5">
     <title>2026年美加墨世界杯报道-如约而至-29</title>
   </programme>
-  <programme start="20260710230500 +0800" stop="20260710235900 +0800" channel="cctv5">
+  <programme start="20260710230000 +0800" stop="20260710235900 +0800" channel="cctv5">
     <title>实况录像-2026世界杯 1/4决赛 1</title>
   </programme>
   <programme start="20260711003500 +0800" stop="20260711010000 +0800" channel="cctv5">
@@ -18288,11 +18297,14 @@
   <programme start="20260707162900 +0800" stop="20260707175900 +0800" channel="cctv5plus">
     <title>实况录像-2025/2026赛季中国男子篮球职业联赛 总决赛 2</title>
   </programme>
-  <programme start="20260707175900 +0800" stop="20260707190000 +0800" channel="cctv5plus">
+  <programme start="20260707175900 +0800" stop="20260707185700 +0800" channel="cctv5plus">
     <title>实况录像-WTT美国大满贯2026 比赛1</title>
   </programme>
-  <programme start="20260707190000 +0800" stop="20260707203000 +0800" channel="cctv5plus">
-    <title>实况录像-2026世界杯 1/8决赛 4</title>
+  <programme start="20260707185700 +0800" stop="20260707202500 +0800" channel="cctv5plus">
+    <title>实况录像-2026世界杯 1/8决赛 墨西哥队-英格兰队</title>
+  </programme>
+  <programme start="20260707202500 +0800" stop="20260707203000 +0800" channel="cctv5plus">
+    <title>健身动起来-2026-135</title>
   </programme>
   <programme start="20260707203000 +0800" stop="20260707223500 +0800" channel="cctv5plus">
     <title>2026年温布尔登网球锦标赛-1/4决赛1</title>
