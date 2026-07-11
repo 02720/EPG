@@ -1053,16 +1053,16 @@
   <programme start="20260712190000 +0800" stop="20260712193825 +0800" channel="cctv1">
     <title>新闻联播</title>
   </programme>
-  <programme start="20260712193825 +0800" stop="20260712200400 +0800" channel="cctv1">
+  <programme start="20260712193825 +0800" stop="20260712200100 +0800" channel="cctv1">
     <title>焦点访谈</title>
   </programme>
-  <programme start="20260712200400 +0800" stop="20260712214300 +0800" channel="cctv1">
+  <programme start="20260712200100 +0800" stop="20260712214020 +0800" channel="cctv1">
     <title>城市风华录（第二季）-重庆</title>
   </programme>
-  <programme start="20260712214300 +0800" stop="20260712215320 +0800" channel="cctv1">
+  <programme start="20260712214020 +0800" stop="20260712214925 +0800" channel="cctv1">
     <title>非遗里的中国-MV</title>
   </programme>
-  <programme start="20260712215320 +0800" stop="20260712220000 +0800" channel="cctv1">
+  <programme start="20260712214925 +0800" stop="20260712220000 +0800" channel="cctv1">
     <title>三餐四季（第二季）-宣传片</title>
   </programme>
   <programme start="20260712220000 +0800" stop="20260712223530 +0800" channel="cctv1">
@@ -12301,7 +12301,7 @@
     <title>影视留声机-2025-158-经典电影欣赏《英雄虎胆》</title>
   </programme>
   <programme start="20260713023335 +0800" stop="20260713032335 +0800" channel="cctv3">
-    <title>综艺喜乐汇-2026-587</title>
+    <title>综艺喜乐汇-2026-478</title>
   </programme>
   <programme start="20260713032335 +0800" stop="20260713042335 +0800" channel="cctv3">
     <title>精彩音乐汇-我的爱对你说-2026-188</title>
@@ -13701,10 +13701,13 @@
   <programme start="20260711161320 +0800" stop="20260711163000 +0800" channel="cctv4">
     <title>平凡匠心-2026-57</title>
   </programme>
-  <programme start="20260711163000 +0800" stop="20260711172920 +0800" channel="cctv4">
-    <title>中国文艺-致敬经典2026-28</title>
+  <programme start="20260711163000 +0800" stop="20260711165730 +0800" channel="cctv4">
+    <title>国家记忆-2026-63</title>
   </programme>
-  <programme start="20260711172920 +0800" stop="20260711173520 +0800" channel="cctv4">
+  <programme start="20260711165730 +0800" stop="20260711172620 +0800" channel="cctv4">
+    <title>国家记忆-2026-64</title>
+  </programme>
+  <programme start="20260711172620 +0800" stop="20260711173520 +0800" channel="cctv4">
     <title>记住乡愁-片段展播-2024-20</title>
   </programme>
   <programme start="20260711173520 +0800" stop="20260711190000 +0800" channel="cctv4">
@@ -13770,8 +13773,14 @@
   <programme start="20260712043000 +0800" stop="20260712050000 +0800" channel="cctv4">
     <title>今日关注</title>
   </programme>
-  <programme start="20260712050000 +0800" stop="20260712060000 +0800" channel="cctv4">
-    <title>中国文艺-致敬经典2026-28</title>
+  <programme start="20260712050000 +0800" stop="20260712052700 +0800" channel="cctv4">
+    <title>国家记忆-2026-61</title>
+  </programme>
+  <programme start="20260712052700 +0800" stop="20260712055400 +0800" channel="cctv4">
+    <title>国家记忆-2026-62</title>
+  </programme>
+  <programme start="20260712055400 +0800" stop="20260712060000 +0800" channel="cctv4">
+    <title>记住乡愁-片段展播-2024-18</title>
   </programme>
   <programme start="20260712060000 +0800" stop="20260712063000 +0800" channel="cctv4">
     <title>海峡两岸-2026-192</title>
@@ -13882,7 +13891,7 @@
     <title>平凡匠心-2026-58</title>
   </programme>
   <programme start="20260713024540 +0800" stop="20260713034500 +0800" channel="cctv4">
-    <title>中国文艺-致敬经典2026-28</title>
+    <title>环球综艺秀-2026-28</title>
   </programme>
   <programme start="20260713034500 +0800" stop="20260713034900 +0800" channel="cctv4">
     <title>记住乡愁-片段展播-2024-19</title>
@@ -35611,7 +35620,7 @@
     <title>中国文艺-2026-137</title>
   </programme>
   <programme start="20260711203000 +0800" stop="20260711210000 +0800" channel="cctvamerica">
-    <title>鲁健访谈-2026-28</title>
+    <title>国家记忆-2026-64</title>
   </programme>
   <programme start="20260711210000 +0800" stop="20260711213000 +0800" channel="cctvamerica">
     <title>中国新闻</title>
@@ -35700,28 +35709,34 @@
   <programme start="20260712120000 +0800" stop="20260712130000 +0800" channel="cctvamerica">
     <title>中国新闻</title>
   </programme>
-  <programme start="20260712130000 +0800" stop="20260712132920 +0800" channel="cctvamerica">
+  <programme start="20260712130000 +0800" stop="20260712133420 +0800" channel="cctvamerica">
     <title>海峡两岸-2026-192</title>
   </programme>
-  <programme start="20260712132920 +0800" stop="20260712142840 +0800" channel="cctvamerica">
-    <title>中国文艺-致敬经典2026-28</title>
+  <programme start="20260712133420 +0800" stop="20260712140120 +0800" channel="cctvamerica">
+    <title>国家记忆-2026-60</title>
   </programme>
-  <programme start="20260712142840 +0800" stop="20260712151440 +0800" channel="cctvamerica">
+  <programme start="20260712140120 +0800" stop="20260712142820 +0800" channel="cctvamerica">
+    <title>国家记忆-2026-61</title>
+  </programme>
+  <programme start="20260712142820 +0800" stop="20260712151420 +0800" channel="cctvamerica">
     <title>红石榴餐厅第2集</title>
   </programme>
-  <programme start="20260712151440 +0800" stop="20260712160040 +0800" channel="cctvamerica">
+  <programme start="20260712151420 +0800" stop="20260712160020 +0800" channel="cctvamerica">
     <title>红石榴餐厅第3集</title>
   </programme>
-  <programme start="20260712160040 +0800" stop="20260712170330 +0800" channel="cctvamerica">
+  <programme start="20260712160020 +0800" stop="20260712170310 +0800" channel="cctvamerica">
     <title>环球综艺秀-2026-27</title>
   </programme>
-  <programme start="20260712170330 +0800" stop="20260712180250 +0800" channel="cctvamerica">
-    <title>中国文艺-致敬经典2026-28</title>
+  <programme start="20260712170310 +0800" stop="20260712173010 +0800" channel="cctvamerica">
+    <title>国家记忆-2026-62</title>
   </programme>
-  <programme start="20260712180250 +0800" stop="20260712182950 +0800" channel="cctvamerica">
+  <programme start="20260712173010 +0800" stop="20260712180210 +0800" channel="cctvamerica">
+    <title>国家记忆-2026-63</title>
+  </programme>
+  <programme start="20260712180210 +0800" stop="20260712182910 +0800" channel="cctvamerica">
     <title>国宝发现-2026-27</title>
   </programme>
-  <programme start="20260712182950 +0800" stop="20260712190000 +0800" channel="cctvamerica">
+  <programme start="20260712182910 +0800" stop="20260712190000 +0800" channel="cctvamerica">
     <title>华人故事-2026-29</title>
   </programme>
   <programme start="20260712190000 +0800" stop="20260712193000 +0800" channel="cctvamerica">
@@ -35752,7 +35767,7 @@
     <title>海峡两岸-2026-192</title>
   </programme>
   <programme start="20260713001720 +0800" stop="20260713011640 +0800" channel="cctvamerica">
-    <title>中国文艺-致敬经典2026-28</title>
+    <title>环球综艺秀-2026-28</title>
   </programme>
   <programme start="20260713011640 +0800" stop="20260713014510 +0800" channel="cctvamerica">
     <title>华人故事-2026-29</title>
@@ -38145,16 +38160,19 @@
   <programme start="20260711233200 +0800" stop="20260711235900 +0800" channel="cctveurope">
     <title>中国文艺-2026-137</title>
   </programme>
-  <programme start="20260712000120 +0800" stop="20260712004620 +0800" channel="cctveurope">
+  <programme start="20260712000430 +0800" stop="20260712004930 +0800" channel="cctveurope">
     <title>精彩音乐汇（海外版）-2026-186</title>
   </programme>
-  <programme start="20260712004620 +0800" stop="20260712013120 +0800" channel="cctveurope">
+  <programme start="20260712004930 +0800" stop="20260712013430 +0800" channel="cctveurope">
     <title>动画城(四套)-2026-183</title>
   </programme>
-  <programme start="20260712013120 +0800" stop="20260712023040 +0800" channel="cctveurope">
-    <title>中国文艺-致敬经典2026-28</title>
+  <programme start="20260712013430 +0800" stop="20260712021630 +0800" channel="cctveurope">
+    <title>远方的家2026-142</title>
   </programme>
-  <programme start="20260712023040 +0800" stop="20260712030000 +0800" channel="cctveurope">
+  <programme start="20260712021630 +0800" stop="20260712023330 +0800" channel="cctveurope">
+    <title>平凡匠心-2026-57</title>
+  </programme>
+  <programme start="20260712023330 +0800" stop="20260712030000 +0800" channel="cctveurope">
     <title>海峡两岸-2026-192</title>
   </programme>
   <programme start="20260712030000 +0800" stop="20260712033200 +0800" channel="cctveurope">
@@ -38187,8 +38205,14 @@
   <programme start="20260712090000 +0800" stop="20260712091300 +0800" channel="cctveurope">
     <title>记住乡愁-片段展播-2025-13</title>
   </programme>
-  <programme start="20260712091300 +0800" stop="20260712101300 +0800" channel="cctveurope">
-    <title>中国文艺-致敬经典2026-28</title>
+  <programme start="20260712091300 +0800" stop="20260712094000 +0800" channel="cctveurope">
+    <title>国家记忆-2026-60</title>
+  </programme>
+  <programme start="20260712094000 +0800" stop="20260712100700 +0800" channel="cctveurope">
+    <title>国家记忆-2026-61</title>
+  </programme>
+  <programme start="20260712100700 +0800" stop="20260712101300 +0800" channel="cctveurope">
+    <title>记住乡愁-片段展播-2025-8</title>
   </programme>
   <programme start="20260712101300 +0800" stop="20260712105900 +0800" channel="cctveurope">
     <title>远方的家第24集</title>
@@ -38208,23 +38232,29 @@
   <programme start="20260712132800 +0800" stop="20260712141400 +0800" channel="cctveurope">
     <title>枫叶红了第12集</title>
   </programme>
-  <programme start="20260712141400 +0800" stop="20260712150000 +0800" channel="cctveurope">
+  <programme start="20260712141400 +0800" stop="20260712150500 +0800" channel="cctveurope">
     <title>枫叶红了第13集</title>
   </programme>
-  <programme start="20260712150000 +0800" stop="20260712155920 +0800" channel="cctveurope">
-    <title>中国文艺-致敬经典2026-28</title>
+  <programme start="20260712150500 +0800" stop="20260712153100 +0800" channel="cctveurope">
+    <title>中国缘-2026-28</title>
   </programme>
-  <programme start="20260712155920 +0800" stop="20260712162840 +0800" channel="cctveurope">
+  <programme start="20260712153100 +0800" stop="20260712155700 +0800" channel="cctveurope">
+    <title>国宝发现-2026-27</title>
+  </programme>
+  <programme start="20260712155700 +0800" stop="20260712162330 +0800" channel="cctveurope">
     <title>海峡两岸-2026-192</title>
   </programme>
-  <programme start="20260712162840 +0800" stop="20260712171440 +0800" channel="cctveurope">
+  <programme start="20260712162330 +0800" stop="20260712170930 +0800" channel="cctveurope">
     <title>远方的家第26集</title>
   </programme>
-  <programme start="20260712171440 +0800" stop="20260712180040 +0800" channel="cctveurope">
+  <programme start="20260712170930 +0800" stop="20260712175530 +0800" channel="cctveurope">
     <title>远方的家第27集</title>
   </programme>
-  <programme start="20260712180040 +0800" stop="20260712190000 +0800" channel="cctveurope">
+  <programme start="20260712175530 +0800" stop="20260712185200 +0800" channel="cctveurope">
     <title>环球综艺秀-2026-28</title>
+  </programme>
+  <programme start="20260712185200 +0800" stop="20260712190000 +0800" channel="cctveurope">
+    <title>记住乡愁-片段展播-2025-13</title>
   </programme>
   <programme start="20260712190000 +0800" stop="20260712193000 +0800" channel="cctveurope">
     <title>中国新闻</title>
@@ -38262,11 +38292,11 @@
   <programme start="20260713023000 +0800" stop="20260713030000 +0800" channel="cctveurope">
     <title>海峡两岸-2026-193</title>
   </programme>
-  <programme start="20260713030000 +0800" stop="20260713033200 +0800" channel="cctveurope">
+  <programme start="20260713030000 +0800" stop="20260713033300 +0800" channel="cctveurope">
     <title>新闻联播</title>
   </programme>
-  <programme start="20260713033200 +0800" stop="20260713040000 +0800" channel="cctveurope">
-    <title>鲁健访谈-2026-28</title>
+  <programme start="20260713033300 +0800" stop="20260713040000 +0800" channel="cctveurope">
+    <title>国家记忆-2026-64</title>
   </programme>
   <programme start="20260713040000 +0800" stop="20260713043000 +0800" channel="cctveurope">
     <title>中国新闻</title>
