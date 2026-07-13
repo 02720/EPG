@@ -1059,25 +1059,25 @@
   <programme start="20260714190000 +0800" stop="20260714193840 +0800" channel="cctv1">
     <title>新闻联播</title>
   </programme>
-  <programme start="20260714193840 +0800" stop="20260714195840 +0800" channel="cctv1">
+  <programme start="20260714193840 +0800" stop="20260714195845 +0800" channel="cctv1">
     <title>焦点访谈</title>
   </programme>
-  <programme start="20260714195840 +0800" stop="20260714200300 +0800" channel="cctv1">
+  <programme start="20260714195845 +0800" stop="20260714200200 +0800" channel="cctv1">
     <title>前情提要-种墨园-第26集</title>
   </programme>
-  <programme start="20260714200300 +0800" stop="20260714205305 +0800" channel="cctv1">
+  <programme start="20260714200200 +0800" stop="20260714205325 +0800" channel="cctv1">
     <title>种墨园26/34</title>
   </programme>
-  <programme start="20260714205305 +0800" stop="20260714205535 +0800" channel="cctv1">
+  <programme start="20260714205325 +0800" stop="20260714205550 +0800" channel="cctv1">
     <title>前情提要-种墨园-第27集</title>
   </programme>
-  <programme start="20260714205535 +0800" stop="20260714214450 +0800" channel="cctv1">
+  <programme start="20260714205550 +0800" stop="20260714214425 +0800" channel="cctv1">
     <title>种墨园27/34</title>
   </programme>
-  <programme start="20260714214450 +0800" stop="20260714215050 +0800" channel="cctv1">
+  <programme start="20260714214425 +0800" stop="20260714215125 +0800" channel="cctv1">
     <title>三餐四季（第二季）-宣传片</title>
   </programme>
-  <programme start="20260714215050 +0800" stop="20260714220000 +0800" channel="cctv1">
+  <programme start="20260714215125 +0800" stop="20260714220000 +0800" channel="cctv1">
     <title>非遗里的中国-MV</title>
   </programme>
   <programme start="20260714220000 +0800" stop="20260714223545 +0800" channel="cctv1">
@@ -1086,23 +1086,29 @@
   <programme start="20260714223545 +0800" stop="20260714235900 +0800" channel="cctv1">
     <title>宗师列传·大宋词人传-范仲淹</title>
   </programme>
-  <programme start="20260715001830 +0800" stop="20260715004400 +0800" channel="cctv1">
+  <programme start="20260715001830 +0800" stop="20260715005000 +0800" channel="cctv1">
+    <title>寻味山海-泸县</title>
+  </programme>
+  <programme start="20260715005000 +0800" stop="20260715010200 +0800" channel="cctv1">
+    <title>中华古树-北京九搂十八杈（4K）</title>
+  </programme>
+  <programme start="20260715010200 +0800" stop="20260715014600 +0800" channel="cctv1">
+    <title>生活早参考-特别节目（生活圈）2026-190</title>
+  </programme>
+  <programme start="20260715014600 +0800" stop="20260715020800 +0800" channel="cctv1">
     <title>人口-2026-28</title>
   </programme>
-  <programme start="20260715004400 +0800" stop="20260715004800 +0800" channel="cctv1">
-    <title>三餐四季（第二季）-宣传片</title>
-  </programme>
-  <programme start="20260715004800 +0800" stop="20260715005800 +0800" channel="cctv1">
+  <programme start="20260715020800 +0800" stop="20260715021800 +0800" channel="cctv1">
     <title>中华古树-绍兴古桂花群（4K）</title>
   </programme>
-  <programme start="20260715005800 +0800" stop="20260715013000 +0800" channel="cctv1">
+  <programme start="20260715021800 +0800" stop="20260715025000 +0800" channel="cctv1">
     <title>晚间新闻</title>
   </programme>
-  <programme start="20260715013000 +0800" stop="20260715045000 +0800" channel="cctv1">
-    <title>2026世界杯-半决赛1</title>
+  <programme start="20260715025000 +0800" stop="20260715045000 +0800" channel="cctv1">
+    <title>2026世界杯-半决赛（法国—西班牙）</title>
   </programme>
   <programme start="20260715045000 +0800" stop="20260715053000 +0800" channel="cctv1">
-    <title>2026世界杯-半决赛1</title>
+    <title>2026世界杯-半决赛（法国—西班牙）</title>
   </programme>
   <programme start="20260715053000 +0800" stop="20260715054200 +0800" channel="cctv1">
     <title>中华古树-闽侯榕树王（4K）</title>
@@ -1197,20 +1203,26 @@
   <programme start="20260716001830 +0800" stop="20260716004800 +0800" channel="cctv1">
     <title>今日说法-2026-126</title>
   </programme>
-  <programme start="20260716004800 +0800" stop="20260716005400 +0800" channel="cctv1">
-    <title>三餐四季（第二季）-宣传片</title>
+  <programme start="20260716004800 +0800" stop="20260716012000 +0800" channel="cctv1">
+    <title>寻味山海-兰州西固</title>
   </programme>
-  <programme start="20260716005400 +0800" stop="20260716005800 +0800" channel="cctv1">
+  <programme start="20260716012000 +0800" stop="20260716013000 +0800" channel="cctv1">
+    <title>中华古树-湖南崇木凼古树群（4K）</title>
+  </programme>
+  <programme start="20260716013000 +0800" stop="20260716013400 +0800" channel="cctv1">
     <title>非遗里的中国-MV</title>
   </programme>
-  <programme start="20260716005800 +0800" stop="20260716013000 +0800" channel="cctv1">
+  <programme start="20260716013400 +0800" stop="20260716021800 +0800" channel="cctv1">
+    <title>生活早参考-特别节目（生活圈）2026-191</title>
+  </programme>
+  <programme start="20260716021800 +0800" stop="20260716025000 +0800" channel="cctv1">
     <title>晚间新闻</title>
   </programme>
-  <programme start="20260716013000 +0800" stop="20260716045000 +0800" channel="cctv1">
-    <title>2026世界杯-半决赛2</title>
+  <programme start="20260716025000 +0800" stop="20260716045000 +0800" channel="cctv1">
+    <title>2026世界杯-半决赛（英格兰—阿根廷）</title>
   </programme>
   <programme start="20260716045000 +0800" stop="20260716053000 +0800" channel="cctv1">
-    <title>2026世界杯-半决赛2</title>
+    <title>2026世界杯-半决赛（英格兰—阿根廷）</title>
   </programme>
   <programme start="20260716053000 +0800" stop="20260716054200 +0800" channel="cctv1">
     <title>中华古树-建瓯万木林（4K）</title>
@@ -2547,11 +2559,8 @@
   <programme start="20260714120000 +0800" stop="20260714124930 +0800" channel="cctv10">
     <title>百家讲坛-2026-195</title>
   </programme>
-  <programme start="20260714124930 +0800" stop="20260714133230 +0800" channel="cctv10">
-    <title>健康之路-2026-195</title>
-  </programme>
-  <programme start="20260714133230 +0800" stop="20260714135530 +0800" channel="cctv10">
-    <title>跟着书本去旅行-2026-139</title>
+  <programme start="20260714124930 +0800" stop="20260714135530 +0800" channel="cctv10">
+    <title>考古公开课-2026-14</title>
   </programme>
   <programme start="20260714135530 +0800" stop="20260714140030 +0800" channel="cctv10">
     <title>欣赏-2024年30秒-4</title>
@@ -2658,11 +2667,8 @@
   <programme start="20260715120000 +0800" stop="20260715124930 +0800" channel="cctv10">
     <title>百家讲坛-2026-196</title>
   </programme>
-  <programme start="20260715124930 +0800" stop="20260715133230 +0800" channel="cctv10">
-    <title>健康之路-2026-196</title>
-  </programme>
-  <programme start="20260715133230 +0800" stop="20260715135530 +0800" channel="cctv10">
-    <title>跟着书本去旅行-2026-140</title>
+  <programme start="20260715124930 +0800" stop="20260715135530 +0800" channel="cctv10">
+    <title>考古公开课-2026-12</title>
   </programme>
   <programme start="20260715135530 +0800" stop="20260715140030 +0800" channel="cctv10">
     <title>欣赏-2024年30秒-4</title>
@@ -2766,11 +2772,8 @@
   <programme start="20260716120000 +0800" stop="20260716124930 +0800" channel="cctv10">
     <title>百家讲坛-2026-197</title>
   </programme>
-  <programme start="20260716124930 +0800" stop="20260716133230 +0800" channel="cctv10">
-    <title>健康之路-2026-197</title>
-  </programme>
-  <programme start="20260716133230 +0800" stop="20260716135530 +0800" channel="cctv10">
-    <title>跟着书本去旅行-2026-141</title>
+  <programme start="20260716124930 +0800" stop="20260716135530 +0800" channel="cctv10">
+    <title>考古公开课-2026-11</title>
   </programme>
   <programme start="20260716135530 +0800" stop="20260716140030 +0800" channel="cctv10">
     <title>欣赏-2024年30秒-4</title>
@@ -2877,11 +2880,8 @@
   <programme start="20260717120000 +0800" stop="20260717124930 +0800" channel="cctv10">
     <title>百家讲坛-2026-198</title>
   </programme>
-  <programme start="20260717124930 +0800" stop="20260717133230 +0800" channel="cctv10">
-    <title>健康之路-2026-198</title>
-  </programme>
-  <programme start="20260717133230 +0800" stop="20260717135530 +0800" channel="cctv10">
-    <title>跟着书本去旅行-2026-142</title>
+  <programme start="20260717124930 +0800" stop="20260717135530 +0800" channel="cctv10">
+    <title>考古公开课-2026-53</title>
   </programme>
   <programme start="20260717135530 +0800" stop="20260717140030 +0800" channel="cctv10">
     <title>欣赏-2024年30秒-4</title>
@@ -2986,7 +2986,7 @@
     <title>百家讲坛-2026-199</title>
   </programme>
   <programme start="20260718124930 +0800" stop="20260718133230 +0800" channel="cctv10">
-    <title>健康之路-2026-199</title>
+    <title>探索·发现-2026-198</title>
   </programme>
   <programme start="20260718133230 +0800" stop="20260718135530 +0800" channel="cctv10">
     <title>跟着书本去旅行-2026-133</title>
@@ -3088,7 +3088,7 @@
     <title>百家讲坛-2026-200</title>
   </programme>
   <programme start="20260719124930 +0800" stop="20260719133230 +0800" channel="cctv10">
-    <title>健康之路-2026-200</title>
+    <title>探索·发现-2026-199</title>
   </programme>
   <programme start="20260719133230 +0800" stop="20260719135530 +0800" channel="cctv10">
     <title>跟着书本去旅行-2026-134</title>
@@ -3819,32 +3819,29 @@
   <programme start="20260718002900 +0800" stop="20260718060630 +0800" channel="cctv11">
     <title>青春戏苑-2026-53越剧《追鱼》专辑1</title>
   </programme>
-  <programme start="20260718060630 +0800" stop="20260718071955 +0800" channel="cctv11">
+  <programme start="20260718060630 +0800" stop="20260718072025 +0800" channel="cctv11">
     <title>青春戏苑-2026-86“正华年” 总台首届青年京剧演员大会集萃（七）</title>
   </programme>
-  <programme start="20260718071955 +0800" stop="20260718083455 +0800" channel="cctv11">
+  <programme start="20260718072025 +0800" stop="20260718083525 +0800" channel="cctv11">
     <title>宝贝亮相吧-2026-1</title>
   </programme>
-  <programme start="20260718083455 +0800" stop="20260718091655 +0800" channel="cctv11">
+  <programme start="20260718083525 +0800" stop="20260718091725 +0800" channel="cctv11">
     <title>青春戏苑-2026-53越剧《追鱼》专辑1</title>
   </programme>
-  <programme start="20260718091655 +0800" stop="20260718103805 +0800" channel="cctv11">
+  <programme start="20260718091725 +0800" stop="20260718103835 +0800" channel="cctv11">
     <title>中国戏曲像音像集萃-2025-23京剧《麒麟阁》</title>
   </programme>
-  <programme start="20260718103805 +0800" stop="20260718115805 +0800" channel="cctv11">
+  <programme start="20260718103835 +0800" stop="20260718115835 +0800" channel="cctv11">
     <title>中国戏曲像音像集萃-2026-11豫剧《鞭打芦花》</title>
   </programme>
-  <programme start="20260718115805 +0800" stop="20260718124835 +0800" channel="cctv11">
+  <programme start="20260718115835 +0800" stop="20260718124905 +0800" channel="cctv11">
     <title>人世间56/58</title>
   </programme>
-  <programme start="20260718124835 +0800" stop="20260718133905 +0800" channel="cctv11">
+  <programme start="20260718124905 +0800" stop="20260718133935 +0800" channel="cctv11">
     <title>人世间57/58</title>
   </programme>
-  <programme start="20260718133905 +0800" stop="20260718144905 +0800" channel="cctv11">
-    <title>角儿来了-2025-36戏韵悠扬</title>
-  </programme>
-  <programme start="20260718144905 +0800" stop="20260718150335 +0800" channel="cctv11">
-    <title>四时花开-荷花篇</title>
+  <programme start="20260718133935 +0800" stop="20260718150335 +0800" channel="cctv11">
+    <title>戏韵风华 星耀合肥-中央广播电视总台首届戏曲知音大会-2</title>
   </programme>
   <programme start="20260718150335 +0800" stop="20260718171300 +0800" channel="cctv11">
     <title>电影 西厢记</title>
@@ -3915,19 +3912,22 @@
   <programme start="20260719193000 +0800" stop="20260719193800 +0800" channel="cctv11">
     <title>2026戏曲电影精品展播季导赏（豫剧电影-重渡沟）</title>
   </programme>
-  <programme start="20260719193800 +0800" stop="20260719221420 +0800" channel="cctv11">
+  <programme start="20260719193800 +0800" stop="20260719220350 +0800" channel="cctv11">
     <title>豫剧电影 重渡沟（精品展播）</title>
   </programme>
-  <programme start="20260719221420 +0800" stop="20260719230450 +0800" channel="cctv11">
+  <programme start="20260719220350 +0800" stop="20260719231920 +0800" channel="cctv11">
+    <title>戏韵风华 星耀合肥-中央广播电视总台首届戏曲知音大会-2</title>
+  </programme>
+  <programme start="20260719231920 +0800" stop="20260719235900 +0800" channel="cctv11">
     <title>承欢记22/37</title>
   </programme>
-  <programme start="20260719230450 +0800" stop="20260719235520 +0800" channel="cctv11">
+  <programme start="20260720000950 +0800" stop="20260720010020 +0800" channel="cctv11">
     <title>承欢记23/37</title>
   </programme>
-  <programme start="20260719235520 +0800" stop="20260719235900 +0800" channel="cctv11">
+  <programme start="20260720010020 +0800" stop="20260720015050 +0800" channel="cctv11">
     <title>承欢记24/37</title>
   </programme>
-  <programme start="20260720004550 +0800" stop="20260720235900 +0800" channel="cctv11">
+  <programme start="20260720015050 +0800" stop="20260720235900 +0800" channel="cctv11">
     <title>青春戏苑-2026-189纪念王少舫先生逝世40周年专辑</title>
   </programme>
   <programme start="20260706004200 +0800" stop="20260706012800 +0800" channel="cctv12">
@@ -12283,7 +12283,7 @@
     <title>国家宝藏-周游季-136</title>
   </programme>
   <programme start="20260715045530 +0800" stop="20260715061230 +0800" channel="cctv3">
-    <title>全民畅舞-7</title>
+    <title>全民畅舞-9</title>
   </programme>
   <programme start="20260715061230 +0800" stop="20260715063240 +0800" channel="cctv3">
     <title>文化十分-2026-141</title>
@@ -16089,16 +16089,16 @@
   <programme start="20260714213541 +0800" stop="20260714213601 +0800" channel="cctv4k">
     <title>4K标识演绎-2019-1</title>
   </programme>
-  <programme start="20260714213601 +0800" stop="20260714222531 +0800" channel="cctv4k">
-    <title>我们中国人-7（4K）</title>
+  <programme start="20260714213601 +0800" stop="20260714225601 +0800" channel="cctv4k">
+    <title>实况录像（奥林匹克）-2026世界杯 1/4决赛 西班牙队-比利时队（4K）</title>
   </programme>
-  <programme start="20260714222531 +0800" stop="20260714230531 +0800" channel="cctv4k">
-    <title>探索·发现（4K）-2024-246</title>
+  <programme start="20260714225601 +0800" stop="20260714230601 +0800" channel="cctv4k">
+    <title>中华古树-小鸟天堂古榕树（4K）</title>
   </programme>
-  <programme start="20260714230531 +0800" stop="20260714235501 +0800" channel="cctv4k">
+  <programme start="20260714230601 +0800" stop="20260714235531 +0800" channel="cctv4k">
     <title>大黄河-2（4K）</title>
   </programme>
-  <programme start="20260714235501 +0800" stop="20260714235925 +0800" channel="cctv4k">
+  <programme start="20260714235531 +0800" stop="20260714235925 +0800" channel="cctv4k">
     <title>4K垫播节目-丝绸之旅2025</title>
   </programme>
   <programme start="20260714235925 +0800" stop="20260714235900 +0800" channel="cctv4k">
@@ -16263,16 +16263,16 @@
   <programme start="20260715213541 +0800" stop="20260715213601 +0800" channel="cctv4k">
     <title>4K标识演绎-2019-2</title>
   </programme>
-  <programme start="20260715213601 +0800" stop="20260715222531 +0800" channel="cctv4k">
-    <title>我们中国人-8（4K）</title>
+  <programme start="20260715213601 +0800" stop="20260715225601 +0800" channel="cctv4k">
+    <title>实况录像（奥林匹克）-2026世界杯 1/4决赛 挪威队-英格兰队（4K）</title>
   </programme>
-  <programme start="20260715222531 +0800" stop="20260715230531 +0800" channel="cctv4k">
-    <title>探索·发现（4K）-2024-247</title>
+  <programme start="20260715225601 +0800" stop="20260715230601 +0800" channel="cctv4k">
+    <title>中华古树-北京九搂十八杈（4K）</title>
   </programme>
-  <programme start="20260715230531 +0800" stop="20260715235501 +0800" channel="cctv4k">
+  <programme start="20260715230601 +0800" stop="20260715235531 +0800" channel="cctv4k">
     <title>大黄河-3（4K）</title>
   </programme>
-  <programme start="20260715235501 +0800" stop="20260715235925 +0800" channel="cctv4k">
+  <programme start="20260715235531 +0800" stop="20260715235925 +0800" channel="cctv4k">
     <title>4K垫播节目-丝绸之旅2025</title>
   </programme>
   <programme start="20260715235925 +0800" stop="20260715235900 +0800" channel="cctv4k">
@@ -16437,16 +16437,16 @@
   <programme start="20260716213611 +0800" stop="20260716213631 +0800" channel="cctv4k">
     <title>4K频道宣传片-标识演绎3</title>
   </programme>
-  <programme start="20260716213631 +0800" stop="20260716222601 +0800" channel="cctv4k">
-    <title>我们中国人-9（4K）</title>
+  <programme start="20260716213631 +0800" stop="20260716225631 +0800" channel="cctv4k">
+    <title>实况录像（奥林匹克）-2026世界杯 1/4决赛 西班牙队-比利时队（4K）</title>
   </programme>
-  <programme start="20260716222601 +0800" stop="20260716230601 +0800" channel="cctv4k">
-    <title>探索·发现（4K）-2024-248</title>
+  <programme start="20260716225631 +0800" stop="20260716230631 +0800" channel="cctv4k">
+    <title>中华古树-北京卧佛寺古蜡梅（4K）</title>
   </programme>
-  <programme start="20260716230601 +0800" stop="20260716235531 +0800" channel="cctv4k">
+  <programme start="20260716230631 +0800" stop="20260716235601 +0800" channel="cctv4k">
     <title>大黄河-4（4K）</title>
   </programme>
-  <programme start="20260716235531 +0800" stop="20260716235925 +0800" channel="cctv4k">
+  <programme start="20260716235601 +0800" stop="20260716235925 +0800" channel="cctv4k">
     <title>4K垫播节目-丝绸之旅2025</title>
   </programme>
   <programme start="20260716235925 +0800" stop="20260716235900 +0800" channel="cctv4k">
@@ -16611,16 +16611,16 @@
   <programme start="20260717213616 +0800" stop="20260717213636 +0800" channel="cctv4k">
     <title>4K超清视野-2018-1-标识演绎-2/3</title>
   </programme>
-  <programme start="20260717213636 +0800" stop="20260717222606 +0800" channel="cctv4k">
-    <title>我们中国人-10（4K）</title>
+  <programme start="20260717213636 +0800" stop="20260717225636 +0800" channel="cctv4k">
+    <title>实况录像（奥林匹克）-2026世界杯 1/4决赛 法国队-摩洛哥队（4K）</title>
   </programme>
-  <programme start="20260717222606 +0800" stop="20260717230606 +0800" channel="cctv4k">
-    <title>探索·发现（4K）-2024-249</title>
+  <programme start="20260717225636 +0800" stop="20260717230636 +0800" channel="cctv4k">
+    <title>中华古树-海南东方酸豆王（4K）</title>
   </programme>
-  <programme start="20260717230606 +0800" stop="20260717235536 +0800" channel="cctv4k">
+  <programme start="20260717230636 +0800" stop="20260717235606 +0800" channel="cctv4k">
     <title>大黄河-5（4K）</title>
   </programme>
-  <programme start="20260717235536 +0800" stop="20260717235925 +0800" channel="cctv4k">
+  <programme start="20260717235606 +0800" stop="20260717235925 +0800" channel="cctv4k">
     <title>4K垫播节目-丝绸之旅2025</title>
   </programme>
   <programme start="20260717235925 +0800" stop="20260717235900 +0800" channel="cctv4k">
@@ -18259,7 +18259,7 @@
     <title>实况录像-2026年世界泳联高台跳水世界杯 意大利站</title>
   </programme>
   <programme start="20260714180400 +0800" stop="20260714193000 +0800" channel="cctv5plus">
-    <title>实况录像-2026世界杯 1/4决赛 4</title>
+    <title>实况录像-2026世界杯 1/4决赛 法国队-摩洛哥队</title>
   </programme>
   <programme start="20260714193000 +0800" stop="20260714213100 +0800" channel="cctv5plus">
     <title>2026年温布尔登网球锦标赛-男单决赛（4K）</title>
@@ -21805,7 +21805,7 @@
     <title>本集提要-小芳-第2集</title>
   </programme>
   <programme start="20260713222140 +0800" stop="20260713231140 +0800" channel="cctv8">
-    <title>小芳2/18</title>
+    <title>小芳第2集</title>
   </programme>
   <programme start="20260713231140 +0800" stop="20260713235740 +0800" channel="cctv8">
     <title>岁月有情时第13集</title>
@@ -21919,7 +21919,7 @@
     <title>小芳3/18</title>
   </programme>
   <programme start="20260714221940 +0800" stop="20260714222140 +0800" channel="cctv8">
-    <title>本集提要-小芳-4/18</title>
+    <title>本集提要-小芳-第4集</title>
   </programme>
   <programme start="20260714222140 +0800" stop="20260714231140 +0800" channel="cctv8">
     <title>小芳4/18</title>
