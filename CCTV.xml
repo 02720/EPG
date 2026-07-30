@@ -1329,25 +1329,25 @@
   <programme start="20260802190000 +0800" stop="20260802193910 +0800" channel="cctv1">
     <title>新闻联播</title>
   </programme>
-  <programme start="20260802193910 +0800" stop="20260802195905 +0800" channel="cctv1">
+  <programme start="20260802193910 +0800" stop="20260802200400 +0800" channel="cctv1">
     <title>焦点访谈</title>
   </programme>
-  <programme start="20260802195905 +0800" stop="20260802200100 +0800" channel="cctv1">
-    <title>专题节目-1</title>
+  <programme start="20260802200400 +0800" stop="20260802203430 +0800" channel="cctv1">
+    <title>制胜-4</title>
   </programme>
-  <programme start="20260802200100 +0800" stop="20260802205230 +0800" channel="cctv1">
-    <title>专题节目-1</title>
+  <programme start="20260802203430 +0800" stop="20260802203715 +0800" channel="cctv1">
+    <title>前情提要-江海潮生-18/28</title>
   </programme>
-  <programme start="20260802205230 +0800" stop="20260802205515 +0800" channel="cctv1">
-    <title>专题节目-1</title>
+  <programme start="20260802203715 +0800" stop="20260802213120 +0800" channel="cctv1">
+    <title>江海潮生18/28</title>
   </programme>
-  <programme start="20260802205515 +0800" stop="20260802214550 +0800" channel="cctv1">
-    <title>专题节目-1</title>
-  </programme>
-  <programme start="20260802214550 +0800" stop="20260802215350 +0800" channel="cctv1">
+  <programme start="20260802213120 +0800" stop="20260802213620 +0800" channel="cctv1">
     <title>三餐四季-宣传片</title>
   </programme>
-  <programme start="20260802215350 +0800" stop="20260802220000 +0800" channel="cctv1">
+  <programme start="20260802213620 +0800" stop="20260802215120 +0800" channel="cctv1">
+    <title>中华古树-北京明十三陵古树群（4K）</title>
+  </programme>
+  <programme start="20260802215120 +0800" stop="20260802220000 +0800" channel="cctv1">
     <title>非遗里的中国-MV</title>
   </programme>
   <programme start="20260802220000 +0800" stop="20260802223530 +0800" channel="cctv1">
@@ -6384,22 +6384,22 @@
   <programme start="20260802181430 +0800" stop="20260802193000 +0800" channel="cctv15">
     <title>精彩音乐汇-我的爱对你说-2026-319</title>
   </programme>
-  <programme start="20260802193000 +0800" stop="20260802201430 +0800" channel="cctv15">
+  <programme start="20260802193000 +0800" stop="20260802201630 +0800" channel="cctv15">
     <title>中国音乐电视-2026-2-山河回响 风从远方来</title>
   </programme>
-  <programme start="20260802201430 +0800" stop="20260802211400 +0800" channel="cctv15">
+  <programme start="20260802201630 +0800" stop="20260802211600 +0800" channel="cctv15">
     <title>音乐公开课-2026-14</title>
   </programme>
-  <programme start="20260802211400 +0800" stop="20260802222930 +0800" channel="cctv15">
+  <programme start="20260802211600 +0800" stop="20260802223130 +0800" channel="cctv15">
     <title>精彩音乐汇-我的爱对你说-2026-276</title>
   </programme>
-  <programme start="20260802222930 +0800" stop="20260802232715 +0800" channel="cctv15">
+  <programme start="20260802223130 +0800" stop="20260802232915 +0800" channel="cctv15">
     <title>CCTV音乐厅-2026-141-名团华章-西安交响乐团系列音乐会</title>
   </programme>
-  <programme start="20260802232715 +0800" stop="20260802235900 +0800" channel="cctv15">
+  <programme start="20260802232915 +0800" stop="20260802235900 +0800" channel="cctv15">
     <title>风华国乐-2026-218</title>
   </programme>
-  <programme start="20260803000215 +0800" stop="20260803235900 +0800" channel="cctv15">
+  <programme start="20260803000415 +0800" stop="20260803235900 +0800" channel="cctv15">
     <title>CCTV音乐厅-2026-141-名团华章-西安交响乐团系列音乐会</title>
   </programme>
   <programme start="20260723003500 +0800" stop="20260723013500 +0800" channel="cctv16">
@@ -8181,35 +8181,29 @@
   <programme start="20260731110925 +0800" stop="20260731120000 +0800" channel="cctv17">
     <title>陌上又花开第15集</title>
   </programme>
-  <programme start="20260731120000 +0800" stop="20260731123100 +0800" channel="cctv17">
+  <programme start="20260731120000 +0800" stop="20260731123000 +0800" channel="cctv17">
     <title>中国三农报道</title>
   </programme>
-  <programme start="20260731123100 +0800" stop="20260731124000 +0800" channel="cctv17">
-    <title>2026田园特供-乡村达人秀16-蹬技表演</title>
-  </programme>
-  <programme start="20260731124000 +0800" stop="20260731133245 +0800" channel="cctv17">
+  <programme start="20260731123000 +0800" stop="20260731132405 +0800" channel="cctv17">
     <title>乐游新乡村-2026-26</title>
   </programme>
-  <programme start="20260731133245 +0800" stop="20260731134450 +0800" channel="cctv17">
-    <title>乡理乡亲-2023-35</title>
-  </programme>
-  <programme start="20260731134450 +0800" stop="20260731143310 +0800" channel="cctv17">
+  <programme start="20260731132405 +0800" stop="20260731141210 +0800" channel="cctv17">
     <title>我们的日子第32集</title>
   </programme>
-  <programme start="20260731143310 +0800" stop="20260731152320 +0800" channel="cctv17">
+  <programme start="20260731141210 +0800" stop="20260731150150 +0800" channel="cctv17">
     <title>我们的日子第33集</title>
   </programme>
-  <programme start="20260731152320 +0800" stop="20260731161255 +0800" channel="cctv17">
+  <programme start="20260731150150 +0800" stop="20260731155055 +0800" channel="cctv17">
     <title>我们的日子第34集</title>
   </programme>
-  <programme start="20260731161255 +0800" stop="20260731170400 +0800" channel="cctv17">
+  <programme start="20260731155055 +0800" stop="20260731164100 +0800" channel="cctv17">
     <title>我们的日子第35集</title>
   </programme>
-  <programme start="20260731170400 +0800" stop="20260731173200 +0800" channel="cctv17">
-    <title>乡土中国-丰收中国之黄皮树下-2026-42</title>
+  <programme start="20260731164100 +0800" stop="20260731170600 +0800" channel="cctv17">
+    <title>乡土中国-丰收中国之黄皮树下-2026-40</title>
   </programme>
-  <programme start="20260731173200 +0800" stop="20260731180000 +0800" channel="cctv17">
-    <title>乡土中国-丰收中国之黄皮树下-2026-43</title>
+  <programme start="20260731170600 +0800" stop="20260731180000 +0800" channel="cctv17">
+    <title>田野欢歌-2025-60</title>
   </programme>
   <programme start="20260731180000 +0800" stop="20260731183730 +0800" channel="cctv17">
     <title>中国三农报道</title>
@@ -8223,14 +8217,11 @@
   <programme start="20260731202500 +0800" stop="20260731215100 +0800" channel="cctv17">
     <title>田野欢歌-2025-26</title>
   </programme>
-  <programme start="20260731215100 +0800" stop="20260731221900 +0800" channel="cctv17">
+  <programme start="20260731215100 +0800" stop="20260731222000 +0800" channel="cctv17">
     <title>三农群英汇-2026-254</title>
   </programme>
-  <programme start="20260731221900 +0800" stop="20260731224500 +0800" channel="cctv17">
-    <title>乡土中国-丰收中国之黄皮树下-2026-42</title>
-  </programme>
-  <programme start="20260731224500 +0800" stop="20260731231200 +0800" channel="cctv17">
-    <title>乡土中国-丰收中国之黄皮树下-2026-43</title>
+  <programme start="20260731222000 +0800" stop="20260731231200 +0800" channel="cctv17">
+    <title>田野欢歌-2025-61</title>
   </programme>
   <programme start="20260731231200 +0800" stop="20260731235900 +0800" channel="cctv17">
     <title>乡村剧场（栏目剧）-福鼎一家人（精编）-16/19</title>
@@ -8271,35 +8262,29 @@
   <programme start="20260801110855 +0800" stop="20260801120000 +0800" channel="cctv17">
     <title>陌上又花开17/36</title>
   </programme>
-  <programme start="20260801120000 +0800" stop="20260801123100 +0800" channel="cctv17">
+  <programme start="20260801120000 +0800" stop="20260801123000 +0800" channel="cctv17">
     <title>中国三农报道</title>
   </programme>
-  <programme start="20260801123100 +0800" stop="20260801124000 +0800" channel="cctv17">
-    <title>2026田园特供-乡村达人秀12-飞斧表演</title>
-  </programme>
-  <programme start="20260801124000 +0800" stop="20260801133230 +0800" channel="cctv17">
+  <programme start="20260801123000 +0800" stop="20260801132350 +0800" channel="cctv17">
     <title>田野欢歌-2025-60</title>
   </programme>
-  <programme start="20260801133230 +0800" stop="20260801134435 +0800" channel="cctv17">
-    <title>乡理乡亲-2023-32</title>
-  </programme>
-  <programme start="20260801134435 +0800" stop="20260801143240 +0800" channel="cctv17">
+  <programme start="20260801132350 +0800" stop="20260801141110 +0800" channel="cctv17">
     <title>我们的日子36/38</title>
   </programme>
-  <programme start="20260801143240 +0800" stop="20260801152250 +0800" channel="cctv17">
+  <programme start="20260801141110 +0800" stop="20260801150120 +0800" channel="cctv17">
     <title>我们的日子37/38</title>
   </programme>
-  <programme start="20260801152250 +0800" stop="20260801161255 +0800" channel="cctv17">
+  <programme start="20260801150120 +0800" stop="20260801155055 +0800" channel="cctv17">
     <title>我们的日子38/38</title>
   </programme>
-  <programme start="20260801161255 +0800" stop="20260801170400 +0800" channel="cctv17">
+  <programme start="20260801155055 +0800" stop="20260801164100 +0800" channel="cctv17">
     <title>爱在青山绿水间1/33</title>
   </programme>
-  <programme start="20260801170400 +0800" stop="20260801173200 +0800" channel="cctv17">
-    <title>乡土中国-丰收中国之黄皮树下-2026-44</title>
+  <programme start="20260801164100 +0800" stop="20260801170600 +0800" channel="cctv17">
+    <title>乡土中国-丰收中国之黄皮树下-2026-41</title>
   </programme>
-  <programme start="20260801173200 +0800" stop="20260801180000 +0800" channel="cctv17">
-    <title>乡土中国-丰收中国之黄皮树下-2026-45</title>
+  <programme start="20260801170600 +0800" stop="20260801180000 +0800" channel="cctv17">
+    <title>田野欢歌-2025-62</title>
   </programme>
   <programme start="20260801180000 +0800" stop="20260801183715 +0800" channel="cctv17">
     <title>中国三农报道</title>
@@ -8313,14 +8298,11 @@
   <programme start="20260801202500 +0800" stop="20260801215100 +0800" channel="cctv17">
     <title>田野欢歌-2026-24</title>
   </programme>
-  <programme start="20260801215100 +0800" stop="20260801221800 +0800" channel="cctv17">
+  <programme start="20260801215100 +0800" stop="20260801221900 +0800" channel="cctv17">
     <title>三农群英汇-2026-255</title>
   </programme>
-  <programme start="20260801221800 +0800" stop="20260801224400 +0800" channel="cctv17">
-    <title>乡土中国-丰收中国之黄皮树下-2026-44</title>
-  </programme>
-  <programme start="20260801224400 +0800" stop="20260801231100 +0800" channel="cctv17">
-    <title>乡土中国-丰收中国之黄皮树下-2026-45</title>
+  <programme start="20260801221900 +0800" stop="20260801231100 +0800" channel="cctv17">
+    <title>田野欢歌-2025-63</title>
   </programme>
   <programme start="20260801231100 +0800" stop="20260801235800 +0800" channel="cctv17">
     <title>乡村剧场（栏目剧）-福鼎一家人（精编）-17/19</title>
@@ -8358,35 +8340,29 @@
   <programme start="20260802110855 +0800" stop="20260802120000 +0800" channel="cctv17">
     <title>陌上又花开19/36</title>
   </programme>
-  <programme start="20260802120000 +0800" stop="20260802123100 +0800" channel="cctv17">
+  <programme start="20260802120000 +0800" stop="20260802123000 +0800" channel="cctv17">
     <title>中国三农报道</title>
   </programme>
-  <programme start="20260802123100 +0800" stop="20260802124000 +0800" channel="cctv17">
-    <title>2026田园特供-乡村达人秀13-神鞭绝活表演</title>
-  </programme>
-  <programme start="20260802124000 +0800" stop="20260802133230 +0800" channel="cctv17">
+  <programme start="20260802123000 +0800" stop="20260802132350 +0800" channel="cctv17">
     <title>田野欢歌-2025-62</title>
   </programme>
-  <programme start="20260802133230 +0800" stop="20260802134435 +0800" channel="cctv17">
-    <title>乡理乡亲-2023-34</title>
-  </programme>
-  <programme start="20260802134435 +0800" stop="20260802143240 +0800" channel="cctv17">
+  <programme start="20260802132350 +0800" stop="20260802141055 +0800" channel="cctv17">
     <title>爱在青山绿水间2/33</title>
   </programme>
-  <programme start="20260802143240 +0800" stop="20260802152250 +0800" channel="cctv17">
+  <programme start="20260802141055 +0800" stop="20260802150105 +0800" channel="cctv17">
     <title>爱在青山绿水间3/33</title>
   </programme>
-  <programme start="20260802152250 +0800" stop="20260802161255 +0800" channel="cctv17">
+  <programme start="20260802150105 +0800" stop="20260802155040 +0800" channel="cctv17">
     <title>爱在青山绿水间4/33</title>
   </programme>
-  <programme start="20260802161255 +0800" stop="20260802170400 +0800" channel="cctv17">
+  <programme start="20260802155040 +0800" stop="20260802164045 +0800" channel="cctv17">
     <title>爱在青山绿水间5/33</title>
   </programme>
-  <programme start="20260802170400 +0800" stop="20260802173200 +0800" channel="cctv17">
-    <title>乡土中国-丰收中国之黄皮树下-2026-46</title>
+  <programme start="20260802164045 +0800" stop="20260802170545 +0800" channel="cctv17">
+    <title>乡土中国-丰收中国之黄皮树下-2026-42</title>
   </programme>
-  <programme start="20260802173200 +0800" stop="20260802180000 +0800" channel="cctv17">
-    <title>乡土中国-丰收中国之黄皮树下-2026-47</title>
+  <programme start="20260802170545 +0800" stop="20260802180000 +0800" channel="cctv17">
+    <title>田野欢歌-2025-64</title>
   </programme>
   <programme start="20260802180000 +0800" stop="20260802183715 +0800" channel="cctv17">
     <title>中国三农报道</title>
@@ -8400,14 +8376,11 @@
   <programme start="20260802202500 +0800" stop="20260802215200 +0800" channel="cctv17">
     <title>田野欢歌-2026-23</title>
   </programme>
-  <programme start="20260802215200 +0800" stop="20260802221900 +0800" channel="cctv17">
+  <programme start="20260802215200 +0800" stop="20260802222000 +0800" channel="cctv17">
     <title>三农群英汇-2026-256</title>
   </programme>
-  <programme start="20260802221900 +0800" stop="20260802224500 +0800" channel="cctv17">
-    <title>乡土中国-丰收中国之黄皮树下-2026-46</title>
-  </programme>
-  <programme start="20260802224500 +0800" stop="20260802231200 +0800" channel="cctv17">
-    <title>乡土中国-丰收中国之黄皮树下-2026-47</title>
+  <programme start="20260802222000 +0800" stop="20260802231200 +0800" channel="cctv17">
+    <title>田野欢歌-2025-65</title>
   </programme>
   <programme start="20260802231200 +0800" stop="20260802235900 +0800" channel="cctv17">
     <title>乡村剧场（栏目剧）-福鼎一家人（精编）-18/19</title>
@@ -11559,8 +11532,11 @@
   <programme start="20260730210000 +0800" stop="20260730213000 +0800" channel="cctv4">
     <title>中国新闻</title>
   </programme>
-  <programme start="20260730213000 +0800" stop="20260730223000 +0800" channel="cctv4">
+  <programme start="20260730213000 +0800" stop="20260730220000 +0800" channel="cctv4">
     <title>今日关注</title>
+  </programme>
+  <programme start="20260730220000 +0800" stop="20260730223000 +0800" channel="cctv4">
+    <title>走遍中国-2026-121</title>
   </programme>
   <programme start="20260730223000 +0800" stop="20260730230300 +0800" channel="cctv4">
     <title>新闻联播</title>
@@ -11601,26 +11577,17 @@
   <programme start="20260731040000 +0800" stop="20260731043000 +0800" channel="cctv4">
     <title>中国新闻</title>
   </programme>
-  <programme start="20260731043000 +0800" stop="20260731044400 +0800" channel="cctv4">
-    <title>平凡匠心-2026-5</title>
-  </programme>
-  <programme start="20260731044400 +0800" stop="20260731044800 +0800" channel="cctv4">
-    <title>记住乡愁-片段展播-2024-19</title>
-  </programme>
-  <programme start="20260731044800 +0800" stop="20260731045200 +0800" channel="cctv4">
-    <title>记住乡愁-片段展播-2024-20</title>
-  </programme>
-  <programme start="20260731045200 +0800" stop="20260731050000 +0800" channel="cctv4">
-    <title>记住乡愁-片段展播-2024-25</title>
+  <programme start="20260731043000 +0800" stop="20260731050000 +0800" channel="cctv4">
+    <title>今日关注</title>
   </programme>
   <programme start="20260731050000 +0800" stop="20260731053000 +0800" channel="cctv4">
-    <title>中国文艺-2026-151</title>
-  </programme>
-  <programme start="20260731053000 +0800" stop="20260731060000 +0800" channel="cctv4">
     <title>国家记忆-2026-78</title>
   </programme>
-  <programme start="20260731060000 +0800" stop="20260731063000 +0800" channel="cctv4">
+  <programme start="20260731053000 +0800" stop="20260731060000 +0800" channel="cctv4">
     <title>走遍中国-2026-121</title>
+  </programme>
+  <programme start="20260731060000 +0800" stop="20260731063000 +0800" channel="cctv4">
+    <title>海峡两岸-2026-211</title>
   </programme>
   <programme start="20260731063000 +0800" stop="20260731070000 +0800" channel="cctv4">
     <title>今日亚洲</title>
@@ -11629,7 +11596,7 @@
     <title>中国新闻</title>
   </programme>
   <programme start="20260731073000 +0800" stop="20260731080000 +0800" channel="cctv4">
-    <title>海峡两岸-2026-211</title>
+    <title>今日关注</title>
   </programme>
   <programme start="20260731080000 +0800" stop="20260731090000 +0800" channel="cctv4">
     <title>今日环球</title>
@@ -15037,13 +15004,13 @@
     <title>健身动起来</title>
   </programme>
   <programme start="20260806163000 +0800" stop="20260806180000 +0800" channel="cctv5">
-    <title>WTT横滨冠军赛/8决赛1</title>
+    <title>WTT横滨冠军赛1/8决赛1</title>
   </programme>
   <programme start="20260806180000 +0800" stop="20260806183000 +0800" channel="cctv5">
     <title>体育新闻</title>
   </programme>
   <programme start="20260806183000 +0800" stop="20260806200000 +0800" channel="cctv5">
-    <title>WTT横滨冠军赛/8决赛1</title>
+    <title>WTT横滨冠军赛1/8决赛1</title>
   </programme>
   <programme start="20260806200000 +0800" stop="20260806210000 +0800" channel="cctv5">
     <title>足球之夜</title>
@@ -17649,10 +17616,10 @@
   <programme start="20260731073000 +0800" stop="20260731075830 +0800" channel="cctv7">
     <title>国防军事早报</title>
   </programme>
-  <programme start="20260731075830 +0800" stop="20260731083330 +0800" channel="cctv7">
+  <programme start="20260731075830 +0800" stop="20260731083230 +0800" channel="cctv7">
     <title>时光军史馆-2026-30</title>
   </programme>
-  <programme start="20260731083330 +0800" stop="20260731090300 +0800" channel="cctv7">
+  <programme start="20260731083230 +0800" stop="20260731090300 +0800" channel="cctv7">
     <title>军营的味道-2026-30</title>
   </programme>
   <programme start="20260731090300 +0800" stop="20260731093530 +0800" channel="cctv7">
@@ -17679,73 +17646,76 @@
   <programme start="20260731120000 +0800" stop="20260731123630 +0800" channel="cctv7">
     <title>正午国防军事</title>
   </programme>
-  <programme start="20260731123630 +0800" stop="20260731130830 +0800" channel="cctv7">
+  <programme start="20260731123630 +0800" stop="20260731131230 +0800" channel="cctv7">
     <title>防务新观察-2026-211</title>
   </programme>
-  <programme start="20260731130830 +0800" stop="20260731134230 +0800" channel="cctv7">
+  <programme start="20260731131230 +0800" stop="20260731134530 +0800" channel="cctv7">
     <title>军迷行天下-2026-30</title>
   </programme>
-  <programme start="20260731134230 +0800" stop="20260731140830 +0800" channel="cctv7">
+  <programme start="20260731134530 +0800" stop="20260731141030 +0800" channel="cctv7">
     <title>兵器面面观-2026-151</title>
   </programme>
-  <programme start="20260731140830 +0800" stop="20260731143600 +0800" channel="cctv7">
+  <programme start="20260731141030 +0800" stop="20260731143800 +0800" channel="cctv7">
     <title>军事纪录-2026-146</title>
   </programme>
-  <programme start="20260731143600 +0800" stop="20260731152630 +0800" channel="cctv7">
+  <programme start="20260731143800 +0800" stop="20260731152830 +0800" channel="cctv7">
     <title>虎胆巍城16/36</title>
   </programme>
-  <programme start="20260731152630 +0800" stop="20260731161530 +0800" channel="cctv7">
+  <programme start="20260731152830 +0800" stop="20260731161730 +0800" channel="cctv7">
     <title>虎胆巍城17/36</title>
   </programme>
-  <programme start="20260731161530 +0800" stop="20260731170630 +0800" channel="cctv7">
+  <programme start="20260731161730 +0800" stop="20260731170730 +0800" channel="cctv7">
     <title>虎胆巍城18/36</title>
   </programme>
-  <programme start="20260731170630 +0800" stop="20260731173130 +0800" channel="cctv7">
+  <programme start="20260731170730 +0800" stop="20260731173230 +0800" channel="cctv7">
     <title>世界战史-2026-147</title>
   </programme>
-  <programme start="20260731173130 +0800" stop="20260731180030 +0800" channel="cctv7">
+  <programme start="20260731173230 +0800" stop="20260731180130 +0800" channel="cctv7">
     <title>军事纪录-2026-147</title>
   </programme>
-  <programme start="20260731180030 +0800" stop="20260731180230 +0800" channel="cctv7">
+  <programme start="20260731180130 +0800" stop="20260731180330 +0800" channel="cctv7">
     <title>国防微视频-军歌嘹亮-一路忠诚（武警）</title>
   </programme>
-  <programme start="20260731180230 +0800" stop="20260731182830 +0800" channel="cctv7">
+  <programme start="20260731180330 +0800" stop="20260731182930 +0800" channel="cctv7">
     <title>兵器面面观-2026-152</title>
   </programme>
-  <programme start="20260731182830 +0800" stop="20260731190000 +0800" channel="cctv7">
+  <programme start="20260731182930 +0800" stop="20260731190000 +0800" channel="cctv7">
     <title>国防故事-2026-114</title>
   </programme>
   <programme start="20260731190000 +0800" stop="20260731193300 +0800" channel="cctv7">
     <title>新闻联播</title>
   </programme>
-  <programme start="20260731193300 +0800" stop="20260731200300 +0800" channel="cctv7">
+  <programme start="20260731193300 +0800" stop="20260731195900 +0800" channel="cctv7">
     <title>军事报道</title>
   </programme>
-  <programme start="20260731200300 +0800" stop="20260731200900 +0800" channel="cctv7">
+  <programme start="20260731195900 +0800" stop="20260731202700 +0800" channel="cctv7">
+    <title>制胜-1</title>
+  </programme>
+  <programme start="20260731202700 +0800" stop="20260731203300 +0800" channel="cctv7">
     <title>国防微视频-军歌嘹亮-党的队伍向前方（2026精编）</title>
   </programme>
-  <programme start="20260731200900 +0800" stop="20260731204300 +0800" channel="cctv7">
+  <programme start="20260731203300 +0800" stop="20260731210700 +0800" channel="cctv7">
     <title>防务新观察-2026-212</title>
   </programme>
-  <programme start="20260731204300 +0800" stop="20260731211645 +0800" channel="cctv7">
+  <programme start="20260731210700 +0800" stop="20260731214045 +0800" channel="cctv7">
     <title>军事纪实-2026-152</title>
   </programme>
-  <programme start="20260731211645 +0800" stop="20260731215245 +0800" channel="cctv7">
+  <programme start="20260731214045 +0800" stop="20260731221645 +0800" channel="cctv7">
     <title>第二战场-2026-31</title>
   </programme>
-  <programme start="20260731215245 +0800" stop="20260731224315 +0800" channel="cctv7">
+  <programme start="20260731221645 +0800" stop="20260731230715 +0800" channel="cctv7">
     <title>冰雪尖刀连15/24</title>
   </programme>
-  <programme start="20260731224315 +0800" stop="20260731233515 +0800" channel="cctv7">
+  <programme start="20260731230715 +0800" stop="20260731235915 +0800" channel="cctv7">
     <title>冰雪尖刀连16/24</title>
   </programme>
-  <programme start="20260731233515 +0800" stop="20260731235900 +0800" channel="cctv7">
+  <programme start="20260731235915 +0800" stop="20260731235900 +0800" channel="cctv7">
     <title>军事纪实-2026-152</title>
   </programme>
-  <programme start="20260801000945 +0800" stop="20260801004745 +0800" channel="cctv7">
+  <programme start="20260801003345 +0800" stop="20260801011145 +0800" channel="cctv7">
     <title>兵器面面观-2026-152</title>
   </programme>
-  <programme start="20260801004745 +0800" stop="20260801060300 +0800" channel="cctv7">
+  <programme start="20260801011145 +0800" stop="20260801060300 +0800" channel="cctv7">
     <title>再见</title>
   </programme>
   <programme start="20260801060300 +0800" stop="20260801063330 +0800" channel="cctv7">
@@ -17778,35 +17748,26 @@
   <programme start="20260801104530 +0800" stop="20260801120000 +0800" channel="cctv7">
     <title>五星剧场-地雷战(高清文件)</title>
   </programme>
-  <programme start="20260801120000 +0800" stop="20260801123630 +0800" channel="cctv7">
-    <title>正午国防军事</title>
+  <programme start="20260801120000 +0800" stop="20260801140300 +0800" channel="cctv7">
+    <title>2026年八一特别节目-我们的节日-1</title>
   </programme>
-  <programme start="20260801123630 +0800" stop="20260801131030 +0800" channel="cctv7">
+  <programme start="20260801140300 +0800" stop="20260801143630 +0800" channel="cctv7">
+    <title>制胜-1</title>
+  </programme>
+  <programme start="20260801143630 +0800" stop="20260801151330 +0800" channel="cctv7">
     <title>防务新观察-2026-212</title>
   </programme>
-  <programme start="20260801131030 +0800" stop="20260801134130 +0800" channel="cctv7">
-    <title>军武零距离-2026-30（4K）</title>
-  </programme>
-  <programme start="20260801134130 +0800" stop="20260801134530 +0800" channel="cctv7">
+  <programme start="20260801151330 +0800" stop="20260801152030 +0800" channel="cctv7">
     <title>国防微视频-军歌嘹亮-党的队伍向前方（奋进向一流）</title>
   </programme>
-  <programme start="20260801134530 +0800" stop="20260801142030 +0800" channel="cctv7">
-    <title>军迷行天下-2026-30</title>
-  </programme>
-  <programme start="20260801142030 +0800" stop="20260801151100 +0800" channel="cctv7">
+  <programme start="20260801152030 +0800" stop="20260801161100 +0800" channel="cctv7">
     <title>虎胆巍城19/36</title>
   </programme>
-  <programme start="20260801151100 +0800" stop="20260801160000 +0800" channel="cctv7">
+  <programme start="20260801161100 +0800" stop="20260801170000 +0800" channel="cctv7">
     <title>虎胆巍城20/36</title>
   </programme>
-  <programme start="20260801160000 +0800" stop="20260801165100 +0800" channel="cctv7">
+  <programme start="20260801170000 +0800" stop="20260801175500 +0800" channel="cctv7">
     <title>虎胆巍城21/36</title>
-  </programme>
-  <programme start="20260801165100 +0800" stop="20260801172100 +0800" channel="cctv7">
-    <title>军事科技-2026-30</title>
-  </programme>
-  <programme start="20260801172100 +0800" stop="20260801175500 +0800" channel="cctv7">
-    <title>第二战场-2026-31</title>
   </programme>
   <programme start="20260801175500 +0800" stop="20260801175730 +0800" channel="cctv7">
     <title>国防微视频-军歌嘹亮-中国人民解放军军歌（奋进向一流）</title>
@@ -17826,22 +17787,25 @@
   <programme start="20260801200300 +0800" stop="20260801213840 +0800" channel="cctv7">
     <title>建军99周年特别节目——奋进向一流-1</title>
   </programme>
-  <programme start="20260801213840 +0800" stop="20260801214440 +0800" channel="cctv7">
+  <programme start="20260801213840 +0800" stop="20260801220340 +0800" channel="cctv7">
+    <title>制胜-2</title>
+  </programme>
+  <programme start="20260801220340 +0800" stop="20260801220940 +0800" channel="cctv7">
     <title>国防微视频-军歌嘹亮-党的队伍向前方（奋进向一流）</title>
   </programme>
-  <programme start="20260801214440 +0800" stop="20260801222010 +0800" channel="cctv7">
+  <programme start="20260801220940 +0800" stop="20260801224510 +0800" channel="cctv7">
     <title>防务新观察-2026-213</title>
   </programme>
-  <programme start="20260801222010 +0800" stop="20260801232825 +0800" channel="cctv7">
+  <programme start="20260801224510 +0800" stop="20260801235325 +0800" channel="cctv7">
     <title>老兵你好-2026-31</title>
   </programme>
-  <programme start="20260801232825 +0800" stop="20260801235900 +0800" channel="cctv7">
+  <programme start="20260801235325 +0800" stop="20260801235900 +0800" channel="cctv7">
     <title>冰雪尖刀连17/24</title>
   </programme>
-  <programme start="20260802001855 +0800" stop="20260802011525 +0800" channel="cctv7">
+  <programme start="20260802004355 +0800" stop="20260802014025 +0800" channel="cctv7">
     <title>冰雪尖刀连18/24</title>
   </programme>
-  <programme start="20260802011525 +0800" stop="20260802060300 +0800" channel="cctv7">
+  <programme start="20260802014025 +0800" stop="20260802060300 +0800" channel="cctv7">
     <title>第二战场-2026-31</title>
   </programme>
   <programme start="20260802060300 +0800" stop="20260802063330 +0800" channel="cctv7">
@@ -17868,14 +17832,14 @@
   <programme start="20260802101630 +0800" stop="20260802120000 +0800" channel="cctv7">
     <title>建军99周年特别节目——奋进向一流-1</title>
   </programme>
-  <programme start="20260802120000 +0800" stop="20260802123630 +0800" channel="cctv7">
+  <programme start="20260802120000 +0800" stop="20260802123300 +0800" channel="cctv7">
     <title>正午国防军事</title>
   </programme>
-  <programme start="20260802123630 +0800" stop="20260802131230 +0800" channel="cctv7">
-    <title>防务新观察-2026-213</title>
+  <programme start="20260802123300 +0800" stop="20260802130130 +0800" channel="cctv7">
+    <title>制胜-2</title>
   </programme>
-  <programme start="20260802131230 +0800" stop="20260802134000 +0800" channel="cctv7">
-    <title>军营的味道-2026-31</title>
+  <programme start="20260802130130 +0800" stop="20260802134000 +0800" channel="cctv7">
+    <title>防务新观察-2026-213</title>
   </programme>
   <programme start="20260802134000 +0800" stop="20260802143030 +0800" channel="cctv7">
     <title>虎胆巍城22/36</title>
@@ -17895,28 +17859,31 @@
   <programme start="20260802190000 +0800" stop="20260802193300 +0800" channel="cctv7">
     <title>新闻联播</title>
   </programme>
-  <programme start="20260802193300 +0800" stop="20260802200300 +0800" channel="cctv7">
+  <programme start="20260802193300 +0800" stop="20260802195900 +0800" channel="cctv7">
     <title>军事报道</title>
   </programme>
-  <programme start="20260802200300 +0800" stop="20260802200930 +0800" channel="cctv7">
+  <programme start="20260802195900 +0800" stop="20260802202800 +0800" channel="cctv7">
+    <title>制胜-3</title>
+  </programme>
+  <programme start="20260802202800 +0800" stop="20260802203430 +0800" channel="cctv7">
     <title>国防微视频-军歌嘹亮-永远的荣光（奋进向一流）</title>
   </programme>
-  <programme start="20260802200930 +0800" stop="20260802204500 +0800" channel="cctv7">
+  <programme start="20260802203430 +0800" stop="20260802211000 +0800" channel="cctv7">
     <title>防务新观察-2026-214</title>
   </programme>
-  <programme start="20260802204500 +0800" stop="20260802211500 +0800" channel="cctv7">
+  <programme start="20260802211000 +0800" stop="20260802214000 +0800" channel="cctv7">
     <title>时光军史馆-2026-31</title>
   </programme>
-  <programme start="20260802211500 +0800" stop="20260802215315 +0800" channel="cctv7">
+  <programme start="20260802214000 +0800" stop="20260802221815 +0800" channel="cctv7">
     <title>兵器面面观-环球兵器大事件-2026-31</title>
   </programme>
-  <programme start="20260802215315 +0800" stop="20260802224345 +0800" channel="cctv7">
+  <programme start="20260802221815 +0800" stop="20260802230845 +0800" channel="cctv7">
     <title>冰雪尖刀连19/24</title>
   </programme>
-  <programme start="20260802224345 +0800" stop="20260802234015 +0800" channel="cctv7">
+  <programme start="20260802230845 +0800" stop="20260802235900 +0800" channel="cctv7">
     <title>冰雪尖刀连20/24</title>
   </programme>
-  <programme start="20260802234015 +0800" stop="20260802235900 +0800" channel="cctv7">
+  <programme start="20260803000515 +0800" stop="20260803235900 +0800" channel="cctv7">
     <title>兵器面面观-环球兵器大事件-2026-31</title>
   </programme>
   <programme start="20260723000320 +0800" stop="20260723004920 +0800" channel="cctv8">
@@ -25189,13 +25156,13 @@
     <title>8K超高清万象-大暑2026</title>
   </programme>
   <programme start="20260731090643 +0800" stop="20260731090918 +0800" channel="cctv8k">
-    <title>奋楫家国  沈水欢歌颂端阳-五彩纳吉令（8K）</title>
+    <title>奋楫家国 沈水欢歌颂端阳-五彩纳吉令（8K）</title>
   </programme>
   <programme start="20260731090918 +0800" stop="20260731091318 +0800" channel="cctv8k">
-    <title>奋楫家国  沈水欢歌颂端阳-我想你了（8K）</title>
+    <title>奋楫家国 沈水欢歌颂端阳-我想你了（8K）</title>
   </programme>
   <programme start="20260731091318 +0800" stop="20260731091553 +0800" channel="cctv8k">
-    <title>奋楫家国  沈水欢歌颂端阳-浮生一白（8K）</title>
+    <title>奋楫家国 沈水欢歌颂端阳-浮生一白（8K）</title>
   </programme>
   <programme start="20260731091553 +0800" stop="20260731092043 +0800" channel="cctv8k">
     <title>大国小鲜——石榴说-2（8K）</title>
@@ -25240,13 +25207,13 @@
     <title>大国之翼同风起-宣传片（8K）</title>
   </programme>
   <programme start="20260731100550 +0800" stop="20260731100948 +0800" channel="cctv8k">
-    <title>奋楫家国  沈水欢歌颂端阳-相亲相爱（8K）</title>
+    <title>奋楫家国 沈水欢歌颂端阳-相亲相爱（8K）</title>
   </programme>
   <programme start="20260731100948 +0800" stop="20260731101220 +0800" channel="cctv8k">
-    <title>奋楫家国  沈水欢歌颂端阳-任我（8K）</title>
+    <title>奋楫家国 沈水欢歌颂端阳-任我（8K）</title>
   </programme>
   <programme start="20260731101220 +0800" stop="20260731101502 +0800" channel="cctv8k">
-    <title>奋楫家国  沈水欢歌颂端阳-龙族（8K）</title>
+    <title>奋楫家国 沈水欢歌颂端阳-龙族（8K）</title>
   </programme>
   <programme start="20260731101502 +0800" stop="20260731101952 +0800" channel="cctv8k">
     <title>大国小鲜——石榴说-3（8K）</title>
@@ -25372,13 +25339,13 @@
     <title>8K超高清万象-大暑2026</title>
   </programme>
   <programme start="20260731130405 +0800" stop="20260731130640 +0800" channel="cctv8k">
-    <title>奋楫家国  沈水欢歌颂端阳-五彩纳吉令（8K）</title>
+    <title>奋楫家国 沈水欢歌颂端阳-五彩纳吉令（8K）</title>
   </programme>
   <programme start="20260731130640 +0800" stop="20260731131040 +0800" channel="cctv8k">
-    <title>奋楫家国  沈水欢歌颂端阳-我想你了（8K）</title>
+    <title>奋楫家国 沈水欢歌颂端阳-我想你了（8K）</title>
   </programme>
   <programme start="20260731131040 +0800" stop="20260731131315 +0800" channel="cctv8k">
-    <title>奋楫家国  沈水欢歌颂端阳-浮生一白（8K）</title>
+    <title>奋楫家国 沈水欢歌颂端阳-浮生一白（8K）</title>
   </programme>
   <programme start="20260731131315 +0800" stop="20260731131805 +0800" channel="cctv8k">
     <title>大国小鲜——石榴说-2（8K）</title>
@@ -25426,13 +25393,13 @@
     <title>大国之翼同风起-宣传片（8K）</title>
   </programme>
   <programme start="20260731140550 +0800" stop="20260731140948 +0800" channel="cctv8k">
-    <title>奋楫家国  沈水欢歌颂端阳-相亲相爱（8K）</title>
+    <title>奋楫家国 沈水欢歌颂端阳-相亲相爱（8K）</title>
   </programme>
   <programme start="20260731140948 +0800" stop="20260731141220 +0800" channel="cctv8k">
-    <title>奋楫家国  沈水欢歌颂端阳-任我（8K）</title>
+    <title>奋楫家国 沈水欢歌颂端阳-任我（8K）</title>
   </programme>
   <programme start="20260731141220 +0800" stop="20260731141502 +0800" channel="cctv8k">
-    <title>奋楫家国  沈水欢歌颂端阳-龙族（8K）</title>
+    <title>奋楫家国 沈水欢歌颂端阳-龙族（8K）</title>
   </programme>
   <programme start="20260731141502 +0800" stop="20260731141952 +0800" channel="cctv8k">
     <title>大国小鲜——石榴说-3（8K）</title>
@@ -25558,13 +25525,13 @@
     <title>8K超高清万象-大暑2026</title>
   </programme>
   <programme start="20260731170405 +0800" stop="20260731170640 +0800" channel="cctv8k">
-    <title>奋楫家国  沈水欢歌颂端阳-五彩纳吉令（8K）</title>
+    <title>奋楫家国 沈水欢歌颂端阳-五彩纳吉令（8K）</title>
   </programme>
   <programme start="20260731170640 +0800" stop="20260731171040 +0800" channel="cctv8k">
-    <title>奋楫家国  沈水欢歌颂端阳-我想你了（8K）</title>
+    <title>奋楫家国 沈水欢歌颂端阳-我想你了（8K）</title>
   </programme>
   <programme start="20260731171040 +0800" stop="20260731171315 +0800" channel="cctv8k">
-    <title>奋楫家国  沈水欢歌颂端阳-浮生一白（8K）</title>
+    <title>奋楫家国 沈水欢歌颂端阳-浮生一白（8K）</title>
   </programme>
   <programme start="20260731171315 +0800" stop="20260731171805 +0800" channel="cctv8k">
     <title>大国小鲜——石榴说-2（8K）</title>
@@ -25612,13 +25579,13 @@
     <title>大国之翼同风起-宣传片（8K）</title>
   </programme>
   <programme start="20260731180550 +0800" stop="20260731180948 +0800" channel="cctv8k">
-    <title>奋楫家国  沈水欢歌颂端阳-相亲相爱（8K）</title>
+    <title>奋楫家国 沈水欢歌颂端阳-相亲相爱（8K）</title>
   </programme>
   <programme start="20260731180948 +0800" stop="20260731181220 +0800" channel="cctv8k">
-    <title>奋楫家国  沈水欢歌颂端阳-任我（8K）</title>
+    <title>奋楫家国 沈水欢歌颂端阳-任我（8K）</title>
   </programme>
   <programme start="20260731181220 +0800" stop="20260731181502 +0800" channel="cctv8k">
-    <title>奋楫家国  沈水欢歌颂端阳-龙族（8K）</title>
+    <title>奋楫家国 沈水欢歌颂端阳-龙族（8K）</title>
   </programme>
   <programme start="20260731181502 +0800" stop="20260731181952 +0800" channel="cctv8k">
     <title>大国小鲜——石榴说-3（8K）</title>
@@ -25681,13 +25648,13 @@
     <title>上海总站超高清节目集锦-如果国宝会说话第一季（8K）-10</title>
   </programme>
   <programme start="20260731194354 +0800" stop="20260731194645 +0800" channel="cctv8k">
-    <title>奋楫家国  沈水欢歌颂端阳-常来（8K）</title>
+    <title>奋楫家国 沈水欢歌颂端阳-常来（8K）</title>
   </programme>
   <programme start="20260731194645 +0800" stop="20260731194840 +0800" channel="cctv8k">
-    <title>奋楫家国  沈水欢歌颂端阳-归乡（8K）</title>
+    <title>奋楫家国 沈水欢歌颂端阳-归乡（8K）</title>
   </programme>
   <programme start="20260731194840 +0800" stop="20260731195259 +0800" channel="cctv8k">
-    <title>奋楫家国  沈水欢歌颂端阳-你是人间四月天（8K）</title>
+    <title>奋楫家国 沈水欢歌颂端阳-你是人间四月天（8K）</title>
   </programme>
   <programme start="20260731195259 +0800" stop="20260731195430 +0800" channel="cctv8k">
     <title>哈尔滨2025年亚冬会-夺冠时刻速度滑冰男子100米（8K）</title>
@@ -25830,8 +25797,11 @@
   <programme start="20260731225609 +0800" stop="20260731225925 +0800" channel="cctv8k">
     <title>2026年春节联欢晚会-驭风歌（8K）</title>
   </programme>
-  <programme start="20260731225925 +0800" stop="20260731235900 +0800" channel="cctv8k">
+  <programme start="20260731225925 +0800" stop="20260731230000 +0800" channel="cctv8k">
     <title>8K标识演绎-总宣（音乐改版）（8K）</title>
+  </programme>
+  <programme start="20260731230000 +0800" stop="20260731235900 +0800" channel="cctv8k">
+    <title>8K再见</title>
   </programme>
   <programme start="20260801070000 +0800" stop="20260801070035 +0800" channel="cctv8k">
     <title>8K标识演绎-总宣（音乐改版）（8K）</title>
@@ -28284,19 +28254,22 @@
   <programme start="20260730210000 +0800" stop="20260730213000 +0800" channel="cctvamerica">
     <title>中国新闻</title>
   </programme>
-  <programme start="20260730213000 +0800" stop="20260730222800 +0800" channel="cctvamerica">
+  <programme start="20260730213000 +0800" stop="20260730220000 +0800" channel="cctvamerica">
     <title>今日关注</title>
   </programme>
-  <programme start="20260730222800 +0800" stop="20260730231300 +0800" channel="cctvamerica">
+  <programme start="20260730220000 +0800" stop="20260730224500 +0800" channel="cctvamerica">
     <title>精彩音乐汇（海外版）-2026-205</title>
   </programme>
-  <programme start="20260730231300 +0800" stop="20260730235800 +0800" channel="cctvamerica">
+  <programme start="20260730224500 +0800" stop="20260730233000 +0800" channel="cctvamerica">
     <title>动画城(四套)-2026-202</title>
   </programme>
-  <programme start="20260730235800 +0800" stop="20260730235900 +0800" channel="cctvamerica">
+  <programme start="20260730233000 +0800" stop="20260730235900 +0800" channel="cctvamerica">
+    <title>国家记忆-2026-77</title>
+  </programme>
+  <programme start="20260731000000 +0800" stop="20260731003000 +0800" channel="cctvamerica">
     <title>海峡两岸-2026-210</title>
   </programme>
-  <programme start="20260731002800 +0800" stop="20260731011540 +0800" channel="cctvamerica">
+  <programme start="20260731003000 +0800" stop="20260731011540 +0800" channel="cctvamerica">
     <title>远方的家2026-155</title>
   </programme>
   <programme start="20260731011540 +0800" stop="20260731014500 +0800" channel="cctvamerica">
@@ -28320,11 +28293,11 @@
   <programme start="20260731040000 +0800" stop="20260731043000 +0800" channel="cctvamerica">
     <title>中国新闻</title>
   </programme>
-  <programme start="20260731043000 +0800" stop="20260731045920 +0800" channel="cctvamerica">
-    <title>中国文艺-2026-151</title>
+  <programme start="20260731043000 +0800" stop="20260731050000 +0800" channel="cctvamerica">
+    <title>今日关注</title>
   </programme>
-  <programme start="20260731045920 +0800" stop="20260731053000 +0800" channel="cctvamerica">
-    <title>国家记忆-2026-78</title>
+  <programme start="20260731050000 +0800" stop="20260731053000 +0800" channel="cctvamerica">
+    <title>中国文艺-2026-151</title>
   </programme>
   <programme start="20260731053000 +0800" stop="20260731060000 +0800" channel="cctvamerica">
     <title>新闻联播</title>
@@ -28339,7 +28312,7 @@
     <title>中国新闻</title>
   </programme>
   <programme start="20260731073000 +0800" stop="20260731080000 +0800" channel="cctvamerica">
-    <title>中国文艺-2026-151</title>
+    <title>今日关注</title>
   </programme>
   <programme start="20260731080000 +0800" stop="20260731090000 +0800" channel="cctvamerica">
     <title>今日环球</title>
@@ -30231,20 +30204,23 @@
   <programme start="20260730210000 +0800" stop="20260730213000 +0800" channel="cctveurope">
     <title>中国新闻</title>
   </programme>
-  <programme start="20260730213000 +0800" stop="20260730222800 +0800" channel="cctveurope">
+  <programme start="20260730213000 +0800" stop="20260730220000 +0800" channel="cctveurope">
     <title>今日关注</title>
   </programme>
-  <programme start="20260730222800 +0800" stop="20260730231300 +0800" channel="cctveurope">
-    <title>动画城(四套)-2026-202</title>
-  </programme>
-  <programme start="20260730231300 +0800" stop="20260730235900 +0800" channel="cctveurope">
+  <programme start="20260730220000 +0800" stop="20260730224600 +0800" channel="cctveurope">
     <title>温州三家人第16集</title>
   </programme>
-  <programme start="20260730235900 +0800" stop="20260730235900 +0800" channel="cctveurope">
+  <programme start="20260730224600 +0800" stop="20260730233200 +0800" channel="cctveurope">
     <title>温州三家人第17集</title>
   </programme>
-  <programme start="20260731004700 +0800" stop="20260731013200 +0800" channel="cctveurope">
+  <programme start="20260730233200 +0800" stop="20260730235900 +0800" channel="cctveurope">
+    <title>中国文艺-2026-150</title>
+  </programme>
+  <programme start="20260731000200 +0800" stop="20260731004700 +0800" channel="cctveurope">
     <title>精彩音乐汇（海外版）-2026-205</title>
+  </programme>
+  <programme start="20260731004700 +0800" stop="20260731013200 +0800" channel="cctveurope">
+    <title>动画城(四套)-2026-202</title>
   </programme>
   <programme start="20260731013200 +0800" stop="20260731020000 +0800" channel="cctveurope">
     <title>走遍中国-2026-121</title>
@@ -30264,25 +30240,25 @@
   <programme start="20260731040000 +0800" stop="20260731043000 +0800" channel="cctveurope">
     <title>中国新闻</title>
   </programme>
-  <programme start="20260731043000 +0800" stop="20260731051500 +0800" channel="cctveurope">
+  <programme start="20260731043000 +0800" stop="20260731050000 +0800" channel="cctveurope">
+    <title>今日关注</title>
+  </programme>
+  <programme start="20260731050000 +0800" stop="20260731054500 +0800" channel="cctveurope">
     <title>远方的家2026-156</title>
   </programme>
-  <programme start="20260731051500 +0800" stop="20260731052500 +0800" channel="cctveurope">
+  <programme start="20260731054500 +0800" stop="20260731055500 +0800" channel="cctveurope">
     <title>记住乡愁-片段展播-2025-9</title>
   </programme>
-  <programme start="20260731052500 +0800" stop="20260731060000 +0800" channel="cctveurope">
+  <programme start="20260731055500 +0800" stop="20260731063000 +0800" channel="cctveurope">
     <title>探索发现(海外版)-2026-146</title>
   </programme>
-  <programme start="20260731060000 +0800" stop="20260731063000 +0800" channel="cctveurope">
+  <programme start="20260731063000 +0800" stop="20260731070000 +0800" channel="cctveurope">
     <title>国家记忆-2026-78</title>
   </programme>
-  <programme start="20260731063000 +0800" stop="20260731065800 +0800" channel="cctveurope">
+  <programme start="20260731070000 +0800" stop="20260731073000 +0800" channel="cctveurope">
     <title>走遍中国-2026-121</title>
   </programme>
-  <programme start="20260731065800 +0800" stop="20260731072920 +0800" channel="cctveurope">
-    <title>中国文艺-2026-151</title>
-  </programme>
-  <programme start="20260731072920 +0800" stop="20260731080000 +0800" channel="cctveurope">
+  <programme start="20260731073000 +0800" stop="20260731080000 +0800" channel="cctveurope">
     <title>海峡两岸-2026-211</title>
   </programme>
   <programme start="20260731080000 +0800" stop="20260731090300 +0800" channel="cctveurope">
@@ -42681,8 +42657,2648 @@
   <programme start="20260803033000 +0800" stop="20260803034600 +0800" channel="cctvqixiang">
     <title>国家气象播报</title>
   </programme>
-  <programme start="20260803034600 +0800" stop="20260803235900 +0800" channel="cctvqixiang">
+  <programme start="20260803034600 +0800" stop="20260803040000 +0800" channel="cctvqixiang">
     <title>气象今日谈</title>
+  </programme>
+  <programme start="20260803040000 +0800" stop="20260803040600 +0800" channel="cctvqixiang">
+    <title>晚间天气预报</title>
+  </programme>
+  <programme start="20260803040600 +0800" stop="20260803043000 +0800" channel="cctvqixiang">
+    <title>天地新视线</title>
+  </programme>
+  <programme start="20260803043000 +0800" stop="20260803044600 +0800" channel="cctvqixiang">
+    <title>国家气象播报</title>
+  </programme>
+  <programme start="20260803044600 +0800" stop="20260803050000 +0800" channel="cctvqixiang">
+    <title>气象今日谈</title>
+  </programme>
+  <programme start="20260803050000 +0800" stop="20260803050200 +0800" channel="cctvqixiang">
+    <title>国际天气预报</title>
+  </programme>
+  <programme start="20260803050200 +0800" stop="20260803050400 +0800" channel="cctvqixiang">
+    <title>世界天气</title>
+  </programme>
+  <programme start="20260803050400 +0800" stop="20260803052100 +0800" channel="cctvqixiang">
+    <title>国家气象播报</title>
+  </programme>
+  <programme start="20260803052100 +0800" stop="20260803053000 +0800" channel="cctvqixiang">
+    <title>地震自救互救</title>
+  </programme>
+  <programme start="20260803053000 +0800" stop="20260803053200 +0800" channel="cctvqixiang">
+    <title>国际天气预报</title>
+  </programme>
+  <programme start="20260803053200 +0800" stop="20260803054700 +0800" channel="cctvqixiang">
+    <title>气象与建筑</title>
+  </programme>
+  <programme start="20260803054700 +0800" stop="20260803054900 +0800" channel="cctvqixiang">
+    <title>世界天气</title>
+  </programme>
+  <programme start="20260803054900 +0800" stop="20260803055100 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260803055100 +0800" stop="20260803060000 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260803060000 +0800" stop="20260803060200 +0800" channel="cctvqixiang">
+    <title>国际天气预报</title>
+  </programme>
+  <programme start="20260803060200 +0800" stop="20260803060600 +0800" channel="cctvqixiang">
+    <title>世界天气</title>
+  </programme>
+  <programme start="20260803060600 +0800" stop="20260803061100 +0800" channel="cctvqixiang">
+    <title>气象与建筑</title>
+  </programme>
+  <programme start="20260803061100 +0800" stop="20260803063000 +0800" channel="cctvqixiang">
+    <title>国家气象播报</title>
+  </programme>
+  <programme start="20260803063000 +0800" stop="20260803063200 +0800" channel="cctvqixiang">
+    <title>国际天气预报</title>
+  </programme>
+  <programme start="20260803063200 +0800" stop="20260803064700 +0800" channel="cctvqixiang">
+    <title>气象与建筑</title>
+  </programme>
+  <programme start="20260803064700 +0800" stop="20260803064900 +0800" channel="cctvqixiang">
+    <title>世界天气</title>
+  </programme>
+  <programme start="20260803064900 +0800" stop="20260803065600 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260803065600 +0800" stop="20260803070000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260803070000 +0800" stop="20260803071500 +0800" channel="cctvqixiang">
+    <title>国家气象播报</title>
+  </programme>
+  <programme start="20260803071500 +0800" stop="20260803071700 +0800" channel="cctvqixiang">
+    <title>国际天气预报</title>
+  </programme>
+  <programme start="20260803071700 +0800" stop="20260803072100 +0800" channel="cctvqixiang">
+    <title>世界天气</title>
+  </programme>
+  <programme start="20260803072100 +0800" stop="20260803072600 +0800" channel="cctvqixiang">
+    <title>地震自救互救</title>
+  </programme>
+  <programme start="20260803072600 +0800" stop="20260803073000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260803073000 +0800" stop="20260803073300 +0800" channel="cctvqixiang">
+    <title>早间天气预报</title>
+  </programme>
+  <programme start="20260803073300 +0800" stop="20260803074000 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260803074000 +0800" stop="20260803074500 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260803074500 +0800" stop="20260803074800 +0800" channel="cctvqixiang">
+    <title>早间天气预报</title>
+  </programme>
+  <programme start="20260803074800 +0800" stop="20260803075100 +0800" channel="cctvqixiang">
+    <title>世界天气</title>
+  </programme>
+  <programme start="20260803075100 +0800" stop="20260803075600 +0800" channel="cctvqixiang">
+    <title>气象与建筑</title>
+  </programme>
+  <programme start="20260803075600 +0800" stop="20260803080000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260803080000 +0800" stop="20260803081500 +0800" channel="cctvqixiang">
+    <title>国家气象播报</title>
+  </programme>
+  <programme start="20260803081500 +0800" stop="20260803082100 +0800" channel="cctvqixiang">
+    <title>早间天气预报</title>
+  </programme>
+  <programme start="20260803082100 +0800" stop="20260803082600 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260803082600 +0800" stop="20260803083000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260803083000 +0800" stop="20260803083300 +0800" channel="cctvqixiang">
+    <title>早间天气预报</title>
+  </programme>
+  <programme start="20260803083300 +0800" stop="20260803083400 +0800" channel="cctvqixiang">
+    <title>中国雷达</title>
+  </programme>
+  <programme start="20260803083400 +0800" stop="20260803083600 +0800" channel="cctvqixiang">
+    <title>中国海区</title>
+  </programme>
+  <programme start="20260803083600 +0800" stop="20260803085600 +0800" channel="cctvqixiang">
+    <title>天地新视线</title>
+  </programme>
+  <programme start="20260803085600 +0800" stop="20260803090000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260803090000 +0800" stop="20260803090500 +0800" channel="cctvqixiang">
+    <title>风云专报</title>
+  </programme>
+  <programme start="20260803090500 +0800" stop="20260803091500 +0800" channel="cctvqixiang">
+    <title>气象今日谈</title>
+  </programme>
+  <programme start="20260803091500 +0800" stop="20260803091800 +0800" channel="cctvqixiang">
+    <title>早间天气预报</title>
+  </programme>
+  <programme start="20260803091800 +0800" stop="20260803092100 +0800" channel="cctvqixiang">
+    <title>风云专报</title>
+  </programme>
+  <programme start="20260803092100 +0800" stop="20260803092600 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260803092600 +0800" stop="20260803093000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260803093000 +0800" stop="20260803093300 +0800" channel="cctvqixiang">
+    <title>早间天气预报</title>
+  </programme>
+  <programme start="20260803093300 +0800" stop="20260803093600 +0800" channel="cctvqixiang">
+    <title>风云专报</title>
+  </programme>
+  <programme start="20260803093600 +0800" stop="20260803093800 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260803093800 +0800" stop="20260803094500 +0800" channel="cctvqixiang">
+    <title>地震自救互救</title>
+  </programme>
+  <programme start="20260803094500 +0800" stop="20260803094800 +0800" channel="cctvqixiang">
+    <title>早间天气预报</title>
+  </programme>
+  <programme start="20260803094800 +0800" stop="20260803095100 +0800" channel="cctvqixiang">
+    <title>风云专报</title>
+  </programme>
+  <programme start="20260803095100 +0800" stop="20260803095600 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260803095600 +0800" stop="20260803100000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260803100000 +0800" stop="20260803100800 +0800" channel="cctvqixiang">
+    <title>早间天气预报</title>
+  </programme>
+  <programme start="20260803100800 +0800" stop="20260803100900 +0800" channel="cctvqixiang">
+    <title>中国海区</title>
+  </programme>
+  <programme start="20260803100900 +0800" stop="20260803101500 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260803101500 +0800" stop="20260803102300 +0800" channel="cctvqixiang">
+    <title>早间天气预报</title>
+  </programme>
+  <programme start="20260803102300 +0800" stop="20260803102400 +0800" channel="cctvqixiang">
+    <title>中国雷达</title>
+  </programme>
+  <programme start="20260803102400 +0800" stop="20260803102600 +0800" channel="cctvqixiang">
+    <title>中国海区</title>
+  </programme>
+  <programme start="20260803102600 +0800" stop="20260803103500 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260803103500 +0800" stop="20260803104500 +0800" channel="cctvqixiang">
+    <title>气象今日谈</title>
+  </programme>
+  <programme start="20260803104500 +0800" stop="20260803105300 +0800" channel="cctvqixiang">
+    <title>早间天气预报</title>
+  </programme>
+  <programme start="20260803105300 +0800" stop="20260803105600 +0800" channel="cctvqixiang">
+    <title>世界天气</title>
+  </programme>
+  <programme start="20260803105600 +0800" stop="20260803110500 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260803110500 +0800" stop="20260803110700 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260803110700 +0800" stop="20260803111000 +0800" channel="cctvqixiang">
+    <title>健康气象指数</title>
+  </programme>
+  <programme start="20260803111000 +0800" stop="20260803112100 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260803112100 +0800" stop="20260803112600 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260803112600 +0800" stop="20260803113500 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260803113500 +0800" stop="20260803114000 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260803114000 +0800" stop="20260803115000 +0800" channel="cctvqixiang">
+    <title>气象与建筑</title>
+  </programme>
+  <programme start="20260803115000 +0800" stop="20260803115600 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260803115600 +0800" stop="20260803120300 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260803120300 +0800" stop="20260803120600 +0800" channel="cctvqixiang">
+    <title>健康气象指数</title>
+  </programme>
+  <programme start="20260803120600 +0800" stop="20260803120800 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260803120800 +0800" stop="20260803121700 +0800" channel="cctvqixiang">
+    <title>地震自救互救</title>
+  </programme>
+  <programme start="20260803121700 +0800" stop="20260803122000 +0800" channel="cctvqixiang">
+    <title>健康气象指数</title>
+  </programme>
+  <programme start="20260803122000 +0800" stop="20260803122600 +0800" channel="cctvqixiang">
+    <title>气象与建筑</title>
+  </programme>
+  <programme start="20260803122600 +0800" stop="20260803123000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260803123000 +0800" stop="20260803123500 +0800" channel="cctvqixiang">
+    <title>风云专报</title>
+  </programme>
+  <programme start="20260803123500 +0800" stop="20260803124500 +0800" channel="cctvqixiang">
+    <title>气象今日谈</title>
+  </programme>
+  <programme start="20260803124500 +0800" stop="20260803125100 +0800" channel="cctvqixiang">
+    <title>风云专报</title>
+  </programme>
+  <programme start="20260803125100 +0800" stop="20260803125600 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260803125600 +0800" stop="20260803130000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260803130000 +0800" stop="20260803130300 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260803130300 +0800" stop="20260803130800 +0800" channel="cctvqixiang">
+    <title>风云专报</title>
+  </programme>
+  <programme start="20260803130800 +0800" stop="20260803131000 +0800" channel="cctvqixiang">
+    <title>世界天气</title>
+  </programme>
+  <programme start="20260803131000 +0800" stop="20260803131500 +0800" channel="cctvqixiang">
+    <title>气象与建筑</title>
+  </programme>
+  <programme start="20260803131500 +0800" stop="20260803131800 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260803131800 +0800" stop="20260803132600 +0800" channel="cctvqixiang">
+    <title>风云专报</title>
+  </programme>
+  <programme start="20260803132600 +0800" stop="20260803133000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260803133000 +0800" stop="20260803133400 +0800" channel="cctvqixiang">
+    <title>国际天气预报</title>
+  </programme>
+  <programme start="20260803133400 +0800" stop="20260803133900 +0800" channel="cctvqixiang">
+    <title>风云专报</title>
+  </programme>
+  <programme start="20260803133900 +0800" stop="20260803134500 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260803134500 +0800" stop="20260803134800 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260803134800 +0800" stop="20260803135300 +0800" channel="cctvqixiang">
+    <title>风云专报</title>
+  </programme>
+  <programme start="20260803135300 +0800" stop="20260803135600 +0800" channel="cctvqixiang">
+    <title>世界天气</title>
+  </programme>
+  <programme start="20260803135600 +0800" stop="20260803140000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260803140000 +0800" stop="20260803140500 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260803140500 +0800" stop="20260803141500 +0800" channel="cctvqixiang">
+    <title>中国地理探奇</title>
+  </programme>
+  <programme start="20260803141500 +0800" stop="20260803142100 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260803142100 +0800" stop="20260803142600 +0800" channel="cctvqixiang">
+    <title>地震自救互救</title>
+  </programme>
+  <programme start="20260803142600 +0800" stop="20260803143000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260803143000 +0800" stop="20260803143600 +0800" channel="cctvqixiang">
+    <title>国际天气预报</title>
+  </programme>
+  <programme start="20260803143600 +0800" stop="20260803144000 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260803144000 +0800" stop="20260803144500 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260803144500 +0800" stop="20260803145000 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260803145000 +0800" stop="20260803145600 +0800" channel="cctvqixiang">
+    <title>世界天气</title>
+  </programme>
+  <programme start="20260803145600 +0800" stop="20260803150000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260803150000 +0800" stop="20260803150500 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260803150500 +0800" stop="20260803151500 +0800" channel="cctvqixiang">
+    <title>气象百问</title>
+  </programme>
+  <programme start="20260803151500 +0800" stop="20260803152000 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260803152000 +0800" stop="20260803152600 +0800" channel="cctvqixiang">
+    <title>气象与建筑</title>
+  </programme>
+  <programme start="20260803152600 +0800" stop="20260803153000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260803153000 +0800" stop="20260803153600 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260803153600 +0800" stop="20260803154000 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260803154000 +0800" stop="20260803154500 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260803154500 +0800" stop="20260803155100 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260803155100 +0800" stop="20260803155600 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260803155600 +0800" stop="20260803160000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260803160000 +0800" stop="20260803160700 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260803160700 +0800" stop="20260803160800 +0800" channel="cctvqixiang">
+    <title>中国雷达</title>
+  </programme>
+  <programme start="20260803160800 +0800" stop="20260803161000 +0800" channel="cctvqixiang">
+    <title>中国海区</title>
+  </programme>
+  <programme start="20260803161000 +0800" stop="20260803161500 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260803161500 +0800" stop="20260803162100 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260803162100 +0800" stop="20260803162600 +0800" channel="cctvqixiang">
+    <title>气象与建筑</title>
+  </programme>
+  <programme start="20260803162600 +0800" stop="20260803163000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260803163000 +0800" stop="20260803163500 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260803163500 +0800" stop="20260803163700 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260803163700 +0800" stop="20260803163800 +0800" channel="cctvqixiang">
+    <title>中国雷达</title>
+  </programme>
+  <programme start="20260803163800 +0800" stop="20260803164000 +0800" channel="cctvqixiang">
+    <title>中国海区</title>
+  </programme>
+  <programme start="20260803164000 +0800" stop="20260803164500 +0800" channel="cctvqixiang">
+    <title>地震自救互救</title>
+  </programme>
+  <programme start="20260803164500 +0800" stop="20260803165000 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260803165000 +0800" stop="20260803165600 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260803165600 +0800" stop="20260803170000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260803170000 +0800" stop="20260803170500 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260803170500 +0800" stop="20260803172100 +0800" channel="cctvqixiang">
+    <title>气象百问</title>
+  </programme>
+  <programme start="20260803172100 +0800" stop="20260803172600 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260803172600 +0800" stop="20260803173000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260803173000 +0800" stop="20260803173600 +0800" channel="cctvqixiang">
+    <title>世界天气预报</title>
+  </programme>
+  <programme start="20260803173600 +0800" stop="20260803174000 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260803174000 +0800" stop="20260803174500 +0800" channel="cctvqixiang">
+    <title>气象与建筑</title>
+  </programme>
+  <programme start="20260803174500 +0800" stop="20260803175000 +0800" channel="cctvqixiang">
+    <title>世界天气预报</title>
+  </programme>
+  <programme start="20260803175000 +0800" stop="20260803175600 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260803175600 +0800" stop="20260803180500 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260803180500 +0800" stop="20260803180700 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260803180700 +0800" stop="20260803180800 +0800" channel="cctvqixiang">
+    <title>中国雷达</title>
+  </programme>
+  <programme start="20260803180800 +0800" stop="20260803181000 +0800" channel="cctvqixiang">
+    <title>中国海区</title>
+  </programme>
+  <programme start="20260803181000 +0800" stop="20260803182100 +0800" channel="cctvqixiang">
+    <title>地震自救互救</title>
+  </programme>
+  <programme start="20260803182100 +0800" stop="20260803182600 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260803182600 +0800" stop="20260803183500 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260803183500 +0800" stop="20260803184000 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260803184000 +0800" stop="20260803185100 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260803185100 +0800" stop="20260803185600 +0800" channel="cctvqixiang">
+    <title>地震自救互救</title>
+  </programme>
+  <programme start="20260803185600 +0800" stop="20260803190500 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260803190500 +0800" stop="20260803190800 +0800" channel="cctvqixiang">
+    <title>生活气象指数</title>
+  </programme>
+  <programme start="20260803190800 +0800" stop="20260803191300 +0800" channel="cctvqixiang">
+    <title>气象与建筑</title>
+  </programme>
+  <programme start="20260803191300 +0800" stop="20260803192000 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260803192000 +0800" stop="20260803192200 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260803192200 +0800" stop="20260803192600 +0800" channel="cctvqixiang">
+    <title>健康气象指数</title>
+  </programme>
+  <programme start="20260803192600 +0800" stop="20260803193000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260803193000 +0800" stop="20260803193800 +0800" channel="cctvqixiang">
+    <title>晚间天气预报</title>
+  </programme>
+  <programme start="20260803193800 +0800" stop="20260803194000 +0800" channel="cctvqixiang">
+    <title>生活气象指数</title>
+  </programme>
+  <programme start="20260803194000 +0800" stop="20260803194500 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260803194500 +0800" stop="20260803195200 +0800" channel="cctvqixiang">
+    <title>世界天气预报</title>
+  </programme>
+  <programme start="20260803195200 +0800" stop="20260803195600 +0800" channel="cctvqixiang">
+    <title>世界天气</title>
+  </programme>
+  <programme start="20260803195600 +0800" stop="20260803200000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260803200000 +0800" stop="20260803200700 +0800" channel="cctvqixiang">
+    <title>联播天气预报</title>
+  </programme>
+  <programme start="20260803200700 +0800" stop="20260803201200 +0800" channel="cctvqixiang">
+    <title>健康气象指数</title>
+  </programme>
+  <programme start="20260803201200 +0800" stop="20260803201500 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260803201500 +0800" stop="20260803202600 +0800" channel="cctvqixiang">
+    <title>气象今日谈</title>
+  </programme>
+  <programme start="20260803202600 +0800" stop="20260803203000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260803203000 +0800" stop="20260803203600 +0800" channel="cctvqixiang">
+    <title>晚间天气预报</title>
+  </programme>
+  <programme start="20260803203600 +0800" stop="20260803205600 +0800" channel="cctvqixiang">
+    <title>天地新视线</title>
+  </programme>
+  <programme start="20260803205600 +0800" stop="20260803210000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260803210000 +0800" stop="20260803210700 +0800" channel="cctvqixiang">
+    <title>联播天气预报</title>
+  </programme>
+  <programme start="20260803210700 +0800" stop="20260803210900 +0800" channel="cctvqixiang">
+    <title>中国雷达</title>
+  </programme>
+  <programme start="20260803210900 +0800" stop="20260803211500 +0800" channel="cctvqixiang">
+    <title>地震自救互救</title>
+  </programme>
+  <programme start="20260803211500 +0800" stop="20260803212100 +0800" channel="cctvqixiang">
+    <title>世界天气预报</title>
+  </programme>
+  <programme start="20260803212100 +0800" stop="20260803212600 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260803212600 +0800" stop="20260803213000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260803213000 +0800" stop="20260803214500 +0800" channel="cctvqixiang">
+    <title>国家气象播报</title>
+  </programme>
+  <programme start="20260803214500 +0800" stop="20260803215600 +0800" channel="cctvqixiang">
+    <title>气象今日谈</title>
+  </programme>
+  <programme start="20260803215600 +0800" stop="20260803220000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260803220000 +0800" stop="20260803220500 +0800" channel="cctvqixiang">
+    <title>晚间天气预报</title>
+  </programme>
+  <programme start="20260803220500 +0800" stop="20260803221500 +0800" channel="cctvqixiang">
+    <title>中国地理探奇</title>
+  </programme>
+  <programme start="20260803221500 +0800" stop="20260803222100 +0800" channel="cctvqixiang">
+    <title>国际天气预报</title>
+  </programme>
+  <programme start="20260803222100 +0800" stop="20260803222600 +0800" channel="cctvqixiang">
+    <title>气象与建筑</title>
+  </programme>
+  <programme start="20260803222600 +0800" stop="20260803223000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260803223000 +0800" stop="20260803224600 +0800" channel="cctvqixiang">
+    <title>国家气象播报</title>
+  </programme>
+  <programme start="20260803224600 +0800" stop="20260803225600 +0800" channel="cctvqixiang">
+    <title>气象今日谈</title>
+  </programme>
+  <programme start="20260803225600 +0800" stop="20260803230000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260803230000 +0800" stop="20260803230600 +0800" channel="cctvqixiang">
+    <title>晚间天气预报</title>
+  </programme>
+  <programme start="20260803230600 +0800" stop="20260803231000 +0800" channel="cctvqixiang">
+    <title>生活气象指数</title>
+  </programme>
+  <programme start="20260803231000 +0800" stop="20260803231500 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260803231500 +0800" stop="20260803232100 +0800" channel="cctvqixiang">
+    <title>晚间天气预报</title>
+  </programme>
+  <programme start="20260803232100 +0800" stop="20260803232600 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260803232600 +0800" stop="20260803233000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260803233000 +0800" stop="20260803234600 +0800" channel="cctvqixiang">
+    <title>国家气象播报</title>
+  </programme>
+  <programme start="20260803234600 +0800" stop="20260803235600 +0800" channel="cctvqixiang">
+    <title>气象今日谈</title>
+  </programme>
+  <programme start="20260803235600 +0800" stop="20260803235900 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260804000000 +0800" stop="20260804000600 +0800" channel="cctvqixiang">
+    <title>晚间天气预报</title>
+  </programme>
+  <programme start="20260804000600 +0800" stop="20260804002600 +0800" channel="cctvqixiang">
+    <title>天地新视线</title>
+  </programme>
+  <programme start="20260804002600 +0800" stop="20260804003000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260804003000 +0800" stop="20260804004600 +0800" channel="cctvqixiang">
+    <title>国家气象播报</title>
+  </programme>
+  <programme start="20260804004600 +0800" stop="20260804005600 +0800" channel="cctvqixiang">
+    <title>气象今日谈</title>
+  </programme>
+  <programme start="20260804005600 +0800" stop="20260804010000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260804010000 +0800" stop="20260804010600 +0800" channel="cctvqixiang">
+    <title>晚间天气预报</title>
+  </programme>
+  <programme start="20260804010600 +0800" stop="20260804012600 +0800" channel="cctvqixiang">
+    <title>天地新视线</title>
+  </programme>
+  <programme start="20260804012600 +0800" stop="20260804013000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260804013000 +0800" stop="20260804014600 +0800" channel="cctvqixiang">
+    <title>国家气象播报</title>
+  </programme>
+  <programme start="20260804014600 +0800" stop="20260804015600 +0800" channel="cctvqixiang">
+    <title>气象今日谈</title>
+  </programme>
+  <programme start="20260804015600 +0800" stop="20260804020000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260804020000 +0800" stop="20260804020600 +0800" channel="cctvqixiang">
+    <title>晚间天气预报</title>
+  </programme>
+  <programme start="20260804020600 +0800" stop="20260804023000 +0800" channel="cctvqixiang">
+    <title>天地新视线</title>
+  </programme>
+  <programme start="20260804023000 +0800" stop="20260804024600 +0800" channel="cctvqixiang">
+    <title>国家气象播报</title>
+  </programme>
+  <programme start="20260804024600 +0800" stop="20260804030000 +0800" channel="cctvqixiang">
+    <title>气象今日谈</title>
+  </programme>
+  <programme start="20260804030000 +0800" stop="20260804030600 +0800" channel="cctvqixiang">
+    <title>晚间天气预报</title>
+  </programme>
+  <programme start="20260804030600 +0800" stop="20260804033000 +0800" channel="cctvqixiang">
+    <title>天地新视线</title>
+  </programme>
+  <programme start="20260804033000 +0800" stop="20260804034600 +0800" channel="cctvqixiang">
+    <title>国家气象播报</title>
+  </programme>
+  <programme start="20260804034600 +0800" stop="20260804040000 +0800" channel="cctvqixiang">
+    <title>气象今日谈</title>
+  </programme>
+  <programme start="20260804040000 +0800" stop="20260804040600 +0800" channel="cctvqixiang">
+    <title>晚间天气预报</title>
+  </programme>
+  <programme start="20260804040600 +0800" stop="20260804043000 +0800" channel="cctvqixiang">
+    <title>天地新视线</title>
+  </programme>
+  <programme start="20260804043000 +0800" stop="20260804044600 +0800" channel="cctvqixiang">
+    <title>国家气象播报</title>
+  </programme>
+  <programme start="20260804044600 +0800" stop="20260804050000 +0800" channel="cctvqixiang">
+    <title>气象今日谈</title>
+  </programme>
+  <programme start="20260804050000 +0800" stop="20260804050200 +0800" channel="cctvqixiang">
+    <title>国际天气预报</title>
+  </programme>
+  <programme start="20260804050200 +0800" stop="20260804050400 +0800" channel="cctvqixiang">
+    <title>世界天气</title>
+  </programme>
+  <programme start="20260804050400 +0800" stop="20260804052100 +0800" channel="cctvqixiang">
+    <title>国家气象播报</title>
+  </programme>
+  <programme start="20260804052100 +0800" stop="20260804053000 +0800" channel="cctvqixiang">
+    <title>地震自救互救</title>
+  </programme>
+  <programme start="20260804053000 +0800" stop="20260804053200 +0800" channel="cctvqixiang">
+    <title>国际天气预报</title>
+  </programme>
+  <programme start="20260804053200 +0800" stop="20260804054700 +0800" channel="cctvqixiang">
+    <title>气象与建筑</title>
+  </programme>
+  <programme start="20260804054700 +0800" stop="20260804054900 +0800" channel="cctvqixiang">
+    <title>世界天气</title>
+  </programme>
+  <programme start="20260804054900 +0800" stop="20260804055100 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260804055100 +0800" stop="20260804060000 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260804060000 +0800" stop="20260804060200 +0800" channel="cctvqixiang">
+    <title>国际天气预报</title>
+  </programme>
+  <programme start="20260804060200 +0800" stop="20260804060600 +0800" channel="cctvqixiang">
+    <title>世界天气</title>
+  </programme>
+  <programme start="20260804060600 +0800" stop="20260804061100 +0800" channel="cctvqixiang">
+    <title>气象与建筑</title>
+  </programme>
+  <programme start="20260804061100 +0800" stop="20260804063000 +0800" channel="cctvqixiang">
+    <title>国家气象播报</title>
+  </programme>
+  <programme start="20260804063000 +0800" stop="20260804063200 +0800" channel="cctvqixiang">
+    <title>国际天气预报</title>
+  </programme>
+  <programme start="20260804063200 +0800" stop="20260804064700 +0800" channel="cctvqixiang">
+    <title>气象与建筑</title>
+  </programme>
+  <programme start="20260804064700 +0800" stop="20260804064900 +0800" channel="cctvqixiang">
+    <title>世界天气</title>
+  </programme>
+  <programme start="20260804064900 +0800" stop="20260804065600 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260804065600 +0800" stop="20260804070000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260804070000 +0800" stop="20260804071500 +0800" channel="cctvqixiang">
+    <title>国家气象播报</title>
+  </programme>
+  <programme start="20260804071500 +0800" stop="20260804071700 +0800" channel="cctvqixiang">
+    <title>国际天气预报</title>
+  </programme>
+  <programme start="20260804071700 +0800" stop="20260804072100 +0800" channel="cctvqixiang">
+    <title>世界天气</title>
+  </programme>
+  <programme start="20260804072100 +0800" stop="20260804072600 +0800" channel="cctvqixiang">
+    <title>地震自救互救</title>
+  </programme>
+  <programme start="20260804072600 +0800" stop="20260804073000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260804073000 +0800" stop="20260804073300 +0800" channel="cctvqixiang">
+    <title>早间天气预报</title>
+  </programme>
+  <programme start="20260804073300 +0800" stop="20260804074000 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260804074000 +0800" stop="20260804074500 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260804074500 +0800" stop="20260804074800 +0800" channel="cctvqixiang">
+    <title>早间天气预报</title>
+  </programme>
+  <programme start="20260804074800 +0800" stop="20260804075100 +0800" channel="cctvqixiang">
+    <title>世界天气</title>
+  </programme>
+  <programme start="20260804075100 +0800" stop="20260804075600 +0800" channel="cctvqixiang">
+    <title>气象与建筑</title>
+  </programme>
+  <programme start="20260804075600 +0800" stop="20260804080000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260804080000 +0800" stop="20260804081500 +0800" channel="cctvqixiang">
+    <title>国家气象播报</title>
+  </programme>
+  <programme start="20260804081500 +0800" stop="20260804082100 +0800" channel="cctvqixiang">
+    <title>早间天气预报</title>
+  </programme>
+  <programme start="20260804082100 +0800" stop="20260804082600 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260804082600 +0800" stop="20260804083000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260804083000 +0800" stop="20260804083300 +0800" channel="cctvqixiang">
+    <title>早间天气预报</title>
+  </programme>
+  <programme start="20260804083300 +0800" stop="20260804083400 +0800" channel="cctvqixiang">
+    <title>中国雷达</title>
+  </programme>
+  <programme start="20260804083400 +0800" stop="20260804083600 +0800" channel="cctvqixiang">
+    <title>中国海区</title>
+  </programme>
+  <programme start="20260804083600 +0800" stop="20260804085600 +0800" channel="cctvqixiang">
+    <title>天地新视线</title>
+  </programme>
+  <programme start="20260804085600 +0800" stop="20260804090000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260804090000 +0800" stop="20260804090500 +0800" channel="cctvqixiang">
+    <title>风云专报</title>
+  </programme>
+  <programme start="20260804090500 +0800" stop="20260804091500 +0800" channel="cctvqixiang">
+    <title>气象今日谈</title>
+  </programme>
+  <programme start="20260804091500 +0800" stop="20260804091800 +0800" channel="cctvqixiang">
+    <title>早间天气预报</title>
+  </programme>
+  <programme start="20260804091800 +0800" stop="20260804092100 +0800" channel="cctvqixiang">
+    <title>风云专报</title>
+  </programme>
+  <programme start="20260804092100 +0800" stop="20260804092600 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260804092600 +0800" stop="20260804093000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260804093000 +0800" stop="20260804093300 +0800" channel="cctvqixiang">
+    <title>早间天气预报</title>
+  </programme>
+  <programme start="20260804093300 +0800" stop="20260804093600 +0800" channel="cctvqixiang">
+    <title>风云专报</title>
+  </programme>
+  <programme start="20260804093600 +0800" stop="20260804093800 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260804093800 +0800" stop="20260804094500 +0800" channel="cctvqixiang">
+    <title>地震自救互救</title>
+  </programme>
+  <programme start="20260804094500 +0800" stop="20260804094800 +0800" channel="cctvqixiang">
+    <title>早间天气预报</title>
+  </programme>
+  <programme start="20260804094800 +0800" stop="20260804095100 +0800" channel="cctvqixiang">
+    <title>风云专报</title>
+  </programme>
+  <programme start="20260804095100 +0800" stop="20260804095600 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260804095600 +0800" stop="20260804100000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260804100000 +0800" stop="20260804100800 +0800" channel="cctvqixiang">
+    <title>早间天气预报</title>
+  </programme>
+  <programme start="20260804100800 +0800" stop="20260804100900 +0800" channel="cctvqixiang">
+    <title>中国海区</title>
+  </programme>
+  <programme start="20260804100900 +0800" stop="20260804101500 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260804101500 +0800" stop="20260804102300 +0800" channel="cctvqixiang">
+    <title>早间天气预报</title>
+  </programme>
+  <programme start="20260804102300 +0800" stop="20260804102400 +0800" channel="cctvqixiang">
+    <title>中国雷达</title>
+  </programme>
+  <programme start="20260804102400 +0800" stop="20260804102600 +0800" channel="cctvqixiang">
+    <title>中国海区</title>
+  </programme>
+  <programme start="20260804102600 +0800" stop="20260804103500 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260804103500 +0800" stop="20260804104500 +0800" channel="cctvqixiang">
+    <title>气象今日谈</title>
+  </programme>
+  <programme start="20260804104500 +0800" stop="20260804105300 +0800" channel="cctvqixiang">
+    <title>早间天气预报</title>
+  </programme>
+  <programme start="20260804105300 +0800" stop="20260804105600 +0800" channel="cctvqixiang">
+    <title>世界天气</title>
+  </programme>
+  <programme start="20260804105600 +0800" stop="20260804110500 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260804110500 +0800" stop="20260804110700 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260804110700 +0800" stop="20260804111000 +0800" channel="cctvqixiang">
+    <title>健康气象指数</title>
+  </programme>
+  <programme start="20260804111000 +0800" stop="20260804112100 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260804112100 +0800" stop="20260804112600 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260804112600 +0800" stop="20260804113500 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260804113500 +0800" stop="20260804114000 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260804114000 +0800" stop="20260804115000 +0800" channel="cctvqixiang">
+    <title>气象与建筑</title>
+  </programme>
+  <programme start="20260804115000 +0800" stop="20260804115600 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260804115600 +0800" stop="20260804120300 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260804120300 +0800" stop="20260804120600 +0800" channel="cctvqixiang">
+    <title>健康气象指数</title>
+  </programme>
+  <programme start="20260804120600 +0800" stop="20260804120800 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260804120800 +0800" stop="20260804121700 +0800" channel="cctvqixiang">
+    <title>地震自救互救</title>
+  </programme>
+  <programme start="20260804121700 +0800" stop="20260804122000 +0800" channel="cctvqixiang">
+    <title>健康气象指数</title>
+  </programme>
+  <programme start="20260804122000 +0800" stop="20260804122600 +0800" channel="cctvqixiang">
+    <title>气象与建筑</title>
+  </programme>
+  <programme start="20260804122600 +0800" stop="20260804123000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260804123000 +0800" stop="20260804123500 +0800" channel="cctvqixiang">
+    <title>风云专报</title>
+  </programme>
+  <programme start="20260804123500 +0800" stop="20260804124500 +0800" channel="cctvqixiang">
+    <title>气象今日谈</title>
+  </programme>
+  <programme start="20260804124500 +0800" stop="20260804125100 +0800" channel="cctvqixiang">
+    <title>风云专报</title>
+  </programme>
+  <programme start="20260804125100 +0800" stop="20260804125600 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260804125600 +0800" stop="20260804130000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260804130000 +0800" stop="20260804130300 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260804130300 +0800" stop="20260804130800 +0800" channel="cctvqixiang">
+    <title>风云专报</title>
+  </programme>
+  <programme start="20260804130800 +0800" stop="20260804131000 +0800" channel="cctvqixiang">
+    <title>世界天气</title>
+  </programme>
+  <programme start="20260804131000 +0800" stop="20260804131500 +0800" channel="cctvqixiang">
+    <title>气象与建筑</title>
+  </programme>
+  <programme start="20260804131500 +0800" stop="20260804131800 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260804131800 +0800" stop="20260804132600 +0800" channel="cctvqixiang">
+    <title>风云专报</title>
+  </programme>
+  <programme start="20260804132600 +0800" stop="20260804133000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260804133000 +0800" stop="20260804133400 +0800" channel="cctvqixiang">
+    <title>国际天气预报</title>
+  </programme>
+  <programme start="20260804133400 +0800" stop="20260804133900 +0800" channel="cctvqixiang">
+    <title>风云专报</title>
+  </programme>
+  <programme start="20260804133900 +0800" stop="20260804134500 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260804134500 +0800" stop="20260804134800 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260804134800 +0800" stop="20260804135300 +0800" channel="cctvqixiang">
+    <title>风云专报</title>
+  </programme>
+  <programme start="20260804135300 +0800" stop="20260804135600 +0800" channel="cctvqixiang">
+    <title>世界天气</title>
+  </programme>
+  <programme start="20260804135600 +0800" stop="20260804140000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260804140000 +0800" stop="20260804140500 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260804140500 +0800" stop="20260804141500 +0800" channel="cctvqixiang">
+    <title>中国地理探奇</title>
+  </programme>
+  <programme start="20260804141500 +0800" stop="20260804142100 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260804142100 +0800" stop="20260804142600 +0800" channel="cctvqixiang">
+    <title>地震自救互救</title>
+  </programme>
+  <programme start="20260804142600 +0800" stop="20260804143000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260804143000 +0800" stop="20260804143600 +0800" channel="cctvqixiang">
+    <title>国际天气预报</title>
+  </programme>
+  <programme start="20260804143600 +0800" stop="20260804144000 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260804144000 +0800" stop="20260804144500 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260804144500 +0800" stop="20260804145000 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260804145000 +0800" stop="20260804145600 +0800" channel="cctvqixiang">
+    <title>世界天气</title>
+  </programme>
+  <programme start="20260804145600 +0800" stop="20260804150000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260804150000 +0800" stop="20260804150500 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260804150500 +0800" stop="20260804151500 +0800" channel="cctvqixiang">
+    <title>气象百问</title>
+  </programme>
+  <programme start="20260804151500 +0800" stop="20260804152000 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260804152000 +0800" stop="20260804152600 +0800" channel="cctvqixiang">
+    <title>气象与建筑</title>
+  </programme>
+  <programme start="20260804152600 +0800" stop="20260804153000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260804153000 +0800" stop="20260804153600 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260804153600 +0800" stop="20260804154000 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260804154000 +0800" stop="20260804154500 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260804154500 +0800" stop="20260804155100 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260804155100 +0800" stop="20260804155600 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260804155600 +0800" stop="20260804160000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260804160000 +0800" stop="20260804160700 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260804160700 +0800" stop="20260804160800 +0800" channel="cctvqixiang">
+    <title>中国雷达</title>
+  </programme>
+  <programme start="20260804160800 +0800" stop="20260804161000 +0800" channel="cctvqixiang">
+    <title>中国海区</title>
+  </programme>
+  <programme start="20260804161000 +0800" stop="20260804161500 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260804161500 +0800" stop="20260804162100 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260804162100 +0800" stop="20260804162600 +0800" channel="cctvqixiang">
+    <title>气象与建筑</title>
+  </programme>
+  <programme start="20260804162600 +0800" stop="20260804163000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260804163000 +0800" stop="20260804163500 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260804163500 +0800" stop="20260804163700 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260804163700 +0800" stop="20260804163800 +0800" channel="cctvqixiang">
+    <title>中国雷达</title>
+  </programme>
+  <programme start="20260804163800 +0800" stop="20260804164000 +0800" channel="cctvqixiang">
+    <title>中国海区</title>
+  </programme>
+  <programme start="20260804164000 +0800" stop="20260804164500 +0800" channel="cctvqixiang">
+    <title>地震自救互救</title>
+  </programme>
+  <programme start="20260804164500 +0800" stop="20260804165000 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260804165000 +0800" stop="20260804165600 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260804165600 +0800" stop="20260804170000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260804170000 +0800" stop="20260804170500 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260804170500 +0800" stop="20260804172100 +0800" channel="cctvqixiang">
+    <title>气象百问</title>
+  </programme>
+  <programme start="20260804172100 +0800" stop="20260804172600 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260804172600 +0800" stop="20260804173000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260804173000 +0800" stop="20260804173600 +0800" channel="cctvqixiang">
+    <title>世界天气预报</title>
+  </programme>
+  <programme start="20260804173600 +0800" stop="20260804174000 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260804174000 +0800" stop="20260804174500 +0800" channel="cctvqixiang">
+    <title>气象与建筑</title>
+  </programme>
+  <programme start="20260804174500 +0800" stop="20260804175000 +0800" channel="cctvqixiang">
+    <title>世界天气预报</title>
+  </programme>
+  <programme start="20260804175000 +0800" stop="20260804175600 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260804175600 +0800" stop="20260804180500 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260804180500 +0800" stop="20260804180700 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260804180700 +0800" stop="20260804180800 +0800" channel="cctvqixiang">
+    <title>中国雷达</title>
+  </programme>
+  <programme start="20260804180800 +0800" stop="20260804181000 +0800" channel="cctvqixiang">
+    <title>中国海区</title>
+  </programme>
+  <programme start="20260804181000 +0800" stop="20260804182100 +0800" channel="cctvqixiang">
+    <title>地震自救互救</title>
+  </programme>
+  <programme start="20260804182100 +0800" stop="20260804182600 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260804182600 +0800" stop="20260804183500 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260804183500 +0800" stop="20260804184000 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260804184000 +0800" stop="20260804185100 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260804185100 +0800" stop="20260804185600 +0800" channel="cctvqixiang">
+    <title>地震自救互救</title>
+  </programme>
+  <programme start="20260804185600 +0800" stop="20260804190500 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260804190500 +0800" stop="20260804190800 +0800" channel="cctvqixiang">
+    <title>生活气象指数</title>
+  </programme>
+  <programme start="20260804190800 +0800" stop="20260804191300 +0800" channel="cctvqixiang">
+    <title>气象与建筑</title>
+  </programme>
+  <programme start="20260804191300 +0800" stop="20260804192000 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260804192000 +0800" stop="20260804192200 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260804192200 +0800" stop="20260804192600 +0800" channel="cctvqixiang">
+    <title>健康气象指数</title>
+  </programme>
+  <programme start="20260804192600 +0800" stop="20260804193000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260804193000 +0800" stop="20260804193800 +0800" channel="cctvqixiang">
+    <title>晚间天气预报</title>
+  </programme>
+  <programme start="20260804193800 +0800" stop="20260804194000 +0800" channel="cctvqixiang">
+    <title>生活气象指数</title>
+  </programme>
+  <programme start="20260804194000 +0800" stop="20260804194500 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260804194500 +0800" stop="20260804195200 +0800" channel="cctvqixiang">
+    <title>世界天气预报</title>
+  </programme>
+  <programme start="20260804195200 +0800" stop="20260804195600 +0800" channel="cctvqixiang">
+    <title>世界天气</title>
+  </programme>
+  <programme start="20260804195600 +0800" stop="20260804200000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260804200000 +0800" stop="20260804200700 +0800" channel="cctvqixiang">
+    <title>联播天气预报</title>
+  </programme>
+  <programme start="20260804200700 +0800" stop="20260804201200 +0800" channel="cctvqixiang">
+    <title>健康气象指数</title>
+  </programme>
+  <programme start="20260804201200 +0800" stop="20260804201500 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260804201500 +0800" stop="20260804202600 +0800" channel="cctvqixiang">
+    <title>气象今日谈</title>
+  </programme>
+  <programme start="20260804202600 +0800" stop="20260804203000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260804203000 +0800" stop="20260804203600 +0800" channel="cctvqixiang">
+    <title>晚间天气预报</title>
+  </programme>
+  <programme start="20260804203600 +0800" stop="20260804205600 +0800" channel="cctvqixiang">
+    <title>天地新视线</title>
+  </programme>
+  <programme start="20260804205600 +0800" stop="20260804210000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260804210000 +0800" stop="20260804210700 +0800" channel="cctvqixiang">
+    <title>联播天气预报</title>
+  </programme>
+  <programme start="20260804210700 +0800" stop="20260804210900 +0800" channel="cctvqixiang">
+    <title>中国雷达</title>
+  </programme>
+  <programme start="20260804210900 +0800" stop="20260804211500 +0800" channel="cctvqixiang">
+    <title>地震自救互救</title>
+  </programme>
+  <programme start="20260804211500 +0800" stop="20260804212100 +0800" channel="cctvqixiang">
+    <title>世界天气预报</title>
+  </programme>
+  <programme start="20260804212100 +0800" stop="20260804212600 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260804212600 +0800" stop="20260804213000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260804213000 +0800" stop="20260804214500 +0800" channel="cctvqixiang">
+    <title>国家气象播报</title>
+  </programme>
+  <programme start="20260804214500 +0800" stop="20260804215600 +0800" channel="cctvqixiang">
+    <title>气象今日谈</title>
+  </programme>
+  <programme start="20260804215600 +0800" stop="20260804220000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260804220000 +0800" stop="20260804220500 +0800" channel="cctvqixiang">
+    <title>晚间天气预报</title>
+  </programme>
+  <programme start="20260804220500 +0800" stop="20260804221500 +0800" channel="cctvqixiang">
+    <title>中国地理探奇</title>
+  </programme>
+  <programme start="20260804221500 +0800" stop="20260804222100 +0800" channel="cctvqixiang">
+    <title>国际天气预报</title>
+  </programme>
+  <programme start="20260804222100 +0800" stop="20260804222600 +0800" channel="cctvqixiang">
+    <title>气象与建筑</title>
+  </programme>
+  <programme start="20260804222600 +0800" stop="20260804223000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260804223000 +0800" stop="20260804224600 +0800" channel="cctvqixiang">
+    <title>国家气象播报</title>
+  </programme>
+  <programme start="20260804224600 +0800" stop="20260804225600 +0800" channel="cctvqixiang">
+    <title>气象今日谈</title>
+  </programme>
+  <programme start="20260804225600 +0800" stop="20260804230000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260804230000 +0800" stop="20260804230600 +0800" channel="cctvqixiang">
+    <title>晚间天气预报</title>
+  </programme>
+  <programme start="20260804230600 +0800" stop="20260804231000 +0800" channel="cctvqixiang">
+    <title>生活气象指数</title>
+  </programme>
+  <programme start="20260804231000 +0800" stop="20260804231500 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260804231500 +0800" stop="20260804232100 +0800" channel="cctvqixiang">
+    <title>晚间天气预报</title>
+  </programme>
+  <programme start="20260804232100 +0800" stop="20260804232600 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260804232600 +0800" stop="20260804233000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260804233000 +0800" stop="20260804234600 +0800" channel="cctvqixiang">
+    <title>国家气象播报</title>
+  </programme>
+  <programme start="20260804234600 +0800" stop="20260804235600 +0800" channel="cctvqixiang">
+    <title>气象今日谈</title>
+  </programme>
+  <programme start="20260804235600 +0800" stop="20260804235900 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260805000000 +0800" stop="20260805000600 +0800" channel="cctvqixiang">
+    <title>晚间天气预报</title>
+  </programme>
+  <programme start="20260805000600 +0800" stop="20260805002600 +0800" channel="cctvqixiang">
+    <title>天地新视线</title>
+  </programme>
+  <programme start="20260805002600 +0800" stop="20260805003000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260805003000 +0800" stop="20260805004600 +0800" channel="cctvqixiang">
+    <title>国家气象播报</title>
+  </programme>
+  <programme start="20260805004600 +0800" stop="20260805005600 +0800" channel="cctvqixiang">
+    <title>气象今日谈</title>
+  </programme>
+  <programme start="20260805005600 +0800" stop="20260805010000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260805010000 +0800" stop="20260805010600 +0800" channel="cctvqixiang">
+    <title>晚间天气预报</title>
+  </programme>
+  <programme start="20260805010600 +0800" stop="20260805012600 +0800" channel="cctvqixiang">
+    <title>天地新视线</title>
+  </programme>
+  <programme start="20260805012600 +0800" stop="20260805013000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260805013000 +0800" stop="20260805014600 +0800" channel="cctvqixiang">
+    <title>国家气象播报</title>
+  </programme>
+  <programme start="20260805014600 +0800" stop="20260805015600 +0800" channel="cctvqixiang">
+    <title>气象今日谈</title>
+  </programme>
+  <programme start="20260805015600 +0800" stop="20260805020000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260805020000 +0800" stop="20260805020600 +0800" channel="cctvqixiang">
+    <title>晚间天气预报</title>
+  </programme>
+  <programme start="20260805020600 +0800" stop="20260805023000 +0800" channel="cctvqixiang">
+    <title>天地新视线</title>
+  </programme>
+  <programme start="20260805023000 +0800" stop="20260805024600 +0800" channel="cctvqixiang">
+    <title>国家气象播报</title>
+  </programme>
+  <programme start="20260805024600 +0800" stop="20260805030000 +0800" channel="cctvqixiang">
+    <title>气象今日谈</title>
+  </programme>
+  <programme start="20260805030000 +0800" stop="20260805030600 +0800" channel="cctvqixiang">
+    <title>晚间天气预报</title>
+  </programme>
+  <programme start="20260805030600 +0800" stop="20260805033000 +0800" channel="cctvqixiang">
+    <title>天地新视线</title>
+  </programme>
+  <programme start="20260805033000 +0800" stop="20260805034600 +0800" channel="cctvqixiang">
+    <title>国家气象播报</title>
+  </programme>
+  <programme start="20260805034600 +0800" stop="20260805040000 +0800" channel="cctvqixiang">
+    <title>气象今日谈</title>
+  </programme>
+  <programme start="20260805040000 +0800" stop="20260805040600 +0800" channel="cctvqixiang">
+    <title>晚间天气预报</title>
+  </programme>
+  <programme start="20260805040600 +0800" stop="20260805043000 +0800" channel="cctvqixiang">
+    <title>天地新视线</title>
+  </programme>
+  <programme start="20260805043000 +0800" stop="20260805044600 +0800" channel="cctvqixiang">
+    <title>国家气象播报</title>
+  </programme>
+  <programme start="20260805044600 +0800" stop="20260805050000 +0800" channel="cctvqixiang">
+    <title>气象今日谈</title>
+  </programme>
+  <programme start="20260805050000 +0800" stop="20260805050200 +0800" channel="cctvqixiang">
+    <title>国际天气预报</title>
+  </programme>
+  <programme start="20260805050200 +0800" stop="20260805050400 +0800" channel="cctvqixiang">
+    <title>世界天气</title>
+  </programme>
+  <programme start="20260805050400 +0800" stop="20260805052100 +0800" channel="cctvqixiang">
+    <title>国家气象播报</title>
+  </programme>
+  <programme start="20260805052100 +0800" stop="20260805053000 +0800" channel="cctvqixiang">
+    <title>地震自救互救</title>
+  </programme>
+  <programme start="20260805053000 +0800" stop="20260805053200 +0800" channel="cctvqixiang">
+    <title>国际天气预报</title>
+  </programme>
+  <programme start="20260805053200 +0800" stop="20260805054700 +0800" channel="cctvqixiang">
+    <title>气象与建筑</title>
+  </programme>
+  <programme start="20260805054700 +0800" stop="20260805054900 +0800" channel="cctvqixiang">
+    <title>世界天气</title>
+  </programme>
+  <programme start="20260805054900 +0800" stop="20260805055100 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260805055100 +0800" stop="20260805060000 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260805060000 +0800" stop="20260805060200 +0800" channel="cctvqixiang">
+    <title>国际天气预报</title>
+  </programme>
+  <programme start="20260805060200 +0800" stop="20260805060600 +0800" channel="cctvqixiang">
+    <title>世界天气</title>
+  </programme>
+  <programme start="20260805060600 +0800" stop="20260805061100 +0800" channel="cctvqixiang">
+    <title>气象与建筑</title>
+  </programme>
+  <programme start="20260805061100 +0800" stop="20260805063000 +0800" channel="cctvqixiang">
+    <title>国家气象播报</title>
+  </programme>
+  <programme start="20260805063000 +0800" stop="20260805063200 +0800" channel="cctvqixiang">
+    <title>国际天气预报</title>
+  </programme>
+  <programme start="20260805063200 +0800" stop="20260805064700 +0800" channel="cctvqixiang">
+    <title>气象与建筑</title>
+  </programme>
+  <programme start="20260805064700 +0800" stop="20260805064900 +0800" channel="cctvqixiang">
+    <title>世界天气</title>
+  </programme>
+  <programme start="20260805064900 +0800" stop="20260805065600 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260805065600 +0800" stop="20260805070000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260805070000 +0800" stop="20260805071500 +0800" channel="cctvqixiang">
+    <title>国家气象播报</title>
+  </programme>
+  <programme start="20260805071500 +0800" stop="20260805071700 +0800" channel="cctvqixiang">
+    <title>国际天气预报</title>
+  </programme>
+  <programme start="20260805071700 +0800" stop="20260805072100 +0800" channel="cctvqixiang">
+    <title>世界天气</title>
+  </programme>
+  <programme start="20260805072100 +0800" stop="20260805072600 +0800" channel="cctvqixiang">
+    <title>地震自救互救</title>
+  </programme>
+  <programme start="20260805072600 +0800" stop="20260805073000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260805073000 +0800" stop="20260805073300 +0800" channel="cctvqixiang">
+    <title>早间天气预报</title>
+  </programme>
+  <programme start="20260805073300 +0800" stop="20260805074000 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260805074000 +0800" stop="20260805074500 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260805074500 +0800" stop="20260805074800 +0800" channel="cctvqixiang">
+    <title>早间天气预报</title>
+  </programme>
+  <programme start="20260805074800 +0800" stop="20260805075100 +0800" channel="cctvqixiang">
+    <title>世界天气</title>
+  </programme>
+  <programme start="20260805075100 +0800" stop="20260805075600 +0800" channel="cctvqixiang">
+    <title>气象与建筑</title>
+  </programme>
+  <programme start="20260805075600 +0800" stop="20260805080000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260805080000 +0800" stop="20260805081500 +0800" channel="cctvqixiang">
+    <title>国家气象播报</title>
+  </programme>
+  <programme start="20260805081500 +0800" stop="20260805082100 +0800" channel="cctvqixiang">
+    <title>早间天气预报</title>
+  </programme>
+  <programme start="20260805082100 +0800" stop="20260805082600 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260805082600 +0800" stop="20260805083000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260805083000 +0800" stop="20260805083300 +0800" channel="cctvqixiang">
+    <title>早间天气预报</title>
+  </programme>
+  <programme start="20260805083300 +0800" stop="20260805083400 +0800" channel="cctvqixiang">
+    <title>中国雷达</title>
+  </programme>
+  <programme start="20260805083400 +0800" stop="20260805083600 +0800" channel="cctvqixiang">
+    <title>中国海区</title>
+  </programme>
+  <programme start="20260805083600 +0800" stop="20260805085600 +0800" channel="cctvqixiang">
+    <title>天地新视线</title>
+  </programme>
+  <programme start="20260805085600 +0800" stop="20260805090000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260805090000 +0800" stop="20260805090500 +0800" channel="cctvqixiang">
+    <title>风云专报</title>
+  </programme>
+  <programme start="20260805090500 +0800" stop="20260805091500 +0800" channel="cctvqixiang">
+    <title>气象今日谈</title>
+  </programme>
+  <programme start="20260805091500 +0800" stop="20260805091800 +0800" channel="cctvqixiang">
+    <title>早间天气预报</title>
+  </programme>
+  <programme start="20260805091800 +0800" stop="20260805092100 +0800" channel="cctvqixiang">
+    <title>风云专报</title>
+  </programme>
+  <programme start="20260805092100 +0800" stop="20260805092600 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260805092600 +0800" stop="20260805093000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260805093000 +0800" stop="20260805093300 +0800" channel="cctvqixiang">
+    <title>早间天气预报</title>
+  </programme>
+  <programme start="20260805093300 +0800" stop="20260805093600 +0800" channel="cctvqixiang">
+    <title>风云专报</title>
+  </programme>
+  <programme start="20260805093600 +0800" stop="20260805093800 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260805093800 +0800" stop="20260805094500 +0800" channel="cctvqixiang">
+    <title>地震自救互救</title>
+  </programme>
+  <programme start="20260805094500 +0800" stop="20260805094800 +0800" channel="cctvqixiang">
+    <title>早间天气预报</title>
+  </programme>
+  <programme start="20260805094800 +0800" stop="20260805095100 +0800" channel="cctvqixiang">
+    <title>风云专报</title>
+  </programme>
+  <programme start="20260805095100 +0800" stop="20260805095600 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260805095600 +0800" stop="20260805100000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260805100000 +0800" stop="20260805100800 +0800" channel="cctvqixiang">
+    <title>早间天气预报</title>
+  </programme>
+  <programme start="20260805100800 +0800" stop="20260805100900 +0800" channel="cctvqixiang">
+    <title>中国海区</title>
+  </programme>
+  <programme start="20260805100900 +0800" stop="20260805101500 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260805101500 +0800" stop="20260805102300 +0800" channel="cctvqixiang">
+    <title>早间天气预报</title>
+  </programme>
+  <programme start="20260805102300 +0800" stop="20260805102400 +0800" channel="cctvqixiang">
+    <title>中国雷达</title>
+  </programme>
+  <programme start="20260805102400 +0800" stop="20260805102600 +0800" channel="cctvqixiang">
+    <title>中国海区</title>
+  </programme>
+  <programme start="20260805102600 +0800" stop="20260805103500 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260805103500 +0800" stop="20260805104500 +0800" channel="cctvqixiang">
+    <title>气象今日谈</title>
+  </programme>
+  <programme start="20260805104500 +0800" stop="20260805105300 +0800" channel="cctvqixiang">
+    <title>早间天气预报</title>
+  </programme>
+  <programme start="20260805105300 +0800" stop="20260805105600 +0800" channel="cctvqixiang">
+    <title>世界天气</title>
+  </programme>
+  <programme start="20260805105600 +0800" stop="20260805110500 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260805110500 +0800" stop="20260805110700 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260805110700 +0800" stop="20260805111000 +0800" channel="cctvqixiang">
+    <title>健康气象指数</title>
+  </programme>
+  <programme start="20260805111000 +0800" stop="20260805112100 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260805112100 +0800" stop="20260805112600 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260805112600 +0800" stop="20260805113500 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260805113500 +0800" stop="20260805114000 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260805114000 +0800" stop="20260805115000 +0800" channel="cctvqixiang">
+    <title>气象与建筑</title>
+  </programme>
+  <programme start="20260805115000 +0800" stop="20260805115600 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260805115600 +0800" stop="20260805120300 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260805120300 +0800" stop="20260805120600 +0800" channel="cctvqixiang">
+    <title>健康气象指数</title>
+  </programme>
+  <programme start="20260805120600 +0800" stop="20260805120800 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260805120800 +0800" stop="20260805121700 +0800" channel="cctvqixiang">
+    <title>地震自救互救</title>
+  </programme>
+  <programme start="20260805121700 +0800" stop="20260805122000 +0800" channel="cctvqixiang">
+    <title>健康气象指数</title>
+  </programme>
+  <programme start="20260805122000 +0800" stop="20260805122600 +0800" channel="cctvqixiang">
+    <title>气象与建筑</title>
+  </programme>
+  <programme start="20260805122600 +0800" stop="20260805123000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260805123000 +0800" stop="20260805123500 +0800" channel="cctvqixiang">
+    <title>风云专报</title>
+  </programme>
+  <programme start="20260805123500 +0800" stop="20260805124500 +0800" channel="cctvqixiang">
+    <title>气象今日谈</title>
+  </programme>
+  <programme start="20260805124500 +0800" stop="20260805125100 +0800" channel="cctvqixiang">
+    <title>风云专报</title>
+  </programme>
+  <programme start="20260805125100 +0800" stop="20260805125600 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260805125600 +0800" stop="20260805130000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260805130000 +0800" stop="20260805130300 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260805130300 +0800" stop="20260805130800 +0800" channel="cctvqixiang">
+    <title>风云专报</title>
+  </programme>
+  <programme start="20260805130800 +0800" stop="20260805131000 +0800" channel="cctvqixiang">
+    <title>世界天气</title>
+  </programme>
+  <programme start="20260805131000 +0800" stop="20260805131500 +0800" channel="cctvqixiang">
+    <title>气象与建筑</title>
+  </programme>
+  <programme start="20260805131500 +0800" stop="20260805131800 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260805131800 +0800" stop="20260805132600 +0800" channel="cctvqixiang">
+    <title>风云专报</title>
+  </programme>
+  <programme start="20260805132600 +0800" stop="20260805133000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260805133000 +0800" stop="20260805133400 +0800" channel="cctvqixiang">
+    <title>国际天气预报</title>
+  </programme>
+  <programme start="20260805133400 +0800" stop="20260805133900 +0800" channel="cctvqixiang">
+    <title>风云专报</title>
+  </programme>
+  <programme start="20260805133900 +0800" stop="20260805134500 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260805134500 +0800" stop="20260805134800 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260805134800 +0800" stop="20260805135300 +0800" channel="cctvqixiang">
+    <title>风云专报</title>
+  </programme>
+  <programme start="20260805135300 +0800" stop="20260805135600 +0800" channel="cctvqixiang">
+    <title>世界天气</title>
+  </programme>
+  <programme start="20260805135600 +0800" stop="20260805140000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260805140000 +0800" stop="20260805140500 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260805140500 +0800" stop="20260805141500 +0800" channel="cctvqixiang">
+    <title>中国地理探奇</title>
+  </programme>
+  <programme start="20260805141500 +0800" stop="20260805142100 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260805142100 +0800" stop="20260805142600 +0800" channel="cctvqixiang">
+    <title>地震自救互救</title>
+  </programme>
+  <programme start="20260805142600 +0800" stop="20260805143000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260805143000 +0800" stop="20260805143600 +0800" channel="cctvqixiang">
+    <title>国际天气预报</title>
+  </programme>
+  <programme start="20260805143600 +0800" stop="20260805144000 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260805144000 +0800" stop="20260805144500 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260805144500 +0800" stop="20260805145000 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260805145000 +0800" stop="20260805145600 +0800" channel="cctvqixiang">
+    <title>世界天气</title>
+  </programme>
+  <programme start="20260805145600 +0800" stop="20260805150000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260805150000 +0800" stop="20260805150500 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260805150500 +0800" stop="20260805151500 +0800" channel="cctvqixiang">
+    <title>气象百问</title>
+  </programme>
+  <programme start="20260805151500 +0800" stop="20260805152000 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260805152000 +0800" stop="20260805152600 +0800" channel="cctvqixiang">
+    <title>气象与建筑</title>
+  </programme>
+  <programme start="20260805152600 +0800" stop="20260805153000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260805153000 +0800" stop="20260805153600 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260805153600 +0800" stop="20260805154000 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260805154000 +0800" stop="20260805154500 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260805154500 +0800" stop="20260805155100 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260805155100 +0800" stop="20260805155600 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260805155600 +0800" stop="20260805160000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260805160000 +0800" stop="20260805160700 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260805160700 +0800" stop="20260805160800 +0800" channel="cctvqixiang">
+    <title>中国雷达</title>
+  </programme>
+  <programme start="20260805160800 +0800" stop="20260805161000 +0800" channel="cctvqixiang">
+    <title>中国海区</title>
+  </programme>
+  <programme start="20260805161000 +0800" stop="20260805161500 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260805161500 +0800" stop="20260805162100 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260805162100 +0800" stop="20260805162600 +0800" channel="cctvqixiang">
+    <title>气象与建筑</title>
+  </programme>
+  <programme start="20260805162600 +0800" stop="20260805163000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260805163000 +0800" stop="20260805163500 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260805163500 +0800" stop="20260805163700 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260805163700 +0800" stop="20260805163800 +0800" channel="cctvqixiang">
+    <title>中国雷达</title>
+  </programme>
+  <programme start="20260805163800 +0800" stop="20260805164000 +0800" channel="cctvqixiang">
+    <title>中国海区</title>
+  </programme>
+  <programme start="20260805164000 +0800" stop="20260805164500 +0800" channel="cctvqixiang">
+    <title>地震自救互救</title>
+  </programme>
+  <programme start="20260805164500 +0800" stop="20260805165000 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260805165000 +0800" stop="20260805165600 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260805165600 +0800" stop="20260805170000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260805170000 +0800" stop="20260805170500 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260805170500 +0800" stop="20260805172100 +0800" channel="cctvqixiang">
+    <title>气象百问</title>
+  </programme>
+  <programme start="20260805172100 +0800" stop="20260805172600 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260805172600 +0800" stop="20260805173000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260805173000 +0800" stop="20260805173600 +0800" channel="cctvqixiang">
+    <title>世界天气预报</title>
+  </programme>
+  <programme start="20260805173600 +0800" stop="20260805174000 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260805174000 +0800" stop="20260805174500 +0800" channel="cctvqixiang">
+    <title>气象与建筑</title>
+  </programme>
+  <programme start="20260805174500 +0800" stop="20260805175000 +0800" channel="cctvqixiang">
+    <title>世界天气预报</title>
+  </programme>
+  <programme start="20260805175000 +0800" stop="20260805175600 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260805175600 +0800" stop="20260805180500 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260805180500 +0800" stop="20260805180700 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260805180700 +0800" stop="20260805180800 +0800" channel="cctvqixiang">
+    <title>中国雷达</title>
+  </programme>
+  <programme start="20260805180800 +0800" stop="20260805181000 +0800" channel="cctvqixiang">
+    <title>中国海区</title>
+  </programme>
+  <programme start="20260805181000 +0800" stop="20260805182100 +0800" channel="cctvqixiang">
+    <title>地震自救互救</title>
+  </programme>
+  <programme start="20260805182100 +0800" stop="20260805182600 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260805182600 +0800" stop="20260805183500 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260805183500 +0800" stop="20260805184000 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260805184000 +0800" stop="20260805185100 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260805185100 +0800" stop="20260805185600 +0800" channel="cctvqixiang">
+    <title>地震自救互救</title>
+  </programme>
+  <programme start="20260805185600 +0800" stop="20260805190500 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260805190500 +0800" stop="20260805190800 +0800" channel="cctvqixiang">
+    <title>生活气象指数</title>
+  </programme>
+  <programme start="20260805190800 +0800" stop="20260805191300 +0800" channel="cctvqixiang">
+    <title>气象与建筑</title>
+  </programme>
+  <programme start="20260805191300 +0800" stop="20260805192000 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260805192000 +0800" stop="20260805192200 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260805192200 +0800" stop="20260805192600 +0800" channel="cctvqixiang">
+    <title>健康气象指数</title>
+  </programme>
+  <programme start="20260805192600 +0800" stop="20260805193000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260805193000 +0800" stop="20260805193800 +0800" channel="cctvqixiang">
+    <title>晚间天气预报</title>
+  </programme>
+  <programme start="20260805193800 +0800" stop="20260805194000 +0800" channel="cctvqixiang">
+    <title>生活气象指数</title>
+  </programme>
+  <programme start="20260805194000 +0800" stop="20260805194500 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260805194500 +0800" stop="20260805195200 +0800" channel="cctvqixiang">
+    <title>世界天气预报</title>
+  </programme>
+  <programme start="20260805195200 +0800" stop="20260805195600 +0800" channel="cctvqixiang">
+    <title>世界天气</title>
+  </programme>
+  <programme start="20260805195600 +0800" stop="20260805200000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260805200000 +0800" stop="20260805200700 +0800" channel="cctvqixiang">
+    <title>联播天气预报</title>
+  </programme>
+  <programme start="20260805200700 +0800" stop="20260805201200 +0800" channel="cctvqixiang">
+    <title>健康气象指数</title>
+  </programme>
+  <programme start="20260805201200 +0800" stop="20260805201500 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260805201500 +0800" stop="20260805202600 +0800" channel="cctvqixiang">
+    <title>气象今日谈</title>
+  </programme>
+  <programme start="20260805202600 +0800" stop="20260805203000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260805203000 +0800" stop="20260805203600 +0800" channel="cctvqixiang">
+    <title>晚间天气预报</title>
+  </programme>
+  <programme start="20260805203600 +0800" stop="20260805205600 +0800" channel="cctvqixiang">
+    <title>天地新视线</title>
+  </programme>
+  <programme start="20260805205600 +0800" stop="20260805210000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260805210000 +0800" stop="20260805210700 +0800" channel="cctvqixiang">
+    <title>联播天气预报</title>
+  </programme>
+  <programme start="20260805210700 +0800" stop="20260805210900 +0800" channel="cctvqixiang">
+    <title>中国雷达</title>
+  </programme>
+  <programme start="20260805210900 +0800" stop="20260805211500 +0800" channel="cctvqixiang">
+    <title>地震自救互救</title>
+  </programme>
+  <programme start="20260805211500 +0800" stop="20260805212100 +0800" channel="cctvqixiang">
+    <title>世界天气预报</title>
+  </programme>
+  <programme start="20260805212100 +0800" stop="20260805212600 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260805212600 +0800" stop="20260805213000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260805213000 +0800" stop="20260805214500 +0800" channel="cctvqixiang">
+    <title>国家气象播报</title>
+  </programme>
+  <programme start="20260805214500 +0800" stop="20260805215600 +0800" channel="cctvqixiang">
+    <title>气象今日谈</title>
+  </programme>
+  <programme start="20260805215600 +0800" stop="20260805220000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260805220000 +0800" stop="20260805220500 +0800" channel="cctvqixiang">
+    <title>晚间天气预报</title>
+  </programme>
+  <programme start="20260805220500 +0800" stop="20260805221500 +0800" channel="cctvqixiang">
+    <title>中国地理探奇</title>
+  </programme>
+  <programme start="20260805221500 +0800" stop="20260805222100 +0800" channel="cctvqixiang">
+    <title>国际天气预报</title>
+  </programme>
+  <programme start="20260805222100 +0800" stop="20260805222600 +0800" channel="cctvqixiang">
+    <title>气象与建筑</title>
+  </programme>
+  <programme start="20260805222600 +0800" stop="20260805223000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260805223000 +0800" stop="20260805224600 +0800" channel="cctvqixiang">
+    <title>国家气象播报</title>
+  </programme>
+  <programme start="20260805224600 +0800" stop="20260805225600 +0800" channel="cctvqixiang">
+    <title>气象今日谈</title>
+  </programme>
+  <programme start="20260805225600 +0800" stop="20260805230000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260805230000 +0800" stop="20260805230600 +0800" channel="cctvqixiang">
+    <title>晚间天气预报</title>
+  </programme>
+  <programme start="20260805230600 +0800" stop="20260805231000 +0800" channel="cctvqixiang">
+    <title>生活气象指数</title>
+  </programme>
+  <programme start="20260805231000 +0800" stop="20260805231500 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260805231500 +0800" stop="20260805232100 +0800" channel="cctvqixiang">
+    <title>晚间天气预报</title>
+  </programme>
+  <programme start="20260805232100 +0800" stop="20260805232600 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260805232600 +0800" stop="20260805233000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260805233000 +0800" stop="20260805234600 +0800" channel="cctvqixiang">
+    <title>国家气象播报</title>
+  </programme>
+  <programme start="20260805234600 +0800" stop="20260805235600 +0800" channel="cctvqixiang">
+    <title>气象今日谈</title>
+  </programme>
+  <programme start="20260805235600 +0800" stop="20260805235900 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260806000000 +0800" stop="20260806000600 +0800" channel="cctvqixiang">
+    <title>晚间天气预报</title>
+  </programme>
+  <programme start="20260806000600 +0800" stop="20260806002600 +0800" channel="cctvqixiang">
+    <title>天地新视线</title>
+  </programme>
+  <programme start="20260806002600 +0800" stop="20260806003000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260806003000 +0800" stop="20260806004600 +0800" channel="cctvqixiang">
+    <title>国家气象播报</title>
+  </programme>
+  <programme start="20260806004600 +0800" stop="20260806005600 +0800" channel="cctvqixiang">
+    <title>气象今日谈</title>
+  </programme>
+  <programme start="20260806005600 +0800" stop="20260806010000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260806010000 +0800" stop="20260806010600 +0800" channel="cctvqixiang">
+    <title>晚间天气预报</title>
+  </programme>
+  <programme start="20260806010600 +0800" stop="20260806012600 +0800" channel="cctvqixiang">
+    <title>天地新视线</title>
+  </programme>
+  <programme start="20260806012600 +0800" stop="20260806013000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260806013000 +0800" stop="20260806014600 +0800" channel="cctvqixiang">
+    <title>国家气象播报</title>
+  </programme>
+  <programme start="20260806014600 +0800" stop="20260806015600 +0800" channel="cctvqixiang">
+    <title>气象今日谈</title>
+  </programme>
+  <programme start="20260806015600 +0800" stop="20260806020000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260806020000 +0800" stop="20260806020600 +0800" channel="cctvqixiang">
+    <title>晚间天气预报</title>
+  </programme>
+  <programme start="20260806020600 +0800" stop="20260806023000 +0800" channel="cctvqixiang">
+    <title>天地新视线</title>
+  </programme>
+  <programme start="20260806023000 +0800" stop="20260806024600 +0800" channel="cctvqixiang">
+    <title>国家气象播报</title>
+  </programme>
+  <programme start="20260806024600 +0800" stop="20260806030000 +0800" channel="cctvqixiang">
+    <title>气象今日谈</title>
+  </programme>
+  <programme start="20260806030000 +0800" stop="20260806030600 +0800" channel="cctvqixiang">
+    <title>晚间天气预报</title>
+  </programme>
+  <programme start="20260806030600 +0800" stop="20260806033000 +0800" channel="cctvqixiang">
+    <title>天地新视线</title>
+  </programme>
+  <programme start="20260806033000 +0800" stop="20260806034600 +0800" channel="cctvqixiang">
+    <title>国家气象播报</title>
+  </programme>
+  <programme start="20260806034600 +0800" stop="20260806040000 +0800" channel="cctvqixiang">
+    <title>气象今日谈</title>
+  </programme>
+  <programme start="20260806040000 +0800" stop="20260806040600 +0800" channel="cctvqixiang">
+    <title>晚间天气预报</title>
+  </programme>
+  <programme start="20260806040600 +0800" stop="20260806043000 +0800" channel="cctvqixiang">
+    <title>天地新视线</title>
+  </programme>
+  <programme start="20260806043000 +0800" stop="20260806044600 +0800" channel="cctvqixiang">
+    <title>国家气象播报</title>
+  </programme>
+  <programme start="20260806044600 +0800" stop="20260806050000 +0800" channel="cctvqixiang">
+    <title>气象今日谈</title>
+  </programme>
+  <programme start="20260806050000 +0800" stop="20260806050200 +0800" channel="cctvqixiang">
+    <title>国际天气预报</title>
+  </programme>
+  <programme start="20260806050200 +0800" stop="20260806050400 +0800" channel="cctvqixiang">
+    <title>世界天气</title>
+  </programme>
+  <programme start="20260806050400 +0800" stop="20260806052100 +0800" channel="cctvqixiang">
+    <title>国家气象播报</title>
+  </programme>
+  <programme start="20260806052100 +0800" stop="20260806053000 +0800" channel="cctvqixiang">
+    <title>地震自救互救</title>
+  </programme>
+  <programme start="20260806053000 +0800" stop="20260806053200 +0800" channel="cctvqixiang">
+    <title>国际天气预报</title>
+  </programme>
+  <programme start="20260806053200 +0800" stop="20260806054700 +0800" channel="cctvqixiang">
+    <title>气象与建筑</title>
+  </programme>
+  <programme start="20260806054700 +0800" stop="20260806054900 +0800" channel="cctvqixiang">
+    <title>世界天气</title>
+  </programme>
+  <programme start="20260806054900 +0800" stop="20260806055100 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260806055100 +0800" stop="20260806060000 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260806060000 +0800" stop="20260806060200 +0800" channel="cctvqixiang">
+    <title>国际天气预报</title>
+  </programme>
+  <programme start="20260806060200 +0800" stop="20260806060600 +0800" channel="cctvqixiang">
+    <title>世界天气</title>
+  </programme>
+  <programme start="20260806060600 +0800" stop="20260806061100 +0800" channel="cctvqixiang">
+    <title>气象与建筑</title>
+  </programme>
+  <programme start="20260806061100 +0800" stop="20260806063000 +0800" channel="cctvqixiang">
+    <title>国家气象播报</title>
+  </programme>
+  <programme start="20260806063000 +0800" stop="20260806063200 +0800" channel="cctvqixiang">
+    <title>国际天气预报</title>
+  </programme>
+  <programme start="20260806063200 +0800" stop="20260806064700 +0800" channel="cctvqixiang">
+    <title>气象与建筑</title>
+  </programme>
+  <programme start="20260806064700 +0800" stop="20260806064900 +0800" channel="cctvqixiang">
+    <title>世界天气</title>
+  </programme>
+  <programme start="20260806064900 +0800" stop="20260806065600 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260806065600 +0800" stop="20260806070000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260806070000 +0800" stop="20260806071500 +0800" channel="cctvqixiang">
+    <title>国家气象播报</title>
+  </programme>
+  <programme start="20260806071500 +0800" stop="20260806071700 +0800" channel="cctvqixiang">
+    <title>国际天气预报</title>
+  </programme>
+  <programme start="20260806071700 +0800" stop="20260806072100 +0800" channel="cctvqixiang">
+    <title>世界天气</title>
+  </programme>
+  <programme start="20260806072100 +0800" stop="20260806072600 +0800" channel="cctvqixiang">
+    <title>地震自救互救</title>
+  </programme>
+  <programme start="20260806072600 +0800" stop="20260806073000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260806073000 +0800" stop="20260806073300 +0800" channel="cctvqixiang">
+    <title>早间天气预报</title>
+  </programme>
+  <programme start="20260806073300 +0800" stop="20260806074000 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260806074000 +0800" stop="20260806074500 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260806074500 +0800" stop="20260806074800 +0800" channel="cctvqixiang">
+    <title>早间天气预报</title>
+  </programme>
+  <programme start="20260806074800 +0800" stop="20260806075100 +0800" channel="cctvqixiang">
+    <title>世界天气</title>
+  </programme>
+  <programme start="20260806075100 +0800" stop="20260806075600 +0800" channel="cctvqixiang">
+    <title>气象与建筑</title>
+  </programme>
+  <programme start="20260806075600 +0800" stop="20260806080000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260806080000 +0800" stop="20260806081500 +0800" channel="cctvqixiang">
+    <title>国家气象播报</title>
+  </programme>
+  <programme start="20260806081500 +0800" stop="20260806082100 +0800" channel="cctvqixiang">
+    <title>早间天气预报</title>
+  </programme>
+  <programme start="20260806082100 +0800" stop="20260806082600 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260806082600 +0800" stop="20260806083000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260806083000 +0800" stop="20260806083300 +0800" channel="cctvqixiang">
+    <title>早间天气预报</title>
+  </programme>
+  <programme start="20260806083300 +0800" stop="20260806083400 +0800" channel="cctvqixiang">
+    <title>中国雷达</title>
+  </programme>
+  <programme start="20260806083400 +0800" stop="20260806083600 +0800" channel="cctvqixiang">
+    <title>中国海区</title>
+  </programme>
+  <programme start="20260806083600 +0800" stop="20260806085600 +0800" channel="cctvqixiang">
+    <title>天地新视线</title>
+  </programme>
+  <programme start="20260806085600 +0800" stop="20260806090000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260806090000 +0800" stop="20260806090500 +0800" channel="cctvqixiang">
+    <title>风云专报</title>
+  </programme>
+  <programme start="20260806090500 +0800" stop="20260806091500 +0800" channel="cctvqixiang">
+    <title>气象今日谈</title>
+  </programme>
+  <programme start="20260806091500 +0800" stop="20260806091800 +0800" channel="cctvqixiang">
+    <title>早间天气预报</title>
+  </programme>
+  <programme start="20260806091800 +0800" stop="20260806092100 +0800" channel="cctvqixiang">
+    <title>风云专报</title>
+  </programme>
+  <programme start="20260806092100 +0800" stop="20260806092600 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260806092600 +0800" stop="20260806093000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260806093000 +0800" stop="20260806093300 +0800" channel="cctvqixiang">
+    <title>早间天气预报</title>
+  </programme>
+  <programme start="20260806093300 +0800" stop="20260806093600 +0800" channel="cctvqixiang">
+    <title>风云专报</title>
+  </programme>
+  <programme start="20260806093600 +0800" stop="20260806093800 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260806093800 +0800" stop="20260806094500 +0800" channel="cctvqixiang">
+    <title>地震自救互救</title>
+  </programme>
+  <programme start="20260806094500 +0800" stop="20260806094800 +0800" channel="cctvqixiang">
+    <title>早间天气预报</title>
+  </programme>
+  <programme start="20260806094800 +0800" stop="20260806095100 +0800" channel="cctvqixiang">
+    <title>风云专报</title>
+  </programme>
+  <programme start="20260806095100 +0800" stop="20260806095600 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260806095600 +0800" stop="20260806100000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260806100000 +0800" stop="20260806100800 +0800" channel="cctvqixiang">
+    <title>早间天气预报</title>
+  </programme>
+  <programme start="20260806100800 +0800" stop="20260806100900 +0800" channel="cctvqixiang">
+    <title>中国海区</title>
+  </programme>
+  <programme start="20260806100900 +0800" stop="20260806101500 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260806101500 +0800" stop="20260806102300 +0800" channel="cctvqixiang">
+    <title>早间天气预报</title>
+  </programme>
+  <programme start="20260806102300 +0800" stop="20260806102400 +0800" channel="cctvqixiang">
+    <title>中国雷达</title>
+  </programme>
+  <programme start="20260806102400 +0800" stop="20260806102600 +0800" channel="cctvqixiang">
+    <title>中国海区</title>
+  </programme>
+  <programme start="20260806102600 +0800" stop="20260806103500 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260806103500 +0800" stop="20260806104500 +0800" channel="cctvqixiang">
+    <title>气象今日谈</title>
+  </programme>
+  <programme start="20260806104500 +0800" stop="20260806105300 +0800" channel="cctvqixiang">
+    <title>早间天气预报</title>
+  </programme>
+  <programme start="20260806105300 +0800" stop="20260806105600 +0800" channel="cctvqixiang">
+    <title>世界天气</title>
+  </programme>
+  <programme start="20260806105600 +0800" stop="20260806110500 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260806110500 +0800" stop="20260806110700 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260806110700 +0800" stop="20260806111000 +0800" channel="cctvqixiang">
+    <title>健康气象指数</title>
+  </programme>
+  <programme start="20260806111000 +0800" stop="20260806112100 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260806112100 +0800" stop="20260806112600 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260806112600 +0800" stop="20260806113500 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260806113500 +0800" stop="20260806114000 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260806114000 +0800" stop="20260806115000 +0800" channel="cctvqixiang">
+    <title>气象与建筑</title>
+  </programme>
+  <programme start="20260806115000 +0800" stop="20260806115600 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260806115600 +0800" stop="20260806120300 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260806120300 +0800" stop="20260806120600 +0800" channel="cctvqixiang">
+    <title>健康气象指数</title>
+  </programme>
+  <programme start="20260806120600 +0800" stop="20260806120800 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260806120800 +0800" stop="20260806121700 +0800" channel="cctvqixiang">
+    <title>地震自救互救</title>
+  </programme>
+  <programme start="20260806121700 +0800" stop="20260806122000 +0800" channel="cctvqixiang">
+    <title>健康气象指数</title>
+  </programme>
+  <programme start="20260806122000 +0800" stop="20260806122600 +0800" channel="cctvqixiang">
+    <title>气象与建筑</title>
+  </programme>
+  <programme start="20260806122600 +0800" stop="20260806123000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260806123000 +0800" stop="20260806123500 +0800" channel="cctvqixiang">
+    <title>风云专报</title>
+  </programme>
+  <programme start="20260806123500 +0800" stop="20260806124500 +0800" channel="cctvqixiang">
+    <title>气象今日谈</title>
+  </programme>
+  <programme start="20260806124500 +0800" stop="20260806125100 +0800" channel="cctvqixiang">
+    <title>风云专报</title>
+  </programme>
+  <programme start="20260806125100 +0800" stop="20260806125600 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260806125600 +0800" stop="20260806130000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260806130000 +0800" stop="20260806130300 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260806130300 +0800" stop="20260806130800 +0800" channel="cctvqixiang">
+    <title>风云专报</title>
+  </programme>
+  <programme start="20260806130800 +0800" stop="20260806131000 +0800" channel="cctvqixiang">
+    <title>世界天气</title>
+  </programme>
+  <programme start="20260806131000 +0800" stop="20260806131500 +0800" channel="cctvqixiang">
+    <title>气象与建筑</title>
+  </programme>
+  <programme start="20260806131500 +0800" stop="20260806131800 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260806131800 +0800" stop="20260806132600 +0800" channel="cctvqixiang">
+    <title>风云专报</title>
+  </programme>
+  <programme start="20260806132600 +0800" stop="20260806133000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260806133000 +0800" stop="20260806133400 +0800" channel="cctvqixiang">
+    <title>国际天气预报</title>
+  </programme>
+  <programme start="20260806133400 +0800" stop="20260806133900 +0800" channel="cctvqixiang">
+    <title>风云专报</title>
+  </programme>
+  <programme start="20260806133900 +0800" stop="20260806134500 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260806134500 +0800" stop="20260806134800 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260806134800 +0800" stop="20260806135300 +0800" channel="cctvqixiang">
+    <title>风云专报</title>
+  </programme>
+  <programme start="20260806135300 +0800" stop="20260806135600 +0800" channel="cctvqixiang">
+    <title>世界天气</title>
+  </programme>
+  <programme start="20260806135600 +0800" stop="20260806140000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260806140000 +0800" stop="20260806140500 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260806140500 +0800" stop="20260806141500 +0800" channel="cctvqixiang">
+    <title>中国地理探奇</title>
+  </programme>
+  <programme start="20260806141500 +0800" stop="20260806142100 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260806142100 +0800" stop="20260806142600 +0800" channel="cctvqixiang">
+    <title>地震自救互救</title>
+  </programme>
+  <programme start="20260806142600 +0800" stop="20260806143000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260806143000 +0800" stop="20260806143600 +0800" channel="cctvqixiang">
+    <title>国际天气预报</title>
+  </programme>
+  <programme start="20260806143600 +0800" stop="20260806144000 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260806144000 +0800" stop="20260806144500 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260806144500 +0800" stop="20260806145000 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260806145000 +0800" stop="20260806145600 +0800" channel="cctvqixiang">
+    <title>世界天气</title>
+  </programme>
+  <programme start="20260806145600 +0800" stop="20260806150000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260806150000 +0800" stop="20260806150500 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260806150500 +0800" stop="20260806151500 +0800" channel="cctvqixiang">
+    <title>气象百问</title>
+  </programme>
+  <programme start="20260806151500 +0800" stop="20260806152000 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260806152000 +0800" stop="20260806152600 +0800" channel="cctvqixiang">
+    <title>气象与建筑</title>
+  </programme>
+  <programme start="20260806152600 +0800" stop="20260806153000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260806153000 +0800" stop="20260806153600 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260806153600 +0800" stop="20260806154000 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260806154000 +0800" stop="20260806154500 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260806154500 +0800" stop="20260806155100 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260806155100 +0800" stop="20260806155600 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260806155600 +0800" stop="20260806160000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260806160000 +0800" stop="20260806160700 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260806160700 +0800" stop="20260806160800 +0800" channel="cctvqixiang">
+    <title>中国雷达</title>
+  </programme>
+  <programme start="20260806160800 +0800" stop="20260806161000 +0800" channel="cctvqixiang">
+    <title>中国海区</title>
+  </programme>
+  <programme start="20260806161000 +0800" stop="20260806161500 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260806161500 +0800" stop="20260806162100 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260806162100 +0800" stop="20260806162600 +0800" channel="cctvqixiang">
+    <title>气象与建筑</title>
+  </programme>
+  <programme start="20260806162600 +0800" stop="20260806163000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260806163000 +0800" stop="20260806163500 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260806163500 +0800" stop="20260806163700 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260806163700 +0800" stop="20260806163800 +0800" channel="cctvqixiang">
+    <title>中国雷达</title>
+  </programme>
+  <programme start="20260806163800 +0800" stop="20260806164000 +0800" channel="cctvqixiang">
+    <title>中国海区</title>
+  </programme>
+  <programme start="20260806164000 +0800" stop="20260806164500 +0800" channel="cctvqixiang">
+    <title>地震自救互救</title>
+  </programme>
+  <programme start="20260806164500 +0800" stop="20260806165000 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260806165000 +0800" stop="20260806165600 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260806165600 +0800" stop="20260806170000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260806170000 +0800" stop="20260806170500 +0800" channel="cctvqixiang">
+    <title>午间天气预报</title>
+  </programme>
+  <programme start="20260806170500 +0800" stop="20260806172100 +0800" channel="cctvqixiang">
+    <title>气象百问</title>
+  </programme>
+  <programme start="20260806172100 +0800" stop="20260806172600 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260806172600 +0800" stop="20260806173000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260806173000 +0800" stop="20260806173600 +0800" channel="cctvqixiang">
+    <title>世界天气预报</title>
+  </programme>
+  <programme start="20260806173600 +0800" stop="20260806174000 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260806174000 +0800" stop="20260806174500 +0800" channel="cctvqixiang">
+    <title>气象与建筑</title>
+  </programme>
+  <programme start="20260806174500 +0800" stop="20260806175000 +0800" channel="cctvqixiang">
+    <title>世界天气预报</title>
+  </programme>
+  <programme start="20260806175000 +0800" stop="20260806175600 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260806175600 +0800" stop="20260806180500 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260806180500 +0800" stop="20260806180700 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260806180700 +0800" stop="20260806180800 +0800" channel="cctvqixiang">
+    <title>中国雷达</title>
+  </programme>
+  <programme start="20260806180800 +0800" stop="20260806181000 +0800" channel="cctvqixiang">
+    <title>中国海区</title>
+  </programme>
+  <programme start="20260806181000 +0800" stop="20260806182100 +0800" channel="cctvqixiang">
+    <title>地震自救互救</title>
+  </programme>
+  <programme start="20260806182100 +0800" stop="20260806182600 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260806182600 +0800" stop="20260806183500 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260806183500 +0800" stop="20260806184000 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260806184000 +0800" stop="20260806185100 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260806185100 +0800" stop="20260806185600 +0800" channel="cctvqixiang">
+    <title>地震自救互救</title>
+  </programme>
+  <programme start="20260806185600 +0800" stop="20260806190500 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260806190500 +0800" stop="20260806190800 +0800" channel="cctvqixiang">
+    <title>生活气象指数</title>
+  </programme>
+  <programme start="20260806190800 +0800" stop="20260806191300 +0800" channel="cctvqixiang">
+    <title>气象与建筑</title>
+  </programme>
+  <programme start="20260806191300 +0800" stop="20260806192000 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260806192000 +0800" stop="20260806192200 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260806192200 +0800" stop="20260806192600 +0800" channel="cctvqixiang">
+    <title>健康气象指数</title>
+  </programme>
+  <programme start="20260806192600 +0800" stop="20260806193000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260806193000 +0800" stop="20260806193800 +0800" channel="cctvqixiang">
+    <title>晚间天气预报</title>
+  </programme>
+  <programme start="20260806193800 +0800" stop="20260806194000 +0800" channel="cctvqixiang">
+    <title>生活气象指数</title>
+  </programme>
+  <programme start="20260806194000 +0800" stop="20260806194500 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260806194500 +0800" stop="20260806195200 +0800" channel="cctvqixiang">
+    <title>世界天气预报</title>
+  </programme>
+  <programme start="20260806195200 +0800" stop="20260806195600 +0800" channel="cctvqixiang">
+    <title>世界天气</title>
+  </programme>
+  <programme start="20260806195600 +0800" stop="20260806200000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260806200000 +0800" stop="20260806200700 +0800" channel="cctvqixiang">
+    <title>联播天气预报</title>
+  </programme>
+  <programme start="20260806200700 +0800" stop="20260806201200 +0800" channel="cctvqixiang">
+    <title>健康气象指数</title>
+  </programme>
+  <programme start="20260806201200 +0800" stop="20260806201500 +0800" channel="cctvqixiang">
+    <title>中国天气</title>
+  </programme>
+  <programme start="20260806201500 +0800" stop="20260806202600 +0800" channel="cctvqixiang">
+    <title>气象今日谈</title>
+  </programme>
+  <programme start="20260806202600 +0800" stop="20260806203000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260806203000 +0800" stop="20260806203600 +0800" channel="cctvqixiang">
+    <title>晚间天气预报</title>
+  </programme>
+  <programme start="20260806203600 +0800" stop="20260806205600 +0800" channel="cctvqixiang">
+    <title>天地新视线</title>
+  </programme>
+  <programme start="20260806205600 +0800" stop="20260806210000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260806210000 +0800" stop="20260806210700 +0800" channel="cctvqixiang">
+    <title>联播天气预报</title>
+  </programme>
+  <programme start="20260806210700 +0800" stop="20260806210900 +0800" channel="cctvqixiang">
+    <title>中国雷达</title>
+  </programme>
+  <programme start="20260806210900 +0800" stop="20260806211500 +0800" channel="cctvqixiang">
+    <title>地震自救互救</title>
+  </programme>
+  <programme start="20260806211500 +0800" stop="20260806212100 +0800" channel="cctvqixiang">
+    <title>世界天气预报</title>
+  </programme>
+  <programme start="20260806212100 +0800" stop="20260806212600 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260806212600 +0800" stop="20260806213000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260806213000 +0800" stop="20260806214500 +0800" channel="cctvqixiang">
+    <title>国家气象播报</title>
+  </programme>
+  <programme start="20260806214500 +0800" stop="20260806215600 +0800" channel="cctvqixiang">
+    <title>气象今日谈</title>
+  </programme>
+  <programme start="20260806215600 +0800" stop="20260806220000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260806220000 +0800" stop="20260806220500 +0800" channel="cctvqixiang">
+    <title>晚间天气预报</title>
+  </programme>
+  <programme start="20260806220500 +0800" stop="20260806221500 +0800" channel="cctvqixiang">
+    <title>中国地理探奇</title>
+  </programme>
+  <programme start="20260806221500 +0800" stop="20260806222100 +0800" channel="cctvqixiang">
+    <title>国际天气预报</title>
+  </programme>
+  <programme start="20260806222100 +0800" stop="20260806222600 +0800" channel="cctvqixiang">
+    <title>气象与建筑</title>
+  </programme>
+  <programme start="20260806222600 +0800" stop="20260806223000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260806223000 +0800" stop="20260806224600 +0800" channel="cctvqixiang">
+    <title>国家气象播报</title>
+  </programme>
+  <programme start="20260806224600 +0800" stop="20260806225600 +0800" channel="cctvqixiang">
+    <title>气象今日谈</title>
+  </programme>
+  <programme start="20260806225600 +0800" stop="20260806230000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260806230000 +0800" stop="20260806230600 +0800" channel="cctvqixiang">
+    <title>晚间天气预报</title>
+  </programme>
+  <programme start="20260806230600 +0800" stop="20260806231000 +0800" channel="cctvqixiang">
+    <title>生活气象指数</title>
+  </programme>
+  <programme start="20260806231000 +0800" stop="20260806231500 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260806231500 +0800" stop="20260806232100 +0800" channel="cctvqixiang">
+    <title>晚间天气预报</title>
+  </programme>
+  <programme start="20260806232100 +0800" stop="20260806232600 +0800" channel="cctvqixiang">
+    <title>应对地震灾害</title>
+  </programme>
+  <programme start="20260806232600 +0800" stop="20260806233000 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
+  </programme>
+  <programme start="20260806233000 +0800" stop="20260806234600 +0800" channel="cctvqixiang">
+    <title>国家气象播报</title>
+  </programme>
+  <programme start="20260806234600 +0800" stop="20260806235600 +0800" channel="cctvqixiang">
+    <title>气象今日谈</title>
+  </programme>
+  <programme start="20260806235600 +0800" stop="20260806235900 +0800" channel="cctvqixiang">
+    <title>北京本地气象</title>
   </programme>
   <programme start="20260723002110 +0800" stop="20260723024200 +0800" channel="cctvxiqu">
     <title>CCTV空中剧院 秦腔《生死牌》</title>
@@ -52884,8 +55500,221 @@
   <programme start="20260802224000 +0800" stop="20260802235900 +0800" channel="xinkedongman">
     <title>动画时间</title>
   </programme>
-  <programme start="20260803000000 +0800" stop="20260803235900 +0800" channel="xinkedongman">
+  <programme start="20260803000000 +0800" stop="20260803060000 +0800" channel="xinkedongman">
     <title>测视图</title>
+  </programme>
+  <programme start="20260803060000 +0800" stop="20260803071500 +0800" channel="xinkedongman">
+    <title>动画时间</title>
+  </programme>
+  <programme start="20260803071500 +0800" stop="20260803075500 +0800" channel="xinkedongman">
+    <title>动画时间</title>
+  </programme>
+  <programme start="20260803075500 +0800" stop="20260803102200 +0800" channel="xinkedongman">
+    <title>动画时间</title>
+  </programme>
+  <programme start="20260803102200 +0800" stop="20260803112200 +0800" channel="xinkedongman">
+    <title>动画片 长征先锋</title>
+  </programme>
+  <programme start="20260803112200 +0800" stop="20260803115200 +0800" channel="xinkedongman">
+    <title>动画时间</title>
+  </programme>
+  <programme start="20260803115200 +0800" stop="20260803124200 +0800" channel="xinkedongman">
+    <title>中央新影纪录片展映 上党战役</title>
+  </programme>
+  <programme start="20260803124200 +0800" stop="20260803173400 +0800" channel="xinkedongman">
+    <title>动画时间</title>
+  </programme>
+  <programme start="20260803173400 +0800" stop="20260803183400 +0800" channel="xinkedongman">
+    <title>动画片 三星堆荣耀觉醒</title>
+  </programme>
+  <programme start="20260803183400 +0800" stop="20260803185400 +0800" channel="xinkedongman">
+    <title>建党百年专题栏目</title>
+  </programme>
+  <programme start="20260803185400 +0800" stop="20260803192400 +0800" channel="xinkedongman">
+    <title>动画时间</title>
+  </programme>
+  <programme start="20260803192400 +0800" stop="20260803201400 +0800" channel="xinkedongman">
+    <title>动画时间</title>
+  </programme>
+  <programme start="20260803201400 +0800" stop="20260803203400 +0800" channel="xinkedongman">
+    <title>建党百年专题栏目</title>
+  </programme>
+  <programme start="20260803203400 +0800" stop="20260803211000 +0800" channel="xinkedongman">
+    <title>动画片 长征先锋</title>
+  </programme>
+  <programme start="20260803211000 +0800" stop="20260803213000 +0800" channel="xinkedongman">
+    <title>动画时间</title>
+  </programme>
+  <programme start="20260803213000 +0800" stop="20260803215000 +0800" channel="xinkedongman">
+    <title>建党百年专题栏目</title>
+  </programme>
+  <programme start="20260803215000 +0800" stop="20260803224000 +0800" channel="xinkedongman">
+    <title>中央新影纪录片展映 上党战役</title>
+  </programme>
+  <programme start="20260803224000 +0800" stop="20260803235900 +0800" channel="xinkedongman">
+    <title>动画时间</title>
+  </programme>
+  <programme start="20260804000000 +0800" stop="20260804060000 +0800" channel="xinkedongman">
+    <title>测视图</title>
+  </programme>
+  <programme start="20260804060000 +0800" stop="20260804071500 +0800" channel="xinkedongman">
+    <title>动画时间</title>
+  </programme>
+  <programme start="20260804071500 +0800" stop="20260804075500 +0800" channel="xinkedongman">
+    <title>动画时间</title>
+  </programme>
+  <programme start="20260804075500 +0800" stop="20260804102200 +0800" channel="xinkedongman">
+    <title>动画时间</title>
+  </programme>
+  <programme start="20260804102200 +0800" stop="20260804112200 +0800" channel="xinkedongman">
+    <title>动画片 长征先锋</title>
+  </programme>
+  <programme start="20260804112200 +0800" stop="20260804115200 +0800" channel="xinkedongman">
+    <title>动画时间</title>
+  </programme>
+  <programme start="20260804115200 +0800" stop="20260804124200 +0800" channel="xinkedongman">
+    <title>中央新影纪录片展映 上党战役</title>
+  </programme>
+  <programme start="20260804124200 +0800" stop="20260804173400 +0800" channel="xinkedongman">
+    <title>动画时间</title>
+  </programme>
+  <programme start="20260804173400 +0800" stop="20260804183400 +0800" channel="xinkedongman">
+    <title>动画片 三星堆荣耀觉醒</title>
+  </programme>
+  <programme start="20260804183400 +0800" stop="20260804185400 +0800" channel="xinkedongman">
+    <title>建党百年专题栏目</title>
+  </programme>
+  <programme start="20260804185400 +0800" stop="20260804192400 +0800" channel="xinkedongman">
+    <title>动画时间</title>
+  </programme>
+  <programme start="20260804192400 +0800" stop="20260804201400 +0800" channel="xinkedongman">
+    <title>动画时间</title>
+  </programme>
+  <programme start="20260804201400 +0800" stop="20260804203400 +0800" channel="xinkedongman">
+    <title>建党百年专题栏目</title>
+  </programme>
+  <programme start="20260804203400 +0800" stop="20260804211000 +0800" channel="xinkedongman">
+    <title>动画片 长征先锋</title>
+  </programme>
+  <programme start="20260804211000 +0800" stop="20260804213000 +0800" channel="xinkedongman">
+    <title>动画时间</title>
+  </programme>
+  <programme start="20260804213000 +0800" stop="20260804215000 +0800" channel="xinkedongman">
+    <title>建党百年专题栏目</title>
+  </programme>
+  <programme start="20260804215000 +0800" stop="20260804224000 +0800" channel="xinkedongman">
+    <title>中央新影纪录片展映 上党战役</title>
+  </programme>
+  <programme start="20260804224000 +0800" stop="20260804235900 +0800" channel="xinkedongman">
+    <title>动画时间</title>
+  </programme>
+  <programme start="20260805000000 +0800" stop="20260805060000 +0800" channel="xinkedongman">
+    <title>测视图</title>
+  </programme>
+  <programme start="20260805060000 +0800" stop="20260805071500 +0800" channel="xinkedongman">
+    <title>动画时间</title>
+  </programme>
+  <programme start="20260805071500 +0800" stop="20260805075500 +0800" channel="xinkedongman">
+    <title>动画时间</title>
+  </programme>
+  <programme start="20260805075500 +0800" stop="20260805102200 +0800" channel="xinkedongman">
+    <title>动画时间</title>
+  </programme>
+  <programme start="20260805102200 +0800" stop="20260805112200 +0800" channel="xinkedongman">
+    <title>动画片 长征先锋</title>
+  </programme>
+  <programme start="20260805112200 +0800" stop="20260805115200 +0800" channel="xinkedongman">
+    <title>动画时间</title>
+  </programme>
+  <programme start="20260805115200 +0800" stop="20260805124200 +0800" channel="xinkedongman">
+    <title>中央新影纪录片展映 上党战役</title>
+  </programme>
+  <programme start="20260805124200 +0800" stop="20260805173400 +0800" channel="xinkedongman">
+    <title>动画时间</title>
+  </programme>
+  <programme start="20260805173400 +0800" stop="20260805183400 +0800" channel="xinkedongman">
+    <title>动画片 三星堆荣耀觉醒</title>
+  </programme>
+  <programme start="20260805183400 +0800" stop="20260805185400 +0800" channel="xinkedongman">
+    <title>建党百年专题栏目</title>
+  </programme>
+  <programme start="20260805185400 +0800" stop="20260805192400 +0800" channel="xinkedongman">
+    <title>动画时间</title>
+  </programme>
+  <programme start="20260805192400 +0800" stop="20260805201400 +0800" channel="xinkedongman">
+    <title>动画时间</title>
+  </programme>
+  <programme start="20260805201400 +0800" stop="20260805203400 +0800" channel="xinkedongman">
+    <title>建党百年专题栏目</title>
+  </programme>
+  <programme start="20260805203400 +0800" stop="20260805211000 +0800" channel="xinkedongman">
+    <title>动画片 长征先锋</title>
+  </programme>
+  <programme start="20260805211000 +0800" stop="20260805213000 +0800" channel="xinkedongman">
+    <title>动画时间</title>
+  </programme>
+  <programme start="20260805213000 +0800" stop="20260805215000 +0800" channel="xinkedongman">
+    <title>建党百年专题栏目</title>
+  </programme>
+  <programme start="20260805215000 +0800" stop="20260805224000 +0800" channel="xinkedongman">
+    <title>中央新影纪录片展映 上党战役</title>
+  </programme>
+  <programme start="20260805224000 +0800" stop="20260805235900 +0800" channel="xinkedongman">
+    <title>动画时间</title>
+  </programme>
+  <programme start="20260806000000 +0800" stop="20260806060000 +0800" channel="xinkedongman">
+    <title>测视图</title>
+  </programme>
+  <programme start="20260806060000 +0800" stop="20260806071500 +0800" channel="xinkedongman">
+    <title>动画时间</title>
+  </programme>
+  <programme start="20260806071500 +0800" stop="20260806075500 +0800" channel="xinkedongman">
+    <title>动画时间</title>
+  </programme>
+  <programme start="20260806075500 +0800" stop="20260806102200 +0800" channel="xinkedongman">
+    <title>动画时间</title>
+  </programme>
+  <programme start="20260806102200 +0800" stop="20260806112200 +0800" channel="xinkedongman">
+    <title>动画片 长征先锋</title>
+  </programme>
+  <programme start="20260806112200 +0800" stop="20260806115200 +0800" channel="xinkedongman">
+    <title>动画时间</title>
+  </programme>
+  <programme start="20260806115200 +0800" stop="20260806124200 +0800" channel="xinkedongman">
+    <title>中央新影纪录片展映 上党战役</title>
+  </programme>
+  <programme start="20260806124200 +0800" stop="20260806173400 +0800" channel="xinkedongman">
+    <title>动画时间</title>
+  </programme>
+  <programme start="20260806173400 +0800" stop="20260806183400 +0800" channel="xinkedongman">
+    <title>动画片 三星堆荣耀觉醒</title>
+  </programme>
+  <programme start="20260806183400 +0800" stop="20260806185400 +0800" channel="xinkedongman">
+    <title>建党百年专题栏目</title>
+  </programme>
+  <programme start="20260806185400 +0800" stop="20260806192400 +0800" channel="xinkedongman">
+    <title>动画时间</title>
+  </programme>
+  <programme start="20260806192400 +0800" stop="20260806201400 +0800" channel="xinkedongman">
+    <title>动画时间</title>
+  </programme>
+  <programme start="20260806201400 +0800" stop="20260806203400 +0800" channel="xinkedongman">
+    <title>建党百年专题栏目</title>
+  </programme>
+  <programme start="20260806203400 +0800" stop="20260806211000 +0800" channel="xinkedongman">
+    <title>动画片 长征先锋</title>
+  </programme>
+  <programme start="20260806211000 +0800" stop="20260806213000 +0800" channel="xinkedongman">
+    <title>动画时间</title>
+  </programme>
+  <programme start="20260806213000 +0800" stop="20260806215000 +0800" channel="xinkedongman">
+    <title>建党百年专题栏目</title>
+  </programme>
+  <programme start="20260806215000 +0800" stop="20260806224000 +0800" channel="xinkedongman">
+    <title>中央新影纪录片展映 上党战役</title>
+  </programme>
+  <programme start="20260806224000 +0800" stop="20260806235900 +0800" channel="xinkedongman">
+    <title>动画时间</title>
   </programme>
   <programme start="20260723000000 +0800" stop="20260723002000 +0800" channel="zhinan">
     <title>整点冲击播</title>
