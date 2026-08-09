@@ -12651,34 +12651,43 @@
   <programme start="20260809180910 +0800" stop="20260809193000 +0800" channel="cctv3">
     <title>越战越勇-2026-29</title>
   </programme>
-  <programme start="20260809193000 +0800" stop="20260809210345 +0800" channel="cctv3">
-    <title>CMG夏日歌会-陕西榆林站1</title>
+  <programme start="20260809193000 +0800" stop="20260809195729 +0800" channel="cctv3">
+    <title>CMG夏日歌会-陕西榆林站1/3</title>
   </programme>
-  <programme start="20260809210345 +0800" stop="20260809215850 +0800" channel="cctv3">
+  <programme start="20260809195729 +0800" stop="20260809202451 +0800" channel="cctv3">
+    <title>CMG夏日歌会-陕西榆林站2/3</title>
+  </programme>
+  <programme start="20260809202451 +0800" stop="20260809205345 +0800" channel="cctv3">
+    <title>CMG夏日歌会-陕西榆林站 3/3</title>
+  </programme>
+  <programme start="20260809205345 +0800" stop="20260809214850 +0800" channel="cctv3">
     <title>综艺喜乐汇-2026-1058</title>
   </programme>
-  <programme start="20260809215850 +0800" stop="20260809230540 +0800" channel="cctv3">
+  <programme start="20260809214850 +0800" stop="20260809225540 +0800" channel="cctv3">
     <title>综艺喜乐汇-2026-1103 宝贝第一 2</title>
   </programme>
-  <programme start="20260809230540 +0800" stop="20260809235140 +0800" channel="cctv3">
+  <programme start="20260809225540 +0800" stop="20260809234140 +0800" channel="cctv3">
     <title>综艺喜乐汇-2026-839 六姊妹13/38</title>
   </programme>
-  <programme start="20260809235140 +0800" stop="20260809235900 +0800" channel="cctv3">
+  <programme start="20260809234140 +0800" stop="20260809235900 +0800" channel="cctv3">
     <title>综艺喜乐汇-2026-840 六姊妹14/38</title>
   </programme>
-  <programme start="20260810003740 +0800" stop="20260810012340 +0800" channel="cctv3">
+  <programme start="20260810002740 +0800" stop="20260810011340 +0800" channel="cctv3">
     <title>综艺喜乐汇-2026-841 六姊妹15/38</title>
   </programme>
-  <programme start="20260810012340 +0800" stop="20260810025040 +0800" channel="cctv3">
+  <programme start="20260810011340 +0800" stop="20260810024040 +0800" channel="cctv3">
     <title>影视留声机-2025-74-经典电影欣赏《女篮五号》</title>
   </programme>
-  <programme start="20260810025040 +0800" stop="20260810042105 +0800" channel="cctv3">
+  <programme start="20260810024040 +0800" stop="20260810041105 +0800" channel="cctv3">
     <title>中央广播电视总台主持人大赛新闻主播季-3</title>
   </programme>
-  <programme start="20260810042105 +0800" stop="20260810052505 +0800" channel="cctv3">
+  <programme start="20260810041105 +0800" stop="20260810051505 +0800" channel="cctv3">
     <title>中国乡村音乐大会-健康跃动篇</title>
   </programme>
-  <programme start="20260810052505 +0800" stop="20260810065515 +0800" channel="cctv3">
+  <programme start="20260810051505 +0800" stop="20260810053505 +0800" channel="cctv3">
+    <title>综艺喜乐汇-2026-1100 锦绣神州 歌曲集锦14</title>
+  </programme>
+  <programme start="20260810053505 +0800" stop="20260810065515 +0800" channel="cctv3">
     <title>CMG夏日歌会-陕西榆林站1</title>
   </programme>
   <programme start="20260810065515 +0800" stop="20260810080125 +0800" channel="cctv3">
@@ -20043,11 +20052,17 @@
   <programme start="20260808180547 +0800" stop="20260808193500 +0800" channel="cctv6">
     <title>大进军--解放大西北（下）</title>
   </programme>
-  <programme start="20260808193500 +0800" stop="20260808203530 +0800" channel="cctv6">
+  <programme start="20260808193500 +0800" stop="20260808195623 +0800" channel="cctv6">
     <title>《国乐无双》第11期01</title>
   </programme>
-  <programme start="20260808203530 +0800" stop="20260808220000 +0800" channel="cctv6">
+  <programme start="20260808195623 +0800" stop="20260808203616 +0800" channel="cctv6">
     <title>《国乐无双》第11期02</title>
+  </programme>
+  <programme start="20260808203616 +0800" stop="20260808211045 +0800" channel="cctv6">
+    <title>《国乐无双》第11期03</title>
+  </programme>
+  <programme start="20260808211045 +0800" stop="20260808220000 +0800" channel="cctv6">
+    <title>《国乐无双》第11期04</title>
   </programme>
   <programme start="20260808220000 +0800" stop="20260808221800 +0800" channel="cctv6">
     <title>中国电影报道2026-220</title>
