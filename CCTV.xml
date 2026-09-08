@@ -1077,22 +1077,22 @@
   <programme start="20260909190000 +0800" stop="20260909194025 +0800" channel="cctv1">
     <title>新闻联播</title>
   </programme>
-  <programme start="20260909194025 +0800" stop="20260909200135 +0800" channel="cctv1">
+  <programme start="20260909194025 +0800" stop="20260909200120 +0800" channel="cctv1">
     <title>焦点访谈</title>
   </programme>
-  <programme start="20260909200135 +0800" stop="20260909200500 +0800" channel="cctv1">
+  <programme start="20260909200120 +0800" stop="20260909200500 +0800" channel="cctv1">
     <title>前情提要-生逢其时-8/26</title>
   </programme>
-  <programme start="20260909200500 +0800" stop="20260909205730 +0800" channel="cctv1">
+  <programme start="20260909200500 +0800" stop="20260909205600 +0800" channel="cctv1">
     <title>生逢其时8/26</title>
   </programme>
-  <programme start="20260909205730 +0800" stop="20260909210000 +0800" channel="cctv1">
+  <programme start="20260909205600 +0800" stop="20260909210025 +0800" channel="cctv1">
     <title>前情提要-生逢其时-9/26</title>
   </programme>
-  <programme start="20260909210000 +0800" stop="20260909215130 +0800" channel="cctv1">
+  <programme start="20260909210025 +0800" stop="20260909215200 +0800" channel="cctv1">
     <title>生逢其时9/26</title>
   </programme>
-  <programme start="20260909215130 +0800" stop="20260909220000 +0800" channel="cctv1">
+  <programme start="20260909215200 +0800" stop="20260909220000 +0800" channel="cctv1">
     <title>非遗里的中国-MV</title>
   </programme>
   <programme start="20260909220000 +0800" stop="20260909223530 +0800" channel="cctv1">
@@ -1524,14 +1524,14 @@
   <programme start="20260913220000 +0800" stop="20260913223500 +0800" channel="cctv1">
     <title>晚间新闻</title>
   </programme>
-  <programme start="20260913223500 +0800" stop="20260913230915 +0800" channel="cctv1">
-    <title>国家荣光-2026-15</title>
+  <programme start="20260913223500 +0800" stop="20260913235900 +0800" channel="cctv1">
+    <title>2025中国诗词大会-4</title>
   </programme>
-  <programme start="20260913230915 +0800" stop="20260913235900 +0800" channel="cctv1">
-    <title>非遗里的中国（第五季）-河南篇</title>
-  </programme>
-  <programme start="20260914004730 +0800" stop="20260914013130 +0800" channel="cctv1">
+  <programme start="20260914001415 +0800" stop="20260914005930 +0800" channel="cctv1">
     <title>生活早参考-特别节目（生活圈）2026-251</title>
+  </programme>
+  <programme start="20260914005930 +0800" stop="20260914013130 +0800" channel="cctv1">
+    <title>2026寻味山海-3</title>
   </programme>
   <programme start="20260914013130 +0800" stop="20260914020150 +0800" channel="cctv1">
     <title>晚间新闻</title>
@@ -1543,7 +1543,7 @@
     <title>中华古树-城步杉木王（4K）</title>
   </programme>
   <programme start="20260914024500 +0800" stop="20260914235900 +0800" channel="cctv1">
-    <title>非遗里的中国（第五季）-河南篇</title>
+    <title>2025中国诗词大会-4</title>
   </programme>
   <programme start="20260901005530 +0800" stop="20260901013530 +0800" channel="cctv10">
     <title>探索·发现-2026-243</title>
@@ -16137,11 +16137,8 @@
   <programme start="20260909223500 +0800" stop="20260909233000 +0800" channel="cctv5">
     <title>实况录像-2026中国羽毛球大师赛 3</title>
   </programme>
-  <programme start="20260909233000 +0800" stop="20260909234500 +0800" channel="cctv5">
-    <title>实况录像-荣耀十分-2026年世界田联钻石联赛 严子怡女子标枪夺金 1</title>
-  </programme>
-  <programme start="20260909234500 +0800" stop="20260909235900 +0800" channel="cctv5">
-    <title>2026年女篮世界杯-1/4决赛资格赛2</title>
+  <programme start="20260909233000 +0800" stop="20260909235900 +0800" channel="cctv5">
+    <title>2026年女篮世界杯-1/4决赛资格赛（波多黎各-中国）</title>
   </programme>
   <programme start="20260910014000 +0800" stop="20260910023800 +0800" channel="cctv5">
     <title>实况录像-2026年世界艺术体操锦标赛 1</title>
