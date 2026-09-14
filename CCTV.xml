@@ -964,16 +964,16 @@
     <title>焦点访谈</title>
   </programme>
   <programme start="20260914200050 +0800" stop="20260914200400 +0800" channel="cctv1">
-    <title>前情提要-生逢其时-12/26</title>
+    <title>前情提要-生逢其时-第12集</title>
   </programme>
   <programme start="20260914200400 +0800" stop="20260914205555 +0800" channel="cctv1">
-    <title>生逢其时12/26</title>
+    <title>生逢其时第12集</title>
   </programme>
   <programme start="20260914205555 +0800" stop="20260914210040 +0800" channel="cctv1">
-    <title>前情提要-生逢其时-13/26</title>
+    <title>前情提要-生逢其时-第13集</title>
   </programme>
   <programme start="20260914210040 +0800" stop="20260914215220 +0800" channel="cctv1">
-    <title>生逢其时13/26</title>
+    <title>生逢其时第13集</title>
   </programme>
   <programme start="20260914215220 +0800" stop="20260914220000 +0800" channel="cctv1">
     <title>非遗里的中国-MV</title>
@@ -1024,13 +1024,13 @@
     <title>生活早参考-特别节目（生活圈）2026-253</title>
   </programme>
   <programme start="20260915092320 +0800" stop="20260915101150 +0800" channel="cctv1">
-    <title>家业23/42</title>
+    <title>家业第23集</title>
   </programme>
   <programme start="20260915101150 +0800" stop="20260915110150 +0800" channel="cctv1">
-    <title>家业24/42</title>
+    <title>家业第24集</title>
   </programme>
   <programme start="20260915110150 +0800" stop="20260915114805 +0800" channel="cctv1">
-    <title>家业25/42</title>
+    <title>家业第25集</title>
   </programme>
   <programme start="20260915114805 +0800" stop="20260915115415 +0800" channel="cctv1">
     <title>三餐四季-宣传片</title>
@@ -1045,19 +1045,19 @@
     <title>今日说法-2026-170</title>
   </programme>
   <programme start="20260915130800 +0800" stop="20260915135615 +0800" channel="cctv1">
-    <title>隐锋30/37</title>
+    <title>隐锋第30集</title>
   </programme>
   <programme start="20260915135615 +0800" stop="20260915144250 +0800" channel="cctv1">
-    <title>隐锋31/37</title>
+    <title>隐锋第31集</title>
   </programme>
   <programme start="20260915144250 +0800" stop="20260915153135 +0800" channel="cctv1">
-    <title>隐锋32/37</title>
+    <title>隐锋第32集</title>
   </programme>
   <programme start="20260915153135 +0800" stop="20260915162005 +0800" channel="cctv1">
-    <title>隐锋33/37</title>
+    <title>隐锋第33集</title>
   </programme>
   <programme start="20260915162005 +0800" stop="20260915170825 +0800" channel="cctv1">
-    <title>隐锋34/37</title>
+    <title>隐锋第34集</title>
   </programme>
   <programme start="20260915170825 +0800" stop="20260915173840 +0800" channel="cctv1">
     <title>第一动画乐园-2026-226</title>
@@ -1078,18 +1078,18 @@
     <title>焦点访谈</title>
   </programme>
   <programme start="20260915200120 +0800" stop="20260915200600 +0800" channel="cctv1">
-    <title>前情提要-生逢其时-14/26</title>
+    <title>前情提要-生逢其时-第14集</title>
   </programme>
-  <programme start="20260915200600 +0800" stop="20260915205750 +0800" channel="cctv1">
+  <programme start="20260915200600 +0800" stop="20260915205620 +0800" channel="cctv1">
     <title>生逢其时14/26</title>
   </programme>
-  <programme start="20260915205750 +0800" stop="20260915205950 +0800" channel="cctv1">
-    <title>前情提要-生逢其时-15/26</title>
+  <programme start="20260915205620 +0800" stop="20260915205820 +0800" channel="cctv1">
+    <title>前情提要-生逢其时-第15集</title>
   </programme>
-  <programme start="20260915205950 +0800" stop="20260915215320 +0800" channel="cctv1">
+  <programme start="20260915205820 +0800" stop="20260915215010 +0800" channel="cctv1">
     <title>生逢其时15/26</title>
   </programme>
-  <programme start="20260915215320 +0800" stop="20260915220000 +0800" channel="cctv1">
+  <programme start="20260915215010 +0800" stop="20260915220000 +0800" channel="cctv1">
     <title>三餐四季-宣传片</title>
   </programme>
   <programme start="20260915220000 +0800" stop="20260915223530 +0800" channel="cctv1">
@@ -2586,8 +2586,11 @@
   <programme start="20260916013030 +0800" stop="20260916021030 +0800" channel="cctv10">
     <title>健康之路-2026-259</title>
   </programme>
-  <programme start="20260916021030 +0800" stop="20260916060000 +0800" channel="cctv10">
+  <programme start="20260916021030 +0800" stop="20260916025030 +0800" channel="cctv10">
     <title>百家讲坛-2026-258</title>
+  </programme>
+  <programme start="20260916025030 +0800" stop="20260916060000 +0800" channel="cctv10">
+    <title>再见</title>
   </programme>
   <programme start="20260916060000 +0800" stop="20260916061000 +0800" channel="cctv10">
     <title>读书-2026-312</title>
@@ -3583,10 +3586,10 @@
     <title>琼剧电影-喜团圆</title>
   </programme>
   <programme start="20260915110720 +0800" stop="20260915115750 +0800" channel="cctv11">
-    <title>珠江人家2/35</title>
+    <title>珠江人家第2集</title>
   </programme>
   <programme start="20260915115750 +0800" stop="20260915124820 +0800" channel="cctv11">
-    <title>珠江人家3/35</title>
+    <title>珠江人家第3集</title>
   </programme>
   <programme start="20260915124820 +0800" stop="20260915141220 +0800" channel="cctv11">
     <title>戏韵风华 星耀合肥-中央广播电视总台首届戏曲知音大会-9</title>
@@ -3595,10 +3598,10 @@
     <title>中国戏曲像音像集萃-2026-35京剧《乾坤福寿镜》</title>
   </programme>
   <programme start="20260915171900 +0800" stop="20260915180930 +0800" channel="cctv11">
-    <title>武当一剑18/39</title>
+    <title>武当一剑第18集</title>
   </programme>
   <programme start="20260915180930 +0800" stop="20260915190000 +0800" channel="cctv11">
-    <title>武当一剑19/39</title>
+    <title>武当一剑第19集</title>
   </programme>
   <programme start="20260915190000 +0800" stop="20260915193000 +0800" channel="cctv11">
     <title>青春戏苑-2026-129溯光·豫剧《花木兰》精编专辑</title>
@@ -3607,16 +3610,19 @@
     <title>现代京剧 沙家浜</title>
   </programme>
   <programme start="20260915215415 +0800" stop="20260915224445 +0800" channel="cctv11">
-    <title>北上11/38</title>
+    <title>北上第11集</title>
   </programme>
   <programme start="20260915224445 +0800" stop="20260915233515 +0800" channel="cctv11">
-    <title>北上12/38</title>
+    <title>北上第12集</title>
   </programme>
   <programme start="20260915233515 +0800" stop="20260915235900 +0800" channel="cctv11">
-    <title>北上13/38</title>
+    <title>北上第13集</title>
   </programme>
-  <programme start="20260916002545 +0800" stop="20260916060630 +0800" channel="cctv11">
+  <programme start="20260916002545 +0800" stop="20260916005645 +0800" channel="cctv11">
     <title>青春戏苑-2026-129溯光·豫剧《花木兰》精编专辑</title>
+  </programme>
+  <programme start="20260916005645 +0800" stop="20260916060630 +0800" channel="cctv11">
+    <title>再见</title>
   </programme>
   <programme start="20260916060630 +0800" stop="20260916071930 +0800" channel="cctv11">
     <title>青春戏苑-2026-64 多剧种《白蛇传》（选场）</title>
@@ -4713,8 +4719,11 @@
   <programme start="20260916011500 +0800" stop="20260916014600 +0800" channel="cctv12">
     <title>一线-2026-184</title>
   </programme>
-  <programme start="20260916014600 +0800" stop="20260916060000 +0800" channel="cctv12">
+  <programme start="20260916014600 +0800" stop="20260916023700 +0800" channel="cctv12">
     <title>普法剧场2026-258</title>
+  </programme>
+  <programme start="20260916023700 +0800" stop="20260916060000 +0800" channel="cctv12">
+    <title>再见</title>
   </programme>
   <programme start="20260916060000 +0800" stop="20260916063300 +0800" channel="cctv12">
     <title>法律讲堂-2026-258</title>
@@ -7230,8 +7239,11 @@
   <programme start="20260915233030 +0800" stop="20260915235900 +0800" channel="cctv15">
     <title>精彩音乐汇-我的爱对你说-2026-276</title>
   </programme>
-  <programme start="20260916004415 +0800" stop="20260916060000 +0800" channel="cctv15">
+  <programme start="20260916004415 +0800" stop="20260916011915 +0800" channel="cctv15">
     <title>风华国乐-2026-264</title>
+  </programme>
+  <programme start="20260916011915 +0800" stop="20260916060000 +0800" channel="cctv15">
+    <title>再见</title>
   </programme>
   <programme start="20260916060000 +0800" stop="20260916070830 +0800" channel="cctv15">
     <title>精彩音乐汇-我的爱对你说-2026-347</title>
@@ -7249,7 +7261,7 @@
     <title>精彩音乐汇-我的爱对你说-2026-409</title>
   </programme>
   <programme start="20260916112330 +0800" stop="20260916132700 +0800" channel="cctv15">
-    <title>第二届丝路之星国际音乐大赛-2</title>
+    <title>第二届丝路之星国际音乐大赛-2 播出版</title>
   </programme>
   <programme start="20260916132700 +0800" stop="20260916154330 +0800" channel="cctv15">
     <title>影视留声机-2026-35-经典电影欣赏《智取华山》</title>
@@ -9181,10 +9193,10 @@
     <title>共富经-2026-132-创富记2</title>
   </programme>
   <programme start="20260915101950 +0800" stop="20260915111030 +0800" channel="cctv17">
-    <title>妈妈在等你31/47</title>
+    <title>妈妈在等你第31集</title>
   </programme>
   <programme start="20260915111030 +0800" stop="20260915120000 +0800" channel="cctv17">
-    <title>妈妈在等你32/47</title>
+    <title>妈妈在等你第32集</title>
   </programme>
   <programme start="20260915120000 +0800" stop="20260915123100 +0800" channel="cctv17">
     <title>中国三农报道</title>
@@ -9199,16 +9211,16 @@
     <title>2026田园特供-动物趣百科-草木藏锋</title>
   </programme>
   <programme start="20260915134205 +0800" stop="20260915143110 +0800" channel="cctv17">
-    <title>我最爱的家人36/39</title>
+    <title>我最爱的家人第36集</title>
   </programme>
   <programme start="20260915143110 +0800" stop="20260915152220 +0800" channel="cctv17">
-    <title>我最爱的家人37/39</title>
+    <title>我最爱的家人第37集</title>
   </programme>
   <programme start="20260915152220 +0800" stop="20260915161255 +0800" channel="cctv17">
-    <title>我最爱的家人38/39</title>
+    <title>我最爱的家人第38集</title>
   </programme>
   <programme start="20260915161255 +0800" stop="20260915170400 +0800" channel="cctv17">
-    <title>我最爱的家人39/39</title>
+    <title>我最爱的家人第39集</title>
   </programme>
   <programme start="20260915170400 +0800" stop="20260915180000 +0800" channel="cctv17">
     <title>谁知盘中餐-2026-154-乡野寻鲜14</title>
@@ -9223,10 +9235,10 @@
     <title>乡理乡亲-2023-32</title>
   </programme>
   <programme start="20260915185730 +0800" stop="20260915195300 +0800" channel="cctv17">
-    <title>妈妈在等你33/47</title>
+    <title>妈妈在等你第33集</title>
   </programme>
   <programme start="20260915195300 +0800" stop="20260915204600 +0800" channel="cctv17">
-    <title>妈妈在等你34/47</title>
+    <title>妈妈在等你第34集</title>
   </programme>
   <programme start="20260915204600 +0800" stop="20260915212000 +0800" channel="cctv17">
     <title>洋大厨学闽菜-3</title>
@@ -9243,8 +9255,11 @@
   <programme start="20260915234400 +0800" stop="20260915235900 +0800" channel="cctv17">
     <title>三农群英汇-2026-299</title>
   </programme>
-  <programme start="20260916001400 +0800" stop="20260916055630 +0800" channel="cctv17">
+  <programme start="20260916001400 +0800" stop="20260916014000 +0800" channel="cctv17">
     <title>丰收中国之乡村趣味运动会-5</title>
+  </programme>
+  <programme start="20260916014000 +0800" stop="20260916055630 +0800" channel="cctv17">
+    <title>再见</title>
   </programme>
   <programme start="20260916055630 +0800" stop="20260916060600 +0800" channel="cctv17">
     <title>2026田园特供-乡村达人秀12-飞斧表演</title>
@@ -11845,7 +11860,7 @@
     <title>国宝音乐会-故宫篇-重播版5</title>
   </programme>
   <programme start="20260914150910 +0800" stop="20260914170630 +0800" channel="cctv3">
-    <title>第二届丝路之星国际音乐大赛-2</title>
+    <title>第二届丝路之星国际音乐大赛-2 播出版</title>
   </programme>
   <programme start="20260914170630 +0800" stop="20260914180800 +0800" channel="cctv3">
     <title>综艺喜乐汇-2026-601</title>
@@ -11983,7 +11998,7 @@
     <title>综艺喜乐汇-2026-1127 万疆</title>
   </programme>
   <programme start="20260916100255 +0800" stop="20260916113000 +0800" channel="cctv3">
-    <title>全民畅舞-21</title>
+    <title>全民畅舞-20</title>
   </programme>
   <programme start="20260916113000 +0800" stop="20260916130000 +0800" channel="cctv3">
     <title>开门大吉-2025-27</title>
@@ -13501,19 +13516,19 @@
     <title>中国新闻</title>
   </programme>
   <programme start="20260915131550 +0800" stop="20260915140220 +0800" channel="cctv4">
-    <title>绝密使命5/32</title>
+    <title>绝密使命第5集</title>
   </programme>
   <programme start="20260915140220 +0800" stop="20260915144850 +0800" channel="cctv4">
-    <title>绝密使命6/32</title>
+    <title>绝密使命第6集</title>
   </programme>
   <programme start="20260915144850 +0800" stop="20260915153735 +0800" channel="cctv4">
-    <title>绝密使命7/32</title>
+    <title>绝密使命第7集</title>
   </programme>
   <programme start="20260915153735 +0800" stop="20260915162540 +0800" channel="cctv4">
-    <title>绝密使命8/32</title>
+    <title>绝密使命第8集</title>
   </programme>
   <programme start="20260915162540 +0800" stop="20260915171500 +0800" channel="cctv4">
-    <title>绝密使命9/32</title>
+    <title>绝密使命第9集</title>
   </programme>
   <programme start="20260915171500 +0800" stop="20260915180000 +0800" channel="cctv4">
     <title>远方的家2026-189</title>
@@ -13546,13 +13561,13 @@
     <title>新闻联播</title>
   </programme>
   <programme start="20260915230430 +0800" stop="20260915235030 +0800" channel="cctv4">
-    <title>亲爱的孩子们16/40</title>
+    <title>亲爱的孩子们第16集</title>
   </programme>
   <programme start="20260915235030 +0800" stop="20260915235900 +0800" channel="cctv4">
-    <title>亲爱的孩子们17/40</title>
+    <title>亲爱的孩子们第17集</title>
   </programme>
   <programme start="20260916003630 +0800" stop="20260916012340 +0800" channel="cctv4">
-    <title>亲爱的孩子们18/40</title>
+    <title>亲爱的孩子们第18集</title>
   </programme>
   <programme start="20260916012340 +0800" stop="20260916015300 +0800" channel="cctv4">
     <title>中国文艺-2026-184</title>
@@ -15784,7 +15799,7 @@
     <title>4K宣传片-食安中国</title>
   </programme>
   <programme start="20260915094555 +0800" stop="20260915103155 +0800" channel="cctv4k">
-    <title>种墨园-4K-1/34</title>
+    <title>种墨园-（4K）-1/34</title>
   </programme>
   <programme start="20260915103155 +0800" stop="20260915103215 +0800" channel="cctv4k">
     <title>4K频道宣传片-标识演绎3</title>
@@ -15892,7 +15907,7 @@
     <title>4K节目预告</title>
   </programme>
   <programme start="20260915200315 +0800" stop="20260915204915 +0800" channel="cctv4k">
-    <title>种墨园-4K-2/34</title>
+    <title>种墨园-（4K）-2/34</title>
   </programme>
   <programme start="20260915204915 +0800" stop="20260915204950 +0800" channel="cctv4k">
     <title>4K宣传片-白露2026</title>
@@ -15901,7 +15916,7 @@
     <title>4K宣传片-周末一起看电影</title>
   </programme>
   <programme start="20260915205020 +0800" stop="20260915213620 +0800" channel="cctv4k">
-    <title>种墨园-4K-3/34</title>
+    <title>种墨园-（4K）-3/34</title>
   </programme>
   <programme start="20260915213620 +0800" stop="20260915213640 +0800" channel="cctv4k">
     <title>4K标识演绎-2019-2</title>
@@ -15920,6 +15935,9 @@
   </programme>
   <programme start="20260915235925 +0800" stop="20260915235900 +0800" channel="cctv4k">
     <title>4K超清视野-2018-1-标识演绎-1/3</title>
+  </programme>
+  <programme start="20260916000000 +0800" stop="20260916060049 +0800" channel="cctv4k">
+    <title>再见</title>
   </programme>
   <programme start="20260916060049 +0800" stop="20260916060125 +0800" channel="cctv4k">
     <title>4K频道宣传片-标识演绎4</title>
@@ -17380,7 +17398,7 @@
     <title>艺术里的奥林匹克(4K)</title>
   </programme>
   <programme start="20260915125800 +0800" stop="20260915143000 +0800" channel="cctv5">
-    <title>2026年亚洲男排锦标赛-决赛（4K）</title>
+    <title>2026年亚洲男排锦标赛-三、四名决赛（4K）</title>
   </programme>
   <programme start="20260915143000 +0800" stop="20260915160100 +0800" channel="cctv5">
     <title>2026年美国网球公开赛-女单决赛（4K）</title>
@@ -18124,7 +18142,7 @@
     <title>实况录像-2026年女篮世界杯 半决赛 2</title>
   </programme>
   <programme start="20260915084700 +0800" stop="20260915101800 +0800" channel="cctv5plus">
-    <title>2026年亚洲男排锦标赛-决赛（4K）</title>
+    <title>2026年亚洲男排锦标赛-半决赛（4K）</title>
   </programme>
   <programme start="20260915101800 +0800" stop="20260915102800 +0800" channel="cctv5plus">
     <title>实况录像-荣耀十分-2026年世界田联钻石联赛 布鲁塞尔站 严子怡女子标枪夺金</title>
@@ -20208,8 +20226,11 @@
   <programme start="20260915233545 +0800" stop="20260915235900 +0800" channel="cctv7">
     <title>军事纪实-2026-184</title>
   </programme>
-  <programme start="20260916001015 +0800" stop="20260916060300 +0800" channel="cctv7">
+  <programme start="20260916001015 +0800" stop="20260916004815 +0800" channel="cctv7">
     <title>兵器面面观-2026-184</title>
+  </programme>
+  <programme start="20260916004815 +0800" stop="20260916060300 +0800" channel="cctv7">
+    <title>再见</title>
   </programme>
   <programme start="20260916060300 +0800" stop="20260916063330 +0800" channel="cctv7">
     <title>军事纪实-2026-184</title>
@@ -21622,25 +21643,25 @@
     <title>本集提要-交锋-第17集</title>
   </programme>
   <programme start="20260914193000 +0800" stop="20260914202540 +0800" channel="cctv8">
-    <title>交锋17/40</title>
+    <title>交锋第17集</title>
   </programme>
   <programme start="20260914202540 +0800" stop="20260914203040 +0800" channel="cctv8">
     <title>本集提要-交锋-第18集</title>
   </programme>
   <programme start="20260914203040 +0800" stop="20260914212440 +0800" channel="cctv8">
-    <title>交锋18/40</title>
+    <title>交锋第18集</title>
   </programme>
   <programme start="20260914212440 +0800" stop="20260914212940 +0800" channel="cctv8">
     <title>本集提要-兰香如故-第7集</title>
   </programme>
   <programme start="20260914212940 +0800" stop="20260914221940 +0800" channel="cctv8">
-    <title>兰香如故7/31</title>
+    <title>兰香如故第7集</title>
   </programme>
   <programme start="20260914221940 +0800" stop="20260914222140 +0800" channel="cctv8">
     <title>本集提要-兰香如故-第8集</title>
   </programme>
   <programme start="20260914222140 +0800" stop="20260914231140 +0800" channel="cctv8">
-    <title>兰香如故8/31</title>
+    <title>兰香如故第8集</title>
   </programme>
   <programme start="20260914231140 +0800" stop="20260914235740 +0800" channel="cctv8">
     <title>我是刑警第6集</title>
@@ -21670,118 +21691,118 @@
     <title>插花-2022-4</title>
   </programme>
   <programme start="20260915044440 +0800" stop="20260915053040 +0800" channel="cctv8">
-    <title>六姊妹10/38</title>
+    <title>六姊妹第10集</title>
   </programme>
   <programme start="20260915053040 +0800" stop="20260915061640 +0800" channel="cctv8">
-    <title>六姊妹11/38</title>
+    <title>六姊妹第11集</title>
   </programme>
   <programme start="20260915061640 +0800" stop="20260915070340 +0800" channel="cctv8">
-    <title>六姊妹12/38</title>
+    <title>六姊妹第12集</title>
   </programme>
   <programme start="20260915070340 +0800" stop="20260915074940 +0800" channel="cctv8">
-    <title>六姊妹13/38</title>
+    <title>六姊妹第13集</title>
   </programme>
   <programme start="20260915074940 +0800" stop="20260915075520 +0800" channel="cctv8">
     <title>星推荐-2026年9月-14</title>
   </programme>
   <programme start="20260915075520 +0800" stop="20260915084805 +0800" channel="cctv8">
-    <title>主角6/48</title>
+    <title>主角第6集</title>
   </programme>
   <programme start="20260915084805 +0800" stop="20260915093820 +0800" channel="cctv8">
-    <title>主角7/48</title>
+    <title>主角第7集</title>
   </programme>
   <programme start="20260915093820 +0800" stop="20260915094845 +0800" channel="cctv8">
     <title>星推荐-2026年9月-14</title>
   </programme>
   <programme start="20260915094845 +0800" stop="20260915104445 +0800" channel="cctv8">
-    <title>主角8/48</title>
+    <title>主角第8集</title>
   </programme>
   <programme start="20260915104445 +0800" stop="20260915114115 +0800" channel="cctv8">
-    <title>主角9/48</title>
+    <title>主角第9集</title>
   </programme>
   <programme start="20260915114115 +0800" stop="20260915122715 +0800" channel="cctv8">
-    <title>主角10/48</title>
+    <title>主角第10集</title>
   </programme>
   <programme start="20260915122715 +0800" stop="20260915124225 +0800" channel="cctv8">
     <title>星推荐-2026年9月-14</title>
   </programme>
   <programme start="20260915124225 +0800" stop="20260915133810 +0800" channel="cctv8">
-    <title>冬城猎凶9/22</title>
+    <title>冬城猎凶第9集</title>
   </programme>
   <programme start="20260915133810 +0800" stop="20260915143310 +0800" channel="cctv8">
-    <title>重器21/33</title>
+    <title>重器第21集</title>
   </programme>
   <programme start="20260915143310 +0800" stop="20260915152910 +0800" channel="cctv8">
-    <title>重器22/33</title>
+    <title>重器第22集</title>
   </programme>
   <programme start="20260915152910 +0800" stop="20260915162310 +0800" channel="cctv8">
-    <title>重器23/33</title>
+    <title>重器第23集</title>
   </programme>
   <programme start="20260915162310 +0800" stop="20260915162655 +0800" channel="cctv8">
     <title>插花-2026-1</title>
   </programme>
   <programme start="20260915162655 +0800" stop="20260915172910 +0800" channel="cctv8">
-    <title>米良与麦青12/26</title>
+    <title>米良与麦青第12集</title>
   </programme>
   <programme start="20260915172910 +0800" stop="20260915182155 +0800" channel="cctv8">
-    <title>米良与麦青13/26</title>
+    <title>米良与麦青第13集</title>
   </programme>
   <programme start="20260915182155 +0800" stop="20260915182950 +0800" channel="cctv8">
     <title>星推荐-2026年9月-14</title>
   </programme>
   <programme start="20260915182950 +0800" stop="20260915191950 +0800" channel="cctv8">
-    <title>米良与麦青14/26</title>
+    <title>米良与麦青第14集</title>
   </programme>
   <programme start="20260915191950 +0800" stop="20260915192605 +0800" channel="cctv8">
     <title>星推荐-2026年9月-15</title>
   </programme>
   <programme start="20260915192605 +0800" stop="20260915193000 +0800" channel="cctv8">
-    <title>本集提要-交锋-19/40</title>
+    <title>本集提要-交锋-第19集</title>
   </programme>
   <programme start="20260915193000 +0800" stop="20260915202540 +0800" channel="cctv8">
     <title>交锋19/40</title>
   </programme>
   <programme start="20260915202540 +0800" stop="20260915203040 +0800" channel="cctv8">
-    <title>本集提要-交锋-20/40</title>
+    <title>本集提要-交锋-第20集</title>
   </programme>
   <programme start="20260915203040 +0800" stop="20260915212440 +0800" channel="cctv8">
     <title>交锋20/40</title>
   </programme>
   <programme start="20260915212440 +0800" stop="20260915212940 +0800" channel="cctv8">
-    <title>本集提要-兰香如故-9/31</title>
+    <title>本集提要-兰香如故-第9集</title>
   </programme>
   <programme start="20260915212940 +0800" stop="20260915221940 +0800" channel="cctv8">
-    <title>兰香如故9/31</title>
+    <title>兰香如故第9集</title>
   </programme>
   <programme start="20260915221940 +0800" stop="20260915222140 +0800" channel="cctv8">
-    <title>本集提要-兰香如故-10/31</title>
+    <title>本集提要-兰香如故-第10集</title>
   </programme>
   <programme start="20260915222140 +0800" stop="20260915231140 +0800" channel="cctv8">
-    <title>兰香如故10/31</title>
+    <title>兰香如故第10集</title>
   </programme>
   <programme start="20260915231140 +0800" stop="20260915235740 +0800" channel="cctv8">
-    <title>我是刑警13/38</title>
+    <title>我是刑警第13集</title>
   </programme>
   <programme start="20260915235740 +0800" stop="20260915235900 +0800" channel="cctv8">
     <title>星推荐-2026年9月-15</title>
   </programme>
   <programme start="20260916000450 +0800" stop="20260916005050 +0800" channel="cctv8">
-    <title>我是刑警14/38</title>
+    <title>我是刑警第14集</title>
   </programme>
   <programme start="20260916005050 +0800" stop="20260916013650 +0800" channel="cctv8">
-    <title>我是刑警15/38</title>
+    <title>我是刑警第15集</title>
   </programme>
   <programme start="20260916013650 +0800" stop="20260916022250 +0800" channel="cctv8">
-    <title>我是刑警16/38</title>
+    <title>我是刑警第16集</title>
   </programme>
   <programme start="20260916022250 +0800" stop="20260916030850 +0800" channel="cctv8">
-    <title>我是刑警17/38</title>
+    <title>我是刑警第17集</title>
   </programme>
   <programme start="20260916030850 +0800" stop="20260916035450 +0800" channel="cctv8">
-    <title>我是刑警18/38</title>
+    <title>我是刑警第18集</title>
   </programme>
   <programme start="20260916035450 +0800" stop="20260916044050 +0800" channel="cctv8">
-    <title>我是刑警19/38</title>
+    <title>我是刑警第19集</title>
   </programme>
   <programme start="20260916044050 +0800" stop="20260916044440 +0800" channel="cctv8">
     <title>插花-2022-4</title>
@@ -28405,13 +28426,13 @@
     <title>哈尔滨2025年亚冬会-夺冠时刻速度滑冰女子1500米（8K）</title>
   </programme>
   <programme start="20260915074655 +0800" stop="20260915075036 +0800" channel="cctv8k">
-    <title>奋楫家国  沈水欢歌颂端阳-回家的路（8K）</title>
+    <title>奋楫家国 沈水欢歌颂端阳-回家的路（8K）</title>
   </programme>
   <programme start="20260915075036 +0800" stop="20260915075258 +0800" channel="cctv8k">
-    <title>奋楫家国  沈水欢歌颂端阳-篇章（8K）</title>
+    <title>奋楫家国 沈水欢歌颂端阳-篇章（8K）</title>
   </programme>
   <programme start="20260915075258 +0800" stop="20260915075604 +0800" channel="cctv8k">
-    <title>奋楫家国  沈水欢歌颂端阳-就是哪吒（8K）</title>
+    <title>奋楫家国 沈水欢歌颂端阳-就是哪吒（8K）</title>
   </programme>
   <programme start="20260915075604 +0800" stop="20260915075722 +0800" channel="cctv8k">
     <title>8K超高清万象-莲·荷</title>
@@ -28483,13 +28504,13 @@
     <title>鹿鸣课堂-宣传片(8K)</title>
   </programme>
   <programme start="20260915090855 +0800" stop="20260915091119 +0800" channel="cctv8k">
-    <title>奋楫家国  沈水欢歌颂端阳-赠你（8K）</title>
+    <title>奋楫家国 沈水欢歌颂端阳-赠你（8K）</title>
   </programme>
   <programme start="20260915091119 +0800" stop="20260915091534 +0800" channel="cctv8k">
-    <title>奋楫家国  沈水欢歌颂端阳-心月同辉（8K）</title>
+    <title>奋楫家国 沈水欢歌颂端阳-心月同辉（8K）</title>
   </programme>
   <programme start="20260915091534 +0800" stop="20260915091800 +0800" channel="cctv8k">
-    <title>奋楫家国  沈水欢歌颂端阳-华夏（8K）</title>
+    <title>奋楫家国 沈水欢歌颂端阳-华夏（8K）</title>
   </programme>
   <programme start="20260915091800 +0800" stop="20260915092250 +0800" channel="cctv8k">
     <title>大国小鲜——石榴说-6（8K）</title>
@@ -28600,13 +28621,13 @@
     <title>8K超高清万象-莲·荷</title>
   </programme>
   <programme start="20260915114813 +0800" stop="20260915115154 +0800" channel="cctv8k">
-    <title>奋楫家国  沈水欢歌颂端阳-回家的路（8K）</title>
+    <title>奋楫家国 沈水欢歌颂端阳-回家的路（8K）</title>
   </programme>
   <programme start="20260915115154 +0800" stop="20260915115416 +0800" channel="cctv8k">
-    <title>奋楫家国  沈水欢歌颂端阳-篇章（8K）</title>
+    <title>奋楫家国 沈水欢歌颂端阳-篇章（8K）</title>
   </programme>
   <programme start="20260915115416 +0800" stop="20260915115722 +0800" channel="cctv8k">
-    <title>奋楫家国  沈水欢歌颂端阳-就是哪吒（8K）</title>
+    <title>奋楫家国 沈水欢歌颂端阳-就是哪吒（8K）</title>
   </programme>
   <programme start="20260915115722 +0800" stop="20260915120000 +0800" channel="cctv8k">
     <title>制胜空天的铁翼鲲鹏-宣传片（8K）</title>
@@ -28666,13 +28687,13 @@
     <title>8K超高清万象-白露2026</title>
   </programme>
   <programme start="20260915130205 +0800" stop="20260915130429 +0800" channel="cctv8k">
-    <title>奋楫家国  沈水欢歌颂端阳-赠你（8K）</title>
+    <title>奋楫家国 沈水欢歌颂端阳-赠你（8K）</title>
   </programme>
   <programme start="20260915130429 +0800" stop="20260915130844 +0800" channel="cctv8k">
-    <title>奋楫家国  沈水欢歌颂端阳-心月同辉（8K）</title>
+    <title>奋楫家国 沈水欢歌颂端阳-心月同辉（8K）</title>
   </programme>
   <programme start="20260915130844 +0800" stop="20260915131110 +0800" channel="cctv8k">
-    <title>奋楫家国  沈水欢歌颂端阳-华夏（8K）</title>
+    <title>奋楫家国 沈水欢歌颂端阳-华夏（8K）</title>
   </programme>
   <programme start="20260915131110 +0800" stop="20260915131600 +0800" channel="cctv8k">
     <title>大国小鲜——石榴说-6（8K）</title>
@@ -28777,13 +28798,13 @@
     <title>哈尔滨2025年亚冬会-夺冠时刻速度滑冰男子1500米（8K）</title>
   </programme>
   <programme start="20260915155051 +0800" stop="20260915155432 +0800" channel="cctv8k">
-    <title>奋楫家国  沈水欢歌颂端阳-回家的路（8K）</title>
+    <title>奋楫家国 沈水欢歌颂端阳-回家的路（8K）</title>
   </programme>
   <programme start="20260915155432 +0800" stop="20260915155654 +0800" channel="cctv8k">
-    <title>奋楫家国  沈水欢歌颂端阳-篇章（8K）</title>
+    <title>奋楫家国 沈水欢歌颂端阳-篇章（8K）</title>
   </programme>
   <programme start="20260915155654 +0800" stop="20260915160000 +0800" channel="cctv8k">
-    <title>奋楫家国  沈水欢歌颂端阳-就是哪吒（8K）</title>
+    <title>奋楫家国 沈水欢歌颂端阳-就是哪吒（8K）</title>
   </programme>
   <programme start="20260915160000 +0800" stop="20260915160030 +0800" channel="cctv8k">
     <title>交锋2-宣传片（8K）</title>
@@ -28846,13 +28867,13 @@
     <title>哈尔滨2025年亚冬会-夺冠时刻速度滑冰男子500米（8K）</title>
   </programme>
   <programme start="20260915170612 +0800" stop="20260915170836 +0800" channel="cctv8k">
-    <title>奋楫家国  沈水欢歌颂端阳-赠你（8K）</title>
+    <title>奋楫家国 沈水欢歌颂端阳-赠你（8K）</title>
   </programme>
   <programme start="20260915170836 +0800" stop="20260915171251 +0800" channel="cctv8k">
-    <title>奋楫家国  沈水欢歌颂端阳-心月同辉（8K）</title>
+    <title>奋楫家国 沈水欢歌颂端阳-心月同辉（8K）</title>
   </programme>
   <programme start="20260915171251 +0800" stop="20260915171517 +0800" channel="cctv8k">
-    <title>奋楫家国  沈水欢歌颂端阳-华夏（8K）</title>
+    <title>奋楫家国 沈水欢歌颂端阳-华夏（8K）</title>
   </programme>
   <programme start="20260915171517 +0800" stop="20260915172007 +0800" channel="cctv8k">
     <title>大国小鲜——石榴说-6（8K）</title>
@@ -29088,8 +29109,11 @@
   <programme start="20260915225455 +0800" stop="20260915225925 +0800" channel="cctv8k">
     <title>8K超高清万象-美丽中国 四季</title>
   </programme>
-  <programme start="20260915225925 +0800" stop="20260915235900 +0800" channel="cctv8k">
+  <programme start="20260915225925 +0800" stop="20260915230000 +0800" channel="cctv8k">
     <title>8K标识演绎-总宣（音乐改版）（8K）</title>
+  </programme>
+  <programme start="20260915230000 +0800" stop="20260915235900 +0800" channel="cctv8k">
+    <title>8K再见</title>
   </programme>
   <programme start="20260916070000 +0800" stop="20260916070035 +0800" channel="cctv8k">
     <title>8K标识演绎-总宣（音乐改版）（8K）</title>
@@ -33865,10 +33889,10 @@
     <title>今日环球</title>
   </programme>
   <programme start="20260915090000 +0800" stop="20260915094600 +0800" channel="cctvamerica">
-    <title>三泉溪暖25/27</title>
+    <title>三泉溪暖第25集</title>
   </programme>
   <programme start="20260915094600 +0800" stop="20260915103200 +0800" channel="cctvamerica">
-    <title>三泉溪暖26/27</title>
+    <title>三泉溪暖第26集</title>
   </programme>
   <programme start="20260915103200 +0800" stop="20260915110200 +0800" channel="cctvamerica">
     <title>国家记忆-2026-110</title>
@@ -33889,10 +33913,10 @@
     <title>走遍中国-2026-146</title>
   </programme>
   <programme start="20260915140800 +0800" stop="20260915145400 +0800" channel="cctvamerica">
-    <title>枫桥警事14/30</title>
+    <title>枫桥警事第14集</title>
   </programme>
   <programme start="20260915145400 +0800" stop="20260915154000 +0800" channel="cctvamerica">
-    <title>枫桥警事15/30</title>
+    <title>枫桥警事第15集</title>
   </programme>
   <programme start="20260915154000 +0800" stop="20260915162500 +0800" channel="cctvamerica">
     <title>远方的家2026-188</title>
@@ -33901,10 +33925,10 @@
     <title>记住乡愁-片段展播-2025-1</title>
   </programme>
   <programme start="20260915162800 +0800" stop="20260915171400 +0800" channel="cctvamerica">
-    <title>三泉溪暖25/27</title>
+    <title>三泉溪暖第25集</title>
   </programme>
   <programme start="20260915171400 +0800" stop="20260915180000 +0800" channel="cctvamerica">
-    <title>三泉溪暖26/27</title>
+    <title>三泉溪暖第26集</title>
   </programme>
   <programme start="20260915180000 +0800" stop="20260915190000 +0800" channel="cctvamerica">
     <title>中国新闻</title>
@@ -33949,10 +33973,10 @@
     <title>探索发现(海外版)-2026-178</title>
   </programme>
   <programme start="20260916022800 +0800" stop="20260916031400 +0800" channel="cctvamerica">
-    <title>枫桥警事16/30</title>
+    <title>枫桥警事第16集</title>
   </programme>
   <programme start="20260916031400 +0800" stop="20260916040000 +0800" channel="cctvamerica">
-    <title>枫桥警事17/30</title>
+    <title>枫桥警事第17集</title>
   </programme>
   <programme start="20260916040000 +0800" stop="20260916043000 +0800" channel="cctvamerica">
     <title>中国新闻</title>
@@ -35067,8 +35091,11 @@
   <programme start="20260915235200 +0800" stop="20260915235900 +0800" channel="cctvchild">
     <title>中流击水-5/30</title>
   </programme>
-  <programme start="20260916004200 +0800" stop="20260916060000 +0800" channel="cctvchild">
+  <programme start="20260916004200 +0800" stop="20260916013200 +0800" channel="cctvchild">
     <title>中流击水-6/30</title>
+  </programme>
+  <programme start="20260916013200 +0800" stop="20260916060000 +0800" channel="cctvchild">
+    <title>再见</title>
   </programme>
   <programme start="20260916060000 +0800" stop="20260916063500 +0800" channel="cctvchild">
     <title>风车剧场-2026-198</title>
@@ -36379,10 +36406,10 @@
     <title>国家记忆-2026-110</title>
   </programme>
   <programme start="20260915102700 +0800" stop="20260915111300 +0800" channel="cctveurope">
-    <title>大山的女儿4/30</title>
+    <title>大山的女儿第4集</title>
   </programme>
   <programme start="20260915111300 +0800" stop="20260915120000 +0800" channel="cctveurope">
-    <title>大山的女儿5/30</title>
+    <title>大山的女儿第5集</title>
   </programme>
   <programme start="20260915120000 +0800" stop="20260915131500 +0800" channel="cctveurope">
     <title>中国新闻</title>
@@ -36403,10 +36430,10 @@
     <title>海峡两岸-2026-257</title>
   </programme>
   <programme start="20260915162800 +0800" stop="20260915171400 +0800" channel="cctveurope">
-    <title>大山的女儿6/30</title>
+    <title>大山的女儿第6集</title>
   </programme>
   <programme start="20260915171400 +0800" stop="20260915180000 +0800" channel="cctveurope">
-    <title>大山的女儿7/30</title>
+    <title>大山的女儿第7集</title>
   </programme>
   <programme start="20260915180000 +0800" stop="20260915190000 +0800" channel="cctveurope">
     <title>中国新闻</title>
@@ -40804,1048 +40831,988 @@
     <title>特别节目《井陉煤矿百年风云》（三）</title>
   </programme>
   <programme start="20260914060100 +0800" stop="20260914063000 +0800" channel="cctvlaogushi">
-    <title>亲历《“杠”与“星”的记忆》授衔背后</title>
+    <title>亲历《大武汉》（五）</title>
   </programme>
-  <programme start="20260914063000 +0800" stop="20260914071800 +0800" channel="cctvlaogushi">
-    <title>往事钩沉《承德避暑山庄》（三）</title>
+  <programme start="20260914063000 +0800" stop="20260914064200 +0800" channel="cctvlaogushi">
+    <title>攀登者《正义先行星火燎原》</title>
   </programme>
-  <programme start="20260914071800 +0800" stop="20260914075300 +0800" channel="cctvlaogushi">
-    <title>特别节目《文艺名家讲故事》田青</title>
+  <programme start="20260914064200 +0800" stop="20260914073300 +0800" channel="cctvlaogushi">
+    <title>中国史话《寻找失落的年表》（一）</title>
   </programme>
-  <programme start="20260914075300 +0800" stop="20260914082700 +0800" channel="cctvlaogushi">
-    <title>纪录《一江山岛之战》（一）</title>
+  <programme start="20260914073300 +0800" stop="20260914081200 +0800" channel="cctvlaogushi">
+    <title>往事钩沉《照片背后的故事》（上）</title>
   </programme>
-  <programme start="20260914082700 +0800" stop="20260914084500 +0800" channel="cctvlaogushi">
-    <title>见解《办学筑梦研石寻源》</title>
+  <programme start="20260914081200 +0800" stop="20260914081900 +0800" channel="cctvlaogushi">
+    <title>特别节目《飞虎队与驼峰航线》</title>
+  </programme>
+  <programme start="20260914081900 +0800" stop="20260914084500 +0800" channel="cctvlaogushi">
+    <title>中华文明《高密剪纸》《临水人家》《龙窑》</title>
   </programme>
   <programme start="20260914084500 +0800" stop="20260914090100 +0800" channel="cctvlaogushi">
-    <title>中华文明《潭柘寺塔林》《柏兹克里克》《草原石人》</title>
+    <title>非凡匠人《德匠标尺华夏匠心》</title>
   </programme>
-  <programme start="20260914090100 +0800" stop="20260914093100 +0800" channel="cctvlaogushi">
-    <title>亲历《“杠”与“星”的记忆》离开的女军人</title>
+  <programme start="20260914090100 +0800" stop="20260914093400 +0800" channel="cctvlaogushi">
+    <title>亲历《大武汉》（六）</title>
   </programme>
-  <programme start="20260914093100 +0800" stop="20260914094200 +0800" channel="cctvlaogushi">
-    <title>信用中国《杨步湘》</title>
+  <programme start="20260914093400 +0800" stop="20260914094800 +0800" channel="cctvlaogushi">
+    <title>信用中国《王凡》</title>
   </programme>
-  <programme start="20260914094200 +0800" stop="20260914095300 +0800" channel="cctvlaogushi">
-    <title>信用中国《周安邦》</title>
+  <programme start="20260914094800 +0800" stop="20260914100200 +0800" channel="cctvlaogushi">
+    <title>信用中国《徐润容》</title>
   </programme>
-  <programme start="20260914095300 +0800" stop="20260914100500 +0800" channel="cctvlaogushi">
-    <title>攀登者《黄土高原上的回响》</title>
+  <programme start="20260914100200 +0800" stop="20260914101300 +0800" channel="cctvlaogushi">
+    <title>攀登者《筑梦还乡不负韶华》</title>
   </programme>
-  <programme start="20260914100500 +0800" stop="20260914101600 +0800" channel="cctvlaogushi">
-    <title>开拓者《电氢之间柔能之变》（上）</title>
+  <programme start="20260914101300 +0800" stop="20260914110500 +0800" channel="cctvlaogushi">
+    <title>中国史话《寻找失落的年表》（二）</title>
   </programme>
-  <programme start="20260914101600 +0800" stop="20260914110200 +0800" channel="cctvlaogushi">
-    <title>往事钩沉《承德避暑山庄》（四）</title>
+  <programme start="20260914110500 +0800" stop="20260914114800 +0800" channel="cctvlaogushi">
+    <title>往事钩沉《照片背后的故事》（下）</title>
   </programme>
-  <programme start="20260914110200 +0800" stop="20260914113700 +0800" channel="cctvlaogushi">
-    <title>特别节目《铁骨忠魂》（一）</title>
+  <programme start="20260914114800 +0800" stop="20260914120000 +0800" channel="cctvlaogushi">
+    <title>纪录匠心《活酒微生物的文明史》</title>
   </programme>
-  <programme start="20260914113700 +0800" stop="20260914114900 +0800" channel="cctvlaogushi">
-    <title>纪录匠心《超越》</title>
-  </programme>
-  <programme start="20260914114900 +0800" stop="20260914120400 +0800" channel="cctvlaogushi">
-    <title>对话向上的品牌《专注呼吸正道笃行》</title>
-  </programme>
-  <programme start="20260914120400 +0800" stop="20260914123000 +0800" channel="cctvlaogushi">
-    <title>特别节目《凤舞神州》（四）</title>
+  <programme start="20260914120000 +0800" stop="20260914123000 +0800" channel="cctvlaogushi">
+    <title>特别节目《庐山人文圣山》（四）</title>
   </programme>
   <programme start="20260914123000 +0800" stop="20260914130100 +0800" channel="cctvlaogushi">
-    <title>特别节目《文艺名家讲故事》李心草</title>
+    <title>特别节目《井陉煤矿百年风云》（五）</title>
   </programme>
   <programme start="20260914130100 +0800" stop="20260914133000 +0800" channel="cctvlaogushi">
-    <title>亲历《“杠”与“星”的记忆》授衔背后</title>
+    <title>亲历《大武汉》（五）</title>
   </programme>
-  <programme start="20260914133000 +0800" stop="20260914141800 +0800" channel="cctvlaogushi">
-    <title>往事钩沉《承德避暑山庄》（三）</title>
+  <programme start="20260914133000 +0800" stop="20260914134200 +0800" channel="cctvlaogushi">
+    <title>攀登者《正义先行星火燎原》</title>
   </programme>
-  <programme start="20260914141800 +0800" stop="20260914145300 +0800" channel="cctvlaogushi">
-    <title>特别节目《文艺名家讲故事》田青</title>
+  <programme start="20260914134200 +0800" stop="20260914143300 +0800" channel="cctvlaogushi">
+    <title>中国史话《寻找失落的年表》（一）</title>
   </programme>
-  <programme start="20260914145300 +0800" stop="20260914152700 +0800" channel="cctvlaogushi">
-    <title>纪录《一江山岛之战》（一）</title>
+  <programme start="20260914143300 +0800" stop="20260914151200 +0800" channel="cctvlaogushi">
+    <title>往事钩沉《照片背后的故事》（上）</title>
   </programme>
-  <programme start="20260914152700 +0800" stop="20260914154500 +0800" channel="cctvlaogushi">
-    <title>见解《办学筑梦研石寻源》</title>
+  <programme start="20260914151200 +0800" stop="20260914151900 +0800" channel="cctvlaogushi">
+    <title>特别节目《飞虎队与驼峰航线》</title>
   </programme>
-  <programme start="20260914154500 +0800" stop="20260914160100 +0800" channel="cctvlaogushi">
-    <title>中华文明《潭柘寺塔林》《柏兹克里克》《草原石人》</title>
+  <programme start="20260914151900 +0800" stop="20260914154500 +0800" channel="cctvlaogushi">
+    <title>中华文明《高密剪纸》《临水人家》《龙窑》</title>
   </programme>
-  <programme start="20260914160100 +0800" stop="20260914161200 +0800" channel="cctvlaogushi">
-    <title>非凡匠人《东方新绿易普乐的全球耕耘》</title>
+  <programme start="20260914154500 +0800" stop="20260914160000 +0800" channel="cctvlaogushi">
+    <title>非凡匠人《德匠标尺华夏匠心》</title>
   </programme>
-  <programme start="20260914161200 +0800" stop="20260914163500 +0800" channel="cctvlaogushi">
-    <title>特别节目《凤舞神州》（三）</title>
+  <programme start="20260914160000 +0800" stop="20260914163000 +0800" channel="cctvlaogushi">
+    <title>特别节目《庐山人文圣山》（三）</title>
   </programme>
-  <programme start="20260914163500 +0800" stop="20260914170100 +0800" channel="cctvlaogushi">
-    <title>特别节目《永恒之轴》（五）</title>
+  <programme start="20260914163000 +0800" stop="20260914170100 +0800" channel="cctvlaogushi">
+    <title>特别节目《井陉煤矿百年风云》（四）</title>
   </programme>
-  <programme start="20260914170100 +0800" stop="20260914173100 +0800" channel="cctvlaogushi">
-    <title>亲历《“杠”与“星”的记忆》离开的女军人</title>
+  <programme start="20260914170100 +0800" stop="20260914173400 +0800" channel="cctvlaogushi">
+    <title>亲历《大武汉》（六）</title>
   </programme>
-  <programme start="20260914173100 +0800" stop="20260914174200 +0800" channel="cctvlaogushi">
-    <title>信用中国《杨步湘》</title>
+  <programme start="20260914173400 +0800" stop="20260914174800 +0800" channel="cctvlaogushi">
+    <title>信用中国《王凡》</title>
   </programme>
-  <programme start="20260914174200 +0800" stop="20260914175300 +0800" channel="cctvlaogushi">
-    <title>信用中国《周安邦》</title>
+  <programme start="20260914174800 +0800" stop="20260914180200 +0800" channel="cctvlaogushi">
+    <title>信用中国《徐润容》</title>
   </programme>
-  <programme start="20260914175300 +0800" stop="20260914180500 +0800" channel="cctvlaogushi">
-    <title>攀登者《黄土高原上的回响》</title>
+  <programme start="20260914180200 +0800" stop="20260914181300 +0800" channel="cctvlaogushi">
+    <title>攀登者《筑梦还乡不负韶华》</title>
   </programme>
-  <programme start="20260914180500 +0800" stop="20260914181600 +0800" channel="cctvlaogushi">
-    <title>开拓者《电氢之间柔能之变》（上）</title>
+  <programme start="20260914181300 +0800" stop="20260914190500 +0800" channel="cctvlaogushi">
+    <title>中国史话《寻找失落的年表》（二）</title>
   </programme>
-  <programme start="20260914181600 +0800" stop="20260914190200 +0800" channel="cctvlaogushi">
-    <title>往事钩沉《承德避暑山庄》（四）</title>
+  <programme start="20260914190500 +0800" stop="20260914194800 +0800" channel="cctvlaogushi">
+    <title>往事钩沉《照片背后的故事》（下）</title>
   </programme>
-  <programme start="20260914190200 +0800" stop="20260914193700 +0800" channel="cctvlaogushi">
-    <title>特别节目《铁骨忠魂》（一）</title>
+  <programme start="20260914194800 +0800" stop="20260914200000 +0800" channel="cctvlaogushi">
+    <title>纪录匠心《活酒微生物的文明史》</title>
   </programme>
-  <programme start="20260914193700 +0800" stop="20260914194900 +0800" channel="cctvlaogushi">
-    <title>纪录匠心《超越》</title>
-  </programme>
-  <programme start="20260914194900 +0800" stop="20260914200400 +0800" channel="cctvlaogushi">
-    <title>对话向上的品牌《专注呼吸正道笃行》</title>
-  </programme>
-  <programme start="20260914200400 +0800" stop="20260914203000 +0800" channel="cctvlaogushi">
-    <title>特别节目《凤舞神州》（四）</title>
+  <programme start="20260914200000 +0800" stop="20260914203000 +0800" channel="cctvlaogushi">
+    <title>特别节目《庐山人文圣山》（四）</title>
   </programme>
   <programme start="20260914203000 +0800" stop="20260914210100 +0800" channel="cctvlaogushi">
-    <title>特别节目《文艺名家讲故事》李心草</title>
+    <title>特别节目《井陉煤矿百年风云》（五）</title>
   </programme>
   <programme start="20260914210100 +0800" stop="20260914213000 +0800" channel="cctvlaogushi">
-    <title>亲历《“杠”与“星”的记忆》授衔背后</title>
+    <title>亲历《大武汉》（五）</title>
   </programme>
-  <programme start="20260914213000 +0800" stop="20260914221800 +0800" channel="cctvlaogushi">
-    <title>往事钩沉《承德避暑山庄》（三）</title>
+  <programme start="20260914213000 +0800" stop="20260914214200 +0800" channel="cctvlaogushi">
+    <title>攀登者《正义先行星火燎原》</title>
   </programme>
-  <programme start="20260914221800 +0800" stop="20260914225300 +0800" channel="cctvlaogushi">
-    <title>特别节目《文艺名家讲故事》田青</title>
+  <programme start="20260914214200 +0800" stop="20260914223300 +0800" channel="cctvlaogushi">
+    <title>中国史话《寻找失落的年表》（一）</title>
   </programme>
-  <programme start="20260914225300 +0800" stop="20260914232700 +0800" channel="cctvlaogushi">
-    <title>纪录《一江山岛之战》（一）</title>
+  <programme start="20260914223300 +0800" stop="20260914231200 +0800" channel="cctvlaogushi">
+    <title>往事钩沉《照片背后的故事》（上）</title>
   </programme>
-  <programme start="20260914232700 +0800" stop="20260914234500 +0800" channel="cctvlaogushi">
-    <title>见解《办学筑梦研石寻源》</title>
+  <programme start="20260914231200 +0800" stop="20260914231900 +0800" channel="cctvlaogushi">
+    <title>特别节目《飞虎队与驼峰航线》</title>
+  </programme>
+  <programme start="20260914231900 +0800" stop="20260914234500 +0800" channel="cctvlaogushi">
+    <title>中华文明《高密剪纸》《临水人家》《龙窑》</title>
   </programme>
   <programme start="20260914234500 +0800" stop="20260914235900 +0800" channel="cctvlaogushi">
-    <title>中华文明《潭柘寺塔林》《柏兹克里克》《草原石人》</title>
+    <title>非凡匠人《德匠标尺华夏匠心》</title>
   </programme>
-  <programme start="20260915000100 +0800" stop="20260915001200 +0800" channel="cctvlaogushi">
-    <title>非凡匠人《东方新绿易普乐的全球耕耘》</title>
+  <programme start="20260915000000 +0800" stop="20260915003000 +0800" channel="cctvlaogushi">
+    <title>特别节目《庐山人文圣山》（四）</title>
   </programme>
-  <programme start="20260915001200 +0800" stop="20260915003500 +0800" channel="cctvlaogushi">
-    <title>特别节目《凤舞神州》（三）</title>
+  <programme start="20260915003000 +0800" stop="20260915060100 +0800" channel="cctvlaogushi">
+    <title>特别节目《井陉煤矿百年风云》（五）</title>
   </programme>
-  <programme start="20260915003500 +0800" stop="20260915060100 +0800" channel="cctvlaogushi">
-    <title>特别节目《永恒之轴》（五）</title>
+  <programme start="20260915060100 +0800" stop="20260915063400 +0800" channel="cctvlaogushi">
+    <title>亲历《大武汉》（六）</title>
   </programme>
-  <programme start="20260915060100 +0800" stop="20260915063100 +0800" channel="cctvlaogushi">
-    <title>亲历《“杠”与“星”的记忆》离开的女军人</title>
+  <programme start="20260915063400 +0800" stop="20260915064800 +0800" channel="cctvlaogushi">
+    <title>信用中国《王凡》</title>
   </programme>
-  <programme start="20260915063100 +0800" stop="20260915064200 +0800" channel="cctvlaogushi">
-    <title>信用中国《杨步湘》</title>
+  <programme start="20260915064800 +0800" stop="20260915070200 +0800" channel="cctvlaogushi">
+    <title>信用中国《徐润容》</title>
   </programme>
-  <programme start="20260915064200 +0800" stop="20260915065300 +0800" channel="cctvlaogushi">
-    <title>信用中国《周安邦》</title>
+  <programme start="20260915070200 +0800" stop="20260915071300 +0800" channel="cctvlaogushi">
+    <title>攀登者《筑梦还乡不负韶华》</title>
   </programme>
-  <programme start="20260915065300 +0800" stop="20260915070500 +0800" channel="cctvlaogushi">
-    <title>攀登者《黄土高原上的回响》</title>
+  <programme start="20260915071300 +0800" stop="20260915080500 +0800" channel="cctvlaogushi">
+    <title>中国史话《寻找失落的年表》（二）</title>
   </programme>
-  <programme start="20260915070500 +0800" stop="20260915071600 +0800" channel="cctvlaogushi">
-    <title>开拓者《电氢之间柔能之变》（上）</title>
+  <programme start="20260915080500 +0800" stop="20260915084800 +0800" channel="cctvlaogushi">
+    <title>往事钩沉《照片背后的故事》（下）</title>
   </programme>
-  <programme start="20260915071600 +0800" stop="20260915080200 +0800" channel="cctvlaogushi">
-    <title>往事钩沉《承德避暑山庄》（四）</title>
+  <programme start="20260915084800 +0800" stop="20260915090100 +0800" channel="cctvlaogushi">
+    <title>纪录匠心《活酒微生物的文明史》</title>
   </programme>
-  <programme start="20260915080200 +0800" stop="20260915083700 +0800" channel="cctvlaogushi">
-    <title>特别节目《铁骨忠魂》（一）</title>
+  <programme start="20260915090100 +0800" stop="20260915093000 +0800" channel="cctvlaogushi">
+    <title>亲历《百年家族之卢氏家族》（一）</title>
   </programme>
-  <programme start="20260915083700 +0800" stop="20260915084900 +0800" channel="cctvlaogushi">
-    <title>纪录匠心《超越》</title>
+  <programme start="20260915093000 +0800" stop="20260915094100 +0800" channel="cctvlaogushi">
+    <title>信用中国《刘睿》</title>
   </programme>
-  <programme start="20260915084900 +0800" stop="20260915090100 +0800" channel="cctvlaogushi">
-    <title>对话向上的品牌《专注呼吸正道笃行》</title>
+  <programme start="20260915094100 +0800" stop="20260915095100 +0800" channel="cctvlaogushi">
+    <title>信用中国《陈爱琴》</title>
   </programme>
-  <programme start="20260915090100 +0800" stop="20260915093500 +0800" channel="cctvlaogushi">
-    <title>亲历《“杠”与“星”的记忆》特殊荣誉</title>
+  <programme start="20260915095100 +0800" stop="20260915100600 +0800" channel="cctvlaogushi">
+    <title>攀登者《呦呦鹿鸣冷极共生》</title>
   </programme>
-  <programme start="20260915093500 +0800" stop="20260915094500 +0800" channel="cctvlaogushi">
-    <title>信用中国《尹涛》（上）</title>
+  <programme start="20260915100600 +0800" stop="20260915105600 +0800" channel="cctvlaogushi">
+    <title>中国史话《寻找失落的年表》（三）</title>
   </programme>
-  <programme start="20260915094500 +0800" stop="20260915095600 +0800" channel="cctvlaogushi">
-    <title>信用中国《尹涛》（下）</title>
+  <programme start="20260915105600 +0800" stop="20260915113000 +0800" channel="cctvlaogushi">
+    <title>纪录《西部往事》（一）</title>
   </programme>
-  <programme start="20260915095600 +0800" stop="20260915100600 +0800" channel="cctvlaogushi">
-    <title>攀登者《多元布局绘就产业新篇》</title>
+  <programme start="20260915113000 +0800" stop="20260915114500 +0800" channel="cctvlaogushi">
+    <title>品质中国《初心不改筑梦还乡》</title>
   </programme>
-  <programme start="20260915100600 +0800" stop="20260915101700 +0800" channel="cctvlaogushi">
-    <title>开拓者《电氢之间柔能之变》（下）</title>
+  <programme start="20260915114500 +0800" stop="20260915120000 +0800" channel="cctvlaogushi">
+    <title>品质中国《设计之外》</title>
   </programme>
-  <programme start="20260915101700 +0800" stop="20260915110600 +0800" channel="cctvlaogushi">
-    <title>往事钩沉《北洋水师》（一）</title>
+  <programme start="20260915120000 +0800" stop="20260915121000 +0800" channel="cctvlaogushi">
+    <title>品质中国《小城大味守鲜守心》</title>
   </programme>
-  <programme start="20260915110600 +0800" stop="20260915114000 +0800" channel="cctvlaogushi">
-    <title>特别节目《铁骨忠魂》（二）</title>
+  <programme start="20260915121000 +0800" stop="20260915123000 +0800" channel="cctvlaogushi">
+    <title>人文纪录《从河说起》（二）</title>
   </programme>
-  <programme start="20260915114000 +0800" stop="20260915120100 +0800" channel="cctvlaogushi">
-    <title>人文纪录《从河说起》（一）</title>
+  <programme start="20260915123000 +0800" stop="20260915130100 +0800" channel="cctvlaogushi">
+    <title>特别节目《庐山人文圣山》（五）</title>
   </programme>
-  <programme start="20260915120100 +0800" stop="20260915123600 +0800" channel="cctvlaogushi">
-    <title>特别节目《文艺名家讲故事》李军</title>
+  <programme start="20260915130100 +0800" stop="20260915133400 +0800" channel="cctvlaogushi">
+    <title>亲历《大武汉》（六）</title>
   </programme>
-  <programme start="20260915123600 +0800" stop="20260915130100 +0800" channel="cctvlaogushi">
-    <title>特别节目《凤舞神州》（五）</title>
+  <programme start="20260915133400 +0800" stop="20260915134800 +0800" channel="cctvlaogushi">
+    <title>信用中国《王凡》</title>
   </programme>
-  <programme start="20260915130100 +0800" stop="20260915133100 +0800" channel="cctvlaogushi">
-    <title>亲历《“杠”与“星”的记忆》离开的女军人</title>
+  <programme start="20260915134800 +0800" stop="20260915140200 +0800" channel="cctvlaogushi">
+    <title>信用中国《徐润容》</title>
   </programme>
-  <programme start="20260915133100 +0800" stop="20260915134200 +0800" channel="cctvlaogushi">
-    <title>信用中国《杨步湘》</title>
+  <programme start="20260915140200 +0800" stop="20260915141300 +0800" channel="cctvlaogushi">
+    <title>攀登者《筑梦还乡不负韶华》</title>
   </programme>
-  <programme start="20260915134200 +0800" stop="20260915135300 +0800" channel="cctvlaogushi">
-    <title>信用中国《周安邦》</title>
+  <programme start="20260915141300 +0800" stop="20260915150500 +0800" channel="cctvlaogushi">
+    <title>中国史话《寻找失落的年表》（二）</title>
   </programme>
-  <programme start="20260915135300 +0800" stop="20260915140500 +0800" channel="cctvlaogushi">
-    <title>攀登者《黄土高原上的回响》</title>
+  <programme start="20260915150500 +0800" stop="20260915154800 +0800" channel="cctvlaogushi">
+    <title>往事钩沉《照片背后的故事》（下）</title>
   </programme>
-  <programme start="20260915140500 +0800" stop="20260915141600 +0800" channel="cctvlaogushi">
-    <title>开拓者《电氢之间柔能之变》（上）</title>
+  <programme start="20260915154800 +0800" stop="20260915160000 +0800" channel="cctvlaogushi">
+    <title>纪录匠心《活酒微生物的文明史》</title>
   </programme>
-  <programme start="20260915141600 +0800" stop="20260915150200 +0800" channel="cctvlaogushi">
-    <title>往事钩沉《承德避暑山庄》（四）</title>
-  </programme>
-  <programme start="20260915150200 +0800" stop="20260915153700 +0800" channel="cctvlaogushi">
-    <title>特别节目《铁骨忠魂》（一）</title>
-  </programme>
-  <programme start="20260915153700 +0800" stop="20260915154900 +0800" channel="cctvlaogushi">
-    <title>纪录匠心《超越》</title>
-  </programme>
-  <programme start="20260915154900 +0800" stop="20260915160400 +0800" channel="cctvlaogushi">
-    <title>对话向上的品牌《专注呼吸正道笃行》</title>
-  </programme>
-  <programme start="20260915160400 +0800" stop="20260915163000 +0800" channel="cctvlaogushi">
-    <title>特别节目《凤舞神州》（四）</title>
+  <programme start="20260915160000 +0800" stop="20260915163000 +0800" channel="cctvlaogushi">
+    <title>特别节目《庐山人文圣山》（四）</title>
   </programme>
   <programme start="20260915163000 +0800" stop="20260915170100 +0800" channel="cctvlaogushi">
-    <title>特别节目《文艺名家讲故事》李心草</title>
+    <title>特别节目《井陉煤矿百年风云》（五）</title>
   </programme>
-  <programme start="20260915170100 +0800" stop="20260915173500 +0800" channel="cctvlaogushi">
-    <title>亲历《“杠”与“星”的记忆》特殊荣誉</title>
+  <programme start="20260915170100 +0800" stop="20260915173000 +0800" channel="cctvlaogushi">
+    <title>亲历《百年家族之卢氏家族》（一）</title>
   </programme>
-  <programme start="20260915173500 +0800" stop="20260915174500 +0800" channel="cctvlaogushi">
-    <title>信用中国《尹涛》（上）</title>
+  <programme start="20260915173000 +0800" stop="20260915174100 +0800" channel="cctvlaogushi">
+    <title>信用中国《刘睿》</title>
   </programme>
-  <programme start="20260915174500 +0800" stop="20260915175600 +0800" channel="cctvlaogushi">
-    <title>信用中国《尹涛》（下）</title>
+  <programme start="20260915174100 +0800" stop="20260915175100 +0800" channel="cctvlaogushi">
+    <title>信用中国《陈爱琴》</title>
   </programme>
-  <programme start="20260915175600 +0800" stop="20260915180600 +0800" channel="cctvlaogushi">
-    <title>攀登者《多元布局绘就产业新篇》</title>
+  <programme start="20260915175100 +0800" stop="20260915180600 +0800" channel="cctvlaogushi">
+    <title>攀登者《呦呦鹿鸣冷极共生》</title>
   </programme>
-  <programme start="20260915180600 +0800" stop="20260915181700 +0800" channel="cctvlaogushi">
-    <title>开拓者《电氢之间柔能之变》（下）</title>
+  <programme start="20260915180600 +0800" stop="20260915185600 +0800" channel="cctvlaogushi">
+    <title>中国史话《寻找失落的年表》（三）</title>
   </programme>
-  <programme start="20260915181700 +0800" stop="20260915190600 +0800" channel="cctvlaogushi">
-    <title>往事钩沉《北洋水师》（一）</title>
+  <programme start="20260915185600 +0800" stop="20260915193000 +0800" channel="cctvlaogushi">
+    <title>纪录《西部往事》（一）</title>
   </programme>
-  <programme start="20260915190600 +0800" stop="20260915194000 +0800" channel="cctvlaogushi">
-    <title>特别节目《铁骨忠魂》（二）</title>
+  <programme start="20260915193000 +0800" stop="20260915194500 +0800" channel="cctvlaogushi">
+    <title>品质中国《初心不改筑梦还乡》</title>
   </programme>
-  <programme start="20260915194000 +0800" stop="20260915200100 +0800" channel="cctvlaogushi">
-    <title>人文纪录《从河说起》（一）</title>
+  <programme start="20260915194500 +0800" stop="20260915200000 +0800" channel="cctvlaogushi">
+    <title>品质中国《设计之外》</title>
   </programme>
-  <programme start="20260915200100 +0800" stop="20260915203600 +0800" channel="cctvlaogushi">
-    <title>特别节目《文艺名家讲故事》李军</title>
+  <programme start="20260915200000 +0800" stop="20260915201000 +0800" channel="cctvlaogushi">
+    <title>品质中国《小城大味守鲜守心》</title>
   </programme>
-  <programme start="20260915203600 +0800" stop="20260915210100 +0800" channel="cctvlaogushi">
-    <title>特别节目《凤舞神州》（五）</title>
+  <programme start="20260915201000 +0800" stop="20260915203000 +0800" channel="cctvlaogushi">
+    <title>人文纪录《从河说起》（二）</title>
   </programme>
-  <programme start="20260915210100 +0800" stop="20260915213100 +0800" channel="cctvlaogushi">
-    <title>亲历《“杠”与“星”的记忆》离开的女军人</title>
+  <programme start="20260915203000 +0800" stop="20260915210100 +0800" channel="cctvlaogushi">
+    <title>特别节目《庐山人文圣山》（五）</title>
   </programme>
-  <programme start="20260915213100 +0800" stop="20260915214200 +0800" channel="cctvlaogushi">
-    <title>信用中国《杨步湘》</title>
+  <programme start="20260915210100 +0800" stop="20260915213400 +0800" channel="cctvlaogushi">
+    <title>亲历《大武汉》（六）</title>
   </programme>
-  <programme start="20260915214200 +0800" stop="20260915215300 +0800" channel="cctvlaogushi">
-    <title>信用中国《周安邦》</title>
+  <programme start="20260915213400 +0800" stop="20260915214800 +0800" channel="cctvlaogushi">
+    <title>信用中国《王凡》</title>
   </programme>
-  <programme start="20260915215300 +0800" stop="20260915220500 +0800" channel="cctvlaogushi">
-    <title>攀登者《黄土高原上的回响》</title>
+  <programme start="20260915214800 +0800" stop="20260915220200 +0800" channel="cctvlaogushi">
+    <title>信用中国《徐润容》</title>
   </programme>
-  <programme start="20260915220500 +0800" stop="20260915221600 +0800" channel="cctvlaogushi">
-    <title>开拓者《电氢之间柔能之变》（上）</title>
+  <programme start="20260915220200 +0800" stop="20260915221300 +0800" channel="cctvlaogushi">
+    <title>攀登者《筑梦还乡不负韶华》</title>
   </programme>
-  <programme start="20260915221600 +0800" stop="20260915230200 +0800" channel="cctvlaogushi">
-    <title>往事钩沉《承德避暑山庄》（四）</title>
+  <programme start="20260915221300 +0800" stop="20260915230500 +0800" channel="cctvlaogushi">
+    <title>中国史话《寻找失落的年表》（二）</title>
   </programme>
-  <programme start="20260915230200 +0800" stop="20260915233700 +0800" channel="cctvlaogushi">
-    <title>特别节目《铁骨忠魂》（一）</title>
+  <programme start="20260915230500 +0800" stop="20260915234800 +0800" channel="cctvlaogushi">
+    <title>往事钩沉《照片背后的故事》（下）</title>
   </programme>
-  <programme start="20260915233700 +0800" stop="20260915234900 +0800" channel="cctvlaogushi">
-    <title>纪录匠心《超越》</title>
+  <programme start="20260915234800 +0800" stop="20260915235900 +0800" channel="cctvlaogushi">
+    <title>纪录匠心《活酒微生物的文明史》</title>
   </programme>
-  <programme start="20260915234900 +0800" stop="20260915235900 +0800" channel="cctvlaogushi">
-    <title>对话向上的品牌《专注呼吸正道笃行》</title>
+  <programme start="20260916000000 +0800" stop="20260916001000 +0800" channel="cctvlaogushi">
+    <title>品质中国《小城大味守鲜守心》</title>
   </programme>
-  <programme start="20260916000400 +0800" stop="20260916003000 +0800" channel="cctvlaogushi">
-    <title>特别节目《凤舞神州》（四）</title>
+  <programme start="20260916001000 +0800" stop="20260916003000 +0800" channel="cctvlaogushi">
+    <title>人文纪录《从河说起》（二）</title>
   </programme>
   <programme start="20260916003000 +0800" stop="20260916060100 +0800" channel="cctvlaogushi">
-    <title>特别节目《文艺名家讲故事》李心草</title>
+    <title>特别节目《庐山人文圣山》（五）</title>
   </programme>
-  <programme start="20260916060100 +0800" stop="20260916063500 +0800" channel="cctvlaogushi">
-    <title>亲历《“杠”与“星”的记忆》特殊荣誉</title>
+  <programme start="20260916060100 +0800" stop="20260916063000 +0800" channel="cctvlaogushi">
+    <title>亲历《百年家族之卢氏家族》（一）</title>
   </programme>
-  <programme start="20260916063500 +0800" stop="20260916064500 +0800" channel="cctvlaogushi">
-    <title>信用中国《尹涛》（上）</title>
+  <programme start="20260916063000 +0800" stop="20260916064100 +0800" channel="cctvlaogushi">
+    <title>信用中国《刘睿》</title>
   </programme>
-  <programme start="20260916064500 +0800" stop="20260916065600 +0800" channel="cctvlaogushi">
-    <title>信用中国《尹涛》（下）</title>
+  <programme start="20260916064100 +0800" stop="20260916065100 +0800" channel="cctvlaogushi">
+    <title>信用中国《陈爱琴》</title>
   </programme>
-  <programme start="20260916065600 +0800" stop="20260916070600 +0800" channel="cctvlaogushi">
-    <title>攀登者《多元布局绘就产业新篇》</title>
+  <programme start="20260916065100 +0800" stop="20260916070600 +0800" channel="cctvlaogushi">
+    <title>攀登者《呦呦鹿鸣冷极共生》</title>
   </programme>
-  <programme start="20260916070600 +0800" stop="20260916071700 +0800" channel="cctvlaogushi">
-    <title>开拓者《电氢之间柔能之变》（下）</title>
+  <programme start="20260916070600 +0800" stop="20260916075600 +0800" channel="cctvlaogushi">
+    <title>中国史话《寻找失落的年表》（三）</title>
   </programme>
-  <programme start="20260916071700 +0800" stop="20260916080600 +0800" channel="cctvlaogushi">
-    <title>往事钩沉《北洋水师》（一）</title>
+  <programme start="20260916075600 +0800" stop="20260916083000 +0800" channel="cctvlaogushi">
+    <title>纪录《西部往事》（一）</title>
   </programme>
-  <programme start="20260916080600 +0800" stop="20260916084000 +0800" channel="cctvlaogushi">
-    <title>特别节目《铁骨忠魂》（二）</title>
+  <programme start="20260916083000 +0800" stop="20260916084500 +0800" channel="cctvlaogushi">
+    <title>品质中国《初心不改筑梦还乡》</title>
   </programme>
-  <programme start="20260916084000 +0800" stop="20260916090100 +0800" channel="cctvlaogushi">
-    <title>人文纪录《从河说起》（一）</title>
+  <programme start="20260916084500 +0800" stop="20260916090100 +0800" channel="cctvlaogushi">
+    <title>品质中国《设计之外》</title>
   </programme>
-  <programme start="20260916090100 +0800" stop="20260916093000 +0800" channel="cctvlaogushi">
-    <title>亲历《大武汉》（一）</title>
+  <programme start="20260916090100 +0800" stop="20260916093100 +0800" channel="cctvlaogushi">
+    <title>亲历《百年家族之卢氏家族》（二）</title>
   </programme>
-  <programme start="20260916093000 +0800" stop="20260916094000 +0800" channel="cctvlaogushi">
-    <title>信用中国《李一凡》</title>
+  <programme start="20260916093100 +0800" stop="20260916094300 +0800" channel="cctvlaogushi">
+    <title>信用中国《陈波》</title>
   </programme>
-  <programme start="20260916094000 +0800" stop="20260916095000 +0800" channel="cctvlaogushi">
-    <title>信用中国《张蛟》</title>
+  <programme start="20260916094300 +0800" stop="20260916095400 +0800" channel="cctvlaogushi">
+    <title>信用中国《郭振飞》</title>
   </programme>
-  <programme start="20260916095000 +0800" stop="20260916100100 +0800" channel="cctvlaogushi">
-    <title>攀登者《以文化为帆科技为桨》</title>
+  <programme start="20260916095400 +0800" stop="20260916100400 +0800" channel="cctvlaogushi">
+    <title>攀登者《驾驭自主育见未来》</title>
   </programme>
-  <programme start="20260916100100 +0800" stop="20260916101100 +0800" channel="cctvlaogushi">
-    <title>开拓者《素看世界》</title>
+  <programme start="20260916100400 +0800" stop="20260916101400 +0800" channel="cctvlaogushi">
+    <title>纪录中国品牌《匠心六十载质赢全球》</title>
   </programme>
-  <programme start="20260916101100 +0800" stop="20260916102200 +0800" channel="cctvlaogushi">
-    <title>纪录中国品牌《坚守与传承》</title>
+  <programme start="20260916101400 +0800" stop="20260916110600 +0800" channel="cctvlaogushi">
+    <title>中国史话《文明初始》</title>
   </programme>
-  <programme start="20260916102200 +0800" stop="20260916111100 +0800" channel="cctvlaogushi">
-    <title>往事钩沉《北洋水师》（二）</title>
+  <programme start="20260916110600 +0800" stop="20260916114900 +0800" channel="cctvlaogushi">
+    <title>纪录《西部往事》（二）</title>
   </programme>
-  <programme start="20260916111100 +0800" stop="20260916114100 +0800" channel="cctvlaogushi">
-    <title>特别节目《铁骨忠魂》（三）</title>
+  <programme start="20260916114900 +0800" stop="20260916120500 +0800" channel="cctvlaogushi">
+    <title>强国智造《让万物智连》</title>
   </programme>
-  <programme start="20260916114100 +0800" stop="20260916120100 +0800" channel="cctvlaogushi">
-    <title>力量《相信的力量》</title>
+  <programme start="20260916120500 +0800" stop="20260916122000 +0800" channel="cctvlaogushi">
+    <title>强国智造《旋动未来》</title>
   </programme>
-  <programme start="20260916120100 +0800" stop="20260916123100 +0800" channel="cctvlaogushi">
-    <title>老地方《不凡小巷南捕厅》（上）</title>
+  <programme start="20260916122000 +0800" stop="20260916123000 +0800" channel="cctvlaogushi">
+    <title>力量《初心如磐品牌铸魂》</title>
   </programme>
-  <programme start="20260916123100 +0800" stop="20260916130100 +0800" channel="cctvlaogushi">
-    <title>特别节目《井陉煤矿百年风云》（一）</title>
+  <programme start="20260916123000 +0800" stop="20260916130100 +0800" channel="cctvlaogushi">
+    <title>特别节目《庐山人文圣山》（六）</title>
   </programme>
-  <programme start="20260916130100 +0800" stop="20260916133500 +0800" channel="cctvlaogushi">
-    <title>亲历《“杠”与“星”的记忆》特殊荣誉</title>
+  <programme start="20260916130100 +0800" stop="20260916133000 +0800" channel="cctvlaogushi">
+    <title>亲历《百年家族之卢氏家族》（一）</title>
   </programme>
-  <programme start="20260916133500 +0800" stop="20260916134500 +0800" channel="cctvlaogushi">
-    <title>信用中国《尹涛》（上）</title>
+  <programme start="20260916133000 +0800" stop="20260916134100 +0800" channel="cctvlaogushi">
+    <title>信用中国《刘睿》</title>
   </programme>
-  <programme start="20260916134500 +0800" stop="20260916135600 +0800" channel="cctvlaogushi">
-    <title>信用中国《尹涛》（下）</title>
+  <programme start="20260916134100 +0800" stop="20260916135100 +0800" channel="cctvlaogushi">
+    <title>信用中国《陈爱琴》</title>
   </programme>
-  <programme start="20260916135600 +0800" stop="20260916140600 +0800" channel="cctvlaogushi">
-    <title>攀登者《多元布局绘就产业新篇》</title>
+  <programme start="20260916135100 +0800" stop="20260916140600 +0800" channel="cctvlaogushi">
+    <title>攀登者《呦呦鹿鸣冷极共生》</title>
   </programme>
-  <programme start="20260916140600 +0800" stop="20260916141700 +0800" channel="cctvlaogushi">
-    <title>开拓者《电氢之间柔能之变》（下）</title>
+  <programme start="20260916140600 +0800" stop="20260916145600 +0800" channel="cctvlaogushi">
+    <title>中国史话《寻找失落的年表》（三）</title>
   </programme>
-  <programme start="20260916141700 +0800" stop="20260916150600 +0800" channel="cctvlaogushi">
-    <title>往事钩沉《北洋水师》（一）</title>
+  <programme start="20260916145600 +0800" stop="20260916153000 +0800" channel="cctvlaogushi">
+    <title>纪录《西部往事》（一）</title>
   </programme>
-  <programme start="20260916150600 +0800" stop="20260916154000 +0800" channel="cctvlaogushi">
-    <title>特别节目《铁骨忠魂》（二）</title>
+  <programme start="20260916153000 +0800" stop="20260916154500 +0800" channel="cctvlaogushi">
+    <title>品质中国《初心不改筑梦还乡》</title>
   </programme>
-  <programme start="20260916154000 +0800" stop="20260916160100 +0800" channel="cctvlaogushi">
-    <title>人文纪录《从河说起》（一）</title>
+  <programme start="20260916154500 +0800" stop="20260916160000 +0800" channel="cctvlaogushi">
+    <title>品质中国《设计之外》</title>
   </programme>
-  <programme start="20260916160100 +0800" stop="20260916163600 +0800" channel="cctvlaogushi">
-    <title>特别节目《文艺名家讲故事》李军</title>
+  <programme start="20260916160000 +0800" stop="20260916161000 +0800" channel="cctvlaogushi">
+    <title>品质中国《小城大味守鲜守心》</title>
   </programme>
-  <programme start="20260916163600 +0800" stop="20260916170100 +0800" channel="cctvlaogushi">
-    <title>特别节目《凤舞神州》（五）</title>
+  <programme start="20260916161000 +0800" stop="20260916163000 +0800" channel="cctvlaogushi">
+    <title>人文纪录《从河说起》（二）</title>
   </programme>
-  <programme start="20260916170100 +0800" stop="20260916173000 +0800" channel="cctvlaogushi">
-    <title>亲历《大武汉》（一）</title>
+  <programme start="20260916163000 +0800" stop="20260916170100 +0800" channel="cctvlaogushi">
+    <title>特别节目《庐山人文圣山》（五）</title>
   </programme>
-  <programme start="20260916173000 +0800" stop="20260916174000 +0800" channel="cctvlaogushi">
-    <title>信用中国《李一凡》</title>
+  <programme start="20260916170100 +0800" stop="20260916173100 +0800" channel="cctvlaogushi">
+    <title>亲历《百年家族之卢氏家族》（二）</title>
   </programme>
-  <programme start="20260916174000 +0800" stop="20260916175000 +0800" channel="cctvlaogushi">
-    <title>信用中国《张蛟》</title>
+  <programme start="20260916173100 +0800" stop="20260916174300 +0800" channel="cctvlaogushi">
+    <title>信用中国《陈波》</title>
   </programme>
-  <programme start="20260916175000 +0800" stop="20260916180100 +0800" channel="cctvlaogushi">
-    <title>攀登者《以文化为帆科技为桨》</title>
+  <programme start="20260916174300 +0800" stop="20260916175400 +0800" channel="cctvlaogushi">
+    <title>信用中国《郭振飞》</title>
   </programme>
-  <programme start="20260916180100 +0800" stop="20260916181100 +0800" channel="cctvlaogushi">
-    <title>开拓者《素看世界》</title>
+  <programme start="20260916175400 +0800" stop="20260916180400 +0800" channel="cctvlaogushi">
+    <title>攀登者《驾驭自主育见未来》</title>
   </programme>
-  <programme start="20260916181100 +0800" stop="20260916182200 +0800" channel="cctvlaogushi">
-    <title>纪录中国品牌《坚守与传承》</title>
+  <programme start="20260916180400 +0800" stop="20260916181400 +0800" channel="cctvlaogushi">
+    <title>纪录中国品牌《匠心六十载质赢全球》</title>
   </programme>
-  <programme start="20260916182200 +0800" stop="20260916191100 +0800" channel="cctvlaogushi">
-    <title>往事钩沉《北洋水师》（二）</title>
+  <programme start="20260916181400 +0800" stop="20260916190600 +0800" channel="cctvlaogushi">
+    <title>中国史话《文明初始》</title>
   </programme>
-  <programme start="20260916191100 +0800" stop="20260916194100 +0800" channel="cctvlaogushi">
-    <title>特别节目《铁骨忠魂》（三）</title>
+  <programme start="20260916190600 +0800" stop="20260916194900 +0800" channel="cctvlaogushi">
+    <title>纪录《西部往事》（二）</title>
   </programme>
-  <programme start="20260916194100 +0800" stop="20260916200100 +0800" channel="cctvlaogushi">
-    <title>力量《相信的力量》</title>
+  <programme start="20260916194900 +0800" stop="20260916200500 +0800" channel="cctvlaogushi">
+    <title>强国智造《让万物智连》</title>
   </programme>
-  <programme start="20260916200100 +0800" stop="20260916203100 +0800" channel="cctvlaogushi">
-    <title>老地方《不凡小巷南捕厅》（上）</title>
+  <programme start="20260916200500 +0800" stop="20260916202000 +0800" channel="cctvlaogushi">
+    <title>强国智造《旋动未来》</title>
   </programme>
-  <programme start="20260916203100 +0800" stop="20260916210100 +0800" channel="cctvlaogushi">
-    <title>特别节目《井陉煤矿百年风云》（一）</title>
+  <programme start="20260916202000 +0800" stop="20260916203000 +0800" channel="cctvlaogushi">
+    <title>力量《初心如磐品牌铸魂》</title>
   </programme>
-  <programme start="20260916210100 +0800" stop="20260916213500 +0800" channel="cctvlaogushi">
-    <title>亲历《“杠”与“星”的记忆》特殊荣誉</title>
+  <programme start="20260916203000 +0800" stop="20260916210100 +0800" channel="cctvlaogushi">
+    <title>特别节目《庐山人文圣山》（六）</title>
   </programme>
-  <programme start="20260916213500 +0800" stop="20260916214500 +0800" channel="cctvlaogushi">
-    <title>信用中国《尹涛》（上）</title>
+  <programme start="20260916210100 +0800" stop="20260916213000 +0800" channel="cctvlaogushi">
+    <title>亲历《百年家族之卢氏家族》（一）</title>
   </programme>
-  <programme start="20260916214500 +0800" stop="20260916215600 +0800" channel="cctvlaogushi">
-    <title>信用中国《尹涛》（下）</title>
+  <programme start="20260916213000 +0800" stop="20260916214100 +0800" channel="cctvlaogushi">
+    <title>信用中国《刘睿》</title>
   </programme>
-  <programme start="20260916215600 +0800" stop="20260916220600 +0800" channel="cctvlaogushi">
-    <title>攀登者《多元布局绘就产业新篇》</title>
+  <programme start="20260916214100 +0800" stop="20260916215100 +0800" channel="cctvlaogushi">
+    <title>信用中国《陈爱琴》</title>
   </programme>
-  <programme start="20260916220600 +0800" stop="20260916221700 +0800" channel="cctvlaogushi">
-    <title>开拓者《电氢之间柔能之变》（下）</title>
+  <programme start="20260916215100 +0800" stop="20260916220600 +0800" channel="cctvlaogushi">
+    <title>攀登者《呦呦鹿鸣冷极共生》</title>
   </programme>
-  <programme start="20260916221700 +0800" stop="20260916230600 +0800" channel="cctvlaogushi">
-    <title>往事钩沉《北洋水师》（一）</title>
+  <programme start="20260916220600 +0800" stop="20260916225600 +0800" channel="cctvlaogushi">
+    <title>中国史话《寻找失落的年表》（三）</title>
   </programme>
-  <programme start="20260916230600 +0800" stop="20260916234000 +0800" channel="cctvlaogushi">
-    <title>特别节目《铁骨忠魂》（二）</title>
+  <programme start="20260916225600 +0800" stop="20260916233000 +0800" channel="cctvlaogushi">
+    <title>纪录《西部往事》（一）</title>
   </programme>
-  <programme start="20260916234000 +0800" stop="20260916235900 +0800" channel="cctvlaogushi">
-    <title>人文纪录《从河说起》（一）</title>
+  <programme start="20260916233000 +0800" stop="20260916234500 +0800" channel="cctvlaogushi">
+    <title>品质中国《初心不改筑梦还乡》</title>
   </programme>
-  <programme start="20260917000100 +0800" stop="20260917003600 +0800" channel="cctvlaogushi">
-    <title>特别节目《文艺名家讲故事》李军</title>
+  <programme start="20260916234500 +0800" stop="20260916235900 +0800" channel="cctvlaogushi">
+    <title>品质中国《设计之外》</title>
   </programme>
-  <programme start="20260917003600 +0800" stop="20260917060100 +0800" channel="cctvlaogushi">
-    <title>特别节目《凤舞神州》（五）</title>
+  <programme start="20260917000500 +0800" stop="20260917002000 +0800" channel="cctvlaogushi">
+    <title>强国智造《旋动未来》</title>
   </programme>
-  <programme start="20260917060100 +0800" stop="20260917063000 +0800" channel="cctvlaogushi">
-    <title>亲历《大武汉》（一）</title>
+  <programme start="20260917002000 +0800" stop="20260917003000 +0800" channel="cctvlaogushi">
+    <title>力量《初心如磐品牌铸魂》</title>
   </programme>
-  <programme start="20260917063000 +0800" stop="20260917064000 +0800" channel="cctvlaogushi">
-    <title>信用中国《李一凡》</title>
+  <programme start="20260917003000 +0800" stop="20260917060100 +0800" channel="cctvlaogushi">
+    <title>特别节目《庐山人文圣山》（六）</title>
   </programme>
-  <programme start="20260917064000 +0800" stop="20260917065000 +0800" channel="cctvlaogushi">
-    <title>信用中国《张蛟》</title>
+  <programme start="20260917060100 +0800" stop="20260917063100 +0800" channel="cctvlaogushi">
+    <title>亲历《百年家族之卢氏家族》（二）</title>
   </programme>
-  <programme start="20260917065000 +0800" stop="20260917070100 +0800" channel="cctvlaogushi">
-    <title>攀登者《以文化为帆科技为桨》</title>
+  <programme start="20260917063100 +0800" stop="20260917064300 +0800" channel="cctvlaogushi">
+    <title>信用中国《陈波》</title>
   </programme>
-  <programme start="20260917070100 +0800" stop="20260917071100 +0800" channel="cctvlaogushi">
-    <title>开拓者《素看世界》</title>
+  <programme start="20260917064300 +0800" stop="20260917065400 +0800" channel="cctvlaogushi">
+    <title>信用中国《郭振飞》</title>
   </programme>
-  <programme start="20260917071100 +0800" stop="20260917072200 +0800" channel="cctvlaogushi">
-    <title>纪录中国品牌《坚守与传承》</title>
+  <programme start="20260917065400 +0800" stop="20260917070400 +0800" channel="cctvlaogushi">
+    <title>攀登者《驾驭自主育见未来》</title>
   </programme>
-  <programme start="20260917072200 +0800" stop="20260917081100 +0800" channel="cctvlaogushi">
-    <title>往事钩沉《北洋水师》（二）</title>
+  <programme start="20260917070400 +0800" stop="20260917071400 +0800" channel="cctvlaogushi">
+    <title>纪录中国品牌《匠心六十载质赢全球》</title>
   </programme>
-  <programme start="20260917081100 +0800" stop="20260917084100 +0800" channel="cctvlaogushi">
-    <title>特别节目《铁骨忠魂》（三）</title>
+  <programme start="20260917071400 +0800" stop="20260917080600 +0800" channel="cctvlaogushi">
+    <title>中国史话《文明初始》</title>
   </programme>
-  <programme start="20260917084100 +0800" stop="20260917090100 +0800" channel="cctvlaogushi">
-    <title>力量《相信的力量》</title>
+  <programme start="20260917080600 +0800" stop="20260917084900 +0800" channel="cctvlaogushi">
+    <title>纪录《西部往事》（二）</title>
   </programme>
-  <programme start="20260917090100 +0800" stop="20260917093000 +0800" channel="cctvlaogushi">
-    <title>亲历《大武汉》（二）</title>
+  <programme start="20260917084900 +0800" stop="20260917090100 +0800" channel="cctvlaogushi">
+    <title>强国智造《让万物智连》</title>
   </programme>
-  <programme start="20260917093000 +0800" stop="20260917094200 +0800" channel="cctvlaogushi">
-    <title>信用中国《施克炜》</title>
+  <programme start="20260917090100 +0800" stop="20260917093400 +0800" channel="cctvlaogushi">
+    <title>亲历《百年家族之卢氏家族》（三）</title>
   </programme>
-  <programme start="20260917094200 +0800" stop="20260917095300 +0800" channel="cctvlaogushi">
-    <title>信用中国《张晨睿》</title>
+  <programme start="20260917093400 +0800" stop="20260917094900 +0800" channel="cctvlaogushi">
+    <title>信用中国《张峰》</title>
   </programme>
-  <programme start="20260917095300 +0800" stop="20260917100500 +0800" channel="cctvlaogushi">
-    <title>攀登者《仁心匠韵》</title>
+  <programme start="20260917094900 +0800" stop="20260917100300 +0800" channel="cctvlaogushi">
+    <title>信用中国《范军飞》</title>
   </programme>
-  <programme start="20260917100500 +0800" stop="20260917102000 +0800" channel="cctvlaogushi">
-    <title>开拓者《管理的“译码者”》</title>
+  <programme start="20260917100300 +0800" stop="20260917101400 +0800" channel="cctvlaogushi">
+    <title>攀登者《教育的守望》</title>
   </programme>
-  <programme start="20260917102000 +0800" stop="20260917110900 +0800" channel="cctvlaogushi">
-    <title>往事钩沉《北洋水师》（三）</title>
+  <programme start="20260917101400 +0800" stop="20260917110500 +0800" channel="cctvlaogushi">
+    <title>中国史话《三星堆文化》</title>
   </programme>
-  <programme start="20260917110900 +0800" stop="20260917113900 +0800" channel="cctvlaogushi">
-    <title>特别节目《文艺名家讲故事》冯远</title>
+  <programme start="20260917110500 +0800" stop="20260917113900 +0800" channel="cctvlaogushi">
+    <title>纪录《西部往事》（三）</title>
   </programme>
   <programme start="20260917113900 +0800" stop="20260917114900 +0800" channel="cctvlaogushi">
-    <title>品质中国《岩茶“敲钟人”》</title>
+    <title>品质中国《科技的温度》</title>
   </programme>
-  <programme start="20260917114900 +0800" stop="20260917120400 +0800" channel="cctvlaogushi">
-    <title>品质中国《驭风而行创造可见》</title>
+  <programme start="20260917114900 +0800" stop="20260917120500 +0800" channel="cctvlaogushi">
+    <title>品质中国《人生这堂课》（上）</title>
   </programme>
-  <programme start="20260917120400 +0800" stop="20260917121900 +0800" channel="cctvlaogushi">
-    <title>品质中国《国产技术筑数字安全根基》</title>
+  <programme start="20260917120500 +0800" stop="20260917121900 +0800" channel="cctvlaogushi">
+    <title>品质中国《人生这堂课》（下）</title>
   </programme>
   <programme start="20260917121900 +0800" stop="20260917130100 +0800" channel="cctvlaogushi">
-    <title>纪录中国《如此热爱》《追逐日月星辰》《司马相如》（一）</title>
+    <title>纪录中国《小小的石头》《锦绣芳华广绣》《司马相如》（二）</title>
   </programme>
-  <programme start="20260917130100 +0800" stop="20260917133000 +0800" channel="cctvlaogushi">
-    <title>亲历《大武汉》（一）</title>
+  <programme start="20260917130100 +0800" stop="20260917133100 +0800" channel="cctvlaogushi">
+    <title>亲历《百年家族之卢氏家族》（二）</title>
   </programme>
-  <programme start="20260917133000 +0800" stop="20260917134000 +0800" channel="cctvlaogushi">
-    <title>信用中国《李一凡》</title>
+  <programme start="20260917133100 +0800" stop="20260917134300 +0800" channel="cctvlaogushi">
+    <title>信用中国《陈波》</title>
   </programme>
-  <programme start="20260917134000 +0800" stop="20260917135000 +0800" channel="cctvlaogushi">
-    <title>信用中国《张蛟》</title>
+  <programme start="20260917134300 +0800" stop="20260917135400 +0800" channel="cctvlaogushi">
+    <title>信用中国《郭振飞》</title>
   </programme>
-  <programme start="20260917135000 +0800" stop="20260917140100 +0800" channel="cctvlaogushi">
-    <title>攀登者《以文化为帆科技为桨》</title>
+  <programme start="20260917135400 +0800" stop="20260917140400 +0800" channel="cctvlaogushi">
+    <title>攀登者《驾驭自主育见未来》</title>
   </programme>
-  <programme start="20260917140100 +0800" stop="20260917141100 +0800" channel="cctvlaogushi">
-    <title>开拓者《素看世界》</title>
+  <programme start="20260917140400 +0800" stop="20260917141400 +0800" channel="cctvlaogushi">
+    <title>纪录中国品牌《匠心六十载质赢全球》</title>
   </programme>
-  <programme start="20260917141100 +0800" stop="20260917142200 +0800" channel="cctvlaogushi">
-    <title>纪录中国品牌《坚守与传承》</title>
+  <programme start="20260917141400 +0800" stop="20260917150600 +0800" channel="cctvlaogushi">
+    <title>中国史话《文明初始》</title>
   </programme>
-  <programme start="20260917142200 +0800" stop="20260917151100 +0800" channel="cctvlaogushi">
-    <title>往事钩沉《北洋水师》（二）</title>
+  <programme start="20260917150600 +0800" stop="20260917154900 +0800" channel="cctvlaogushi">
+    <title>纪录《西部往事》（二）</title>
   </programme>
-  <programme start="20260917151100 +0800" stop="20260917154100 +0800" channel="cctvlaogushi">
-    <title>特别节目《铁骨忠魂》（三）</title>
+  <programme start="20260917154900 +0800" stop="20260917160500 +0800" channel="cctvlaogushi">
+    <title>强国智造《让万物智连》</title>
   </programme>
-  <programme start="20260917154100 +0800" stop="20260917160100 +0800" channel="cctvlaogushi">
-    <title>力量《相信的力量》</title>
+  <programme start="20260917160500 +0800" stop="20260917162000 +0800" channel="cctvlaogushi">
+    <title>强国智造《旋动未来》</title>
   </programme>
-  <programme start="20260917160100 +0800" stop="20260917163100 +0800" channel="cctvlaogushi">
-    <title>老地方《不凡小巷南捕厅》（上）</title>
+  <programme start="20260917162000 +0800" stop="20260917163000 +0800" channel="cctvlaogushi">
+    <title>力量《初心如磐品牌铸魂》</title>
   </programme>
-  <programme start="20260917163100 +0800" stop="20260917170100 +0800" channel="cctvlaogushi">
-    <title>特别节目《井陉煤矿百年风云》（一）</title>
+  <programme start="20260917163000 +0800" stop="20260917170100 +0800" channel="cctvlaogushi">
+    <title>特别节目《庐山人文圣山》（六）</title>
   </programme>
-  <programme start="20260917170100 +0800" stop="20260917173000 +0800" channel="cctvlaogushi">
-    <title>亲历《大武汉》（二）</title>
+  <programme start="20260917170100 +0800" stop="20260917173400 +0800" channel="cctvlaogushi">
+    <title>亲历《百年家族之卢氏家族》（三）</title>
   </programme>
-  <programme start="20260917173000 +0800" stop="20260917174200 +0800" channel="cctvlaogushi">
-    <title>信用中国《施克炜》</title>
+  <programme start="20260917173400 +0800" stop="20260917174900 +0800" channel="cctvlaogushi">
+    <title>信用中国《张峰》</title>
   </programme>
-  <programme start="20260917174200 +0800" stop="20260917175300 +0800" channel="cctvlaogushi">
-    <title>信用中国《张晨睿》</title>
+  <programme start="20260917174900 +0800" stop="20260917180300 +0800" channel="cctvlaogushi">
+    <title>信用中国《范军飞》</title>
   </programme>
-  <programme start="20260917175300 +0800" stop="20260917180500 +0800" channel="cctvlaogushi">
-    <title>攀登者《仁心匠韵》</title>
+  <programme start="20260917180300 +0800" stop="20260917181400 +0800" channel="cctvlaogushi">
+    <title>攀登者《教育的守望》</title>
   </programme>
-  <programme start="20260917180500 +0800" stop="20260917182000 +0800" channel="cctvlaogushi">
-    <title>开拓者《管理的“译码者”》</title>
+  <programme start="20260917181400 +0800" stop="20260917190500 +0800" channel="cctvlaogushi">
+    <title>中国史话《三星堆文化》</title>
   </programme>
-  <programme start="20260917182000 +0800" stop="20260917190900 +0800" channel="cctvlaogushi">
-    <title>往事钩沉《北洋水师》（三）</title>
-  </programme>
-  <programme start="20260917190900 +0800" stop="20260917193900 +0800" channel="cctvlaogushi">
-    <title>特别节目《文艺名家讲故事》冯远</title>
+  <programme start="20260917190500 +0800" stop="20260917193900 +0800" channel="cctvlaogushi">
+    <title>纪录《西部往事》（三）</title>
   </programme>
   <programme start="20260917193900 +0800" stop="20260917194900 +0800" channel="cctvlaogushi">
-    <title>品质中国《岩茶“敲钟人”》</title>
+    <title>品质中国《科技的温度》</title>
   </programme>
-  <programme start="20260917194900 +0800" stop="20260917200400 +0800" channel="cctvlaogushi">
-    <title>品质中国《驭风而行创造可见》</title>
+  <programme start="20260917194900 +0800" stop="20260917200500 +0800" channel="cctvlaogushi">
+    <title>品质中国《人生这堂课》（上）</title>
   </programme>
-  <programme start="20260917200400 +0800" stop="20260917201900 +0800" channel="cctvlaogushi">
-    <title>品质中国《国产技术筑数字安全根基》</title>
+  <programme start="20260917200500 +0800" stop="20260917201900 +0800" channel="cctvlaogushi">
+    <title>品质中国《人生这堂课》（下）</title>
   </programme>
   <programme start="20260917201900 +0800" stop="20260917210100 +0800" channel="cctvlaogushi">
-    <title>纪录中国《如此热爱》《追逐日月星辰》《司马相如》（一）</title>
+    <title>纪录中国《小小的石头》《锦绣芳华广绣》《司马相如》（二）</title>
   </programme>
-  <programme start="20260917210100 +0800" stop="20260917213000 +0800" channel="cctvlaogushi">
-    <title>亲历《大武汉》（一）</title>
+  <programme start="20260917210100 +0800" stop="20260917213100 +0800" channel="cctvlaogushi">
+    <title>亲历《百年家族之卢氏家族》（二）</title>
   </programme>
-  <programme start="20260917213000 +0800" stop="20260917214000 +0800" channel="cctvlaogushi">
-    <title>信用中国《李一凡》</title>
+  <programme start="20260917213100 +0800" stop="20260917214300 +0800" channel="cctvlaogushi">
+    <title>信用中国《陈波》</title>
   </programme>
-  <programme start="20260917214000 +0800" stop="20260917215000 +0800" channel="cctvlaogushi">
-    <title>信用中国《张蛟》</title>
+  <programme start="20260917214300 +0800" stop="20260917215400 +0800" channel="cctvlaogushi">
+    <title>信用中国《郭振飞》</title>
   </programme>
-  <programme start="20260917215000 +0800" stop="20260917220100 +0800" channel="cctvlaogushi">
-    <title>攀登者《以文化为帆科技为桨》</title>
+  <programme start="20260917215400 +0800" stop="20260917220400 +0800" channel="cctvlaogushi">
+    <title>攀登者《驾驭自主育见未来》</title>
   </programme>
-  <programme start="20260917220100 +0800" stop="20260917221100 +0800" channel="cctvlaogushi">
-    <title>开拓者《素看世界》</title>
+  <programme start="20260917220400 +0800" stop="20260917221400 +0800" channel="cctvlaogushi">
+    <title>纪录中国品牌《匠心六十载质赢全球》</title>
   </programme>
-  <programme start="20260917221100 +0800" stop="20260917222200 +0800" channel="cctvlaogushi">
-    <title>纪录中国品牌《坚守与传承》</title>
+  <programme start="20260917221400 +0800" stop="20260917230600 +0800" channel="cctvlaogushi">
+    <title>中国史话《文明初始》</title>
   </programme>
-  <programme start="20260917222200 +0800" stop="20260917231100 +0800" channel="cctvlaogushi">
-    <title>往事钩沉《北洋水师》（二）</title>
+  <programme start="20260917230600 +0800" stop="20260917234900 +0800" channel="cctvlaogushi">
+    <title>纪录《西部往事》（二）</title>
   </programme>
-  <programme start="20260917231100 +0800" stop="20260917234100 +0800" channel="cctvlaogushi">
-    <title>特别节目《铁骨忠魂》（三）</title>
+  <programme start="20260917234900 +0800" stop="20260917235900 +0800" channel="cctvlaogushi">
+    <title>强国智造《让万物智连》</title>
   </programme>
-  <programme start="20260917234100 +0800" stop="20260917235900 +0800" channel="cctvlaogushi">
-    <title>力量《相信的力量》</title>
+  <programme start="20260918000500 +0800" stop="20260918001900 +0800" channel="cctvlaogushi">
+    <title>品质中国《人生这堂课》（下）</title>
   </programme>
-  <programme start="20260918000100 +0800" stop="20260918003100 +0800" channel="cctvlaogushi">
-    <title>老地方《不凡小巷南捕厅》（上）</title>
+  <programme start="20260918001900 +0800" stop="20260918060100 +0800" channel="cctvlaogushi">
+    <title>纪录中国《小小的石头》《锦绣芳华广绣》《司马相如》（二）</title>
   </programme>
-  <programme start="20260918003100 +0800" stop="20260918060100 +0800" channel="cctvlaogushi">
-    <title>特别节目《井陉煤矿百年风云》（一）</title>
+  <programme start="20260918060100 +0800" stop="20260918063400 +0800" channel="cctvlaogushi">
+    <title>亲历《百年家族之卢氏家族》（三）</title>
   </programme>
-  <programme start="20260918060100 +0800" stop="20260918063000 +0800" channel="cctvlaogushi">
-    <title>亲历《大武汉》（二）</title>
+  <programme start="20260918063400 +0800" stop="20260918064900 +0800" channel="cctvlaogushi">
+    <title>信用中国《张峰》</title>
   </programme>
-  <programme start="20260918063000 +0800" stop="20260918064200 +0800" channel="cctvlaogushi">
-    <title>信用中国《施克炜》</title>
+  <programme start="20260918064900 +0800" stop="20260918070300 +0800" channel="cctvlaogushi">
+    <title>信用中国《范军飞》</title>
   </programme>
-  <programme start="20260918064200 +0800" stop="20260918065300 +0800" channel="cctvlaogushi">
-    <title>信用中国《张晨睿》</title>
+  <programme start="20260918070300 +0800" stop="20260918071400 +0800" channel="cctvlaogushi">
+    <title>攀登者《教育的守望》</title>
   </programme>
-  <programme start="20260918065300 +0800" stop="20260918070500 +0800" channel="cctvlaogushi">
-    <title>攀登者《仁心匠韵》</title>
+  <programme start="20260918071400 +0800" stop="20260918080500 +0800" channel="cctvlaogushi">
+    <title>中国史话《三星堆文化》</title>
   </programme>
-  <programme start="20260918070500 +0800" stop="20260918072000 +0800" channel="cctvlaogushi">
-    <title>开拓者《管理的“译码者”》</title>
-  </programme>
-  <programme start="20260918072000 +0800" stop="20260918080900 +0800" channel="cctvlaogushi">
-    <title>往事钩沉《北洋水师》（三）</title>
-  </programme>
-  <programme start="20260918080900 +0800" stop="20260918083900 +0800" channel="cctvlaogushi">
-    <title>特别节目《文艺名家讲故事》冯远</title>
+  <programme start="20260918080500 +0800" stop="20260918083900 +0800" channel="cctvlaogushi">
+    <title>纪录《西部往事》（三）</title>
   </programme>
   <programme start="20260918083900 +0800" stop="20260918084900 +0800" channel="cctvlaogushi">
-    <title>品质中国《岩茶“敲钟人”》</title>
+    <title>品质中国《科技的温度》</title>
   </programme>
   <programme start="20260918084900 +0800" stop="20260918090100 +0800" channel="cctvlaogushi">
-    <title>品质中国《驭风而行创造可见》</title>
+    <title>品质中国《人生这堂课》（上）</title>
   </programme>
-  <programme start="20260918090100 +0800" stop="20260918093400 +0800" channel="cctvlaogushi">
-    <title>亲历《大武汉》（三）</title>
+  <programme start="20260918090100 +0800" stop="20260918093100 +0800" channel="cctvlaogushi">
+    <title>亲历《百年家族之卢氏家族》（四）</title>
   </programme>
-  <programme start="20260918093400 +0800" stop="20260918094400 +0800" channel="cctvlaogushi">
-    <title>信用中国《顾弋峰》</title>
+  <programme start="20260918093100 +0800" stop="20260918094100 +0800" channel="cctvlaogushi">
+    <title>信用中国《韩民》</title>
   </programme>
-  <programme start="20260918094400 +0800" stop="20260918095400 +0800" channel="cctvlaogushi">
-    <title>信用中国《余志刚》</title>
+  <programme start="20260918094100 +0800" stop="20260918095200 +0800" channel="cctvlaogushi">
+    <title>信用中国《张真谕》</title>
   </programme>
-  <programme start="20260918095400 +0800" stop="20260918100500 +0800" channel="cctvlaogushi">
-    <title>匠心之路《数字新征程》</title>
+  <programme start="20260918095200 +0800" stop="20260918100100 +0800" channel="cctvlaogushi">
+    <title>匠心之路《让生命的呼应更快一步》</title>
   </programme>
-  <programme start="20260918100500 +0800" stop="20260918101500 +0800" channel="cctvlaogushi">
-    <title>开拓者《当数据有了温度》</title>
+  <programme start="20260918100100 +0800" stop="20260918102100 +0800" channel="cctvlaogushi">
+    <title>中华文明《唐代服饰》《潍坊风筝》《远古陶文》</title>
   </programme>
-  <programme start="20260918101500 +0800" stop="20260918110000 +0800" channel="cctvlaogushi">
-    <title>往事钩沉《北洋水师》（四）</title>
+  <programme start="20260918102100 +0800" stop="20260918111200 +0800" channel="cctvlaogushi">
+    <title>中国史话《西周东周》</title>
   </programme>
-  <programme start="20260918110000 +0800" stop="20260918113100 +0800" channel="cctvlaogushi">
-    <title>特别节目《文艺名家讲故事》赵大鸣</title>
+  <programme start="20260918111200 +0800" stop="20260918114600 +0800" channel="cctvlaogushi">
+    <title>纪录《西部往事》（四）</title>
   </programme>
-  <programme start="20260918113100 +0800" stop="20260918114600 +0800" channel="cctvlaogushi">
-    <title>见解《千年花布百年匠心》</title>
+  <programme start="20260918114600 +0800" stop="20260918115400 +0800" channel="cctvlaogushi">
+    <title>特别节目《百团大战振奋全国抗战的信心》</title>
   </programme>
-  <programme start="20260918114600 +0800" stop="20260918120000 +0800" channel="cctvlaogushi">
-    <title>国货品牌《生生不息的“金黄”》</title>
+  <programme start="20260918115400 +0800" stop="20260918120000 +0800" channel="cctvlaogushi">
+    <title>特别节目《在影像里重逢》（四十九）</title>
   </programme>
   <programme start="20260918120000 +0800" stop="20260918123000 +0800" channel="cctvlaogushi">
-    <title>特别节目《庐山人文圣山》（一）</title>
+    <title>特别节目《文艺名家讲故事》廖昌永</title>
   </programme>
   <programme start="20260918123000 +0800" stop="20260918130100 +0800" channel="cctvlaogushi">
-    <title>特别节目《井陉煤矿百年风云》（二）</title>
+    <title>特别节目《庐山人文圣山》（七）</title>
   </programme>
-  <programme start="20260918130100 +0800" stop="20260918133000 +0800" channel="cctvlaogushi">
-    <title>亲历《大武汉》（二）</title>
+  <programme start="20260918130100 +0800" stop="20260918133400 +0800" channel="cctvlaogushi">
+    <title>亲历《百年家族之卢氏家族》（三）</title>
   </programme>
-  <programme start="20260918133000 +0800" stop="20260918134200 +0800" channel="cctvlaogushi">
-    <title>信用中国《施克炜》</title>
+  <programme start="20260918133400 +0800" stop="20260918134900 +0800" channel="cctvlaogushi">
+    <title>信用中国《张峰》</title>
   </programme>
-  <programme start="20260918134200 +0800" stop="20260918135300 +0800" channel="cctvlaogushi">
-    <title>信用中国《张晨睿》</title>
+  <programme start="20260918134900 +0800" stop="20260918140300 +0800" channel="cctvlaogushi">
+    <title>信用中国《范军飞》</title>
   </programme>
-  <programme start="20260918135300 +0800" stop="20260918140500 +0800" channel="cctvlaogushi">
-    <title>攀登者《仁心匠韵》</title>
+  <programme start="20260918140300 +0800" stop="20260918141400 +0800" channel="cctvlaogushi">
+    <title>攀登者《教育的守望》</title>
   </programme>
-  <programme start="20260918140500 +0800" stop="20260918142000 +0800" channel="cctvlaogushi">
-    <title>开拓者《管理的“译码者”》</title>
+  <programme start="20260918141400 +0800" stop="20260918150500 +0800" channel="cctvlaogushi">
+    <title>中国史话《三星堆文化》</title>
   </programme>
-  <programme start="20260918142000 +0800" stop="20260918150900 +0800" channel="cctvlaogushi">
-    <title>往事钩沉《北洋水师》（三）</title>
-  </programme>
-  <programme start="20260918150900 +0800" stop="20260918153900 +0800" channel="cctvlaogushi">
-    <title>特别节目《文艺名家讲故事》冯远</title>
+  <programme start="20260918150500 +0800" stop="20260918153900 +0800" channel="cctvlaogushi">
+    <title>纪录《西部往事》（三）</title>
   </programme>
   <programme start="20260918153900 +0800" stop="20260918154900 +0800" channel="cctvlaogushi">
-    <title>品质中国《岩茶“敲钟人”》</title>
+    <title>品质中国《科技的温度》</title>
   </programme>
-  <programme start="20260918154900 +0800" stop="20260918160400 +0800" channel="cctvlaogushi">
-    <title>品质中国《驭风而行创造可见》</title>
+  <programme start="20260918154900 +0800" stop="20260918160500 +0800" channel="cctvlaogushi">
+    <title>品质中国《人生这堂课》（上）</title>
   </programme>
-  <programme start="20260918160400 +0800" stop="20260918161900 +0800" channel="cctvlaogushi">
-    <title>品质中国《国产技术筑数字安全根基》</title>
+  <programme start="20260918160500 +0800" stop="20260918161900 +0800" channel="cctvlaogushi">
+    <title>品质中国《人生这堂课》（下）</title>
   </programme>
   <programme start="20260918161900 +0800" stop="20260918170100 +0800" channel="cctvlaogushi">
-    <title>纪录中国《如此热爱》《追逐日月星辰》《司马相如》（一）</title>
+    <title>纪录中国《小小的石头》《锦绣芳华广绣》《司马相如》（二）</title>
   </programme>
-  <programme start="20260918170100 +0800" stop="20260918173400 +0800" channel="cctvlaogushi">
-    <title>亲历《大武汉》（三）</title>
+  <programme start="20260918170100 +0800" stop="20260918173100 +0800" channel="cctvlaogushi">
+    <title>亲历《百年家族之卢氏家族》（四）</title>
   </programme>
-  <programme start="20260918173400 +0800" stop="20260918174400 +0800" channel="cctvlaogushi">
-    <title>信用中国《顾弋峰》</title>
+  <programme start="20260918173100 +0800" stop="20260918174100 +0800" channel="cctvlaogushi">
+    <title>信用中国《韩民》</title>
   </programme>
-  <programme start="20260918174400 +0800" stop="20260918175400 +0800" channel="cctvlaogushi">
-    <title>信用中国《余志刚》</title>
+  <programme start="20260918174100 +0800" stop="20260918175200 +0800" channel="cctvlaogushi">
+    <title>信用中国《张真谕》</title>
   </programme>
-  <programme start="20260918175400 +0800" stop="20260918180500 +0800" channel="cctvlaogushi">
-    <title>匠心之路《数字新征程》</title>
+  <programme start="20260918175200 +0800" stop="20260918180100 +0800" channel="cctvlaogushi">
+    <title>匠心之路《让生命的呼应更快一步》</title>
   </programme>
-  <programme start="20260918180500 +0800" stop="20260918181500 +0800" channel="cctvlaogushi">
-    <title>开拓者《当数据有了温度》</title>
+  <programme start="20260918180100 +0800" stop="20260918182100 +0800" channel="cctvlaogushi">
+    <title>中华文明《唐代服饰》《潍坊风筝》《远古陶文》</title>
   </programme>
-  <programme start="20260918181500 +0800" stop="20260918190000 +0800" channel="cctvlaogushi">
-    <title>往事钩沉《北洋水师》（四）</title>
+  <programme start="20260918182100 +0800" stop="20260918191200 +0800" channel="cctvlaogushi">
+    <title>中国史话《西周东周》</title>
   </programme>
-  <programme start="20260918190000 +0800" stop="20260918193100 +0800" channel="cctvlaogushi">
-    <title>特别节目《文艺名家讲故事》赵大鸣</title>
+  <programme start="20260918191200 +0800" stop="20260918194600 +0800" channel="cctvlaogushi">
+    <title>纪录《西部往事》（四）</title>
   </programme>
-  <programme start="20260918193100 +0800" stop="20260918194600 +0800" channel="cctvlaogushi">
-    <title>见解《千年花布百年匠心》</title>
+  <programme start="20260918194600 +0800" stop="20260918195400 +0800" channel="cctvlaogushi">
+    <title>特别节目《百团大战振奋全国抗战的信心》</title>
   </programme>
-  <programme start="20260918194600 +0800" stop="20260918200000 +0800" channel="cctvlaogushi">
-    <title>国货品牌《生生不息的“金黄”》</title>
+  <programme start="20260918195400 +0800" stop="20260918200000 +0800" channel="cctvlaogushi">
+    <title>特别节目《在影像里重逢》（四十九）</title>
   </programme>
   <programme start="20260918200000 +0800" stop="20260918203000 +0800" channel="cctvlaogushi">
-    <title>特别节目《庐山人文圣山》（一）</title>
+    <title>特别节目《文艺名家讲故事》廖昌永</title>
   </programme>
   <programme start="20260918203000 +0800" stop="20260918210100 +0800" channel="cctvlaogushi">
-    <title>特别节目《井陉煤矿百年风云》（二）</title>
+    <title>特别节目《庐山人文圣山》（七）</title>
   </programme>
-  <programme start="20260918210100 +0800" stop="20260918213000 +0800" channel="cctvlaogushi">
-    <title>亲历《大武汉》（二）</title>
+  <programme start="20260918210100 +0800" stop="20260918213400 +0800" channel="cctvlaogushi">
+    <title>亲历《百年家族之卢氏家族》（三）</title>
   </programme>
-  <programme start="20260918213000 +0800" stop="20260918214200 +0800" channel="cctvlaogushi">
-    <title>信用中国《施克炜》</title>
+  <programme start="20260918213400 +0800" stop="20260918214900 +0800" channel="cctvlaogushi">
+    <title>信用中国《张峰》</title>
   </programme>
-  <programme start="20260918214200 +0800" stop="20260918215300 +0800" channel="cctvlaogushi">
-    <title>信用中国《张晨睿》</title>
+  <programme start="20260918214900 +0800" stop="20260918220300 +0800" channel="cctvlaogushi">
+    <title>信用中国《范军飞》</title>
   </programme>
-  <programme start="20260918215300 +0800" stop="20260918220500 +0800" channel="cctvlaogushi">
-    <title>攀登者《仁心匠韵》</title>
+  <programme start="20260918220300 +0800" stop="20260918221400 +0800" channel="cctvlaogushi">
+    <title>攀登者《教育的守望》</title>
   </programme>
-  <programme start="20260918220500 +0800" stop="20260918222000 +0800" channel="cctvlaogushi">
-    <title>开拓者《管理的“译码者”》</title>
+  <programme start="20260918221400 +0800" stop="20260918230500 +0800" channel="cctvlaogushi">
+    <title>中国史话《三星堆文化》</title>
   </programme>
-  <programme start="20260918222000 +0800" stop="20260918230900 +0800" channel="cctvlaogushi">
-    <title>往事钩沉《北洋水师》（三）</title>
-  </programme>
-  <programme start="20260918230900 +0800" stop="20260918233900 +0800" channel="cctvlaogushi">
-    <title>特别节目《文艺名家讲故事》冯远</title>
+  <programme start="20260918230500 +0800" stop="20260918233900 +0800" channel="cctvlaogushi">
+    <title>纪录《西部往事》（三）</title>
   </programme>
   <programme start="20260918233900 +0800" stop="20260918234900 +0800" channel="cctvlaogushi">
-    <title>品质中国《岩茶“敲钟人”》</title>
+    <title>品质中国《科技的温度》</title>
   </programme>
   <programme start="20260918234900 +0800" stop="20260918235900 +0800" channel="cctvlaogushi">
-    <title>品质中国《驭风而行创造可见》</title>
+    <title>品质中国《人生这堂课》（上）</title>
   </programme>
-  <programme start="20260919000400 +0800" stop="20260919001900 +0800" channel="cctvlaogushi">
-    <title>品质中国《国产技术筑数字安全根基》</title>
+  <programme start="20260919000000 +0800" stop="20260919003000 +0800" channel="cctvlaogushi">
+    <title>特别节目《文艺名家讲故事》廖昌永</title>
   </programme>
-  <programme start="20260919001900 +0800" stop="20260919060100 +0800" channel="cctvlaogushi">
-    <title>纪录中国《如此热爱》《追逐日月星辰》《司马相如》（一）</title>
+  <programme start="20260919003000 +0800" stop="20260919005400 +0800" channel="cctvlaogushi">
+    <title>特别节目《庐山人文圣山》（七）</title>
   </programme>
-  <programme start="20260919060100 +0800" stop="20260919063400 +0800" channel="cctvlaogushi">
-    <title>亲历《大武汉》（三）</title>
+  <programme start="20260919005400 +0800" stop="20260919060100 +0800" channel="cctvlaogushi">
+    <title>特别节目《在影像里重逢》（四十九）</title>
   </programme>
-  <programme start="20260919063400 +0800" stop="20260919064400 +0800" channel="cctvlaogushi">
-    <title>信用中国《顾弋峰》</title>
+  <programme start="20260919060100 +0800" stop="20260919063100 +0800" channel="cctvlaogushi">
+    <title>亲历《百年家族之卢氏家族》（四）</title>
   </programme>
-  <programme start="20260919064400 +0800" stop="20260919065400 +0800" channel="cctvlaogushi">
-    <title>信用中国《余志刚》</title>
+  <programme start="20260919063100 +0800" stop="20260919064100 +0800" channel="cctvlaogushi">
+    <title>信用中国《韩民》</title>
   </programme>
-  <programme start="20260919065400 +0800" stop="20260919070500 +0800" channel="cctvlaogushi">
-    <title>匠心之路《数字新征程》</title>
+  <programme start="20260919064100 +0800" stop="20260919065200 +0800" channel="cctvlaogushi">
+    <title>信用中国《张真谕》</title>
   </programme>
-  <programme start="20260919070500 +0800" stop="20260919071500 +0800" channel="cctvlaogushi">
-    <title>开拓者《当数据有了温度》</title>
+  <programme start="20260919065200 +0800" stop="20260919070100 +0800" channel="cctvlaogushi">
+    <title>匠心之路《让生命的呼应更快一步》</title>
   </programme>
-  <programme start="20260919071500 +0800" stop="20260919080000 +0800" channel="cctvlaogushi">
-    <title>往事钩沉《北洋水师》（四）</title>
+  <programme start="20260919070100 +0800" stop="20260919072100 +0800" channel="cctvlaogushi">
+    <title>中华文明《唐代服饰》《潍坊风筝》《远古陶文》</title>
   </programme>
-  <programme start="20260919080000 +0800" stop="20260919083100 +0800" channel="cctvlaogushi">
-    <title>特别节目《文艺名家讲故事》赵大鸣</title>
+  <programme start="20260919072100 +0800" stop="20260919081200 +0800" channel="cctvlaogushi">
+    <title>中国史话《西周东周》</title>
   </programme>
-  <programme start="20260919083100 +0800" stop="20260919084600 +0800" channel="cctvlaogushi">
-    <title>见解《千年花布百年匠心》</title>
+  <programme start="20260919081200 +0800" stop="20260919084600 +0800" channel="cctvlaogushi">
+    <title>纪录《西部往事》（四）</title>
   </programme>
-  <programme start="20260919084600 +0800" stop="20260919090100 +0800" channel="cctvlaogushi">
-    <title>国货品牌《生生不息的“金黄”》</title>
+  <programme start="20260919084600 +0800" stop="20260919085400 +0800" channel="cctvlaogushi">
+    <title>特别节目《百团大战振奋全国抗战的信心》</title>
   </programme>
-  <programme start="20260919090100 +0800" stop="20260919092900 +0800" channel="cctvlaogushi">
-    <title>亲历《大武汉》（四）</title>
+  <programme start="20260919085400 +0800" stop="20260919090100 +0800" channel="cctvlaogushi">
+    <title>特别节目《在影像里重逢》（四十九）</title>
   </programme>
-  <programme start="20260919092900 +0800" stop="20260919094000 +0800" channel="cctvlaogushi">
-    <title>信用中国《李延超》</title>
+  <programme start="20260919090100 +0800" stop="20260919093000 +0800" channel="cctvlaogushi">
+    <title>亲历《百年饭店》（2）</title>
   </programme>
-  <programme start="20260919094000 +0800" stop="20260919095000 +0800" channel="cctvlaogushi">
-    <title>信用中国《杨世杰》</title>
+  <programme start="20260919093000 +0800" stop="20260919094200 +0800" channel="cctvlaogushi">
+    <title>信用中国《谢军英》</title>
   </programme>
-  <programme start="20260919095000 +0800" stop="20260919100500 +0800" channel="cctvlaogushi">
-    <title>攀登者《以坚持赴远方》</title>
+  <programme start="20260919094200 +0800" stop="20260919095300 +0800" channel="cctvlaogushi">
+    <title>信用中国《章国锋》</title>
   </programme>
-  <programme start="20260919100500 +0800" stop="20260919105400 +0800" channel="cctvlaogushi">
-    <title>往事钩沉《北洋水师》（五）</title>
+  <programme start="20260919095300 +0800" stop="20260919104100 +0800" channel="cctvlaogushi">
+    <title>中国史话《春秋战国》</title>
   </programme>
-  <programme start="20260919105400 +0800" stop="20260919112800 +0800" channel="cctvlaogushi">
-    <title>特别节目《文艺名家讲故事》张建国</title>
+  <programme start="20260919104100 +0800" stop="20260919111600 +0800" channel="cctvlaogushi">
+    <title>纪录《西部往事》（五）</title>
   </programme>
-  <programme start="20260919112800 +0800" stop="20260919114300 +0800" channel="cctvlaogushi">
-    <title>科创中国《点“灰”成金》</title>
+  <programme start="20260919111600 +0800" stop="20260919115000 +0800" channel="cctvlaogushi">
+    <title>中国影像志《李宗仁1965》（一）</title>
   </programme>
-  <programme start="20260919114300 +0800" stop="20260919120000 +0800" channel="cctvlaogushi">
-    <title>实业兴邦强国路《扎根》</title>
+  <programme start="20260919115000 +0800" stop="20260919120000 +0800" channel="cctvlaogushi">
+    <title>实业兴邦强国路《匠心制造情系粮仓》</title>
   </programme>
-  <programme start="20260919120000 +0800" stop="20260919123100 +0800" channel="cctvlaogushi">
-    <title>特别节目《庐山人文圣山》（二）</title>
+  <programme start="20260919120000 +0800" stop="20260919123000 +0800" channel="cctvlaogushi">
+    <title>特别节目《文艺名家讲故事》关牧村</title>
   </programme>
-  <programme start="20260919123100 +0800" stop="20260919130100 +0800" channel="cctvlaogushi">
-    <title>特别节目《井陉煤矿百年风云》（三）</title>
+  <programme start="20260919123000 +0800" stop="20260919130100 +0800" channel="cctvlaogushi">
+    <title>特别节目《庐山人文圣山》（八）</title>
   </programme>
-  <programme start="20260919130100 +0800" stop="20260919133400 +0800" channel="cctvlaogushi">
-    <title>亲历《大武汉》（三）</title>
+  <programme start="20260919130100 +0800" stop="20260919133100 +0800" channel="cctvlaogushi">
+    <title>亲历《百年家族之卢氏家族》（四）</title>
   </programme>
-  <programme start="20260919133400 +0800" stop="20260919134400 +0800" channel="cctvlaogushi">
-    <title>信用中国《顾弋峰》</title>
+  <programme start="20260919133100 +0800" stop="20260919134100 +0800" channel="cctvlaogushi">
+    <title>信用中国《韩民》</title>
   </programme>
-  <programme start="20260919134400 +0800" stop="20260919135400 +0800" channel="cctvlaogushi">
-    <title>信用中国《余志刚》</title>
+  <programme start="20260919134100 +0800" stop="20260919135200 +0800" channel="cctvlaogushi">
+    <title>信用中国《张真谕》</title>
   </programme>
-  <programme start="20260919135400 +0800" stop="20260919140500 +0800" channel="cctvlaogushi">
-    <title>匠心之路《数字新征程》</title>
+  <programme start="20260919135200 +0800" stop="20260919140100 +0800" channel="cctvlaogushi">
+    <title>匠心之路《让生命的呼应更快一步》</title>
   </programme>
-  <programme start="20260919140500 +0800" stop="20260919141500 +0800" channel="cctvlaogushi">
-    <title>开拓者《当数据有了温度》</title>
+  <programme start="20260919140100 +0800" stop="20260919142100 +0800" channel="cctvlaogushi">
+    <title>中华文明《唐代服饰》《潍坊风筝》《远古陶文》</title>
   </programme>
-  <programme start="20260919141500 +0800" stop="20260919150000 +0800" channel="cctvlaogushi">
-    <title>往事钩沉《北洋水师》（四）</title>
+  <programme start="20260919142100 +0800" stop="20260919151200 +0800" channel="cctvlaogushi">
+    <title>中国史话《西周东周》</title>
   </programme>
-  <programme start="20260919150000 +0800" stop="20260919153100 +0800" channel="cctvlaogushi">
-    <title>特别节目《文艺名家讲故事》赵大鸣</title>
-  </programme>
-  <programme start="20260919153100 +0800" stop="20260919154600 +0800" channel="cctvlaogushi">
-    <title>见解《千年花布百年匠心》</title>
+  <programme start="20260919151200 +0800" stop="20260919154600 +0800" channel="cctvlaogushi">
+    <title>纪录《西部往事》（四）</title>
   </programme>
   <programme start="20260919154600 +0800" stop="20260919160000 +0800" channel="cctvlaogushi">
-    <title>国货品牌《生生不息的“金黄”》</title>
+    <title>特别节目《百团大战振奋全国抗战的信心》</title>
   </programme>
   <programme start="20260919160000 +0800" stop="20260919163000 +0800" channel="cctvlaogushi">
-    <title>特别节目《庐山人文圣山》（一）</title>
+    <title>特别节目《文艺名家讲故事》廖昌永</title>
   </programme>
-  <programme start="20260919163000 +0800" stop="20260919170100 +0800" channel="cctvlaogushi">
-    <title>特别节目《井陉煤矿百年风云》（二）</title>
+  <programme start="20260919163000 +0800" stop="20260919165400 +0800" channel="cctvlaogushi">
+    <title>特别节目《庐山人文圣山》（七）</title>
   </programme>
-  <programme start="20260919170100 +0800" stop="20260919172900 +0800" channel="cctvlaogushi">
-    <title>亲历《大武汉》（四）</title>
+  <programme start="20260919165400 +0800" stop="20260919170100 +0800" channel="cctvlaogushi">
+    <title>特别节目《在影像里重逢》（四十九）</title>
   </programme>
-  <programme start="20260919172900 +0800" stop="20260919174000 +0800" channel="cctvlaogushi">
-    <title>信用中国《李延超》</title>
+  <programme start="20260919170100 +0800" stop="20260919173000 +0800" channel="cctvlaogushi">
+    <title>亲历《百年饭店》（2）</title>
   </programme>
-  <programme start="20260919174000 +0800" stop="20260919175000 +0800" channel="cctvlaogushi">
-    <title>信用中国《杨世杰》</title>
+  <programme start="20260919173000 +0800" stop="20260919174200 +0800" channel="cctvlaogushi">
+    <title>信用中国《谢军英》</title>
   </programme>
-  <programme start="20260919175000 +0800" stop="20260919180500 +0800" channel="cctvlaogushi">
-    <title>攀登者《以坚持赴远方》</title>
+  <programme start="20260919174200 +0800" stop="20260919175300 +0800" channel="cctvlaogushi">
+    <title>信用中国《章国锋》</title>
   </programme>
-  <programme start="20260919180500 +0800" stop="20260919185400 +0800" channel="cctvlaogushi">
-    <title>往事钩沉《北洋水师》（五）</title>
+  <programme start="20260919175300 +0800" stop="20260919184100 +0800" channel="cctvlaogushi">
+    <title>中国史话《春秋战国》</title>
   </programme>
-  <programme start="20260919185400 +0800" stop="20260919192800 +0800" channel="cctvlaogushi">
-    <title>特别节目《文艺名家讲故事》张建国</title>
+  <programme start="20260919184100 +0800" stop="20260919191600 +0800" channel="cctvlaogushi">
+    <title>纪录《西部往事》（五）</title>
   </programme>
-  <programme start="20260919192800 +0800" stop="20260919194300 +0800" channel="cctvlaogushi">
-    <title>科创中国《点“灰”成金》</title>
+  <programme start="20260919191600 +0800" stop="20260919195000 +0800" channel="cctvlaogushi">
+    <title>中国影像志《李宗仁1965》（一）</title>
   </programme>
-  <programme start="20260919194300 +0800" stop="20260919200000 +0800" channel="cctvlaogushi">
-    <title>实业兴邦强国路《扎根》</title>
+  <programme start="20260919195000 +0800" stop="20260919200000 +0800" channel="cctvlaogushi">
+    <title>实业兴邦强国路《匠心制造情系粮仓》</title>
   </programme>
-  <programme start="20260919200000 +0800" stop="20260919203100 +0800" channel="cctvlaogushi">
-    <title>特别节目《庐山人文圣山》（二）</title>
+  <programme start="20260919200000 +0800" stop="20260919203000 +0800" channel="cctvlaogushi">
+    <title>特别节目《文艺名家讲故事》关牧村</title>
   </programme>
-  <programme start="20260919203100 +0800" stop="20260919210100 +0800" channel="cctvlaogushi">
-    <title>特别节目《井陉煤矿百年风云》（三）</title>
+  <programme start="20260919203000 +0800" stop="20260919210100 +0800" channel="cctvlaogushi">
+    <title>特别节目《庐山人文圣山》（八）</title>
   </programme>
-  <programme start="20260919210100 +0800" stop="20260919213400 +0800" channel="cctvlaogushi">
-    <title>亲历《大武汉》（三）</title>
+  <programme start="20260919210100 +0800" stop="20260919213100 +0800" channel="cctvlaogushi">
+    <title>亲历《百年家族之卢氏家族》（四）</title>
   </programme>
-  <programme start="20260919213400 +0800" stop="20260919214400 +0800" channel="cctvlaogushi">
-    <title>信用中国《顾弋峰》</title>
+  <programme start="20260919213100 +0800" stop="20260919214100 +0800" channel="cctvlaogushi">
+    <title>信用中国《韩民》</title>
   </programme>
-  <programme start="20260919214400 +0800" stop="20260919215400 +0800" channel="cctvlaogushi">
-    <title>信用中国《余志刚》</title>
+  <programme start="20260919214100 +0800" stop="20260919215200 +0800" channel="cctvlaogushi">
+    <title>信用中国《张真谕》</title>
   </programme>
-  <programme start="20260919215400 +0800" stop="20260919220500 +0800" channel="cctvlaogushi">
-    <title>匠心之路《数字新征程》</title>
+  <programme start="20260919215200 +0800" stop="20260919220100 +0800" channel="cctvlaogushi">
+    <title>匠心之路《让生命的呼应更快一步》</title>
   </programme>
-  <programme start="20260919220500 +0800" stop="20260919221500 +0800" channel="cctvlaogushi">
-    <title>开拓者《当数据有了温度》</title>
+  <programme start="20260919220100 +0800" stop="20260919222100 +0800" channel="cctvlaogushi">
+    <title>中华文明《唐代服饰》《潍坊风筝》《远古陶文》</title>
   </programme>
-  <programme start="20260919221500 +0800" stop="20260919230000 +0800" channel="cctvlaogushi">
-    <title>往事钩沉《北洋水师》（四）</title>
+  <programme start="20260919222100 +0800" stop="20260919231200 +0800" channel="cctvlaogushi">
+    <title>中国史话《西周东周》</title>
   </programme>
-  <programme start="20260919230000 +0800" stop="20260919233100 +0800" channel="cctvlaogushi">
-    <title>特别节目《文艺名家讲故事》赵大鸣</title>
-  </programme>
-  <programme start="20260919233100 +0800" stop="20260919234600 +0800" channel="cctvlaogushi">
-    <title>见解《千年花布百年匠心》</title>
+  <programme start="20260919231200 +0800" stop="20260919234600 +0800" channel="cctvlaogushi">
+    <title>纪录《西部往事》（四）</title>
   </programme>
   <programme start="20260919234600 +0800" stop="20260919235900 +0800" channel="cctvlaogushi">
-    <title>国货品牌《生生不息的“金黄”》</title>
+    <title>特别节目《百团大战振奋全国抗战的信心》</title>
   </programme>
   <programme start="20260920000000 +0800" stop="20260920003000 +0800" channel="cctvlaogushi">
-    <title>特别节目《庐山人文圣山》（一）</title>
+    <title>特别节目《文艺名家讲故事》关牧村</title>
   </programme>
   <programme start="20260920003000 +0800" stop="20260920060100 +0800" channel="cctvlaogushi">
-    <title>特别节目《井陉煤矿百年风云》（二）</title>
+    <title>特别节目《庐山人文圣山》（八）</title>
   </programme>
-  <programme start="20260920060100 +0800" stop="20260920062900 +0800" channel="cctvlaogushi">
-    <title>亲历《大武汉》（四）</title>
+  <programme start="20260920060100 +0800" stop="20260920063000 +0800" channel="cctvlaogushi">
+    <title>亲历《百年饭店》（2）</title>
   </programme>
-  <programme start="20260920062900 +0800" stop="20260920064000 +0800" channel="cctvlaogushi">
-    <title>信用中国《李延超》</title>
+  <programme start="20260920063000 +0800" stop="20260920064200 +0800" channel="cctvlaogushi">
+    <title>信用中国《谢军英》</title>
   </programme>
-  <programme start="20260920064000 +0800" stop="20260920065000 +0800" channel="cctvlaogushi">
-    <title>信用中国《杨世杰》</title>
+  <programme start="20260920064200 +0800" stop="20260920065300 +0800" channel="cctvlaogushi">
+    <title>信用中国《章国锋》</title>
   </programme>
-  <programme start="20260920065000 +0800" stop="20260920070500 +0800" channel="cctvlaogushi">
-    <title>攀登者《以坚持赴远方》</title>
+  <programme start="20260920065300 +0800" stop="20260920074100 +0800" channel="cctvlaogushi">
+    <title>中国史话《春秋战国》</title>
   </programme>
-  <programme start="20260920070500 +0800" stop="20260920075400 +0800" channel="cctvlaogushi">
-    <title>往事钩沉《北洋水师》（五）</title>
+  <programme start="20260920074100 +0800" stop="20260920081600 +0800" channel="cctvlaogushi">
+    <title>纪录《西部往事》（五）</title>
   </programme>
-  <programme start="20260920075400 +0800" stop="20260920082800 +0800" channel="cctvlaogushi">
-    <title>特别节目《文艺名家讲故事》张建国</title>
+  <programme start="20260920081600 +0800" stop="20260920085000 +0800" channel="cctvlaogushi">
+    <title>中国影像志《李宗仁1965》（一）</title>
   </programme>
-  <programme start="20260920082800 +0800" stop="20260920084300 +0800" channel="cctvlaogushi">
-    <title>科创中国《点“灰”成金》</title>
+  <programme start="20260920085000 +0800" stop="20260920090100 +0800" channel="cctvlaogushi">
+    <title>实业兴邦强国路《匠心制造情系粮仓》</title>
   </programme>
-  <programme start="20260920084300 +0800" stop="20260920090100 +0800" channel="cctvlaogushi">
-    <title>实业兴邦强国路《扎根》</title>
+  <programme start="20260920090100 +0800" stop="20260920093300 +0800" channel="cctvlaogushi">
+    <title>亲历《百年饭店》（3）</title>
   </programme>
-  <programme start="20260920090100 +0800" stop="20260920093000 +0800" channel="cctvlaogushi">
-    <title>亲历《大武汉》（五）</title>
+  <programme start="20260920093300 +0800" stop="20260920102400 +0800" channel="cctvlaogushi">
+    <title>中国史话《曾侯乙墓》</title>
   </programme>
-  <programme start="20260920093000 +0800" stop="20260920094200 +0800" channel="cctvlaogushi">
-    <title>攀登者《正义先行星火燎原》</title>
+  <programme start="20260920102400 +0800" stop="20260920105800 +0800" channel="cctvlaogushi">
+    <title>纪录《西部往事》（六）</title>
   </programme>
-  <programme start="20260920094200 +0800" stop="20260920103300 +0800" channel="cctvlaogushi">
-    <title>中国史话《寻找失落的年表》（一）</title>
+  <programme start="20260920105800 +0800" stop="20260920113000 +0800" channel="cctvlaogushi">
+    <title>中国影像志《李宗仁1965》（二）</title>
   </programme>
-  <programme start="20260920103300 +0800" stop="20260920111200 +0800" channel="cctvlaogushi">
-    <title>往事钩沉《照片背后的故事》（上）</title>
-  </programme>
-  <programme start="20260920111200 +0800" stop="20260920111900 +0800" channel="cctvlaogushi">
-    <title>特别节目《飞虎队与驼峰航线》</title>
-  </programme>
-  <programme start="20260920111900 +0800" stop="20260920114500 +0800" channel="cctvlaogushi">
-    <title>中华文明《高密剪纸》《临水人家》《龙窑》</title>
-  </programme>
-  <programme start="20260920114500 +0800" stop="20260920120000 +0800" channel="cctvlaogushi">
-    <title>非凡匠人《德匠标尺华夏匠心》</title>
+  <programme start="20260920113000 +0800" stop="20260920120000 +0800" channel="cctvlaogushi">
+    <title>老地方《兵马司九号》</title>
   </programme>
   <programme start="20260920120000 +0800" stop="20260920123000 +0800" channel="cctvlaogushi">
-    <title>特别节目《庐山人文圣山》（三）</title>
+    <title>特别节目《文艺名家讲故事》谭孝曾</title>
   </programme>
   <programme start="20260920123000 +0800" stop="20260920130100 +0800" channel="cctvlaogushi">
-    <title>特别节目《井陉煤矿百年风云》（四）</title>
+    <title>特别节目《庐山人文圣山》（九）</title>
   </programme>
-  <programme start="20260920130100 +0800" stop="20260920132900 +0800" channel="cctvlaogushi">
-    <title>亲历《大武汉》（四）</title>
+  <programme start="20260920130100 +0800" stop="20260920133000 +0800" channel="cctvlaogushi">
+    <title>亲历《百年饭店》（2）</title>
   </programme>
-  <programme start="20260920132900 +0800" stop="20260920134000 +0800" channel="cctvlaogushi">
-    <title>信用中国《李延超》</title>
+  <programme start="20260920133000 +0800" stop="20260920134200 +0800" channel="cctvlaogushi">
+    <title>信用中国《谢军英》</title>
   </programme>
-  <programme start="20260920134000 +0800" stop="20260920135000 +0800" channel="cctvlaogushi">
-    <title>信用中国《杨世杰》</title>
+  <programme start="20260920134200 +0800" stop="20260920135300 +0800" channel="cctvlaogushi">
+    <title>信用中国《章国锋》</title>
   </programme>
-  <programme start="20260920135000 +0800" stop="20260920140500 +0800" channel="cctvlaogushi">
-    <title>攀登者《以坚持赴远方》</title>
+  <programme start="20260920135300 +0800" stop="20260920144100 +0800" channel="cctvlaogushi">
+    <title>中国史话《春秋战国》</title>
   </programme>
-  <programme start="20260920140500 +0800" stop="20260920145400 +0800" channel="cctvlaogushi">
-    <title>往事钩沉《北洋水师》（五）</title>
+  <programme start="20260920144100 +0800" stop="20260920151600 +0800" channel="cctvlaogushi">
+    <title>纪录《西部往事》（五）</title>
   </programme>
-  <programme start="20260920145400 +0800" stop="20260920152800 +0800" channel="cctvlaogushi">
-    <title>特别节目《文艺名家讲故事》张建国</title>
+  <programme start="20260920151600 +0800" stop="20260920155000 +0800" channel="cctvlaogushi">
+    <title>中国影像志《李宗仁1965》（一）</title>
   </programme>
-  <programme start="20260920152800 +0800" stop="20260920154300 +0800" channel="cctvlaogushi">
-    <title>科创中国《点“灰”成金》</title>
+  <programme start="20260920155000 +0800" stop="20260920160000 +0800" channel="cctvlaogushi">
+    <title>实业兴邦强国路《匠心制造情系粮仓》</title>
   </programme>
-  <programme start="20260920154300 +0800" stop="20260920160000 +0800" channel="cctvlaogushi">
-    <title>实业兴邦强国路《扎根》</title>
+  <programme start="20260920160000 +0800" stop="20260920163000 +0800" channel="cctvlaogushi">
+    <title>特别节目《文艺名家讲故事》关牧村</title>
   </programme>
-  <programme start="20260920160000 +0800" stop="20260920163100 +0800" channel="cctvlaogushi">
-    <title>特别节目《庐山人文圣山》（二）</title>
+  <programme start="20260920163000 +0800" stop="20260920170100 +0800" channel="cctvlaogushi">
+    <title>特别节目《庐山人文圣山》（八）</title>
   </programme>
-  <programme start="20260920163100 +0800" stop="20260920170100 +0800" channel="cctvlaogushi">
-    <title>特别节目《井陉煤矿百年风云》（三）</title>
+  <programme start="20260920170100 +0800" stop="20260920173300 +0800" channel="cctvlaogushi">
+    <title>亲历《百年饭店》（3）</title>
   </programme>
-  <programme start="20260920170100 +0800" stop="20260920173000 +0800" channel="cctvlaogushi">
-    <title>亲历《大武汉》（五）</title>
+  <programme start="20260920173300 +0800" stop="20260920182400 +0800" channel="cctvlaogushi">
+    <title>中国史话 《曾侯乙墓》</title>
   </programme>
-  <programme start="20260920173000 +0800" stop="20260920174200 +0800" channel="cctvlaogushi">
-    <title>攀登者《正义先行星火燎原》</title>
+  <programme start="20260920182400 +0800" stop="20260920185800 +0800" channel="cctvlaogushi">
+    <title>纪录《西部往事》（六）</title>
   </programme>
-  <programme start="20260920174200 +0800" stop="20260920183300 +0800" channel="cctvlaogushi">
-    <title>中国史话《寻找失落的年表》（一）</title>
+  <programme start="20260920185800 +0800" stop="20260920193000 +0800" channel="cctvlaogushi">
+    <title>中国影像志《李宗仁1965》（二）</title>
   </programme>
-  <programme start="20260920183300 +0800" stop="20260920191200 +0800" channel="cctvlaogushi">
-    <title>往事钩沉《照片背后的故事》（上）</title>
-  </programme>
-  <programme start="20260920191200 +0800" stop="20260920191900 +0800" channel="cctvlaogushi">
-    <title>特别节目《飞虎队与驼峰航线》</title>
-  </programme>
-  <programme start="20260920191900 +0800" stop="20260920194500 +0800" channel="cctvlaogushi">
-    <title>中华文明《高密剪纸》《临水人家》《龙窑》</title>
-  </programme>
-  <programme start="20260920194500 +0800" stop="20260920200000 +0800" channel="cctvlaogushi">
-    <title>非凡匠人《德匠标尺华夏匠心》</title>
+  <programme start="20260920193000 +0800" stop="20260920200000 +0800" channel="cctvlaogushi">
+    <title>老地方《兵马司九号》</title>
   </programme>
   <programme start="20260920200000 +0800" stop="20260920203000 +0800" channel="cctvlaogushi">
-    <title>特别节目《庐山人文圣山》（三）</title>
+    <title>特别节目《文艺名家讲故事》谭孝曾</title>
   </programme>
   <programme start="20260920203000 +0800" stop="20260920210100 +0800" channel="cctvlaogushi">
-    <title>特别节目《井陉煤矿百年风云》（四）</title>
+    <title>特别节目《庐山人文圣山》（九）</title>
   </programme>
-  <programme start="20260920210100 +0800" stop="20260920212900 +0800" channel="cctvlaogushi">
-    <title>亲历《大武汉》（四）</title>
+  <programme start="20260920210100 +0800" stop="20260920213000 +0800" channel="cctvlaogushi">
+    <title>亲历《百年饭店》（2）</title>
   </programme>
-  <programme start="20260920212900 +0800" stop="20260920214000 +0800" channel="cctvlaogushi">
-    <title>信用中国《李延超》</title>
+  <programme start="20260920213000 +0800" stop="20260920214200 +0800" channel="cctvlaogushi">
+    <title>信用中国《谢军英》</title>
   </programme>
-  <programme start="20260920214000 +0800" stop="20260920215000 +0800" channel="cctvlaogushi">
-    <title>信用中国《杨世杰》</title>
+  <programme start="20260920214200 +0800" stop="20260920215300 +0800" channel="cctvlaogushi">
+    <title>信用中国《章国锋》</title>
   </programme>
-  <programme start="20260920215000 +0800" stop="20260920220500 +0800" channel="cctvlaogushi">
-    <title>攀登者《以坚持赴远方》</title>
+  <programme start="20260920215300 +0800" stop="20260920224100 +0800" channel="cctvlaogushi">
+    <title>中国史话《春秋战国》</title>
   </programme>
-  <programme start="20260920220500 +0800" stop="20260920225400 +0800" channel="cctvlaogushi">
-    <title>往事钩沉《北洋水师》（五）</title>
+  <programme start="20260920224100 +0800" stop="20260920231600 +0800" channel="cctvlaogushi">
+    <title>纪录《西部往事》（五）</title>
   </programme>
-  <programme start="20260920225400 +0800" stop="20260920232800 +0800" channel="cctvlaogushi">
-    <title>特别节目《文艺名家讲故事》张建国</title>
+  <programme start="20260920231600 +0800" stop="20260920235000 +0800" channel="cctvlaogushi">
+    <title>中国影像志《李宗仁1965》（一）</title>
   </programme>
-  <programme start="20260920232800 +0800" stop="20260920234300 +0800" channel="cctvlaogushi">
-    <title>科创中国《点“灰”成金》</title>
-  </programme>
-  <programme start="20260920234300 +0800" stop="20260920235900 +0800" channel="cctvlaogushi">
-    <title>实业兴邦强国路《扎根》</title>
+  <programme start="20260920235000 +0800" stop="20260920235900 +0800" channel="cctvlaogushi">
+    <title>实业兴邦强国路《匠心制造情系粮仓》</title>
   </programme>
   <programme start="20260921000000 +0800" stop="20260921003100 +0800" channel="cctvlaogushi">
     <title>特别节目《庐山人文圣山》（二）</title>
